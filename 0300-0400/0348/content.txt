@@ -1,0 +1,2001 @@
+[Dutch]
+
+Daniel Heinsius: Herodes infanticida. Leiden, 1632.
+Uitgegeven door dr. A.J.E. Harmsen, Universiteit Leiden.
+Ceneton035350  UBGent: G 7067  books.google
+In deze uitgave zijn evidente zetfouten gecorrigeerd en gemarkeerd met een
+asterisk.
+
+
+                     Continue
+
+[fol. A1r, p. 1]
+
+
+              DANIELIS HEINSII
+
+                   HERODES
+
+                INFANTICIDA,
+
+                 Tragoedia.
+
+             [Vignet: Non solus]
+
+              LUGD. BATAVORUM,
+          ex Officinâ ELZEVIRIANA.
+              ________________
+
+                M D C XXXII.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. A1v, p. 2: blanco]
+[fol. A2r, p. 3]
+
+
+       Nobilissimo Amplissimoque Viro
+
+                 CONSTANTINO
+
+                  HUGENIO,
+
+
+     Equiti, Zuylichemi Domino, Principi
+       Aurasio à Consiliis & Secretis
+
+                    S. D.
+
+               DANIEL HEINSIUS
+
+DUM majora inter mea quaero, quae praeclaro tuo nomini
+inscribam, forte in hoc drama incidi, quod aliquamdiu
+pressi. Neque tu ignoras, quanti hoc scribendi genus
+fecerint antiqui: qui, nec sapientiam nec eloquentiam
+majoris aestimarunt, quam quae, ut [fol. A2v, p. 4]
+matronae hodie, cothurno nixae, formam suam
+commendaret. In qua recte ornanda ac constituenda,
+totum prope ingenium divinus Aristoteles intendit.
+Velis nolis, onus ipse imposuisti tibi, quod ferendum
+erit; cum existimationis tuae atque aeternitatis primae
+tyrocinium, Poëmatum tuorum dedicatione nobis
+commisisti. amico, ut antiquo, ita, quod hic primum
+arbitror, paterno. Viri, qui benevolentia inusitata,
+quicquid ipse aut esset, aut ab alio speraret,
+prolixissime in te contulit. Inprimis, disciplinas ac
+virtutem. ut hoc commeatu tutior, in aula ac Republica
+illustrem tibi locum vindicares. Me hic animus,
+erectus, [fol. A3r, p. 5] simplex, candidus, ad summum
+usque diem comitabitur. ambitionis ut contemptor, ita
+qui in vita moribusque, nihil excusandum hactenus
+admisit. in caeteris, eorum admirator, qui, more
+antiquorum, scribunt, ac ne illis quidem omnia
+condonant. Quod judicium exactae mentes sibi servant.
+non ut tanto ante genitos arrodant, fed ut sic
+proficiant, aut alios ad maxima invitent. Caetera, ut
+paucis semper data, ita obtrectione ac invidia non
+carent. Quam si merui, quod voto majus est, ne
+deprecari quidem possum. Nam si ideo postremi hominum
+existimandi sunt, qui serius nascuntur, ne naturam
+quidem absolvendam reor, quam, [fol. A3v, p. 6]
+novercam non meruimus, & tamen experimur. Non enim
+factionum hujus saeculi malignitate, sed ingenii ardore
+ac summorum aemulatione, sua cuique existimatio ac fama
+apud posteros tuenda. Fatum autem ac stipendium
+virtutis, obtrectationem dissimilium, qui animo demisso
+aut abjecto ferunt, nec sententia nec mente constant.
+Non profecto magis, quam qui umbram propriam gravantur,
+cum in sole incedant.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. A4r, p. 7]
+
+
+               ARGUMENTUM.
+
+HErodes Ascalonita, Antipatri filius, Idumaeus, templi
+restitutor, Rex immanis, post sublatum Aristobulum,
+uxoris fratrem, summum sacerdotem, senem Hyrcanum,
+ejusdem avum, Alexandram, ejus matrem, hanc ante, ipsam
+quoque ex suspicione Mariamnem conjugem, quam
+impotenter post obitum desideravit, ipsum denique
+Alexandrum atque Aristobulum, Mariamne genitos;
+impietati suae derelictus, uno scelere superiora
+excessit. Nato Dei filio, orbis Servatore, cujus
+natalem locumque sydus conspectum Magis nunciarat, cum
+è terris suis, pueri videndi gratia exciti, inscio
+tyranno, moniti in somno, rediissent, atque is
+nasciturum Belehemi Regem didicisset; in oppido atque
+agro bimulos mactari jussit. Filium è tribu Iuda natum,
+cum sororis Salomes marito, ex eadem nato, postremas
+immanissimi furoris victimas adjecit. Drama, rectum
+est, non involutum, sive πεπλεγμένον. quale unum tantum
+è Latinis omnibus nunc extat. In quo tamen περιπέτειαι
+nonnulae, quae non extra argumentum, & ab arte,
+petendae sunt.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. A4v, p. 8]
+
+OVID. II. TRISTIUM AD CAES. AUG.
+Omne genus scripti gravitate Tragoedia vincit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PLUTARCHUS LIB. Πότερον  Αθηναῖοι κατὰ
+πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι.
+[i.e.: Bellone an pace clarior fuerunt Athenienses].
+[Griekse tekst]
+
+[HeinsiusHerodes1632p08a]
+
+SI enim rationes ineantur, quanti constiterint sin-
+gula Atheniensibus dramata; facile apparebit, plus
+in Tragoedias, Bacchas, Phoenissas, Oedipos, Medeaeque
+& Electrae mala, sumptuum fecisse, quam in bella, pro
+imperio & libertate adversus Barbaos gesta.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Idem LYCURGO ORAT.
+[Griekse tekst]
+
+[HeinsiusHerodes1632p08b]
+
+IDem inter caetera statuit, ut Aeschylo, Sophocli,
+Euripidi, aereae imagines ponerentur: eorumque
+Tragoediae descriptae in publico servarentur: vicissim-
+que à civitatis scriba legerentur; cum histriones non
+admîtteret.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. A5r, p. 9]
+[Griekse tekst]
+
+[HeinsiusHerodes1632p09]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. A5v, p. 10]
+
+
+         PERSONAE.
+
+ANGELUS, προλογίζων
+IOSEPHUS.
+MAGI TRES.
+ANGELI plures.
+HERODES.
+LEGATI.
+MARIAMNE, uxor Herodis.
+TISIPHONE, caeteris Furiis comitata.
+ANNA, Prophetis.
+SATELLITES.
+SENEX.
+MATRES BETHLEHEMITICA.
+NUNCIUS.
+MATRES HIEROSOLYMITANAE.
+Chori duo primi, Vatum ac Piorum,
+    tertius Senum Hebraeorum, quartus Mi-
+    litum Romanorum.
+
+                     Continue
+
+[fol. A6r, p. 11]
+
+
+       ACTUS PRIMUS.
+
+         ANGELUS.
+
+HIc Betlehemi tecta surgentis jacent,
+Parvaeque turres; aula nascentis Dei
+Et prima nutrix. hic Idumaeae soror,
+Miraculorum mater & regum parens,
+(5) Iudaea tellus, claudit extremum latus.
+Ubi sceptra quondam Rex Iessaeus tulit,
+Victasque gentes traxit, & belli potens
+Diu vacantem voce distinxit chelyn.
+Hic Goliathus, stirpe Titanum editus,
+(10) Solum cruentus stravit, imbelli manu,
+Victique in uno mille cesserunt viri.
+Illic Orebi prima discedunt juga,
+Tellusque surgit, carminis sacri memor:
+Cum rector orbis jura dictavit suae
+(15) Bis quinque genti: solaque adventum Dei
+Testata, sacram flamma distinxit viam.
+Huc ipse quondam legifer venit Deus;
+Nomen pavendum, nec satis notum suis:
+Quod lingua trepidat victa, mens horret loqui.
+(20) Quem fulgurum vis densa, quem coeli tuba,
+[fol. A6v, p. 12]
+Immane tonitru cinxit, ac visu abstulit,
+Et intuendum sola majestas dedit.
+At illa, duris mancipata e vinculis
+Phari superbae, patrium flexit Deum,
+(25) Arasque multus rite perfudit cruor.
+Mox vindicata, vota damnavit sua,
+Fecitque Divos: dumque partitur scelus,
+Mens à parente tota deflexit suo.
+Qualis puellae virginis primus pudor,
+(30) Quam lege thalami casta devinxit parens
+Lachrymisque multis: illa, taedarum memor,
+Purum cubile servat, & legem thori,
+Parvosque natos, conjugis votum sui
+Suumque, fida nutrit, ac nescit nefas:
+(35) Mox, si protervus incidit menti furor,
+Amare primum sponte dediscit virum;
+Tandem ardet alium tota, nec meminit sui.
+,, Inusitato crimini fecit viam
+,, Incertus error, foedaque ignorantia:
+,, (40) Diuque, multos inter & nullos Deos,
+,, Stetêre gentes. Vicit errorem metus,
+,, Mortaliumque mentibus fallax malum,
+,, Horror Deorum. prona successit fides,
+,, Audaxque quidvis tollere in coelum furor.
+(45) Tum templa & arae. quemque, non ingens humus,
+Non picta coeli tecta, non clausit mare,
+Traxêre in aedem, docta quam struxit manus,
+Fraudisque mater ars, & humanus labor.
+Nec sat furori est. quisque divisit suos,
+[fol. A7r, p. 13]
+(50) Et sacra mille, mille distinxit modos.
+Pars flammeum Titanis immensi caput,
+Pars astra mundo lapsa diverso colit.
+Illinc Gehinnae vallis, & dirum nefas,
+Quod Caucasi pruina, quod Taurus ferox
+(55) Totaque trepidus mente refugiat Scythes:
+Fremitus cruentos inter, & tristes modos,
+Stat abominandi conscius sacri pater.
+Natumque laetus spectat, & torret, suum.
+Hinc pisce Dagon junctus, hinc, duplex genus,
+(60) Immanis Asterotha, & infamis Peor,
+Et numen omne Belus, & Sors, omnium:
+Seu Gada, seu qua voce Sol ortus colit
+Septem vagantes additos vitae Duces.
+Hinc gens Canobi, prima fallaces sibi
+(65) Mentita Divos, Isidis luctum suae
+Et non repertum questibus fratrem sonat,
+Sistrumque tollit. illa, latrantes Deos,
+Et mugientes, mente percussâ vocat.
+Illic opertos Atthis inducit choros,
+(70) Sacrasque Eleusis jactat in flammam faces:
+Fidesque sceleri majas accedit scelus,
+Furor tacendi. Nec procul, qua turbidum
+Alto Citharon verticem miscet polo,
+Terramque pingui findit Ismenos vado,
+(75) Euan vagatur. semivir Panum chorus,
+Et insolentem Maenade cingunt Deum:
+Rotantque in auras deviae crinem nurus.
+Et nox pudori, crimini obtentus furor,
+[fol. A7v, p. 14]
+Impune mentem laxat, & suadet nefas.
+(80) At quà triforme Doris admittit salum,
+Quà fabulosum terra Typhoeum tegit,
+Supraque magnos Aetna flammarum globos
+Diu negata voluit in coelum via,
+Tentata Diti semita incusit metum,
+(85) Et rupta tellus. Sacra palantis Deae
+Taedasque matris Enna dotalis colit:
+Semperque natum quaerit, & semper gemit.
+Nihil relictum est. ebrios laudant Deos;
+Etiam furentes. omne per pronum it nefas.
+(90) Quodcunque lex coërcet aut damnat pudor,
+Virtus Deorum est. perfidi fulmen tenent
+Adulterique. sive sub pluma latet,
+Sive in juvenco mugit infelix pater,
+Fluitve in auro: sive sub sexu latet,
+(95) Virumque amator ponit, & mutat Deum.
+Quod quisque peccat, Graja gens coelo dedit,
+Colitque in arts. Roma suscepit nefas
+Misitque in omnes: velaque errori suo
+Pedemque laxat. Qua triumphatas videt
+(100) Sol ire gentes, & Quiriti limitem
+Unaque terris figit extremum mare,
+Ara sequuntur, templaque, & magni Dei
+Gentis Latinae. Sacra victoris sui,
+Unaque habenas, Barbarus discit puer.
+(105) Quà ferus Ister claudit errantes viros,
+Cultorque MithraTigris, & fluctu minor
+Inobsequentes voluit Euphrates aquas,
+[fol. A8r, p. 15]
+Pontisque Araxes immemor, terram premit;
+Ubique Roma est. illa, quos fecit Deos,
+(110) Indixit orbi. Jupiter coelum tenet,
+Neptunus undas, tertiam frater domum.
+Nihil relictum est. cuncta divisit furor.
+Terram, polumque, tergaque immensi maris
+Alter creavit rector, atque alter tenet.
+(115) Quem prisca lex fatetur & solum docet
+Iudaea, damnat. cui per aras victimae
+Cecidere toties, tot boum fibra litant,
+Cultus superbos tot sacerdos induit,
+Uterque cui consulta respondit lapis,
+(120) Nunc veritatis pervicax silentio;
+Egenus, inconsultus, ignotus jacet.
+Tellus parentem tota seclusit suum,
+Negatque latebras, parva nascentem domus,
+Nec tota, cepit. jacuit in lucem datus,
+(125) Totoque major orbe vagivit puer
+Inter juvencos. Ipsa paupertas suum
+Celare regem poterat, & corpus Deum.
+Nondum latemus. prodit infantem polus,
+Nec ante natum sydus, ingenti face
+(130) Parvum cubile lustrat, ac monstrat larem:
+Ducitque gentes, prima quas Pboebi coma
+Perfundit auro, laeta cum surgit dies:
+Suoque coelo credit adventum Dei
+Mirata Persis. major accessit fides;
+(135) Natum tyrannus credit, & lethum parat.
+Nec sic abibit crudus ac vecors furor.
+[fol. A8v, p. 16]
+Timete matres. vester hoc pendit cruor
+Sentit que venter. noster in tuto est metus.
+Iungantur irae: mille concurrant licet
+(140) Surgantque reges, usque ab Eoo mari,
+Suumque nobis Roma bellatrix neget,
+Quem frenat orbem: nulla pars mundi vacet;
+Succurret aether. fulmen in partes trahet,
+Tonitruque vires addet infanti suas
+(145) Ruptaeque nubes. Parva quin etiam loquor,
+Nec digna nobis. ipse succurret Pater,
+Unumque terra solvet, aut franget, latus:
+Fractoque mundo, tutius mundi simul
+Frangentur artes, & tyrannorum minae.
+(150) Aut, si latendum est, Phoebus obducet diem,
+Totaque nocte pignus involvet suum
+Priscumque rebus genitor indacet chaos.
+Non sic eundum est. parva succurret via,
+Puerumque condet. Memphis ereptum feret,
+(155) Fidumque matri pandet Aegyptus sinum.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+       CHORUS Vatum & Piorum.
+
+    Nile, foecundi Meroes beatae
+    Terminus regni, genitorque terrae,
+    Cujus arentes melius maritas
+    Imbribus campos, aliusque & idem
+    (160) Semper haud uni veniens colono;*
+    Sive, cum septemgeminus profundo
+    Immines ponto, totiesque lympham
+    Dividis, solo dubius colore;
+[fol. B1r, p. 17]
+    Sive, quà nulli bene visus unquam,
+    (165) Inter extremos Libyae recessus,
+    Abditus terris, veniente Phoebo,
+    Tutus occurris: nec adhuc repertos
+    Ulla gens orbi reseravit ortus.
+    Invident omnes. tibi sat latere est:
+    (170) Ne tuos quisquam, sibi vindicando,
+    Polluat fontes. meliusque mundi
+    Diceris flumen. Dominum fatetur
+    Memphis, & totas veneratur undas,
+    Prona currenti: recipitque fessum,
+    (175) Et tuos ripa reficit labores.
+    Talis abruptis Cataracta vinclis
+    Fregit instantem, quoties superbo
+    Invidet cursu. trepidans teneri
+    Surgit, &, montes imitata, coelum
+    (180) Verberat unda.
+    Intonant ripae: pavidus tueri
+    Diffugit pastor. Melior sed idem
+    Tangis Aegyptum, pluviaeque, genti,
+    Et superfusis imitator undis
+    (185) Aetheris magni, steriles liquore
+    Diluis terras; licet omne nubes
+    Nesciat coelum, licet imbre nullo
+    Tota damnetur regio, nec udis
+    Serviat Austris:
+    (190) Largior campis, neque ditis undae
+    Parcus, Aegypto venias precamur.
+    Sentiant glebae, neque sicca tellus
+[fol. B1v, p. 18]
+    Imbui pugnet, variisque vincat
+    Floribus annum.
+    (195) Rex, pavor Regum, comitique nato
+    Sub tuos Virgo comes it lacertos.
+    Cedat infelix, mala qui fatetur
+    Isidis raptae, patriumque turba
+    Plangit Osirin.
+    (200) Iam, sui monstrum populi Deusque,
+    Deserat sacras crocodilus undas:
+    Colla librata melius securi
+    Praebeat Apis.
+    Ille, dum motae furit Ascalonae
+    (205) Atra tempestas, & Idumus horror,
+    Pinus incertis ut abacta ventis,
+    Et procul portu trepidans relicto,
+    Fertur huc illuc. Quibus ah quibusque
+    Sedibus, saevum fugies cruorem,
+    (210) Et feros ausus? truculentus imber
+    Colligit nubes, & adhuc minatur.
+    Nox ruit terris. Abeas licebit,
+    Sive te Proteî Pharos, & Canobus
+    Abdet errantem, meliorve Memphis,
+    (215) Sive, quae magni Macetae superba
+    Voce, post terras pelago subactas,
+    Inclytas turres populo Quiriti
+    Et triumphandam patefecit aulam,
+    Sive qua Cancri medio sub aestu
+    (220) Gentibus nullae comitantur umbrae,
+    Nota montosae regio Syenae,
+[fol. B2r, p. 19]
+    Sive desertae Catabathmos orae,
+    Sive, quà Phoebo resonant propinquo
+    Memnonis chordae, celebratque portis
+    (225) Gens Iovis centum spatiosa latae
+    Moenia Thebae;
+    Spes & oppresso rediturus orbi
+    Dulce lenimen, nec inhospitali
+    Praeda tyranno.
+<
+
+                     Continue
+
+           ACTUS SECUNDUS.
+
+              IOSEPHUS.
+
+(230) COeli propago, debitum mundo genus,
+Sed ante mundum, cujus adventu, fidem
+Oraculorum magnus absolvit pater,
+Centumque vates, prisca quos aetas dedit,
+Hos in Penates, tectaque angusto specu
+(235) Habitata venit; gentis angusto memor,
+Pactique veteris, nulla quod solvet dtes:
+Totumque Olympum parva suscepit domus.
+Vidi, ipse vidi: mane vix primum novo
+Noctem fugarat nuncius Phoebi dies;
+(240) Cum subito, ab alto lapsa tempestas polo,
+Inusitato cuncta fulgore induit.
+Dum gelida torpent membra, dum sanguis coit,
+Vultumque tacitus figit in terram pavor;
+Allapsa tectis, hinc & hinc, fulsit cohors,
+(245) Partita turmis. qualis tn campo stetit,
+Evulsa primum signa cum poscunt manus,
+[fol. B2v, p. 20]
+Aut castra reges dubia solliciti movent.
+Adhuc stupemus. vota consumpsit sua
+Nondumque credit misera paupertas sibi,
+(250) Et haec senectus. Saepe vox perdit viam:
+Solaeque lachrymae mente perculsa fluunt.
+Sedet, parentem prima quae peperit suum,
+Puella mater, gentis aeternae decus,
+Oculosque, nunc huc pavida, nunc illuc, jacit.
+(255) Interque matrem, virginemque, haerent adhuc
+Suspensa mentis gaudia, & trepidus pudor.
+Videt micantes igne coelesti genas,
+Suique similes. quale, cum doctae manus
+Ostro recenti candidum illudunt ebur:
+(260) Aut qualis, ante tota quam surgit dics,
+Aurora primâ dividit coelum face,
+Tenuemque puraepurpuram nubes trahunt.
+Videt serenae frontis insuetum jubar,
+Majusque terris. Ille, complexum petens,
+(265) Et è pudico dulce subridens sinu,
+Matrem fatetur. Illa, non nollet quidem,
+Et, esse sentit. casta sed pietas tenet,
+Totiesque mentem sancta virginitas subit,
+Quoties amori vela permisit suo,
+(270) Natumque cernit. Saepe, cum blandas puer
+Aut à sopore languidas jactat manus,
+Tenerisque labris pectus intactum petit;
+Virginea subitus ora perfundit rubor,
+Laudemque matris, virginis crimen putat.
+(275) Quid, casta, trepidas? indue affectus tuos,
+[fol. B3r, p. 21]
+Totoque natum collige amplexu, parens;
+Sed nupta coelo: mater unius Dei,
+Et casta virgo, castior mater tamen.
+Non te lubido foeda, quae mentem rapit,
+(280) Amorque demens igne transfixit jecur:
+Non cultus auri, praedaque Eoi maris,
+Regale formae gemma corrupit decus,
+Quae cura primam semper aetatem tenet:
+Sed sanctus ardor, quaeque despectas negat
+(285) Exosa terras, corporis legem sequi,
+Mentem voluptas una pascebat tuam,
+Magnique vates: quos Iordanls vada
+Videre quondam numinis plenum sui
+Tonare carmen, & triumphales modos
+(290) Laetosque terris. qualis extremam Styga
+Venturus olim frangeret genti puer,
+Ingens, tremendus: plena quem coelo daret
+Coeli potentem, mater immunis tori.
+Sed ante cunctos, sanguinis nostri parens
+(295) Autorque generis, parva quem Bethle tulit,
+Bethle, juvencis apta pascendis humus,
+Pecorumque nutrix, grata nunc coelo domus,
+Seu, cum paternos inter erraret greges,
+Vixdum juventae flore perfusus genas,
+(300) Seu, cum, supremo dedicatam numini,
+Rector potenti flecteret terram manu,
+Et invidendo regibus victor comam
+Velaret auro, fata quod jungunt polo,
+Et natus infans; Regis adventum sui
+[fol. B3v, p. 22]
+(305) Spondebat orbi, regis afflatu sui.
+Haec mente tacita saepe voluentem prius
+Fixamque in uno, sancta pascebat quies.
+Quam, non Lyaei dona, non mitis Ceres,
+Altusque tota nocte delevit sopor,
+(310) Non spes diurnae: tota quin voti ac sui
+Praesens futuris cuncta versaret fides.
+Ignara tantum. fata quam coeli legant,
+Cui hoc Olympi rector addicat decus.
+lgnara: donec, sponsa, mox conjux poli,
+(315) Quae castitate virgines vicit, nurus,
+Et prole matres, gentibus patrem suis,
+Orbi salutem, regibus regem dedit;
+Foecunda toties unico foetu parens.
+Vidêre partum consciae coeli faces,
+(320) Non ante natae. perdidit noctem jubar,
+Et absque Phoebo noster illuxit dies.
+Vidêre gentes, littore Eoo procul
+Quos claudit orbis, Solis exortum sui,
+Unumque tellus tota conspexit larem,
+(325) Beata,casto collige infantem sinu,
+Dei tuumque. collige infantem, parens,
+Quem sentit aether, pallidae gentes pavent,
+Et vagientem regna terrarum tremunt.
+Quis gemitus aures pepulit infelix meas?
+(330) Rursum vocamur. Credimus, rerum parens,
+Et ominosa sufficit noctis fides.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. B4r, p. 23]
+
+
+             MAGI TRES,
+
+      PRIMUS, SECUNDUS,TERTIUS.
+
+PRIM. O vita fallax, fronte quam non aspera,
+Tot officinam cladium pectus tegis!
+Aspicere natum voluit, ut letho daret.
+,, SEC. (335) Non tot recessas abditos aether habet,
+,, Non inferi, non terra, non totum mare,
+,, Quot aula, quam deserta, vis recti fugit>
+,, lmpervia altis semper est, semper suis.
+,, Ut unda dubia voluit implicitas aquas,
+,, (340) Pedemque fallit secta ambiguum via,
+,, Sic, abrogato simplici vero ac fide,
+,, Ars ludit artem, fraude decipitur dolas,
+,, Primumque vetus est, si quid exoritur novum.
+,, Quid? quod cruento semper accedit comes
+,, (345) Obtector animus mentis, atque in se latens,
+,, Quantoque dirus ac magis caedi imminet,
+,, Hoc magis opertus mille in anfractus abit.
+,, Sic ossa volucres tecta nocturna legunt,
+,, Et in sepulchris foeda desaevit fames.
+,, (350) Excelsus, atque erectus, ac fidens sibi,
+,, In publicum diffusus, ut coelum, patet,
+,, Gaudetque retegi. Quantus Heroden fuit
+Eruere latebris numini aeterno labor;
+Quem, non iners caligo, non nox abdita,
+(355) Non pectorum profunda, non manes latent!
+TERT. Adstat superbus, bella qui coelo gerat,
+[fol. B4v, p. 24]
+Qui fata sistat, astra qui retro trahat,
+Et destinata sceptra. par dignum Deo!
+Quem saevientem, dira miscentem ac minas,
+(360) Regum imperator flectit è cunis puer.
+PRIM. Repetere patriae tecta, post visum larem,
+Cui totus aether jura submittit sua,
+Divinus acta nocte dictavit sopor.
+Ut fraudis autor, arte deceptus cadat,
+(365) Suique precium sceleris, elusus, ferat.
+SEC. Iuvat inter astra mente congesta vehi,
+Caedesque & iras fugere, & humanum nefas.
+TER. Sed ecce Regem coelitum monstrat cohors:
+Victumque somno mulcet, ac voluit manu.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ANGELI, in superiori theatri parte cunas
+  Domini ducunt, ac subinde monstrant.
+
+(370) Fulgor immensi parentis, lucis immensum jubar,
+Obses aetheris solique, pignm aeternum Dei,
+Cujus adventu subacta jus remittunt Tartara,
+Et minora jam trilinguis regna perlatrat canis.
+Quo jubente, nox recessit, & tenebrosum chaos,
+(375) Quo jubente, natus orbis, nata rerum exordia,
+Aridamque belluosus ambiit terram latex,
+Qui poli suspendit orbes aetheris magni faber;
+Languidum, jubente somno, sponte submittit caput,
+Et genis custodientis cuncta, subrepit sopor.
+(380) Coelitum pulchri Quirites, Regis aeterni cohors,
+Syderum distincta flammis qui tuemur limina,
+Hinc & hinc cunas jacentis ducimus somno dati.
+[fol. B5r, p. 25]
+Ecce tellus, ecce coelum, sospitatorem Deum:
+Quo jubentc, flamma sacrum Moseï tinxit pedem,
+(385) Nec virum repressa laesit, vimque submisit suam,
+Ecce, cui tribunal ignis jura dicianti dedit,
+Quo vehente per suprema nubium, tellus tremit,
+Sedibusque evulsa ab imis vasta subsidunt juga,
+Saeculis annisque major, temporum fons, se prior,
+(390) Agminum terrae polique ductor, armorum parens,
+Ecce qui pacem reducit, ecce, qui caducifer
+Foederis magni sacerdos, lapsa conjungit Deo,
+Natus infans, lac puellae ducit, ac serpit sinu,
+Et fuga, regnator orbis, munus orditur suum.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+         CHORUS Vatum & Piorum,
+                ut ante.
+
+(395) Bethlemi veteres exigui lares,
+Et tantum gregibus nota mapalia,
+Quis tantus superûm respiciat favor,
+Ignorant dubii, solliciti rogant,
+Quos Iudaea tenent oppida, quos solum,
+(400) Cedit progenies & genus Isaci.
+Cedit Roma tuis tota Penatibus,
+Terrarum dominis nota Quiritibus.
+Stet Tarpeia licet, culmine nobilis,
+Mundi quae pavidos arx premit impetus,
+(405) Tercentum spoliis inclyta gentium,
+Certent attonito templa licet polo,
+Captivisque opibus, quas tulit Occidens,
+Aut primo veniens Phoebus ab aethere,
+[fol. B5v, p. 26]
+Aut Seres patrio vellere divites,
+(410) Aut devictus Arabs, aut celebris fuga,
+Et versa melior Parthus arundine.
+Stet Caesar domito dives ab aquore,
+Et curru populos vectus eburneo
+Terrae conspiciat totius ac suos:
+(415) Ignoti superant. cedite, cedite,
+Hebraeis soboles orta parentibus,
+Invitis solium regibus occupat.
+Quis tam sollicito nascitur athere?
+Quem coelum loquitur? cui, male consciis
+(420) Antiquis praeiit syderibus, novum,
+Monstravitque viam genttbus ultimis?
+Exorto, pavidi constiterunt Magi,
+Et Mithram veterem dedidicit sequi
+Gens edocta polum: cum medio die
+(425) Nocturnum micuit, nec cecidit, jubar.
+Cessere excubiae pervigiles poli,
+Quaeque ut castra suis signa tenent locis.
+Mutato rediit nomine Lucifer,
+Et dici voluit, ne foret Hesperus.
+(430) Quin Phoebe, dubiis quae vehitur rotis,
+Tantum non proprio lumine discolor,
+Plenis tota licet fulserit ignibus,
+Fraternis abiit victa caloribus,
+Et Phoebo solitas exhibuit vices.
+(435) Titan, syderea purpureus coma,
+Armatum radtius exeruit caput,
+Et fecum vacuo vidit in aethere
+[fol. B6r, p. 27]
+Sydus stare novum. vidit, & horruit,
+Ac pene attonitum destituit diem.
+            (440) At vos niveae comites Lunae,
+            Proceres coelum spargere nati,
+            Nigrae soboles ignea noctis,
+            Qui foecundum voluitis annum,
+            Spatiisque aequas voluitis horas,
+            (445) Et modo, multo
+            Flore comantem spargitis herbam,
+            Et progeniem veris amoeni
+            Ferrugineum viola crinem,
+            Aut festivi munera Bacchi,
+            (450) Tempestivo spargitis imbre,
+            Modo torpentem glacie multa
+            Sistitis undam, cedite cuncti
+            Et jam victos pergite coelo
+            Condere vultus. aliud media
+            (455) Luce vagari
+            Palluit aether; tanto vestris
+            Clarius unum, quanto Regum
+            Maximus ille, qui subjecto
+            Natus in orbe
+(460) Sacris tacta ferit pectora motibus.
+Eventura patent. jam rapimur polo,
+Et quicquid tegitur, mens videt ignea.
+Non ille Ausonia spicula dextera,
+Nec pessum valido diriget impetu,
+(465) Aut vastis quatiens templa molaribus,
+Murorum tumidas disjiciet minas:
+[fol. B6v, p. 28]
+Aut qualis, populis cognitus omnibus,
+Et nuper Solymis cognitus arcibus,
+Obsessis aries imminet urbibus,
+(470) Aut ballista, ferox spargere cuspides,
+Et centum veniens exitium viris,
+Aut non innocuo vulnere scorpio,
+Lentus viperea seu perimit nece,
+Seu contorta rotat pondera vi gravi,
+(475) Et turres subito rumpit aheneas:
+Sed raucum tonitru, cum lubet, & minax
+Torquebit patrio fulmen ab aethere.
+Stat lentus tumidi spiritus Africi,
+Et torvus Boreas, stat domino Nothus:
+(480) Quo percussa maris terga satellite,
+Et raptas pelago disjiciet rates:
+Aut tranquilla reget syderibus freta;
+Fessis blanda ferens ocia navitis.
+Reges, sollicitum perpetuo genus,
+(485) Et regno pavidum, sed cupidum tamen;
+Nunc spes saltem avidas ponite, nunc metus.
+Non terrae, imperii finibus additae,
+Quantas nox operit, vel retegit dies,
+Non gentes domitae, pompaque nobilis,
+(490) Et protrita ducum turba minacium,
+Regnum dat miseris, regibus eripit.
+,, Regum solus erit maximus omnium,
+,, Quisquis Rege minor (nec fieri negat)
+,, Hebraeo, timidas subjiciet manus.
+
+                     Continue
+
+[fol. B7r, p. 29]
+
+
+             ACTUS TERTIUS.
+
+     HERODES, LEGATI, ad inquirendum
+             de puero missi.
+
+(495) EX quo superbâ sceptra gestavi manu,
+Parêre didici. nulla pars regni, malo,
+Metuque dubio. mulla pars curis vacat,
+Labore nulla. quodque dominanti, jugum,
+Et servitutem cuncta subigenti reor,
+(500) Post sanguinem ferrumque, post ipsum scelus
+Et odia pene exhausta, metuendi omnibus,
+Nondum timemur. Foemina imbellis vicem
+Regum tyrannos tulimus, & Romae minas.
+Successit Oriens. Somma, & coeli faces
+(505) Repente viae, quicquid & delira mens
+Persuadet, aut sollicita de Superis timet,
+Perusa longum sub peregrino jugum,
+Regem minantur: cujus imperio dies
+Ventura nullum, nulla gens ponat modum:
+(510) Qui sceptrum Olympo terminet. famam mari.
+Ea cura Superis restat, is versat labor:
+Arcana quorum solagens Iuda capit,
+Aut sola nescit: fata quae ponit suis.
+,, Divos tuetur plebs, & acceptos colit,
+,, (515) Arte imperantis. qui, nisi immodicam premit,
+,, Intraque metas lege praescripta tenet,
+,, Quod quisque mallet aut pavet, numen vocat,
+[fol. B7v, p. 30]
+,, Et imperantes arte subvertit sua.
+Submittat animos Roma, terrarum potens,
+(520) Et fascibus superba: det Caesar manus,
+Astrisque nostris cedat, ac mundum exuat,
+Si regna coelum parturit, regna eripit.
+Mercede nulla sceptra deponi placet,
+Auctore nullo: nec jubenti paream.
+(525) Sint fata, sint consulta, sint coeli minae.
+Non, si ipse gentis autor, ac spes sanguinis
+Semper futuri, tota cui stirps incubat,
+Quantus Giganti cum Palestino caput
+Avulsit, adsiet, lege perrupta inferum,
+(530) Regnumque poscat jure, poscentt annuam.
+,, Obnoxium est regnare, si stella licet
+,, Auferre, quicquid ratio vel virtus dedit;
+,, Et siderum sub jure, majestas jacet.
+Quid fata possint, nostra quid possit manus,
+(535) Docenda gens, ignava, rumorum anxia,
+Et plebs, soluta legibus, lex Principum.
+Securus ortu regnet a primo puer,
+Gades sinistra, dextera Gangen premat,
+Si effugere regna nostra, si vires potest.
+(540) Nunquam animum inertem gerimus, aut sorti damus
+Tergum imminenti, si quis tncrepuit metus.
+,, Tranquilla pavidos sceptra, magnanimos decent
+,, Afflicta. vires mens ab adversis capit,
+,, Languet secundis. Saeva, praedura, aspera
+,, (545) Armant feroces fata, cedentes premunt.
+Non si inter astra, quae futurum nunciant,
+[fol. B8r, p. 31]
+Ubi celsus Atlas aetheris librat domos,
+Nidosque rector alitum implumes fovet,
+Cunas reponat, tolli & elabi sinam.
+(550) Ubicunque tegitur, eruam evulsum traham,
+Avidamque caede nobili aspergam manum.
+LEG. Solymae superbae Dux, Idumaeum genus,
+Cui templa, jam collapsa, cui sedes datum
+Reficere & aras, veteris arcanum Dei,
+(555) Quemcunque tulimus, cecidit in vanum, labor.
+Praerupta, devia, invia, emensi sumus.
+Ut cum latentem, coeca per vestigia
+Venator indefessus explorat feram,
+Notisque inhaeret ac favet, si quas videt,
+(560) Dum dubius error, luce consumpta, patet,
+Speique praedae vacuus, & praedae, redit.
+Seu patria clam tecta, & antiquos lares
+Petiere, seu clam, Rege decepto, latent;
+Excidimus. aura dubia rumoris vagi,
+(565) Rediisse memorat, nec struit dictis fidem.
+HER. Visone puero, patrium repetunt solum,
+An non reperto? natus imperio puer,
+Quis? unde? quo parente? qua spe, qua domo,
+Possessa domino regna, rapturus venit?
+(570) Quae nosse, primum muneris vestri fuit.
+,, Mandare, Regum est. jussa mandantis sequi
+,, Primum est: secundum, rite mandata exsequi.
+,, Plus, quod ministro sponte praescribit fides.
+,, Parere minimum est. Latius, cum Rex jubet,
+,, (575) Regis jubentis mens & utilitas patet.
+[fol. B8v, p. 32]
+LEG. Seu prisca Babylon nobiles edit viros,
+Pictum figuris docta quae coelum legit,
+Et fata condit, sive Persarum inclyti,
+Prope genti inter astra, venerunt Magi,
+(580) Seu terra fluviis media nascentes tulit;
+Suae quisque loquitur. quisque venturum videt,
+Fovetque Regem. studia magnates trahunt
+Huc dubia, & illuc. plebis insanae furor
+Sequitur praeitque. Conscii vatum, pavent,
+(585) Et obsoletis incubant oraculis,
+Chartisque inerrant, quas sinistrorsum legunt.
+Quisque invenit, quod speret, aut credat sibi.
+Tellus duobus cincta fluminibus jacet.
+Hinc Tigris, hinc foecundus Euphrata liquor
+(590) Secludit aditus, verque perpetuum loco
+Indicit. aura mitis ac Zephyrus pater
+Semper recentt flore distinguit solum,
+Sacrosque lucos perflat, atque herbas parit.
+Pars monte sensim assurgit, & coeli viam
+(595) Indulget, exhibetque praesentes Deos:
+Quos arae & ignes semper accensi vocant.
+Hic Bileamus, Isaci gentilibus
+Dira imprecari jussus, afflatu novo
+Novoque raptus numine, excussit suum.
+(600) Hic (horret animus scaeva, nec fanda, eloqui)
+Albescere omnem vidit ex imo polum,
+Novumque nasci sidus, illustre, inclytum,
+Seris Iacôbi destinatum posteris:
+Tremendum Edomo, quique praefractus gerit
+[fol. C1r, p. 33]
+(605) Sceptrum Moabus. hunc Idumaeis dari
+Finem tyrannis, hunc pereginis metum.
+Id, Rege nato, gentibus signum dari,
+Claro, superbo: regna qui flectat manu,
+Qui mille regum spolia captorum trahat,
+(610) Et liberali vindicet causa, jugo
+Quos impotenti servitus pressos tenet.
+Hîc turba mentes mota sollicitas habet,
+Dominosque jam pertaesa praesentes sequi,
+Caelo futuros poscit, & mutat fidem.
+(615) Ut cum serenum, Tethyos primum sua
+Perfusus unda, Lucifer tollit caput,
+Noctemque claudit; quisque venturum videt,
+Aut jam videt venisse, dum dubitat, diem:
+Sic quisque, nato sydere, haud nato prius,
+,, (620) Praedicta voluit. dulce libertas bonum,
+,, Majusque cum speratur, attonitos agit,
+Et varius error, quem superstitio trahit:
+,, Regnisque dubiis efficax semper malum,
+,, Pietatis umbra. Plus sacerdotes nocent,
+(625) Hinc gens Sadoci pervicax, hinc legibus
+Armata, leges Pharisaeus destruit;
+,, lntentus aulae. Cum professum vindicet
+,, Rex ambitum, velatus, ac simplex, nocet.
+,, Severitas, ac vita, quae vultu tegit
+,, (630) Arcana, vultu regnat, ac plebem trahit.
+,, Diversa Superi jura cum terris habent:
+,, Permista, miscent regna, vel fraenum exuunt
+,, Vulgo insolenti. Tolle regnanti metum,
+[fol. C1v, p. 34]
+,, Autoritate nixa majestas perit,
+,, (635) Quam lex tuetur, poena nutantem tenet.
+Vesana populos vota turbantes agunt.
+Sub rege regnum quaeritur. nusquam est novum,
+Et jam probatur. res in ambiguo labat.
+HER. Quicunque rector, quicquid ubicunque est tenes,
+(640) Seu te vetusta Solyma porticibus colunt,
+Bobusque & aris, sive, quod circum patet,
+Sublime, candens, aetheris magni solum,
+Partes vicesque numinis summi tenet,
+Seu numen hic mentimur, & coelum tenes,
+(645) Tarpeie genitor, orte Saturno patre,
+Qui cuncta jam Romana, qua Sol it, vides;
+Displode tonitru, perfidos vates feri,
+Ut ubique reges stare praesentes sciant,
+Frustraque nostris manibus elapsi cadant.
+(650) Atit vos, habenas curribus junctis date.
+Raptus per auras sequar, ut invisum genus,
+Cum Rege nato rapiam, & allidam solo;
+Avibusque membra sparsa per campos traham.
+LEG. Incerta origo, nec sat exactum genus
+(655) Nascentis. aula nulla, nusquam insignia
+Fulgentis ostri: non ministrorum manus.
+Cubile foenum. turba pastorum assidet,
+Creditque, quicquid rumor ac vulgus serit.
+Pars Bethlemi vatibus visum ferunt;
+(660) Pars, nec repertum. dubia diversi canunt.
+Nec laudat eadem, quisquis, exosus nova,
+Favet imperenti. Pars feroces spiritus,
+[fol. C2r, p. 35]
+Rebusque motis impetum opponi monent:
+Nec negigendum minuma rectori probant.
+(665) Pars vindicari posse contemptu autumat
+,, Quodquisque trepidat. Fortem & impavidum arguit
+,, Despector animus, ac suae sortis memor.
+Sic ille magni terror armenti leo,
+Quanquam avidus ira, pavidum & indignum premi
+(670) Ultra juvencum, spernit, instantem opprimit,
+Iubasque & armos caede luctantis lavat.
+Cui temperatrix ratio si accedat comes,
+Brutis adempta, quicquid adversum cadit,
+Seu subita proceres arma divisi movent,
+(675) Seu mota plebes unius partes agit,
+Compontt usu doctus, & flecti docet
+Populos rebelles. Sic gubernator ratis,
+Temone modico vim procellosi maris
+Fluctusque vastos, arte, non vi temperat.
+(680) Nunc vela vento laxat, ac fertur, suo,
+Nunc cedit, obliquatque in adversos sinum,
+Et pugnat usu, supparoque auras legit.
+Sic cornipes superbus, ac stare inscius,
+Sessore modico gaudet, ac alte gradum
+(685) Glomerat superbum: pressus, excussum trahit.
+Effusus idem saepe, nec fraeni memor,
+Fraeno remisso cedit, aut cursum premit.
+Sic Luca bos, immensus, obtutu minax,
+Montisque adinstar, turre &instructus viris,
+(690) Iussus magistri patitur, & Mauri manum.
+Ne sperne modica, qutsquis imperii regis
+[fol. C2v, p. 36]
+Momenta: nec cum saeva tempestas ratem
+Fert, contumacem stringe luctando pedcm,
+Ventisque & unda naufragum indulge latus.
+(695) Quin potius animi vela turgentis lege.
+,, Consilia plus efficere, quam vires, solent.
+HER. Sol, qui coruscam rebus alluces facem,
+Sceptrumque, regni insigne, quod dextra gero,
+Furiaeque veteres, noclis antiquae genus,
+(700) Et quas perempta conjuge addidimus novas,
+Natisque caesis; vos, Dae, testes voco
+Sceleris futuri. lenta consilita execro
+Abominorque. Quicquid immane, efferum,
+Inustatum, mens adhuc intus parit,
+(705) Fugio proboque: sponte, & invitus, sequor.
+Vel Betlehemi tecta convellam solo,
+Pastoribusque, rapta, convulsa, ingeram:
+Vel caedibus ferroque grassatus, necem
+Per mille mortes, unus, unius dabo.
+(710) Si fata coelitesque praeludunt viam,
+Imisque verti summa jam Divis placet;
+Ibo, inferis munitus, ac tota Styge
+Regnum minantis destruam coeli fidem.
+
+
+
+        Chorus Senum Hebraeorum.
+
+    Felix, quisquis tacitum vitae
+    (715) Securus iter tenet, ignotus
+    Rerum dominis, nec sublimi
+    Cognitus aulae. qui sepositus
+    Rure paterno, non turbata
+[fol. C3r, p. 37]
+    Populi strepitu fremituque tubae
+    (720) Pacis alumnus, messibus hornis
+    Vacuos cura supputat annos.
+    Quotiesque manu sua poma legit,
+    Prim& repetit tempora vitae:
+    Fastosque suos, non principibus,
+    (725) Sed foecundo notat autumno.
+    Et natales, semper faciles,
+    Similesque sui, fusus in herba,
+    Inter laetos operum comites
+    A se domita temperat uva.
+    (730) Dulces epulas, non Oceani
+    Praeda remoti, volucresque, altus
+    Quos orbis alit. sed cultus hero
+    Distinguit ager. sive hospitium
+    Platanus praebet diffusa comis,
+    (735) Avium cantu celebrata vago,
+    Seu sylva vetus; nusquam paries
+    Squallidus auro. sed quem circum-
+    fusae nemorum densis texunt
+    Frondibus umbrae.
+    (740) Supra immensus voluitur aether:
+    Placidos ponto Sol condit equos,
+    Solitos repetunt sydera cursus,
+    Formas ducit Luna minores;
+    Aulaea, quibus clauditur orbis,
+    (745) Omnibus aequus.
+    Vertit propriis arva juvencis,
+    Foenus nulla lege negatum
+[fol. C3v, p. 38]
+    Persolvit humus. Post exactae
+    Munia lucis, fessum repetit
+    (750) Tranquilla quies. nec magna nimis,
+    Et quae sortem non excedunt,
+    Jam compositum, somnia ludunt.
+    Cernit domitos errare boves,
+    Aut depulsos matribus agnos:
+    (755) Spemque diurnam, quam mente fovet,
+    Non mendaces cernit aristas.
+    Parvum tectis strepit examen,
+    Et festivi circumcursant
+    Limina nati. nec securos
+    (760) Unquam fallunt vota parentes.
+    Quae nascentem domus excepit,
+    Videt ignavum reptare senem.
+    Certo redeunt tempore lunae,
+    Solesque suos occupat ipse.
+    (765) Sic viventi sponte obrepit
+    Suprema dies. oculosque premunt
+    Non optata, non sollicita
+    Morte natantes, eadem rursus
+    Successuri in fata nepotes.
+    (770) Non Herodae rabiem trepidus
+    Sparsosque videt propria toties
+    Caede Penates. non Romanos
+    Tremit ad fasces, & quae toto
+    Circumvolitant orbe secures.
+    (775) Non, Isacidis possessa prius,
+    Nunc ignotis transcripta gemit
+[fol. C4r, p. 39]
+    Regna tyrannis. non infolito
+    Tangitur astro. sua regna tenet.
+    Coeloque colit semper eodem,
+    (780) Quae, per proavos transmissa suos,
+    Securus arat regna colonus.
+
+
+                     Continue
+
+             ACTVS QUARTUS.
+
+      MARIAMNE. TISIPHONE, reliquis
+        Furiis comitata. HERODES.
+
+    MAR. Adsum, reclusis Tartarorum faucibus,
+    Nigroque Averno, sparsa Mariamne comam,
+    Notisque saeva caedis etiamnum madens,
+    (785) Pridem peractae. Sensit homicidam Dei,
+    Coelo minantem, convocantem Tartara,
+    Terraeque ab atra caede furiales faces,
+    Infamis Acheron: Styxque, quae septemplici
+    Oberrat unda noctis infernae chaos.
+    (790) Adhuc, relictis impiorum scelus.
+    Inter nocentes gradior, & medium scelus.
+    Conveniat omne vulgus infernum licet,
+    Et quicquid hinc Cocytus umbrarum tenet,
+    (795) Hinc igne Phlegethon turbidus semper novo:
+    Ubicunque lucem dirus Herodes trahit,
+    Plus inferorum est. Polluit vultu diem,
+    Animoque noctem turbat, & manes ciet,
+    Vesanus, exlex. Agitat autorem nefas,
+    (800) Et quae merentes verbere assiduo ferit
+    Mens cuique, Erinnys propria, & infandum scelus.
+[fol. C4v, p. 40]
+    Quid restat ultra, saevus ut crescat furor?
+    Lucem intueri cogimur, jussae mors.
+    Vitam cruentus rapuit, ut mortem neget,
+    (805) Olim sepulta. Liceat, extincta semel,
+    Periisse. liceat nocte sub tota tegi.
+    Liceat, quietem, manibus solis datam,
+    Pati perempta. liceat, ignara omnium,
+    Quaecunque trepidi mente perculsa pavent,
+    (810) Quaecunque dubiis suadet ambitio ac furor,
+    Crudelitate conjugis tota frui.
+    Quid functa rebus. functa jam luce ultima,
+    Mihique sero reddita, ad facinus vocor,
+    Quo palleat Natura, quod tellus tremat,
+    (815) Et fugiat ather? Quaeritur rerum parens
+    Ad sanguinem eademque: cui flectunt genu
+    Invita noctis regna, & umbrarum pater.
+    Excessit homines, saevit in coelum sitis
+    Hausti cruoris. Prima vim sensit domus,
+    (820) Convulsa ferro. conjuges, nati, jacent.
+    Iugata taedis, quas cruento pratulit
+    Thoro Megaera, quinque natorum parens,
+    Avo, parente, fratre rapto, liberis,
+    Foecunditatis praemium ac forma, tuli,
+    (825) Caput recisis dirutum cervicibus.
+    Eatur ultra. Cur adhuc cessant faces,
+    Saeva sorores? Vertite huc iras, & huc
+    Vallata colubris ora, & immanes comas.
+    Inauspicatam rabiem, inauditam, hauriat
+    (830) Totos per artus. TISIPH. Sequimur ultrices Deae,
+[fol. C5r, p. 41]
+    Sequimur tyrannum. Vincat audendo, nefas,
+    Quod nusquam & usquam est. se quoque exemplo sui.
+    Spargantur ora facibus. hydri sibilent,
+    Totumque Avernum pectore attonito trahat.
+(835) Mens suis devota diris excidat tuta ut sibi,
+Avioque errore demens vim regentis nesciat.
+Qualis aurigam citatus, non suum, currus rapit.
+Hinc Megaera ducat umbras, hinc Alecto temperet.
+Erutos vultus sepulchro. quos cruore ac cacdibus
+(840) Pallido demisit Orco spectet, ac viso tremat-
+    HER. Sive ominosus, pervicax, Stygius sopor,
+    Pertentat animum, nocte sollicita gravem,
+    Seu mens futuri sceleris intuitu stupet;
+    Inversa Solymae moenia, ac tecta, intuor,
+    (845) Murosque duplices. Alter in tenebras abit
+    Sol, alter ortum. geminus aspectu, petit.
+    Video minacem conjugis vultum meae,
+    Qualemque merui. video funestum caput.
+    Quid, clare Titan, aethere excussus fugis?
+    (850) Quid ora facibus petitis, immites Deae?
+    Quid ante manes impium manes vocant?
+    Me terra adepta, misceatur Tartaro,
+    An ignibus, nil distat, an vasto mari.
+    Dum vita superest, pateat ad crimen data:
+    (855) Nedum ocioso lubeat ad mortem rapi.
+    Sec dum inferos subimus. Hanc posco moram:
+    Immane liceat agmen animarum prius
+    Praemittere umbris. quas, imago nobilis,
+    Et caedibus perfuncta, sub terras sequar.
+[fol. C5v, p. 42]
+    (860) Quid arma rursum quatitis, infernae canes?
+    Stringatur ensis. Mille sufficiam inferis.
+    Aut sic reclusum pectore admoto induam,
+    Fati occupator. Quippe, quid, lux addita
+    Luci, pavores inter ac spes exhibet,
+    (865) Quod non decora morte commutet lubens,
+    Invisus aliis, aut tremens semper sibi?
+    Quid terga vertis, anime? quid lucem fugis?
+    Adversa quisquis trepidat, in mortem ruit,
+    Discriminum desertor, ac vitae fugax.
+    ,, (870) lgnavia est perire, cum praestat mori.
+    Quid ora, conjux, vultu & amptexu petis?
+    Sepulta parce. parcite immanes Deae.
+    Pridem ista patimur. Quisquis infandum nefas
+    ,, Admittit in se, mente tranquilla licet,
+    ,, (875) Quanquam superbus folio, & imperii potens,
+    ,, Utrumque habenis temperet terrae latus;
+    ,, Supplicia sceleris patitur, impatiens sui,
+    ,, Suosque manes ipse praescribit sibi.
+    Quo rapior ultra? cum polo cumque inferis
+    (880) Commissus adsto. Regna, quae Superi negant,
+    Vel tollere audent, inferi ac virtus dabunt:
+    Quaeque arma Solyma fregit, atque Arabum, manus.
+    Ego ille, sacri cultor ac vindex loci,
+    Qui templa, jam collapsa, qui sparsos lares,
+    (885) Et derelictum numen eduxi polo,
+    Dîs derelictus ac polo, Diris agor,
+    Meique compos, castra larvarum incolo.
+    Quid iste fert tumultus, & vultus truces
+[fol. C6r, p. 43]
+    Defixi in unum? quo triumphatus vehor?
+    (890) Quae vincula hinc injecit, hinc tergo imminet?
+    Iam solia nostra natus insedit puer.
+    Nec quisquam opem vocatus obsesso feret?
+    Non arma templis rapta, non thalamis dabit?
+    Non Romuli jurata concurret cohors,
+    (895) Ditemque ferro sistet, ac retro premit?
+    Porro Quirites! Tartarus terram tenet,
+    Conjurat aether. tota libertas perit.
+    Invicta si gens numen invictum colit,
+    Auguste, munus vindica ac praesta tuum.
+    (900) Heu, Heu, Heu, Heu.
+    O pectus! ô mens! ô tropaeorum decus,
+    Queis tecta victor saepe decoravi mea,
+    Nunquam arma coram veritus adversa obtui,
+    Aut in procella sanguinis, parcus manu!
+    (905) Quem nulla vis pervicit, aut immanitas,
+    Heic virginali morc lamentum exequi!
+    Heu, Heu, Heu, Heu.
+    Quod non tyranni, non Latinorum minae,
+    Non ulla terrris gens relegata ultimis
+    (910) Ante impetrasset. non Scythes, non Sarmates,
+    Et quisquis usquam ponte Danubium secat.
+    Ferrum occupetur. Texta costarum ultima
+    Contaminatus sanguis ac vita exeat.
+    Ignave, vecors, occide. haeredis tui
+    (915) Processit astrum. Sceptra ut invadat mea
+    Pastoribus prognatus Hebraeis puer,
+    Legesque terris figat, ac reges premat?
+[fol. C6v, p. 44]
+    Ut victus uni, praeda nascentis trahar?
+    Prius astra, coelum, Tartarus, venti, mare,
+    (920) In saxa rupesque, abditum, abreptum, ferant,
+    Aut hic profanae membra divellant Deae.
+    Vivatur, ut regnetur: ut regno excidat,
+    Qui nostra demens regna despondit sibi.
+    Huc è latebris, si lubet, tandem move,
+    (925) Huc, si lubet, vim verte, subsessor meus,
+    Armisque confer arma. jungantur manus,
+    Accedat aether, astra sub signis eant:
+    Aut sceptra vi tutabor, aut victus cadam.
+    Quid tetra jungis ora, quid, conjux, premis?
+    (930) Non, qualis olim, purpura ac mixta nive
+    Ardens, coaevas ante fulgebas nurus,
+    Orientis oriens, mille votorum furor:
+    Sed Dite digna, digna familiâ tnferum;
+    Nec nostra, nec jam tota, post facinus meum.
+    (940) Jam parce, conjux. Testor infernas domos,
+    Et quicquid usquam Phoebus aspectu fugit;
+    Dolui peremptam. Lachrymas sero dedi,
+    Animumque letho saevior praestit lues.
+    Subiit imago saepe genialis thori,
+    (945) Similisque Phoebae, summus in primis, decor;
+    Sed occidenti. Si qua juranti fides
+    Restat sub umbris, si quis est sensus super,
+    Nec, luce rapta, vetera cum luce excidunt;
+    Amore nimio conjugis faevi jaces.
+    (950) Odisse mallem. Fateor, invitus licet,
+    Poenimtuit unum. Fateor, immitis licet,
+[fol. C7r, p. 45]
+    Gemui peremptam. Casta si ferro jaces,
+    Et solus error, conjugis tractum diu
+    Delusit animum; jufta & exequias dabo.
+    (955) Placemus umbram. deprecor vultum ac minas,
+    Genuque nixus, supplices tendo manus.
+    Absiste, conjux. Plura quid, Pluto, moves?
+    Iam littus Acheron totus excessit suum,
+    Et obseratas Tartarus pandit fores.
+    (960) Nunc segna demum moesta Tisiphone movet:
+    Hydrisque cincta, dirum & illatabile
+    Deducit agmen. Hinc Alexandra graves
+    Intentat iras, nube terrifica minax.
+    Illinc tiarae flebile ostendit decus
+    (965) Aristobulus. frater hinc fratri comes
+    Sedet perempto. Viscera intueor mea,
+    Immanis, atrox tortor, atque idem parens.
+    Hinc longus ordo, teter, atratus, sedet;
+    Damnatque, jam damnatus, autorem necis.
+    (970) Quid ille, vultu immitis, ac virga gradum
+    Firmans labantem? Fallor! an tremulum caput
+    Fessumque senio veteris Hyrcani procul,
+    Adhuc cruentum, video? Iam satis est, Deae,
+    Poenarum, & ultra. Condite obscoena faces,
+    (975) Dirae sorores. Inferos nosco meos:
+    Qualesque feci, sensi, & aspexi, Deos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+             ANNA. JOSEPHUS.
+
+AN. O fata gentis ! IOS. tot subactae cladibus.
+AN. Quae spes fugatos restat? IOS. Aegyptus teget.
+[fol. C7v, p. 46]
+AN. Carcer parentum? IOS. portus eadem atque anchora.
+AN. (980) O triste nomen! IOS. prosperum nobis diu.
+AN. Quo pressa pietas. IOS. impios pressit mare.
+AN. Pharaonis aula? IOS. noster & Pharao fuit.
+AN. Sedes tyranni? IOS. tyrannis invia.
+AN. Iam vetita, & interdicta? IOS. dum jussit Deus.
+AN. (985) Moses quis illi dux viae? IOS. dux Mosëi.
+AN. Quo rapitur aetas prima? IOS. quo suadet salus.
+AN. Vix natus, & nunc exul? IOS. ut fugiat necem.
+AN. Quis innocenti vim parat? IOS. saevus, nocens.
+AN. Quis machinator caedis? IOS. Herodae furor.
+AN. (990) Quid casta mater? IOS. comes abeuntem premit.
+AN. Deserta cunctis. IOS. Regnat, ubicunque est pater,
+AN. O spes suprema! ô vota! IOS. spem firmet fides.
+AN. Periere cuncta. IOS. non perit, quisquis latet.
+AN. Et haec senectus. IOS. tuta promissis Dei.
+AN. (995) Huc dulce pignus siste. IOS. Ne lateat, cave.
+AN. Da jungere os vultumque. IOS. Rex prohibet moram.
+AN. Tempus negatur lachrymis? IOS. hostis negat.
+AN. Minor fugato. IOS. fugt, ut eversum premat.
+AN. Quid regnum Iudae? IOS. premitur, ut crescat malis.
+
+AN. (1000) Et spes piorum? IOS. surgit, ac nescit premi.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+       HERODES. SATELLITES. SENEX.
+
+HER. Tandem aestuosus mente subsidat furor;
+Dum statuit aliquid, dubius, atque impar sibi.
+[fol. C8r, p. 47]
+Sic cum profundum voluit ex imo mare
+Aeolius horror, Eurus hunc, illinc Nothi,
+(1005) Mixtus procellis Africus, cui pareat
+Immanis unda nescit, ac paret tamen
+Domino cutque. donec incubutt sibi,
+Totumque pelagus una tempestas agit.
+Habet, peractum est. Ite, famulorum cohors,
+(1010) Ubi Betlehemi tecta surgentis prope
+Despectat Hebron, ite, & immeritam manum,
+Quoscunque messis altero amplexu fovet
+Sinuque matris, tollite, ac letho date.
+Sic inferis litare Tisiphone monet,
+(1015) Hanc inferorum victimam poscit pater;
+Dubius futuri. Quippe, jam natum carit,
+Hos inter, ima solia qui fundo eruat,
+Ac summa vertat, nostra si desit manus.
+Nec finibus telluris aut coelo capi
+(1020) Quicquid paratur. Tremere concussam Styga,
+Saevire manes, vixque rectorem pati.
+Ter limen atrum patuit admisso die,
+Ter postibus convulsa subsedit domus,
+Nixaeque aheno sponte ceciderunt fores.
+(1025) Ter ipse custos signa latratu dedit.
+Sive alterum Natura molitur Deum,
+Seu sceptra mittat orbis, ac regna excutit,
+Sive arma veteres fracta Titani movcnt,
+Et sic resumunt; nostra quem Bethle parit,
+(1030) Ubtque Rex est. quisque nascentem videt,
+Primus, ferox, vesanus, insomnis diu,
+[fol. C8v, p. 48]
+Aut noctium sopore perculsus, feror.
+Ut turbinem cum versat imbellis manus,
+Tortumque multo verbere in gyros agit,
+(1035) Viresque ab ictu sumit; huc illuc volat
+Rotata buxus, spatiaque involuit sua.
+Extrema summam strinxerat nox orbitam,
+Circumque tardus egerat plaustrum senex;
+Cum ruere subito visa, & impelli solo,
+(1040) Regalis aula: quaque per ruptum via
+Patuit cacumen, lapsus, aut terrae datus,
+Ducente Phoebo, praevio astrorum choro,
+Nostro superbus sedit in solio puer.
+Excussus animo somnus, atque oculis, abit.
+(1045) Arma, arma, posco. Turba dum trepidat comes,
+Aut lenta cessat; ultimo è terrae, sinu
+Invasit aditus saeva Dirarum cohors,
+Mentemque inhibuit facibus, atque hydris manum.
+Sic consilî impos, lucis exosus moram,
+(1050) Aut plebe mota dubius, aut regni metu,
+Lassus fatigo,Tartarum, terras, Deum.
+Et regna quisquam speret, aut regno incubet?
+Non sic Charybdis vasta nunc haustas vomit
+Nunc forbet undas, naufrago infamis situ,
+(1055) Versumque fundo torquet ac reddit mare;
+Ut mens regentum dubia, seu fraudes parat,
+Seu vitat, aestus inter alternos agit,
+Et nunquam eodem trahitur, & semper suo.
+Hinc fors secunda spirat, ac pene affluit,
+(1060) Dignata tecto tota vix ullo capi,
+[fol. D1r, p. 49]
+Fidemque voto praestat. argentum vetus,
+Et quicquid usquam voluit Eoum mare,
+Huc fluxit. heïc opima tot Regum jacent.
+Adstat superbus miles ac praeda gravis,
+(1065) Gemmisque & auro squallidae fulgent nurus.
+Spectate victi. pectore interea abdito
+Tortor cruentus, ceu flagellis, intonat,
+Et conscius, se teste, commissum tremit:
+Palletque lentis ac perit vibicibus.
+(1070) Parum est. novas invitus ad poenas agor.
+Dum patimur aliud, aliud ordimur nefas.
+Dii coelitum hoc atque inferi absumant caput,
+Imoque Averno conditum extemplo premant,
+Pejusque perdant, quam perire intelligo,
+(1080) Ni recta video, quaeque mens suadet, sequor,
+Phaselus ut citata, quam remis agit
+Acris juventus, & lacertorum toris,
+Si forte vis remisit, aut primus calor,
+Atque illam in altum prona tempestas rapit.
+(1085) Accingere anime, subita consilia exequi.
+Oppressa tandem longo & insolito metu
+Solvatur aetas, seque restituat sibi.
+Annis duobus quicquid in lucem dedit
+Urbs quae timetur, tolli & extingui placet.
+(1090) Hos inter, orbis terror ac damnum, puer,
+Sublatus, orbi spiritum ac lucem dabit
+Quam quisque turbat. Dira pridem saecula,
+Foedata luxu, quicquid est, pessum trahunt.
+Hinc ocium torporque, dominanti gravis,
+[fol. D1v, p. 50]
+(1095) Et plebis exlex animus, in reges furit.
+Sic segne corpus, dapibus ac vino diu
+Somnoque pastum, sanguine infesto grave,
+Opem medentis urget, ac poscit manum.
+Torpore deses imperî moles labat,
+(1100) Vitioque gentis turbida, ac longo situ,
+Praetumida jactat membra. mittatur cruor.
+Quod quisque meruit, innocens aetas luat.
+,, Quos paena transit, corripit poena metus.
+SAT. Succumbit animus, sanguis albescit, pavor
+(1105) Horrore gelido pectus astrictum premit.
+Infirma ut aetas, nullius sceleris capax,
+Mortemque nondum merita, spargatur solo?
+Ut rapta matrum pignora è gremio secet
+Cruentus ensis? siste crudelem impetum.
+,, (1110) Quod ratio non dat, tempus ac spatium dabit.
+,, HER. Supplicia semper aliquid injustum trahunt,
+,, Quod publico tuetur ac pensat bono,
+,, Quicunque regni sceptra non timidus gerit.
+,, Benignitati quisquis obvertit laetus,
+,, (1115) Nec aqua ferre didicit, aut regem pati,
+,, Crudelitatis nomine invisum gravate.
+,, Vertuntur odio recta. vis sceptri perit,
+,, Nisi imperantis firmat obsequium metus.
+Paretis? an despicimur, & nomen sumus,
+(1120) Frustraque vinclo nobilem premimus comam?
+SEN. Ut tanta matrum turba supplicium ferat?
+HER. Quaecunque Regem peperit, ut Regem luat.
+SEN. Plectatur una. HER. nulla sic poenas dabit.
+[fol. D2r, p. 51]
+Plectantur omnes. una jam poenas dabit.
+SEN. (1125) Cur mille miseris crimen unius nocet?
+HER. E mille miseris una ne evadat manum.
+Dedatur unus. mille subducam neci.
+SEN. Cur Rex timetur? HER. Rex timet. SEN. regno, an sibi?
+HER. Utrique. SEN. puer est. HER. & fuit, quisquis regit.
+SEN. (1130) Ignotus orbi. HER. nempe, quem natus movet.
+SEN. Parce immerenti. HER. nempe, quo fiat nocens.
+SEN. Plebs vana trepidat. HER. amplius sperat
+tamen,
+SEN. Regemque fingit. HER. Rege sublato, cadet.
+SEN. Ne crede famae. HER. saepe neglectam nocet.
+,, SEN. (1135) Et cede populo. HER. saepe permissus sibi
+,, Regum tiaras transtulit populi furor.
+SEN. Mens alta inermi bella cum sexu fugit.
+HER. Foeminem animus foemina questus pavet.
+SEN. Miserare matres. HER. exui patrem quoque.
+SEN. Miserare natos. HER. & meos, tellus habet.
+SEN. (1140) Quos prima vitae sors fovet. HER. prima auferet.
+SEN. Lac matris inter? HER. Lacte respergi juvat,
+Lacte inferis litatur, ac coeli Diis.
+SEN. Per spes paternas. HER. una adhuc superest mihi
+De matre. SEN. quae nunc nobilem firmat domum
+(1145) E stirpe Iudae. HER. Sola quae causa est mali.
+SEN. Parens, parentis fas & affectum cole.
+HER. Regnum parentes, conjugem, natos voco.
+Natura regno cedit, ac regno exulat,
+Et jus,& aequum. justus est, quantum sat est,
+[fol. D2v, p. 52]
+(1150) Injustus alibi, dum sit intentus sibi.
+SEN. Circumstat omne vulgus, ac miseris favet.
+HER. Praedam superbus, quam videt, rostro petit
+Rector volucrum: caetera incassum strepit
+Gens omnis, aut, vi territa, in nubes abit.
+SEN. (1155) Submitte pectus. Spiritus da turgidos
+Recte admonenti longa quae docuit dies.
+,, Unum senectus, viribus fessis, habet
+,, Salube regnis ac sibi, vim consili.
+HER. Annisque & animis regna tutati sumus:
+(1160) Nec vis juventae defuit quondam ac vigor,
+Nec nunc senectae ratio maturae deest.
+Armis subactos, pace subigendos reor.
+Et haec cruorem poscit. SEN. Invitus licet,
+,, Moderare. fusus cruor ad autorem redit.
+,, (1165) Obsequia modicus suadet, immodicus fovet
+,, Inobsequentes, ac suas vires docet.
+,, Nescire proprias obsecuturum decet.
+,, Timete Reges. quisquis in populum furit,
+,, Favet furenti. Iustus irritat dolor,
+,, (1170) Cogitque quidvis posse. consumpto metu,
+,, Postrema miseris ipsa formido perit,
+,, Audetque quidvis velle, qut sperat nihil.
+,, Favore constant sceptra. vi vis interit:
+,, Et destituta, prima regnantem petit.
+,, (1175) Invidia pressos tollit, erectos premit.
+,, Quem lenis aura civitatum deserit,
+,, Communis odii nauftagum inuoluit mare.
+Nescitis, alto quotquot imposuit loco
+[fol. D3r, p. 53]
+Fortuna, quotquot purpurae afflavit decor,
+(1180) Quid cuique liceat. desidem regis manum
+Quod temperamen inter, ac summum nefas:
+Clementiâ quid distet immanis rigor.
+Haec Diva quondam, triste & ignavum Chaos
+Miserata, formis quaeque distinxit suis;
+(1185) Zonam tueri jussa, quae leni fovet
+Hinc frigore, hinc tepore, sublimem domum
+Fulgentis aethrae, temperatrix omnium.
+Regumque mentes habitat, ac flecti docet:
+Et aequitate cunta perfundit pari.
+(1190) Sic consiat orbis: cuncta sic legem tenent.
+Nec ipse, miti cuncta qui nutu fovet,
+Ut quisque facinus audet, aut spernit regi,
+Poenis paratus, protinus lapsos premit.
+Nec vim trisulcam, telaque armat manus
+(1195) In noxium distringit ac vibrat caput
+Sed editum cacumen, aut rupem quatit,
+Sterilesque cautes, aut latebrosas specus
+Nunc alta Libani robora impulsi tremunt,
+Nunc tacta Horebi pecora percussi jacent:
+(1200) Solusque generi parcit humano pater.
+Idem ille, gentis rector ac princeps suae,
+Si prole matres damnet, aut sponso nurus
+Quoties tyrannum parturit terrae latus;
+Redibit horror dirus, ac priscum chaos:
+(1205) Et quicquid usquam est, fiet antiquum nihil.
+,, HER. Properate famuli. SEN. Tardus ad poenam venit
+,, Moestusque, quisquis, mente composita prius,
+[fol. D3v, p. 54]
+,, Delicta pendit. vix abest, quin exigat
+,, Poenam lubens litusque, qui punit cito,
+(1210) ,, Damnetque inique facta, quae punit nimis.
+Nec crimen ullum vindicem poscit manum.
+Fama, astra, vates, Rex novus, dubios agunt
+Versantque populos. mota plebs, plebem movet.
+Detur furori tempus, exiguum licet;
+(1215) Quae sponte oboritur, sponte tempestas cadet.
+HER. Effoeta senio verba nequicquam jacis,
+Laudator acti temporis, nostri immemor.
+Cessatis? ite. jussa jam dudum exequi
+Decuit ministri. verba non tollunt moram.
+SEN. (1220) Per hanc senectae messem, & albentes genas,
+Tremulumque, quod jam fata deposcunt, caput,
+Venerare numen. sacra quae struxit manus,
+Autoris eadem sacra ne vertat manus.
+HER. Regnum regenti numen, ac sceptrum, reor.
+(1225) Quod restat, umbra somnii, ac sermo merus.
+Templa, arae, & adyta, murus, argentum, pavor.
+Ni, provolute genibus, hinc gressum moves,
+Hic strictus ensis, pedibus eripiet viam.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+             CHORUS MILITUM
+               ROMANORUM.
+
+            Victarum Dea gentium,
+            (1230) Quam pulcher Tiberis lavit,
+            Quae, septem edita collibus,
+            Regum colla minacia
+            Et quicquid tremit Occidens,
+[fol. D4r, p. 55]
+            Aut Sol exoriens pavet,
+            (1235) Secura impera premis;
+            Quis me Triptolemi, tuis
+            Aut Medea draconibus,
+            Raptum restituat mihi,
+            Raptum restituat tibi,
+            (1240) Victarum Dea gentium,
+            Quam pulcher Tiberis lavit?
+            Non jam civica, ceu prius,
+            Exercet pavidam manus:
+            Non jam classica, non tuba,
+            (1245) Somnos excutiunt breves.
+            Nunc moesta trepidant nurus:
+            Abductis nec inhospita
+            Squallent arva colentibus.
+            Saturni redeunt dies,
+            (1250) Et, quas deseruit diu
+            Terras, Erigone colit.
+            Iam prisci generis pater,
+            Ferro postibus obdito,
+            Saevam composuit domum:
+            (1255) Et jam reddita publico
+            Antiqua augurio salus.
+            Quà summum premit Adriam,
+            Quà Thusco oppositos mari
+            Fines explicat Ausonis,
+            (1260) Pax Martis sobolem tenet.
+            Pax secura virentibus
+            Cingit tempora pampinis,
+[fol. D4v, p. 56]
+            Pax spicis redimit comam.
+            Enses, ac galeae graves
+            (1265) In falces redeunt suas.
+            Ferrum, vomere se teri,
+            Et durus patitur chalybs.
+            Festis laeta calent oppida lusibus:
+            Et proscripta licentia
+            (1270) Antiquas repetit vices.
+            Pubes, nunc jaculo levi,
+            Nunc disco terit aut equo,
+            Hosti tempora quae dedit.
+            Et nunc pulvere sordida
+            (1275) Campi, nunc oleo nitens,
+            Lymphae Virginis inclyto
+            Passim denatat alveo.
+            Pastor, cum grege languido,
+            Dulci carmine temperat
+            (1280) Vim coeli, ac gelida specu:
+            Quam juxta trepido pede
+            Somnos conciliat latex.
+            O laeta ocia Formiae!
+            Lucrini ô tepidi lacus!
+            (1285) Bajarum ô medii dies!
+            O sola Elysiis aemula vallibus
+            Lassi temperies maris,
+            Campani via littoris,
+            Lis Baccho ac Cereri vetus!
+            (1290) O Gaure, ô viridis qui juga Massici
+            Euan visitator tenes!
+[fol. D5r, p. 57]
+            O Bacta, ô Eleleu pater,
+            Curas vertere gaudiis,
+            Proceras quoque fraxinos
+            (1295) Imis sedibus, efficax!
+            O Praeneste, Deûm domus!
+            O divortia Tiburis!
+            O praenobile Tusculum!
+            O laeti nitor Antii!
+            (1300) Hic junctum sceleri scelus,
+            Quantu Massagetae rigor,
+            Et Taurus tremat, & Sytha,
+            Caesis hospitibus ferox,
+            Aevum, jam senio grave,
+            (1305) Lentum ducit ad exitum.
+            Et semper miseris dies
+            Primo deterior, subit.
+            ,, Aetas, ceu dubius vapor,
+            ,, Elapsa, attonttos premit.
+            (1310) Sparsa temporibus nive,
+            Primae decipiunt comae.
+            ,, Clam quisque eripitur sibi,
+            ,, Quicquid praeteriit, fuit.
+            ,, Nulli lux eadem redit.
+            ,, (1315) Nulli lux eadem manet.
+            Donec meta novissima
+            Includit spatium breve,
+            Et mors sollicitis adest.
+            Quam nox irremeabilis,
+            (1320) Et fax, & lachryma, & rogus,
+[fol. D5v, p. 58]
+            Et lex ultimaTaenarus,
+            Et longus sequitur sopor.
+            ,, Solus se fruitur diu,
+            ,, (1325) Qui praesenitbus incubat,
+            ,, Nec quicquam patitur rapi,
+            ,, Quod sors prosperior dedit.
+            Ut Quinquatribus, aut brevi
+            Festo cum potitur puer.
+            ,, (1330) Cras serum est. hodie datur,
+            ,, Quod totum annumeres tibi.
+            ,, Vita, aut carpitur, aut perit.
+            Victarum Dea gentium,
+            Quam pulcher Ttberis lavit,
+            (1335) Quis me restituat mihi?
+            Quis me restituat tibi?
+
+                     Continue
+
+ACTUS QUINTUS.
+
+
+    MATRES BETHLEHEMITICAE, Hieroso-
+lymam aut alio cum infantibus fugientes.
+         PRIMA, SECUNDA, TERTIA.
+
+PRI. Succurre tellus: abditos aperi sinus,
+Vel tota nunc dehisce: depositum tege
+Miserae parentis. Oscula, infelix, habe,
+(1340) Sed summa, sed funesta. Quid risu, puer,
+Moraris animum? quid meos lucius gravas,
+Tuosque nescis? Dulce solamen thori,
+Quid os lacerto stringis, ac vultum premis?
+O dulcis aetas, dulce, & infelix onus!
+[fol. D6r, p. 59]
+(1345) Adest satelles. quid manum, fati inscius
+Uberibus abdis, teque moerenti ingeris?
+,, Nescire primum est cuncta, postremum, nihil,
+,, Cum laeva sors minatur, aut miseros premit.
+SEC. Incumbe terris nox, & amplexu pio
+(1350) Tuere matres. desit hic mundo dies,
+Rebusque percat. triste Sol ponto caput,
+Vel conde Averno. Si quis afflictos videt,
+Si sancta pietas vindices reperit Deos,
+Nec omne coelo numen irato excidit,
+(1355) Latere liceat. Unde, quo, retuli pedem?
+Quid trepida volui? quicquid evasi, sequor.
+Hac primum, an illac imus? utrinque imminet
+Quod fugio. utroque fugio, nec fugio metum.
+Defecit animus. lux abit. corpus solo
+(1360) Exanime, lapsis viribus, fessum cadit.
+Erepe misera, quo negat gressus sequi.
+Quo pavida tendis? Nullus hic furto locus
+Latebrisque nullus. obsidet matrem ferox
+Natumque tortor. Una spes miseris adhuc,
+(1365) Vel nulla, restat. Parte in extrema, abdita,
+Laris paterni, plurimo ignotum situ,
+Multisque dumis obsitum squallet specus.
+Quid cassa demens voluo? quid reditum paro?
+Hic dubia mors est. certa redeuntem manet.
+(1370) TER. Sublimis aegre anhelitum pulmo trahit.
+Defessa trepidant membra. pars periit mei,
+Pars una superest. impius binos solo
+Allisit hostis, unus afflictae super
+[fol. D6v, p. 60]
+Fulcimen hic est. unus extinctam tenet.
+(1375) O nate, matri summus ac ferus dolor!
+O patris os vultusque, quem primo tulit
+Lucina nixu! voce qua primum parens
+Sum dicta quondam, jamque postrema vocor.
+Quos una geminos hora, quos venter tulit,
+Nunc una rapuit. liceat extremo frui,
+Eodenique primo. Mitte lamenta ac preces:
+Sequitur ministra caedis à tergo manus,
+Crudelis, excors. igne sanguineo genae
+Ardent: cruentum dextra mucronem premit.
+PRI. Qui vasta coeli tecta, qui terram quatis,
+Aut parce nato, genitor, aut matrem feri.
+Si crimen est peperisse, vel ventrem feri:
+Aut nati in ortus sponte revocemur suos.
+Hic tutius latebit infelix puer.
+Evolve dextram: nubibus ruptis preme
+Ausus nefandos. nec reus tanta necis,
+Toties cruentus ante, jam toties nocens,
+Et ante matrum sanguinem, Herodes cadat.
+Subsequitur audax raptor, & ferro imminet.
+Accede genibus prona, dum natus latet,
+Pectusque letho oppone. Si qua olim tibi,
+Fastidiis lassata, Lucinam tulit,
+Si qua parentem nuncupat, si quae virum,
+Si quae, intuenti praesidem vitae diem,
+Admovit ori pectus, ac lacte imbuit,
+Si cura matris nota, si pietas, fuit,
+Et dulce nomen; parce genitrici unius,
+[fol. D7r, p. 61]
+Unique parce. ne duos fatum trahat.
+Abiit, relicla matre, nec matre. auferor:
+Pignusquc quo diripitur, infelix sequor.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+            NUNCIUS. HERODES.
+
+NUN. Infanda dictu, dira conspectu, horrida,
+Revoluit animus, Regii jussi memor,
+Et obsequentum. Non viam lingua expedit,
+Non vox. soluti poplites subtus labant,
+Pedumque trepida fallit errantem via.
+Attonita partes, mens, ad antiquas redi.
+Effare, nullam patitur Herodes moram.
+Stat torvus ira, lachrymisque immobilis,
+Ac supplicanti: quaits irato mari
+Immensa, fluctus inter ac venti minas,
+Cautes, vel auctus cade Marmaricus leo,
+Et rupe praedam mille balantum videt,
+Quos ventre rabidus stravit, ac leto dedit.
+Leve est, quod omne trepidet humanum genus,
+Iussise. Sceleris ordinem expectat sui.
+Repetere totum sanguinem auditu expetit.
+HER. Expone propere cadis indicta modum,
+Et quo parentumquaque subreptum tulit.
+NUN. Vix dum orta totam nox obcumbrarat diem,
+Et jam trahebat astra; cum extemplo, velut
+Effracta nubes, wubipo qua in terrain ruit,
+Coelum solumque torquet, ac gyto rapit,
+Aut vastus amnis, mole perrupta furent,
+[fol. D7v, p. 62]
+Cum pecore tecta, stabula cum armentis trahit.
+Tremuére cuncta. Non, dies, ensu, sopor,
+Sauus satelles, obvia impellens manu,
+Termtfcuerevota materna ac metum,
+Tugam, querelas, lachrjmas, iram, preces.
+Ut quaque patuit prima, vim fensit domus.
+Pars magna ferrum nefcia excepit fui,
+Somnumque mors inclusit. Hic cerebri jacet
+Putamen, illic vulnere afflictum caput.
+Hic pes cruentus: sanguine hic foeda manus:
+Hic membra lacera: truncus hic imposfui.
+Dum quisque cunis rapitur, ac matri excidit,
+Necdum ominanti triste & insolitum scelus.
+Pars ense favo pectum essosti jacent,
+Haustoque jugulo. magna pars propere filo.
+Allifa: parsdifcerpta, pars vndis data.
+Nec tota cunttis contigit mors. haud vacat
+Conferre tantum. si quis est felix, perit.
+Pars palpitat, pars una, semineces adhuc
+Attollit oculos, membraqueinpoenam mouet.
+??? inter, urbem fama per culfam quatit,
+Matrumque complet corda. Pars, orba volant,
+Pars, prole rapta, frustra in absentem furit.,
+Ut foeta tigris, longa per vestigia
+Relegere natos sueta, quos sonipes tulit,
+Si forte raptor, puppe sublatus, mor am
+Objecit unda, ftuit alto in littore,
+Níc vim furori spatitur, aut explet, fui.
+Abit, redit, vagatuî, incurrit, tonat,
+[fol. D8r, p. 63]
+Respondet aether, terra mugitu fremit.
+Pars impotentes inferit coelo manus,
+Pars afira voce incendit, ac Divos ciet.
+Pars torpet, obstupetque ipars terrae sedet
+Dextra: pars divulsa componit sinu
+Tollitque membraipars reluctantes neci
+Wtrutatur ore, atque ipso in amplexu cadit.
+Huic animus alta nube suppressus latet,
+Dolore victus, nec doloris; ammemor,
+Primam expetit mortis ingressus viam.
+Plus altera metu turba, quo ipse est minor.
+Uterque dubias pariter affectus rapit.
+Hac subito natum tollit: haec toti incubat,
+Vulnusque poscit. illa subductum tenet:
+Quaeritque latebras, nec tamen latebras videt.
+Ut trepida pullos mater imbelles tegi,
+Cum vtiultur auras remige infejlo secat,
+It immerentem circuit penna \arem,
+Ter impetu delapsus, aut praedo Iovis.
+Par haeret vm. Pars parentem dividit,
+Geminosque retinet: lapsaque in vultus pares,
+Dum dubitat, utri timeat, utrunque objicit
+Certo furori. Sequitur haec inter ferox
+Immanis hoJlis, seque dubitanti inferit y
+Et utrunque raptor dtf tpat letho pari.
+Dum moesta genibus admovet dextram parens,
+Precesque lachrymis miscet, ac neiltt moram,
+Alter cerebro raptus excusso jacet,
+Alter cruentum corde mucronem excipit,
+[fol. D8v, p. 64]
+Et supplicantis ora perfundit cruor.
+Tars ubera inter, inter innocuas dapes,
+Ignara rerum, vulnere immiti cadit:
+Et sanguinem cum lacle permiftum vomit.
+Hac, vnguecarpitord: parslantat comas y
+Tectusque tundit: b&camictu&diripit,
+ss4rasque prensat, quas, cruentas, deferit.
+Hac dubta, pignus inter & ferrimtnas
+Dum voluit oculos, membra, qu& tenuit, tenet
+Dissecta ferro. pars bumilapfos premtt
+Inuita, quos tuetur, immiti pede:
+Titulumque lethi, dum timet, pietas babet.
+Nec una, dum devitat tutentam manum,
+Totoque natum brachia moventem irriu
+Et vagientem misera complexti premit,
+Questusque tollit, jacuit extincto comes:
+Caslisque in ulnis ensa percussum fovet.
+Tarsmoesta, supplex, crine diffuso, fui
+Tert&fa, mortem, pignore erepto, rogat:
+Solamque lucem, fessa vivendi, impetrat;
+Nato superstes ac sibi. Pars occupat
+Dolore victa, tristius lethi genus.
+Animosa cunclas inter, ac sanguis vetus
+Abramidarum, spiritus patrtos adhuc
+Animosque retinens stirpis, Hoc, inquit, placet
+Rex summe rerum, tota gens ut concidat
+Antiqua festa? Sic pater, coelum annuis?
+In sceptra sic reducis antiquum genu?
+Sic virga decantata, de gente inclyta,
+[fol. E1r, p. 65]
+Terris, obumbrat ultimum Phoebi diem?
+Sic astra nunc aequamus, & mundi faces?
+Hac dextera, crudelis, immanu, ferox,
+Invicte pueros inter ac matrum neces,
+(Furtiva Idume veniat, & aspiciat, licet)
+Aut victimas has eruam, aut prima occidam.
+Haec fata mater, veste contectum extulit
+Ferrum, ac recepit protinus jugulo abditum.
+Feralis horror tecta vicosque obsidet,
+Et sparsa tabes. ipsa, ceu funus sui,
+Urbs luget ac lugetur. Hinc terror gravis,
+Hinc lachryma questusque, palanteis agunt.
+Orbae peremptos, hos & has raptos, fremunt
+Orbi atque vidui. quisque spem generis gemit,
+Vulnusque sentit. Forma non eadem mali,
+Idemque ubique squallor, ac similis sui.
+HER. Super astra victa gradior, & fatum premo.
+Sive inferis, seu cura jam Superis sumus,
+Regnum tenenti nulla lux tollet mihi.
+NUN. Tanto cruore quod stetit, magno stetit.
+HER. Quid ille, regum natus exttio puer,
+Cui cecidit aetas omnis, ac poenam dedit?
+NUN. Seu fraude vatum, seu ministerio poli,
+Ut quisque vulgo credit, ac vulgus sibi,
+Subductus, aut elapsus, Aegyptum tenet.
+HER. Nunc totus ardet animus, atque exaestuat,
+Nunc flucluatur cor, & exundat, meum.
+Despectus atque inultus ut lucem traham,
+Victusque pueri jura & ompertum feram?
+[fol. E1v, p. 66]
+Non ita me in armis gens rebellatrix soli
+Experta quondam, saevaque Antigon manus,
+Et Parthus acer: quosque ferrum hoc abstulit,
+Et nunc sub umbris ultimi manes tremunt.
+Ferte arma, ferte tela. Iam Memphin peto:
+Ut busta Regum vetera cum cinere eruam,
+Propinqua coelo. Vel domum, secessibus,
+Ambagibusque, & irrepertis fraudibus,
+Mille involutam, evoluam, & explicitam dabo.
+Oblite rerum! victor Aegyptum premi,
+Gentis Latinae claustra, Romanus sinet?
+Nec jam arma terrent prisca? sic notus suis
+Augustus ultor? cujus unius manu
+Aurora tota cecidit, & tergum fugae
+Devictus orbis, regna victori dedit.
+Non sic abibit. stirpe cum eversa, eruta,
+Ubicunque tegitur, vel supremi numinis
+Complexu & ulnis abdttum, vita exuam,
+Funusque, post tot funera, extremum cadam.
+Adeste Dirae sive dubitantes sequi
+Lassasque, nostrum defatigavit scelus,
+Toties vocatas; sive Furiarum satis,
+Et inferorum pectore hoc clausum gero;
+Adeste tantum. Fornicem impostum prius
+Ardentis aethrae fessus excutiet senex,
+Arctosque siccas subditum involuet mare,
+Quarum illa Graios, illa Phoenicas videt,
+Quam subitum & atrox desit Herodae nefas.
+In propria vertor. Satis alienus cruor
+[fol. E2r, p. 67]
+Urbi immerenti fluxit. accedat meus.
+Superesr Iuda, fanguine ac regno edita
+Proles parenti, qttique nunc thalamos tenet
+Salonu sororis. victima \u Regi cadant,
+Dttbiamque certa caede tutentur domum.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+         MATRES HLEROSOLYMITANI,
+                 ANGELI.
+
+Dulces animae, quas ante nefas
+Lethum rapuit, quas subductas
+Vitae pelago, nunc poruis habet;
+Non vos illic spes sollicitae,
+Non ambitio, non dira fames
+Exercet opum; major habenti:
+Non saevities, grassata semel,
+Quae securos invasit adhuc,
+Finemque dedtt, vtxdttm expertis,
+Nosse malorum. Nunc parta qutes 7
+lnterque pias, fati immemores
+Laetosque dtesducitis, vmbras.
+Nos tot votis lassata fugtt
+Mors fub dojntno iperqtteasiduos
+Rapta furords voltutur Ingrata sibi. fuadetque mori^
+Nec posse datur. Now trati
+Dextra Tonantis, non Oceanus,
+Toruusqtie pater, qtti fublato
+Dtuersa mottet regna tridentt,
+Dirum facinm tegat, ac plenos
+[...]
+[fol. E2v, p. 68]
+    Sanguine rivos. Redeat pontus,
+    Redeant veteris saecla Noachi,
+    Cum, damnato sceleris mundo,
+    Sola superstes domus una fuit:
+    Vix tot caedes tantumque nefas,
+    Qua damnatum perdidit orbem,
+    Eluat unda.
+    Non qui clarae turres Sedomae,
+    Et flammata tecta Gamorae,
+    Perdidit ignis. non si totus
+    Eat in flammas, ruptisque ruat
+    Nubibus ather.
+    Miserum juxta mortale genus,
+    Spes ambiguas interque metus!
+    Ite parentes, ite ac tantis
+    Sobolem votis poscite Divos:
+    Thalamo ludat festivus Hymen,
+    Laeta resonent atria pompa,
+    Festis resonet plausibus aether,
+    Cum nascentem lux prima videt.
+    Ite, haeredes tollite natos,
+    Et spes longe mittite vestras:
+    Ite, ac steriles damnate nurus.
+    Quidquid laeti poscimus, hic est:
+    Huc vota cadunt, funesta sibi.
+    ,, Quotquot coeli ducimus auras,
+    ,, Horae spolium cuncta moventis
+    ,, Ludusque sumus. cum tota favet
+    ,, Fortuna, magis post vota furit.
+[fol. E3r, p. 69]
+    ,, Levis, ac nulli speranda diu,
+    ,, Quantumcunque est, quod, prona dedit;
+    ,, Plus eripitur, cum saeva nocet,
+
+                 ANGELI.
+
+Ite, squallida parentes, membra jam terris date,
+Quae, cruore delibutae, germen emittant novum,
+Inclytum, pavoris expers. Iam juventus nascitur,
+Quae per ignes, per rotarum dira tormenta ac cruces,
+Numini pulchros dicabit victimarum spiritus.
+Quae tyrannorum cruentas caesa lassabit manus:
+Et viam monstrabit orbi, sanguinis compendio,
+Quà patet supremus aether, praevio primum Duce,
+Quem, Deo nunc grata, Memphis abdito condit sinu.
+
+
+              FINIS HERODIS
+              INFANTICIDAE.
+
+
+                     Continue
+
+       Tekstkritiek:
+
+vs. 160 colono er staat: coleno
+
+
+  • Ceneton
+  • Voorkeurenpagina Opleiding Nederlands
+

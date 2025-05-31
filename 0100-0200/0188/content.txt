@@ -1,0 +1,4282 @@
+[Dutch]
+
+Jan Sievertsen Colm: Nederlants Treur-spel. Amsterdam, 1616.
+Uitgegeven door drs. G.C. van Uitert
+Red. dr. A.J.E. Harmsen, Universiteit Leiden.
+Ceneton01839 - UBGent
+In deze uitgave zijn evidente zetfouten gecorrigeerd en gemarkeerd
+met een asterisk. De fractuurletter is in een aparte kleur weergegeven.
+
+
+                     Continue
+
+[fol. *1r]
+
+                        I.S. KOLMS^*
+
+                   Nederlants Treur-spel.
+
+                         Inhoudende
+              Den Oorspronck der Nederlandsche
+      Beroerten,  tscheyden der Ed len,  tsterven der
+                 Graven van EGMONT, HOORN,
+                   ende der BATENBORGERS.
+
+                    Speel-wijs vertoont
+                  By de Brabandtsche Camer
+                    UYT LEVENDER IONST.
+                           Binnen
+                        AMSTELREDAM.
+
+             [Vignet: stadswapen van Amsterdam]
+
+                         tAMSTERDAM,
+             Ghedruckt by Paulus van Ravesteyn,
+             __________________________________
+
+         Voor Abraham Huybrechtsz., Boeckvercooper
+       woonende in den Dortsen Bybel inde Eng-Kerck-
+                    Steegh. ANNO 1616.*
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *1v: blanco]
+[fol. *2r]
+
+                Aen d Edelen, Achtbaren
+           Raedt, Vooghden ende Vaderlijcke
+Bescherm-heers der Vry Vereenichde Provincien, als oock
+aen alle Recht-lustende-Lievers der Wel-ghewenste stant
+                    des Vaderlants.
+
+TE recht noodige Waerdigheden werdt U.E. opgeoffert dit mijn
+ghedenk en Tijt-spiegel-Treur-spel, om d Achtbare Gods ampten der
+wereltlijcke Regeringe te quyten, Godes Eer en rechtsvordring na
+tuyghen der Conscientie, op de Waegh-schael te wederweerdigen voor
+den troon der genaden, werckende voor vele eeuwen heyligh en
+gevreest, waer den algevenden Godt U.E. toe verstarcke, met wyse
+Voorsichtigheyt en Eendrachtige grootmaking, tot behout der swaer
+en duyr veroverde Schatten: Offere dies dit mijn leer-lustent
+Nederlants Treurspel en anvanck der Belgicaensche beroerten, onder
+U.E. te sweven aen t Altaer van Christlijcke en ghetrouwe
+vasthoudinge, der rechte waerheyt, als oock verhoope de
+toegeneychde gunste der recht-lievende Vaderlantsche Voorstandren
+aenghelijfde te ghenieten.    Wenschende U.E. d Almachtige U voede
+met waere voorspoedinge dees gevaerlijcke tijts heylich te bewaren
+ tnoodigh verbont der wel bedeelde erf schatten,  tghene U.E.
+wenschet u hartgunstige en dienstwillige vrient
+
+
+                                    Ian Siewersz. Kolm.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *2v]
+
+                 Tot de
+    Lant-lievende en Konst-beminnende
+    Lesers der Nederlandtse Vryheyt.
+
+MEt recht ben ic schreumich, beminde Lesers, dit mijn Lust-gierge
+oeffen-Rijm, op so hooghen materie aenghevangen U.L. in t licht te
+doen verschijnen: eensdeels vreesende deur mijn onbegaefde hant, de
+Lof-ruchtige Fama van soo cloecken Schryver van Meteren yets
+vercort soude (na haesich versuym) beganghen te hebben, of al te
+cleyn den staet der meer-waerdige Princen, na mijn duytse studie
+afgeroemt te zijn. Doch overschrede de schrick, deurt verhoop der
+toegeneychde Dichters, en recht-red lijcke welduyding mijns
+vertoochde yver ten goeden op te nemen;  tgene ick U.L. op offere
+Bataefsche Lant-lievers, en Erfvooghden der Vaderlijcke
+bescherminge, voor waerschouw en tot na-dencken in dees
+gevaerlijcke, woeste, twistlijcke tijt, oogmerck nemende op d 
+eerste siel-grondige rechte prickel der volcomen Waerheyt,
+steygrende tegen  tgrouwlijckst ghewelt en helsche verformingh der
+beloft-vergeheten-trouw van t Hof van Bourgoingen. Neemt aan in t
+corte dit mijn gestelt werck,  t gheen u tooneelijck verscheen op
+de Witte Lavendel Camer,  t AMSTERDAM. In Mayo 1616.
+    Bedancke alle Met-broederen, die t met vernoegh ghelust heeft t
+ aenschouwen, ende Haer die t speel-wijs met arbeyt en versuym
+liefd dreef tot de levende Acte, kunstigh te herstellen, van d 
+welck ic my aenbiede in alle dienst en eer te vergelden.
+
+
+                                    Bemint de Waerheyt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *3r]
+
+                 SONNET.
+
+IS t out Poetisch Heyr waerdich der eeren crooningh?
+D in welghecierde stijl, onnut fabels gheral
+Hun nacomers lieten t eenen ghedenck: Wat sal
+Waerheyts beminnend Helt dan erven voor belooningh?
+(5) Schoon bitsich Soijl en Moom bassen t zijner behooningh,
+Hy toont u Leser hoe t vry Nederlantsche dal
+Met Tyrannij, beswaert hoe d Adel quam ten val,
+Door Albaens bloedich wreet, belastet van den Coningh:
+Hier aen is noodig dan gheschakelde ghedacht,
+(10) Ghy niet door inlants twist Gods straffend hant verwacht
+Soo aen de Scepter noch van Madril mocht vervallen,
+Los van de waerde naem van vrije republijck
+Int vry vereenicht Lant, tot slaven van het rijck
+Wiens wreede Donder schrick u t saem sou overbrallen.
+
+                      Verkiest het goede.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                 SONNET.
+
+DE welbedreven hant die rontom den Altaer
+Van d opgheofferd Ipighenia had gheschildert
+Ulissem heel bedroeft, Aiacem als verwildert,
+Menalum schryende, Calchanta vol beswaer,
+(5) En Agamemnons Hooft bewonde om  t ghevaer.
+Heeft de aenschouwers al doen in haer tranen swemmen
+Die zy door meghedoogh niet en costen betemmen,
+Want hier door wert  t verderf van Troyen openbaer.
+Treet naer verbonden volck, bereyt u tot het schreijen
+(10) Siende in desen Boeck u aldereerst bestrijen.
+Orangen neemt de vlucht, Duck D alba comt int landt
+Egmont den doot besuurt, en Hoorn die moet sterven
+Onse Voor-ouders al herwaert en derwaert swerven,
+Van d eerste ons Poeet behoudt de overhant.
+
+                Non omnia possumus omnes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *3v]
+
+                 SONNET.
+
+Midts ghy t voorleen vernieuwt so pront,
+    Sy u met re en dit Dicht gheiont.
+
+RUST Lievers die  t welvaer des Vaderlants betracht,
+Merckt hier werdt klaer ghetuyght  t afbeelt ons eeuws voorleden,
+Hoe vryheyts Burght met grim onrecht lijck is bestreden,
+Door  t al te strengh Placcaet en wreede bloetdorsts macht;
+
+(5) Dies  t veel vertrou, heeft veel van lijf en goet verkracht:
+G lijck als d Orangiens Prinsch hun wel voorseyt met reden,
+Wiens wantrou kloeck beleydt  t gherucht noch kondight heden,
+Mits uyt die Stam door  t sweert  tlant is in vreed gebracht
+
+Dus Cranst de Merkurist, die met kunstrijcke woorden
+(10) Sulckx voordraegt, waer in elck te Spieg len sich behoorden
+Om recht  t voorsegh des tijdts graegh ivrigh te verstaen
+
+G lijck Sorgers van  t ghemeen uyt herts tocht met Orangien
+Achten gevley noch goet, nog oock gewelt van Spangien,
+Maer  t opper Heyl voor al  t geen nimmer sal vergaen.
+
+                   Wie faelt mach keeren.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *4r]
+
+                 SONNET.
+
+LAnt lievers leest en siet dit Treurspel, hoe dees Graven
+Mosten doort Spaens geveyns  t bloedich Tonneel betreen.
+Heyl sy den Batavier, die met zijn rijcke reen
+Ons watrich weer vervarst, en drooch verstopte haven
+(5) Lust gierich was verweckt in dees Cronijck te slaven.
+Tot nut van achterdocht, toesicht voor  t alghemeen,
+Schout haer bespoorde wech, ofter schoon vaeylich scheen,
+Soo wert ghy niet begift, met onverdiende gaven.
+Sluymen u ooghen toe; op offert dan u hart
+(10) Den Thuyn die vanden Leeuw, staedich bewandelt wert
+Int waecken, dat gheen leedt ons schad lijck mocht geschieden
+Wel vry Batavia, aenmerckt nu eens hoe vart
+U  t Iock ontvloden is, en Hollant willich tart
+Den stijf besmeden Mars, haer spits vernuft te bieden.
+                    Rijckdom baert Sonde.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                LOF-DICHT
+                  Over
+          IAN SIEWERTSEN KOLMS
+    Vertoonde Spel der Nederlandtsche
+               Beroerten.
+
+COmt Musen drymael dry, croont toch al met Laurieren
+Dees soete Rymers werck, die soo Cons-rijckich heeft
+Opt aerts tooneel vertoont, de Claechreen en manieren
+Van Princen eel en vroom, hoe datse zijn ghesneeft.
+(5) Want hy t so levent stelt, en toont voor elcx aenschouwen,
+Door zijn soet vloeyent dicht beweeght oock yder daer,
+En schenckt door d Eelen druck met opmerck, tot onthouwen,
+Nevent speelwijs vertoont, in eyghenschap of waer
+Lavender waer s nu  t loon? die toont Uyt s Levens Ionste
+(10) Aen u groot maeck tot stant, door d Afbeelden beleeft,
+In meenich heerlijck werck der Reden-rijcke Conste,
+En over groot vernuft  t gheen u Minerva gheeft.
+Gaet heen en vaert soo voort: laet uwen gheest toch steygren
+Door faem ten trots des nijts, stelt u doen nu ten toon
+(15) G lijck ghy t Meeter doet, Homerus sal d eer niet wygh ren
+Te stellen op u hooft, een Mirtes Lauwer Croon.
+
+                          Elck raept wat.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *4v]
+
+                EERDICHT
+Over  t Lof-herstellinghe, Speel-wijs der
+         Nederlantsche Troublen.
+
+                 SONNET.
+
+TE weynich of te veel sietmen de Rijmers schrijven,
+Te weynich waer uyt t volck, en t Lants waerschouwingh wist,
+Te veel t geen gaijle Ieucht, in s werrelts lust doet stijven
+Waer door men t naeste pat, tot Godt te comen mist.
+
+    (5) Dus Ionck en grijse le en, laet ons dan vlijtich wenden
+Te lesen in dit Boeck, waer datmen ons voorstelt
+De groote straffen Godts, die  t Neerlant deerlijck schenden
+En siet hoe onsen God s Spaensch wreetheyt heeft ghevelt.
+
+    Lof waerdich zijt gij dan op Helicon te blijven
+(10) Ian Siewerts Colms Soon, waer u den Lauwer ciert
+Der Konst Goddinnen al, die deur eer Ionstich drijven
+Mijn vrient, u Coonen t hooft, die soo vroom Bataviert.
+
+    Siet Mome die door Nijt gheraeckt zijnde ten ende
+En door valsch tongen list, Mercuri deet ghewelt
+(15) Bemint de waerheyts Cunst, soo sal u Gode sende
+Rust, Liefd baert Eendracht, t welck ons tot betrouwen stelt.
+
+                   Liefd baert Eendracht.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *π1r]
+
+                Argument.
+
+WY wensche den Lust-gierighe en Const-vordrighe toehoordren veel
+heyls, die met rijpe verstanden u geliefd hebt te verledigen, dit
+Nederlants treurspel met toegheneychde ooren, en noodigh
+herkauwende swaerwichtige sinnen, hier op t tooneel levendewijs
+u.l. de sien voorbeelden, by vele levende persoonen beleeft, die
+deur swaerheydt en Siel-strijdinge comren dus ver aent lant
+ghecomen zijn, en vrye tijdt van weelden. Waert tijdt t herdencken;
+als d inhout ons spels verhandelt, doen ter tijdt de ghemeene
+Edelen ondert cruys, ende regeringhe des Conincks Philippi willende
+alhier d Inquisitie bevesten het onlijd lijcke bloet-Placcaten, aen
+den Hove van Brussel.
+    Op welcke swaerwichtighe, aenghedreven Siel-sorghen, parst der
+ghemeene Edelen uyt gherechte ijver des gheests, en aenghedronghen
+wel ghelaten veur den Throon des Hemels, houden op alsulcke
+onmenschlijcke en noyt ghehoorde gruwlen eenighe vergaedringhen,
+tot bystandt, troost en hulpe der moedeloose en slaefsche Borgerije
+ondert Cruys ghepijnicht.
+    Dus als Vaders der conscientien, Mombars en erfvoochden des
+Vaderlants voordragende, op bestemde consultatien alsulcke
+tijts-noodige en denc-waerde lasten, met rechte liefd en
+toegeneychde hope ten besten zijn Majesteyt  t opcomen voorspelden,
+tot een spae berou, laster en schade aent huys van Bourgoingien,
+deur uytghemaeckte Ambassaten, besloten brieven, als Requesten, by
+ t welck met een recht deurviert ghemoet strevende teghen d 
+onbesuysde reedloose stormen huns bloeddorstigh ghewelt, met alle
+bequame middel, en rijpe versachtinghen, daer teghen voorghespeelt
+opt tooneel van seeckere proffecijen, den rol van weerlaegh en
+gheestloose verdruckinghe, eyndelingh soo aent uyterst gheport
+heeft u hooghloflijcker memorien, in verscheyden ghedeelten doen
+deelen en verandert, als u onversiens den Spaenschen Dwinghlandt
+met machtigh Heyr en staet comt bespringhen, d Inquisitie te
+bevesten, en Neerlandt, helaes!  t overschaduwen met de
+grouwelijckste nevel des tyrannijs, als u Prinslijck Vaderlijck
+ghemoet veur Godes eer en welstandt der Provincien, ten quaetsten
+veur de Croone gescholden waert, als ontrouwe Vassalen, oproeyders,
+en hooft der rebellen, op welck aent uyterst de scheydingh
+gheschiet,  t geen de blijvers hanghende nae de hoogheydt doet een
+jammerlijcke truer-eynd beerven, welcks laetste dach en sterf-uur
+nu op de Pincxster-avont verjaert, te weten, van den Grave van
+EGMONT en HOORN, beticht voor s Conincks vyanden, in zijnen name
+aenghetast, ghevangen en ter doot veroordeelt.    D overghebleven
+ontvluchte Staet, vergadrende in een meerder opghetoghen brant,
+deur d onvergheten moort daer WELHELMO Prince van Oraingien, ons
+ghetrouwer over-Heer gestelt, be- [fol. *π1v] vest en vercoren
+wert, Overste Velt-heer tegent ghewelt van Spaingien, op welcke by
+een comst en rijpe resolutie, tot troost en hart-makingh verschijnt
+den grijsen TYT, die uyt crachtighe voorsegginghe en Godlijcke
+geheymnisse, deelswijs voorspelt de swaerlastige stribbel-weghen,
+die ten goeden  t Nederlandt weervaren, becomen en tot een groote
+Monarchie, weghen huns rijcke, Vryheden ghestelt heeft.
+    Hier meed eyndicht ons voorghenomen treurspel, duydende nae den
+gheliefden toehoorder  t opmerck bevolen wert, na de reden een
+bescheyden oordeel te stellen, opt noodich vertoogh der verleden
+duyrgecochte Vryheyt, in sware bestrijden, tochten, aenslaghen na
+veertich jaren, dus in vry ghekendt verdragh aenghesocht, uws
+wreetste, soo ghedweegh; ontsien, verdragen zijt nae de wille Godes
+met een Gult-Bestant, behoort in spieghel, dat wy nu sorghloose en
+laster-lichte volcken, deur pracht en hoovaerd met den Icarus te
+nae de Sonne der gherechticheydt, in glorie en Hemelsche
+heerlijckheyt schier uyt tarten en braveren, waerdich  t noodigh
+herdenck, de ghenade soo lichtlijk niet te versuymen, deurt
+waen-wijs en roemsuchtigh vernuft, versturven en vergheten van d 
+oude rechte Godtsalighe ijver, inde tijdt der Babelsche
+ghevanckenisse met groot perijckel van leven: Waer wel te wenschen
+ons wijt berucht vereenicht landt alsulcke eerste, noodighe, rechts
+lustende ijver mede swangher te zijn, op  t herkennen ons verdorven
+versuymlijcke lichte en weeldighe stappen, vervreemt by nae vande
+ware Godsdiensten en wel bevlijte segen, erfrijcke Siel-rusten.
+
+Hier me wenschende de vergaerde veel Heyls en bequaem gehoor, dat
+ons mocht vergunt worden gherechte liefde tot de conste, en
+Vaderlijcke beweginghe, op ons voorghenomen materie.    Waer op
+dees Regel slaet:
+
+Siet vry BATAVI Volck op swaer verovert Pant,
+Blijft trou geschaeckelt, voor Gods eer en  t Vaderlant.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *π2r]
+
+              Op de Rymery
+      Vanden wel Sin-Rijcken Poeet
+          IAN SIEWERTSZ. KOLM,
+        gestelt uyt de prose van
+          EMANUEL van METEREN.
+
+ T Ghedacht en ooghen bey, die strijden teghen een
+Overt Batavis spel, dat wijsheyt heeft ghegheven
+Int Hooft van desen Helt, met hulp zijn eyghen leen:
+Want t ghene hy vertoont is siendent self naer t leven.
+    (5) Merckt, leest ghy dit o jeucht! ghy Grijs hier wort vervarst
+Door Kolms sinsoeten rijm; t oude gedenck in claerheyt
+Jae wechs baen tot des vry, doch eerst te hart beparst,
+Sie tot ruste des slans, Beminden vast de Waerheyt.
+    Hier is een Parma Vrou, met haer gheswooren raet,
+(10) Daer protesteren d Eel, teghens bloed ge Placaten
+Oock weygringh huns versoeckx, men vindt Pasquil op straet
+Nassou en veel ghemeen, gaen goedt en Landt verlaten.
+    Duck-dalf uyt Spaengien comt, ha eyghen Neroos vaer!
+Toont Parma Coninckx last, o gruwel boos bedreven
+(15) Voor dienst des Welstandts trou, t ghedenckt doet rijsen t haer
+Daer Egmont en Hoorn beyt, ghenomen wordt het leven.
+    Tijdts loop vertoont hem mee, die Propheci brenght voort
+Gheschiet door Gods regeer, met teyckeningh der handen.
+En weckt d Orangen stam, dat waer hier in bekoort
+(20) Soo wy nu zijn ghekent voor eyghen Vrye landen
+O Siwersoon sou ick u wijs beleyts verhael
+Peghelen  t aldernaust, voorwaer ick ginck my stellen
+Teghen onmoghelijckx doen, jae teghen kennis schael
+Of aen den Hemels krieck de Starren te gaen tellen.
+    (25) Prose-schrijvers ey siet besonder ghy o Meter,
+Hoe des trou Batavier u reden gaet verlijcken
+Beminders van prompt duyts, ende zijt des gheen vergheter
+Die op Pernassi Bergh, ons tael gaet staech verrijcken
+    Ghy Susters neghen ras, set op het hooft een Croon,
+(30) Hem die Uyt Slevens Ionst, Neerlants staet stelt te vooren.
+En Fama loopt ende vlieght, ja maeck hem tot een loon
+Soo dat men in dit Rondt, van dees Poeet mach hooren.
+
+        G. Martens.                            k Betrou in een.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *π2v]
+
+              Personagien.
+
+BELGICA.
+Grave van EGMONT.
+Grave van HOOGHSTRATEN.
+Graef LODEWYCK van Nassouwen.
+    Vals HYPOCRISIE.
+    Bloedtdorstich GHEWELT.
+    MEEST ELCK EEN met zijn Vrouwe.
+Prince van ORAENGIEN.
+Grave van HOORN.
+Heer van BARLEYMONT.
+Grave van MEGEN.
+Madame de PARMA.
+Heer HEYNDRICK van BREDEROODE.
+Heer GYSBERT van BATENBURCH.
+Grave van CUYLENBURCH.
+    d OUDER.
+    Oproerighe GHEMEENT.
+    LANTMAN.
+SABYNA van BEYEREN.
+Heer DIRCK van BATENBURCH.
+DUCK* D ALBA.
+    Den TYDT.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                 BALADE.
+
+DUyt my onwaerdigh toe geen Krans van Lauwerieren:
+Den Guygaert sit en grimt ter zyden, achter  tgeen
+Ick uyt een Leef-giers aert u offre BATAVIEREN
+Veurt noodighst na Reen-wensch, niet beters kost besteen,
+(5) Siet vry BATAVI Volck op t spaerwaerd overleen,
+Waer in mijn teere Pen lusts-yver dreef te grasen,
+Druck in met aendacht dyner Zielen vol geween
+Op  t waen versuymt. O wilt u aen den HEYLANT asen.
+Wiens milde Ader vloeyt. Laet Nijt en Mome rasen.
+
+                      Bemint de Waerheyt.
+
+
+
+                     Continue
+
+[fol. A1r]
+
+    Spels begin, d eerste Handelingh.
+
+                BELGICA.
+
+   Sittende boven op een Throon met de
+        ghemeene Edelen om haer.
+
+KRioelich volck, wat port u moets gestegen parssen,
+My voorbood op de schaeu van swaert en harrenassen?
+Sinckt goude Sonne, sinckt achter de heuvlen neer;
+Sendt middel Hemel tot mijn Conincklijcke eer.
+(5) Verhoopte Heyl ghe tocht, der soetste waterbeecken,
+Godlijcke Voedtster, noyt ghy nijdich liet ontbreecken
+U voedent-rijcke speen: Sit vast int hoogh ghewelff
+Ghy onbesadicht g luck, dat nauwernoot u selff
+Sult queecken als daer lust uws aenpart leyt begraven:
+(10) Te selden Staets volnoecht, bevrijt voldiende slaven:
+Is dus u borst beheert, van liefdens vlam ontbloot?
+Van sichtelicke klaert, en van medooghen doot?
+Is dus de dolle schricks toelaet op varsse beenen?
+Dat sonder keer noch recht comt springhen voor de scheenen?
+(15) Is dus  t balstuerich volck op t hooghst der woeste loop,
+ T geent even staet, of raeckt te pletter over hoop?
+Ghy die dryvoudich oyt, Beheerders vande teughel,
+Vant voorwijs werelts staet voert op u goude vleughel,
+Wijdtruchtich om end om, vast hevich swiert en keert;
+(20) Siet herwaerts, siet die oyt dienstbarich heeft gheeert
+Als minst des huysghenoots O Slodtvrou aller deughden,
+En u Staetdochters lot voor wyle  t deel bevreughden
+In heylgiers rust, begift, met volghewenschte pracht,
+Van Steden Volck-rijck groot berucht aent eel gheslacht,
+(25) De braefste aenghelijft Stadthouders en bewaerders:
+Des vrijheyts Palm-ghetopt te peerlen trou vergaerders,
+Wijckt nu niet vlugghe starckt afgunstich onverdult;
+Alst loover Dal ghesticht op Phillippo ghehult:
+En bout dees Phenix doent ghevreesde Frans-landt swichten,
+(30) Van t welck de Grijsser sal op D antipoden lichten
+Volruchtich Hemel hooch. Soo waerdich Belgi schadt
+Verlaetse nu gheensints: het onghestadich radt.
+Walcht tegen  troer beloop van out ghesworen Staten.
+Op Momber vreemt onthael afgunstich en verlaten:
+(35) Ghy wout o lichte waen, te kleyn verwaerdicht alt
+Voor liefd soo rustloos spoocht de bitterheen vergalt,
+My droeve Maecht te leen, ramsalich gantsch onmachtich,
+By d opgedragen last hooch offer onghedachtich.
+[fol. A1v]
+Aenheft de leyde stem ten Hemel, oft vervil
+(40) T erkennen schult, onloon van dees u quaden wil,
+In langher handt ghevoert onlijd lijck moet verdraghen,
+U naeberlaech bloethof by last nieu aengheslaghen
+Ten hoof uyt Valedolit beseghelt, voorghestelt
+Een gruwelijck Placcaet t invoeren met ghewelt,
+(45) Welcks voortganck sal des Rijcks gepuynde weghen banen,
+Dort nernighloos, en welt een droeve dal der tranen.
+Ay Hem len wijsheyts Godt ghy allervorsten Vorst,
+Monarch op t hoogst ghestoelt  t hart dat rechtvaerdich torst,
+Ghedwonghen sich verneert voor  t heerssen der Tyrannen,
+(50) Als in Pharonis Juck gheketent en ghespannen
+Stelt nae eer Vrijer doen dees maecht voor hoep en heyl,
+Los in ghenoech der dienst, huns levens offer veyl:
+Breeckt eens t Maraens verkeert onvorderlijcke banden,
+Sielstricken tot verderf, dees welbedeelde Landen,
+(55) Van welck mijn name stijght, beseghelt vast gekent,
+En swemmet deur de locht tot aen des werelts endt:
+Daer by ghedreycht in hoop, ick stel de waere hoeders,
+En Vaderlijcke schaer, als rust bewaerde, spoeders
+Van wets ghekiste schat doch nimmer werdt verdooft
+(60) Deurt strengh gewilt verargh, dat vreesich over  t hooft,
+Dit ongherust ghemoet met jamren heeft ontsteecken,
+En swaerlijck haets onteert deur geesteloose leecken
+Stel des, t anstaend soo hoogh een Vooghdtschap tot versoen,
+Oft tot ghemeen bereyck, noch liefdich was om doen.
+(65) Mijn Coninck siet eens op u meest ghevoede schaden,
+Als ghy onheylsaem drinckt by u verkeerde Raeden.
+En parst, en tercht, en woedt, u onder Seege-schaer
+En bouwt u selfs te proy. Een Nimroths hoochte naer
+Hier by opt ernstigh bien van u gheeende monden
+(70) Erf-vooghden, van dees maecht, helaes die wert bevonden
+Met haer ghesusters staet Omheynt dus al te wis.
+Int gruwlijck woest des tijdts, en strijdtsche wildernis
+Haelt weder op de tack de Laura van u vryheyt
+Dus onder voet gheplet, u voorverweende blyheyt
+(75) Waer op mijn droeve handt de leyde reen beschreef
+Aent Vaderlijck ghetal, dat tot melijden dreef
+De eens ghewilde vlijt vant Princelijck vergaren
+Des Hemels heyligh licht, belicht dees waerde scharen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. A2r]
+
+          D eerste Handelingh.
+
+        Grave van EGMONT comende
+              uyt den raet.
+
+PRovinciale Maecht Goddin die wijt gheleert,
+(80) Tegen Europas glants u wondren Eclipseert,
+Sult nu alst Gout deur  t vier ghewraeckt werden ter proeven:
+Heeft u tijt niet ghenoech ghestribbelt sout behoeven
+Tot dijn groot maeckingh? neent, want daeghlijckx wert gheplant,
+De neeringhloose stam in u weltierich Lant
+(85) Int Spaensche morghen Sap, ghevoestert hier doen enten
+By t geesteloos besluyt int bloeyen heurder lenten,
+Wiens smaeckelijcke beet van d eerste vrucht gheeelt
+Ons hoogher Keyser werdt gheschoncken door de weeldt:
+De karle gaf ghemant t hart ware lust te erven,
+(90) Dees doemelijcke geur betracht deet levent sterven:
+Alst u doorvrolijckt met de dolle moet veraest,
+Waer uyt dit Nederlandt soo onghemeten raest.
+U wils, gheweldich erf, ghebiet selfs en vermetel,
+Te nutten t woest gheplant, wiens daeden onverghetel
+(95) Hy ons tot heerlijck licht sijns naems so gunstich biet,
+En liefd tot fleur des lants: geen Inquisitie niet.
+O neent ghepomte Prins, by u verwaende drijvers,
+Die maeckt dus d eyghen vreemt, en zijn wy staege blijvers
+Daer trou is gantsch ontbloot? Alst aenghestorven rijck,
+(100) En zijn voor ouden dienst, noch graven op den dijck.
+Vergeet mijn Coninck dees bewesen groote daden?
+En sal bewiste deughd, t Spaensch Godloos nest verraden?
+Hier stellend in de vlam tot roof huns harts vergalt,
+Knielt voor u hels Santtin van duysterley ghestalt:
+(105) Ghy schrickeloose Siels, en Cancker deser Landen!
+En pest des waere vreeds, verderfs oorsaeck, der schanden
+Ghedeelde deel! t geen dus wert over hals door dwanck,
+t Borgoensch ghewelt tot dienst, Slaefs vreemt u daghen lanck
+Vergheten  t hoogh belooft, vervreemt van liefdens teecken
+(110) Wilmoets versuymt gheparst en alst, schijn-jonstigh smeecken
+Der Princen waensucht door t ghehitste gheestloos raen
+Volmacht bijt wreet paccaet (wil) ist met ons ghedaen.
+
+    Gesuckelt Belgi volck, vol strijts en nijts omringelt
+Van buyr-vyanden oyt soo strengelijck besinghelt,
+(115) Als eer de Fransche Croon u vette groene wey
+[fol. A2v]
+Met list kreech binnen t woort dat onder vreuchden rey
+Van houwelijck, doen u was een Heere en behoeder
+Roomsch Keyser Maxm liaen: Daer naer tijt maeckt dy vroeder
+Versekert, als tot Gent de bitse Vlamingh vat
+(120) Heur vorst, en vast lijck doen, bewaren in de Stadt,
+Beschuldicht van  t onrecht, huns vrijheyts te verdelghen
+Der Staten Heerschappij, sijns hooghmoets op te swelghen,
+Invoert uytheemsche tot slants Gouverneuren aen:
+Als nu, het selfd en sal t lant nimmer wel vergaen.
+(125) Wel heeft u opt ghelust, waer naer rechts Princen dorsten,
+Met voorsicht t rijck gekust onder de vierge Vorsten
+Van outs Borgongien. Philips de stoute voor de eerst,
+Als Geldre u bestreet, en Englant heeft beheerst:
+U buyten haef die veil de rijcken deelt int stroomen.
+(130) Versnorckte Bataviers, van outs gheachte vroomen,
+In daden wonder by hun Princens rechte saeck
+Veel meerder soo hy wou verschalcken, t zijner wraeck
+U veel gheleden last, bevonden wy verscheyden
+Deur trouweloose ernst, en s Prins onsekerheyden,
+(135) Maeckt u ontroerich, selfs toesiende voort te nae
+Voor rijck, voor vrou en kint, dees eygendom soo drae
+Wy die voorsorghers zijn, versochten t wreet te soeten
+Tot s Conincks best sien sulck ondanckbaer loon ghemoeten.
+
+DAt m nu s lants vorsten, voor getrouwe dienst en eer
+(140) Met een Godtloose clack, onrechtelijck velt ter neer
+De vry ghestelde last, als hoeders voor de standen
+Ontvooghd soo veel voochdy, en sietse naer de handen.
+Sijn by Carole tijdt eens gulde staf bestreelt
+U vooghdens onderdruck: Int mennen van de weeldt,
+(145) Niet alleen, ons ghemeen, maer u de Rijckste gaven?
+Int welck helaes ick ducht, de weergalmt heeft begraven
+Heur jammerlijcke tongh en naboost op de tij
+Die d rechte helden breeckt een droeve Prophecij,
+Veracht en weerloost, ach! diet Hemel tuyght soo hartich
+(150) Sach in tijts ouden stant, dat men die wreet en smartich
+De necken biet verwaent, en spreecktse bitsich aen
+Met grimmen Leeuwen brul, wert by ons vrou verstaen
+Ghedronghen nijdigh uyt  t bloet van uytheemsche koppen
+Om eyndelingh hun graechst in ons ge-erft te soppen
+(155) Daer yder vorst, in recht, vry eyghen Heer ghehult
+Heerscht, en by dien begift met sachte eeren schult
+Van Vlaendren de vooghdy Artoys neersoete steden
+Sijns Majesteyts vereert tot Gent by soo veel eeden
+Van yder Prins in t zijn de Landen toegheneycht:
+(160) Sout konnen, doenlijck zijn hoet ongheluck t luck dreyght,
+[fol. A3r]
+Te minder mooghlijck dat de Moeder sou verraden
+Heur kint, te min een vorst, waer by zijn eyghen schaden
+En Adelloos versuym van goet en eer berooft:
+Dit blaest ghy Spaensche raet den Coninck nu int hooft
+(165) By u verwaent besteck. Alst schijnt dat rechte reden
+En macht moet machteloos van zijn g erfde heerlijckheden,
+En opghesworen dienst neerdeyssen, jae versmaet
+Vant marmer schittrich hof en d eenicheyt der raet,
+Verwisselt deurt beticht, die voor de Landen stellen
+(170) Ons waere ziel te pant. O Cardinael Granvelle!
+O Spaensche Monarchael! wat broutter? wats u sin?
+Wat voert ghy eyghen leydts tot naberouwen in:
+Nu smeeckt, dan eedloos breeckt ons toeghesworen lucken
+En eert, tot dat ghy erft de macht van t onderdrucken
+(175) G looft dat nae dees mijn tijt en d uwe Coninck sal
+Wraecks-tocht, traentochten by een onvermoede val
+Uws teghendeel: ghy parst doent Egmont voor u spelden
+Dees werden nagemort, Verraders en gheen Helden,
+Nalevers tuycht op t recht ick leve of ick sterf,
+(180) Dat ick door eersucht noch om vaderlijcke erf
+Te waghen voort ghemeen werdt nimmer naegheweten
+Die teghen Croon oft rijck deur ijdelheyt vermeten
+Ben opghesteghen noch om brantschat last hoe hoogh:
+Alleen uyt loutere liefd , die  ck draghe aent vertooch
+(185) Van dees onheylighe pars siend deur bloets stromen dringhen
+S oock voorsegh spaensche raet. Soo veel veranderinghen
+Wel haest en onvermoet, u schennis, faem, noch lof
+O Brussel rechts verkeert groot Hartoochlijcke Hof,
+Hoe plich jaecht u Geest in Christen bloet vergieten,
+(190) Sijn dit de vruchten van u bloetraet die wy g nieten,
+Wt  t gruwelijckst placcaet ghesonden en ghestelt?
+Soo breeckt des Hemels recht u onmenschlijck ghewelt,
+Wt Basiliscus speen gheadert dijn harts voeder,
+En liefd zijns Majesteyts, die swoer des rusts behoeder
+(195) Want schoone Brabandt, werdt nu deerelijck versmoort
+ t Clach der verslaghen, wiens clanck d hooghen Hemel hoort,
+Werckt deur d aenschouwers inghewortelt u ter wraecken
+Veel zielen uyt de brandt die branden aen u staecken:
+Laet af O gruwlijck huys, soot noch iets doenlijck staet:
+(200) Ghy claecht te spae berou alst rouwen is te laet.
+Hier op o heylich Vorst, en alderwijste Vader
+Ons eenich hulp en troost de enckel goedtheyts ader
+Ghy kent de vroome wil ons woorts nu eens int t feyt
+Tot s lants ghemeene best, dat ront in roeren leyt
+(205) Bewaert u knecht tot d eer vereyschte last beroeren,
+Dat wijt ghewilligh voor u Majesteyt volvoeren:
+[fol. A3v]
+Soo trou in rechte brant, ons Kerck en Coninck by
+Tot d lesten adem tocht, maer endelingh dat wy
+Ghedwonghen zijn opt hooghst uws gramschap te versoeten
+(210) En by gherechter weet zijn Majesteyt ghemoeten.
+Ay Adel wie beleeft ons  t oude vrijheyts recht
+Of wien volvoert dan t stuck als ghy verstorven leght.
+
+         GRAVE VAN HOOGSTRATEN.
+
+Hoewel Granvelle moest nae Spaengien  t zijnder spijt,
+So blijft hy Nederlandt een Cancker van u tijt
+(215) Een onuytbluschlick vyer, d aenvoerder deser quaden.
+Eyscht wederom  t ghehoor, in spijt der spaensche Raden:
+Siet hoe  t ghemeent rumoert! hoe sorghlijck wort ons staet!
+Eer langh raeckt ons om t stuck vant bloedighe placcaet
+De knodse by de wech wy zijn int volcx berichten,
+(220) D oorsaecken, liefdeloos, voor sulcx de saeck te richten,
+Ons neemtmen hoeckwijs waer, de clachten zijn te veel
+Van haer die vol ghecropt aennockten tot de keel,
+De haet schuyft op den Prins, ons huysen werden plonder
+Van t woeste volc, wie dwinght of setse weder t onder?
+(225) Fy oorblaes! teghen  t rijcx welvaren valsch ghevleyt
+De waencoorts tot berou van zijne Majesteyt
+O voorste moedich Prins, Gaveere, die dus eenich
+De Welfsels zijn te bangh, de suchten zijn hartsteenich
+Met uwe hulp verwacht gaen wy ten tweedenmael
+(230) Ten Hoof.
+
+                 EGMONT.
+
+Wat ist? ick siet  t rijck op een punt van stael,
+Ballanst dit Godloos rot, ghevoert my niet tot Spaengien
+Wat danck uw s velthooftschap, bevont ghy trou Orangien?
+
+       Graef LODEWYCK Van Nassou.
+
+Den dienst niet min voor God zijn suyvre stoel verwindt,
+
+                 EGMONT.
+
+Graef Lodewijcken ghy Hooghstratenmen bevindt.
+(235) De Landen inde waegh, opsterckt van  s hemels claerheyt.
+Soo nemen wy de last en Vaderlijcke swaerheyt
+Voor ooghen, wy die recht in  s volckx misnoeghen zijn
+Te breecken waer  t ons wil,  tgeen dat een meerder pijn
+Ons ziele druckt, nochtans niet wijders konnen letten.
+(240)  t Is overlangh ghesocht by d opghestelde wetten
+[in margine: Valsch Ipocrisie uyt.]
+Te laten naderhant, te mind ren dus met een:
+Wy dienen g lijc verselt, t saem tot de Prins te treen,
+ t Is tweede morgen root, verschenen vroomste eelen
+Bestemt uyt hooger noot ons Hertoghin te deelen
+(245) De rechte klaerheyt, so van alle kanten by
+Uyt Nederlant den staet gecomen zijn, gaen wy
+Hier uyt dees plaets besien Heer Brederoote vinden
+[fol. A4r]
+O Saelge eendracht: Vrou van luttel onderwinden
+Hoe is u schoonste rijck  t vry Neerlant nu ontvreemt.
+
+           VALSCH HYPOCRYSIE.
+
+(250) Gaet veynsaerts gaet van kant,  tis langh ghenoegh gheteemt
+Loopt spreecktse hart int lijf, dees nieuwe Geuskens t samen,
+Die haer hoe lanckx hoe meer int West-vlaend ren versamen
+Tot Doornick ist bekent t Antwerpen gaetmen plat
+Vry lesen, preecken, dat noch even voor de stadt:
+(255) En wasser onder u o Vorsten gheen verstercken
+ t Ghetal wies so niet aen, men sracker om gheen kercken.
+Wegh  t is al een geluyt,  t is al te wel bewist.
+Roomsch Catholijck, hoe langh? tot dat u grove twist
+Uytbuldert deur de macht? Dit deet ons Coninck vreesen
+(260) En sont een nieuwe raet, die sullent best belesen
+Nae wil sijns Majesteyt, en  t Heylige verbont
+Van Trenten, alsoo meed Granvelle wel bevondt
+Te blijven by  t gewelt. Gaet dan Schijn-lants-Behoeders
+Gaet beelde stormers gaet: En was ons dan niet vroeders
+(265) Ghebootschapt, die vertreckt uyt d Raet: noch zijt bewaert
+Met voorspraeckschap? Voor haer wiens bitse valsche aert
+Wy gheensins zijn geneycht, als neycht op d Inquisitie
+En doet haer onderstant rechtveerdighe Iustitie.
+Heeft mense niet van outs wie vaste banden braecken,
+(270) Tot welstant  t Roomsche rijck, of om geringer saecken
+Doen helpen van een kant? veel beter een in ly 
+Als  t lant verdorven wort deur valsche kettery.
+O Sant Maria! comt u kercke nu bewaren:
+U Godtvruchtigh ghesin, ons kloosterekens dienaeren:
+(275) Want soomen daeghlijckx siet de Geuserije wast
+ t Rabbauwen rot vermeert, en deetmense geen last,
+Sy souden metter haest ons gantsch en al verdrijven:
+Dan  k hoop  t sal so niet gaen, nae ons Heer Coninckx schrijven
+Die wil gehouden wert  t Placcaet wel sterck en strengh.
+(280) En isser dan geen raet, ick bent die t onderbrengh?
+Die teghen staet den wil, van mijn Heer Vaders panden
+En royen over t quaet uyt zijn Erf-nederlanden.
+[in margine: Bloetdorstich gewelt uyt.]
+Siet hier comt daer mijn Siel en volle moet op steunt.
+Hoe gaetet al met de Rebellen?
+
+         BLOEDTDORSTIGH GHEWELT.
+
+Dat ghy t u niet en creunt
+(285) Domine, en al  tgheen dat haer Alteze seyde
+Op d Adels eerst request, was dat sy nederleyde
+De voorder toeslagh, en hulp  t Stael weer inde schee
+Maer ondertusschen, soo de ketterijen wee!
+[fol. A4v]
+Ghesworen vyandt, hiers die al u doen sal maecken
+(290) tot puynen hoop, en al u dartelheden schaecken:
+Ghy schuym, ghy licht-gelaen, hae denckt dan by gantsch bloet!
+Wat ghy zijn Majesteyt, en Roomsche kercke doet.
+Niemant waermen vermoet, blijft stil of by het leven!
+ k Heb volle macht, en t is my inde handt ghegheven,
+(295) Dees sotte bollen, Sim, half nesck en lappen leuren:
+Ick souse selver met dit kinnebacken scheuren!
+Eer sulckx te lijden, datse vorder wassen aen.
+
+           VALSCH HYPOCRYSIE.
+
+Och soo mijn Heer, och soo.
+
+         BLOEDTDORSTIGH GHEWELT.
+
+Jae niet een woort van dit vermaen,
+Soo langh ick leef sal zijn u alderrechte Vader,
+(300) En sterf ick, so beschick ick u een tienmael quader,
+Of hy soo bits niet schijnt, voor ooghen dat hy dient
+Noch tienwerf slimmer, onder decksel van heur vrient:
+Dan noch geen noot, ic groep in desen handel machtich,
+De Gheest is dol, en vol, de leden fris en krachtigh
+(305) Heer Padre maeckt vry moet ons haen moet Coninck zijn,
+Eer lanck niet een ketter levendt
+
+            VALSCH HIPOCRYT.
+
+                                                    met die mont drincktje wijn
+En hoe salt gaen, ons Vrou doet geen Placcaten breecken!
+
+        BLOEDTDORSTICH GHEWELDT.
+
+Dus ist:  k hebt menichmael gesien, sy toontse teecken
+Van wel heurs eens, aen al dien Geusen Adel, hoop
+(310) Rabauwen die nochtans bevorderen de koop.
+Heeft Willem van Nassou. t Antwerpen niet geleden
+Vry prekingh? waer uyt, als hun welstandt toegetreden
+Die Gouverneur der Stadt gestelt was, werdt ons moe,
+Neen Prins, staen wy gereet dit volck te laten toe,
+(315) Dat ondert decksel groyt alom in duysent vlecken
+Sy souden t net (al sacht) ons over  thoofde trecken.
+Ghy die devoot van aert als Lam ren zijt vernoecht,
+Moet dese voorstant dien toch nimmer mat gheswoecht
+Te selden is versaet, vant ketter bloet. Ghy ouders
+(320) Inquisitoren die neemt op u grijse schouders,
+De last de sware last, ons Kercke blijft in fleur,
+Volght  sConinckx mandament, dats so te redden deur:
+Geeft sachte stilt, int goe, daer by zijt op u hoet,, wis,
+En spaerter geen, vertreckt, en strijckt een streeck die goet,, is,
+(325) Oyt waerdy my te swack, laet Donder stormen hooren
+En dwinghtse onder  t Juck of  trijcke is verlooren.
+Coemt Domine volght nae, ick heb de beste leus.
+[fol. B1r]
+
+              V. HYPOCRIT.
+
+Och goede vrome harten tot heylicheyt gheboren.
+
+               B. GHEWELT.
+
+Mars bloedich inden strijt by Venus Amoureus,
+(330) Ons is de volle last, wy sparen niet een Geus.
+
+             MEEST ELCK EEN,
+ Een statelijck Borger met Vrou en kint.
+
+Lost nu benaude stein u banghe borst volcropt,
+Dus eensaem varr ghedwaelt in sware fantasijen
+Eens duyster handel, die den geur van Adem stopt
+In sorghelijcke sorch, ghemenght vol Tyrannijen.
+    (335) Recht vlieght het spreeckwoort out, dat Heeren-boecken zijn
+    Te lesen duyster, doch meest op de cleyne ghelden.
+    Heur moeten wy voldoen,  t bedrieghen valt door schijn:
+    Wat ongheval can ons gheleerder hier uyt spelden?
+Ach! clare Morghen-bruyt, licht op een duyster padt,
+(340) Ind harten spieghel, dat tijdts laghe moghe weten
+Hoe t hier nu ghelden wil, met Borger, Landt en Stadt
+Daer d eygen wijs Santin is op het hooghst gheseten.
+    Wat morter sins ten Hoof? wat doet de Princen gaen?
+    Verslaghen? half ontmant met neergheslaghen hoofden?
+    (345)  Tis  t strengh placcaet uyt naem Philippi aenghedaen
+    Aengaende  t stuck o Heer! Die in u naem geloofden.
+Willende stout hier wert ghehouden ingheset
+De Inquisitie, meed  t concilie van Trenten,
+G elijckt blijckt aen onse Vrou de Parma, wiens belet
+(350) Heurs Bloet-raets neycht te veel, O loos der Malcontenten!
+    Ghy listich Roomsch Planeet, dry-Croonighe Monarch
+    Onder wiens Gheestlick wit, als Vreeds baniere crevelt
+    Een Helsche Tisiphon, den loosen over arch,
+    Maer die in Godt betrout ghy noyt tijts glants benevelt.
+(355) Vrou Hertoginne keert, door wijsheyt Godes nu
+D ellenden opghehoopt, tot schentsel der ghemeente:
+De Princen soecken stilt, tot spraeck wy vallen u
+Ootmoedich voor de voet, hout Christ lijcke vereente?
+    En soo t in sonden bloeyt, vaert voort in alle quaet,
+    (360) O Brabant! sult ghy noch, beducht ick sien Versterven
+    U hoocheyt opghepronckt door een Godloosen raet
+    Lichtveerdich naghetreen, is d oorsaeck vant verderven.
+Van boven s Hemels top deur dicke wolcken spart
+U voorghebaende padt. * O Vrou die zijt t oneere
+[* De waerheyt.]
+(365) So grouwelijck afghemaelt, coemt blixemt deurt ghestart
+En slaetter duysenden, die wilmoets dy verneren.
+[fol. B1v]
+Ghelijck tot noch het vyer, ziel-yvrich deur Gods kracht
+    Gheschoncken is bedeckt, by ons soo hoogh gheacht
+Nu swalmt en stevich smeuckt, al heymlijck onder daecken,
+(370) Van langher handt sal dies de Vlam te grooter maecken,
+Dat onuytbluschlick wert. Gheloovich kleyne schaer,
+Tot noch in holen, en speloncken, diefwijs naer
+De groote Heylgiers dwanck, op sorghelijcke strijden
+U Werelts hebt ghewaeght, in dees benaude tijden.
+(375) Tijdt sonder rechte tijdt, waert dartel heerschen graest,
+Dat waerment heerlijckst waent, ist ongheluck op t naest:
+Gods naem belijdent, zijt soo moedich deur liefd  s vlammen,
+En schrickt noch swaert, noch vyer, noch hatelijck vergrammen,
+Noch G welts balstuerich hooft, noch d onbesneden trots
+(380) Der Spaensche, als ghelijft aen de ghenade Godts.
+
+             MEEST ELCK EEN.
+
+    West-Vlaenderlant, waer corts t vergaderen ghebeurde
+Hier na t Antwerpia, een vierendeel mijls veurde
+Onsichelijcke stadt, in Braeck-maent corts nae dees
+Tot Doornick: Hollant deur, veel Steden, tijts verwees
+(385) T uytbarst des Zielens dorst, deur honghers noot doet swarmen
+De Volcken opghehoopt, als ghy gheestlijcke armen
+Deur Heylgiers sorgh en dwanck vant knaghende vergeet,
+En overtuygh benaut van t sienelijck bet weet,
+Tot waerheyts kennis, dat u langh had onderbonden,
+(390) T verborghen Wet-Boeck is dan seeckerlijck ghevonden:
+En overmidts elcks Gheest, deur kunt soo noodich vleyt,
+Nae alle dienst uws doens, aen de almachticheyt,
+Die Hemel, Aerd en Zee heur palen heeft ghemeten,
+Die alle harten kent, en heeft van oyt gheweten
+(395) De boosheyt onses aerts, deur sond soo overlaen,
+Dat ons ghenade en gheen recht Heer wert ghedaen.
+    T langh voorgheslooten, u claer suyver Hemels woort,
+Als eenghe troost, by nae deur  t Roomsch ghebodt versmoort,
+Ontspant heur heerlijck licht, tijdts moet wil, gru en plaghen
+[in margine: Den Adel uyt.]
+(400) Heeft nu uyt  t swaerste nock de droeve Vrou ontslaghen.
+O Heylighe Waerheyt, wint,, en brenght ons tijdt te goet
+By die u eeuwich Mint,,wt dese teghenspoet.
+Siet hier den Adel, siet het is den Prince selven.
+    Die zijn Heyl-Setel sticht, daer d Hemelen verwelven
+(405) Op sijne Goude Vloer, de gheef u soo veel luck,
+O Vorsten! Vaders! Siet op der ghemeenten druck!
+Op d ingheseten droef, onmenschelijcke swaerheyt,
+Doe om t belijden Gods, gherechte dienst in waerheyt,
+Sijn ballinghen op t best, oft tijdeloos vergheet,
+(410) En van t Gods laster-dier, verhonghert d eerste beet.
+Ontbarmt de tranen die ons droeve Ouders storten,
+[fol. B2r]
+Op d eyghendom, ontvreemt, O Prince! doet vercorten
+Dees Bloet-ren, sichteloos, van d onghemolcken Speen,
+En wilt eer ervens d hevich strickte moet ontleen,
+(415) Ghy zijt ons meest elck een, de hoep om te vermind ren
+Het slaefsche jock voor ons kleyn naghelaten kind ren,
+Ach Nederlant hoe salt ons enden?
+
+            P. van ORANGIEN.
+
+T weet de Heer.
+Ghy smart ons schadelijck, dat,  t swaer ongheval te meer,
+U halfstarck* overijlt, vertrout Godt u ellenden
+(420) Gherechte klacht, ons nae, die alle harten kenden,
+Kent wie voorsorgers zijn van s lants, ons, en u noot,
+Soo Daniel int mits der Leeuwen noch ontvloot
+Des doodes schrickel punt, soo kan u Godt behouden.
+
+             MEEST ELCK EEN.
+
+Maer g nadich groote Prins! O Maghen en voorouden
+(425) Noch corts in lichte Vlam verteert! ist niet gheschiet?
+
+            P. van ORANGIEN.
+
+Wie quaet doet, straf ontmoet met lijdsaemheyt men siet
+Blyendich noch verrijckt de lijder zijt te vreden,
+Wy sullen om die saeck noch morghen binnen treden:
+Houdt u al stil, sijt sterck in Gode die u mant.
+[Adel in]
+
+             MEEST ELCK EEN.
+
+(430) Wat temt de volle moet in d alderhooghste brant?
+Welck tempert droeve gheest des ongherechters terghen,
+Als Godt? wie machticht int  t versetten d hooghste berghen?
+T is Godt: wie keert de Vloet van d onbesuysde plas?
+Godt selfs: dees Godt die los van Swaert en Harrenas
+(435) De Betlemitsche knaep trock uyt de harder Vliesen,
+Dat door hem Philistijn u blixem soudt verliesen,
+En d aldergrootst ghewelt, dat Israël ontsagh;
+Die Jaerlijcks u verdruckt en maeckten droef gheklagh,
+Dien Godt die leeft, en is noch Heere alder Vorsten,
+(440) Buyght d harten grootste heyl die nae ons leven dorsten
+En snacken nae het bloet ons kinders al te saem
+Als een Herodes wreet tot prachtingh van zijn naem.
+
+         MEEST ELCK EENS Vrouwe.
+
+Tijtghenooten even deelich,, siet hoe weelich
+Nu den Spaenschen dwingher raest,
+(445) In zijn Heers Pharao tijden,, doet hy lijden
+Die hem waeren oyt te eelich,, als ghy streelich
+Aennamt s Vaders Heerschappijden,
+Was u glorie doen op  t naest.
+Hoogh vermetel Gods braveerder,, jae oneerder
+(450) G weldich aertsche Monarchael,
+Die d hoogh Chaos, strengel wonder,, acht u onder
+[fol. B2v]
+Nimmermeer weet ongheleerder,, maer ghy eerder
+Als des Nijls Croondragher plonder
+Voor des g rechtheyts hooghste sael.
+(455) Als deur t vyer het Gout ter proeve, en  t behoeven
+Wraeck uyt d hooghen Hemel crijt
+Dat u mindert meer als eyghen,, deurt toe dreyghen
+T gheen ghy nummer sout behoeven,, niet woudt toeven
+Wilt de ware Godtheyt neyghen,
+(460) Eer ghy s werelts schouspel sijt.
+Indies-Moor, en  t deel Afrijcken,, doet ghelijcken
+Wilt die gantsche aerde u
+O ghedenckt Godt is rechtveerdich,, ghy onweerdich
+T gheen u Vader liet onstrijcken,, liefd * moet blijcken
+(465) Denckt dan alst u staet licht aerdich
+Soo en soo wast doen, daer nu?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+         GRAVE van HOORN alleen.
+
+    Hoe! licht gheveerde Gheest, waent ghy ons Heerschappijen
+Te roepen u tot tuyl, wt, wy tot slavernijen?
+O nimmer, mat gheswoeght is voor  t rechtvaerdich recht;
+(470) De Ziels verstaelde borst, aen woort en trou ghehecht.
+Niet weynich zijn die reen, voor u Princes te deelen
+T saem soo onrecht beticht de voorste uyt de eelen.
+    Ach rusteloose Eeuw! staegh mort de Geest t onvreen
+Dat ziel-sorgh overtuyght belast en doet besteen
+(475) Wt liefd , soo recht, so waerd, ghemelt ons s lans onspoeden,
+Oproeyders, die deur pars der knaghende ghemoeden
+Dien heden onder t cruys ghedoken zijn te strangh:
+O Hartochdom soo stout en heyloos hebt van langh
+Uws bloetraets wil volaest met woede dreyghementen,
+(480) Wt spaensch Inquisiteurs, als t Hof van alle Tenten
+Gods heerlijck huys beweeght hier boven d Hemel hoogh,
+Die staet van herten kent, eens met ghenadich oogh
+Groot Coninck aenneemt zijn verdruckte Hebreen, datse
+T lant veylich wert vereert, op Sinaï omvatse
+(485) In d aldergrootsten toets, soo sal ick ducht aen u
+De bittre geessel Gods zijn Majesteyt van nu
+In achterdeel ghevoert beclaghen schaed doen smarten.
+    Benaude Heerlijckheen int bloet betraende harten
+Onvayle vryheyt, arme slaefsche Borghery,
+(490) Dijns gruwels inghestelt, ghewelt vol Tyranny.
+Onseker tijt zijns tijts ghy Adel ballinghs Staten
+Ay Graven heerscheloos, verachte op der straten,
+Dreych speelt u noch om veur te jaghen met de staert
+Eens Vossenhuyts! ha trots! is dan soo weynich waert
+(495) De onbevleckte deughd, een Bedel-naem te draghen,
+[fol. B3r]
+En laten dus verbloemt ons aenghesturven waghen,
+En sien voor ooghen dat uyt Spaengnen wert gheset
+Hier vooghd en Heerschappy? ons raetslach wert belet:
+Hoe duyster was den eysch van u ghepompte Vrou,
+(500) Als ghy op  t laest versoeck* scheent deur de grootste trou
+De braefst van den Rey nae Spaengien liet vertrecken
+Om Nederlanden staet daer mondelingh t ontdecken
+Sijn Majesteyt, ghewis was u de tocht niet soets,
+Nu vreesich door de stilt, noch al te weynich goets;
+(505) Van Bergen de Marquis mijn Heer en Broeder leyde
+Verselschap, als u mont dees laetste woorden seyde:
+O Adel siet verdragh en d uytstel is maer dit,
+Dat ghy int overheers maer zijt der Spaenschen wit,
+En dy gheweten werdt de oorsaeck van t rumoeren;
+(510) Veranderlijcke knaegh, dat zijt my bondich swoeren
+Neen, t is gheen trou in waerd, k en tree niet wijder aen,
+En macht deur Godes sterckt niet int ghewelt bestaen
+Te eysschen reen en recht, of aen den derden daghen?
+Voor s Hemels rechter stoel de saeck vry op te draghen?
+(515) Och Bloet-verwanten siet in tijts toe voor t verraet,
+Als d eene vrient verwoet den anderen verslaet
+Daeghlijckx verarght den staet, t uytschot van soo veel deelen
+In weerlagh dus de Rol ellendich te volspelen,
+Vast toon ick deur de mont hoe  t arme herte lijdt,
+(520) En schimmer gheest de Proef de voorbood van de tijdt,
+t Verliesen Hof en goet is weder te becomen,
+Maer dat om Godes dienst bey  t leven werdt benomen,
+Soo ongherechtich wreet, de Tyrannye wilt
+De Ziel is rusteloos, O Heere geefse stilt
+(525) En salt Bloet-dorstich hooft dit volck in weet vernielen,
+Soo overlaet de borst met noch veel duysent Zielen.
+
+
+                     Continue
+
+
+               Tweede Handelingh.
+
+ MADAME de PARMA, Sittende met al heuren Rade en
+ aenhanck, verwachtende den Nederlantschen Adel.
+
+          HEER van BARLAYMONT.
+
+T Ontsich des volck heyls staet in wet als onderhout,
+G lijck deur den teughel bit den steygheraer hoe stout
+Wert overmeestert, jae ghedwonghen kleyn te buyghen:
+(530) O schoon dit peupel raest, waer sy hun voedtsel suyghen
+ T onreed lijck ghejach van goylien wert ghelooft
+Bijt Borgher volck gheviert en vierens boven t hooft:
+Ghemerckt van langher hant den Coninck is bewesen.
+Doch selden salt gemeent door liefds aenminningh vreesen,
+[fol. B3v]
+(535) Of lijden met ghedult  t uytheems strafwaerd ghewelt,
+ T geen noodich  t nederlandt in teughel is ghestelt:
+ T versachten dient alst eens is uytgheroeyt ter wapen,
+En onder  t gheestlijck ampt weer op een nieu gheschapen:
+ Tis Inquisitie, dees scheent woet u hart en gheest,
+(540) Dat die u broeder was, u vyandt werdt ghevreest,
+Een heylgiers vredich hart dees vrees is overcomen,
+Dat heylighst dient voor  t rijck, dus qualijckst werdt ghenomen,
+Soo dwaelt u duyster oogh, van d oude eer ontrast,
+Die op het geestlijck min, als op het weerlijck past.
+(545) Siet hoogh achtbare Vrou Vorstinne die hebt binnen
+Een vrouwelijck meedooch,  t is waer, doch wat sout winnen
+Haer is ten troost ghestelt soo menigh Prins vertreck,
+Som t Bisschops staet ontset, de mensch is vol ghebreck,
+Boosaerdigh: waerde glants laet door u wonder stralen
+(550) Sijn Majesteyt de Crans by nae versturven halen
+Eens wijse voetster speen, borst-ader, de u hart
+Doet steygren teghent Oost, dat die een Gheessel wart
+Van trouwloos koppel-geus, een swerm van lichte vlieghen.
+
+             G. VAN MEGEN.*
+
+Dat haer Alteze  t hart doch nummer laet bedrieghen
+(555) Int wederoepen t geen uyt s Conincx hoogste woort
+Wel noodich in dees tijt dit Nederlandt behoort:
+Sout moedich spits ghedeelt haer wens bet connen praten
+Als s lants ruwijn  t versacht der noodighe Placcaten?
+Soo wos der Leeuwen stam en ons te leyde schae.
+
+              M. DE PARMA.
+
+(560) Sou icks t ondanck verspreen int voeghen van ghenae
+En minderen door de vrees de cracht van  t hooch bevolen?
+Jae laten deur  t verbluf de gheestel-rijcken dolen?
+Hoe over hoogh Princes, ghesproten uyt de stam
+Wiens telgren overtocht den Ottoman benam
+(565)  T roemsuchtich, beyt  tvertreck den Franck, en Tarter woedigh
+Des Weerelts dwinghelandt, by alle volcken spoedigh,
+Roomsch senaets opper heyl deed schricken veurt onstaen
+Venetia ontseyd ons, als die van Milaen,
+ T aenvaerden vant behoeftich werck der Inquisitie,
+(570) Op t welck u overcoemt Gods dienaers justitie,
+Uyt naem vant hooghste recht hier rechters op de aert
+Om bruycken by tijts noot  t deurvierde Godtlijck swaert.
+O wrevelmoedigh volck, de cleynste mijnder scharen!
+Wat bouwt ghy hier op t sant, en met u graf altaren!
+(575) In blinde ijver raest, om  t hebben in u handt.
+Alleen* ghewelt den stuer, en zijn soo Heer van  t landt:
+Te cleyn acht ghy dien stam, wiens Crans u socht te vrijen.
+Ondanckbaer voor die deughd, eyscht swaerder slavernijen.
+[fol. B4r]
+Gheen maght sou dan de Vorst Europa wien ghy vreest
+(580) En  t Christen deel omarmt u overbueren meest,
+Die strant zijn groot ghewelt, wiens Donder sal verschricken,
+Selfs als een aertsche Godt, zijn vyerghe stralen blicken.
+Sou dan dees trots Monarch of aertsche blixem niet,
+Daert slaefs Westindien buycht, wanneer hy op haer siet,
+(585) Nu nederdeyssen dees rebellen, met verachten
+Niet konnen onder treen u voedeloose krachten?
+Doch heur is toeghestemt, ghegunt achtbare raet,
+Door dees mijn Hartooghs stoel, als  t laest geliefde staet,
+ t Schijnt alle liefd des Vrouw can noch niet dy behaghen
+(590) Van  t schoon verleeckert weer, en soete somer-daghen:
+Neemt dan ten goeden aen de langh-gheterchde strick
+Uws Ballinghschaps, soo licht als in een ooghenblick
+ t Omtrolde swerck betreckt, der suyvre Sonnens stralen,
+En doet een vochten slach ter liever Lenten dalen,
+(595) Soo ylich jae veel eer werdt van u afghewendt
+De glorie u te hoogh, wiens waerd ghy niet en kent.
+Tot noch is al  tjaveyl verhoopt der welstandt teecken
+Ter liever bee vergunt ghedaelt, doch laetse spreecken.
+En hooren watse nieus by brenghen.
+
+              G. VAN MEGEN.
+
+ t Out versoeck
+(600) Nu wilment met ghewelt toch halen uyt de hoeck,
+Van alle canten zijn haer met-broers ons verschenen,
+Men siet doch  tuytschot lichts in muytery vereenen:
+Ons hooghe sael vervult: Ick heb een stercke gaerdt
+Gheschickt rontom het Hof, de Poorten zijn bewaert,
+(605) Men sal te mets de grondt vant roernest wel beleven,
+Ons vroom Inquisiteurs, by volle last verheven,
+Sijn vyerich inde saeck, en vrijen ons de vloer:
+Ay beeldestormers, noch u schrickel tijts rumoer,
+Vlieght om de lichte vlam tot dat u wiecken senghen.
+
+             VAN BARLAYMONT.
+
+(610) Gavere dat ghy mocht u hier met ondermenghen,
+Ist minste wel gheraen, versoetingh sonder straf,
+Soo werdt u vant ghedrocht, als ons, u danck u graf:
+Tis al te veel besocht met slissen  t moet eens ghelden.
+
+               B. GHEWELT.
+
+Den Adel, hooghe Vrou, comt herwaerts, en  t beschelden
+(615) Des woesten volcks vermeert,  t saem vier en vieren al,
+En maecken onder een, s oock sie een groot ghetal,
+Veel volcken zijn rontom de straten haerder volghen.
+
+              M. DE PARMA.
+
+Let wel op elck ghemeent, die tieren onverbolghen,
+[fol. B4v]
+En maeckt u aende poort,  t wert waerlijck wederleyt
+(620) Wast niet so bondigh u van gist ren toegheseyt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   Den Nederlantschen Adel comt op de Sael in
+ordinantie die t samen waeren, uyt welcker aller
+ naem Heer BREDEROODE  t woort doet voor Madame.
+
+      Heer HENRICK van BREDEROODE.
+
+D algloririjckste God geef d Hartoginne  t geen
+Heur welghediensten wil kan salichlijck besteen,
+Lanck leven, tot grootmaeckingh der onsterflijckheden
+Van eersuchts gierich ampt, waer vrome Vorsten treden
+(625) Vol sorghs nae vaste daet, niet op een yedel waen
+Wy voor ons b eedicht Prins in Gods getuygen staen,
+En nu met suyvre siel en  s Hemels hoogh Santinne
+Sijn Majesteyt te dienst vrymoedich treden binnen,
+Verhopend dat ons Vrouw sal Voester-moeder zijn
+(630) Vant Vaderloos ghekerm, becommert droef van sinnen
+En weduwen die t haer berooft in sware pijn
+Nu daghelijckx vervalt een rechte Medecijn
+Beweegh lijck uyt  s Harts tocht, uw s borst ader mocht spijsen:
+Naest Godt ghy een ghe troost laet deur een lieven schijn,
+(635) De landen weer ghesalft uw s soetsel soo sal rijsen
+U Hemels dienstich licht en winnen op een dagh
+Met een gheseghent woort meer als de grootste slagh,
+Ons Moeder Kercke recht de meeste welstandt wijsen,
+ t Versoeck uyt kracht des Ziels van d Adel die ghy siet
+(640) Ootmoedich voor de voet van haer Alteze prijsen,
+Den hoogh gheboghen wil ghelieft t aenhooren yet
+Ons eysch der landen noot  t geen dus vervalt tot niet.
+
+            MADAME DE PARME.
+
+Spreeckt reden u zy plaets.
+
+               BREDERODE.
+
+Madame Gouvernande
+In alder dienstbaerheyt uyt sorghe veur  t verdriet
+(645) Slants Adel heftich jaecht uyt liefde tot de lande
+En eer  t vyer grooter wert, te blusschen sulck een brande
+Welcks vonck noch letten sou, tot overijcken schae,
+Uyt vaderlijck toesicht en eyghen hoeders vande
+Behoud nis onses woordts beghevend in ghenae*
+(650) Voor Godt ons Coninck teer: Soo rechtlijck segh ick jae
+Van d eersucht onbeheerst gheschaeckelt aende peessen
+By recklijckheyt, voor sorch, dat deur de noot so drae,
+De ziel weer aen me Vrou versoeckt  t request te lesen,
+Van die uyt loutre gunst Godt tuycht of straft nae desen,
+(655) Sijn Majesteyt in als ghehoorsaem zijn ter vlijt,
+[fol. C1r]
+Als  t out Catholijckx trou, uyt gront des harts en wesen
+Behoeders vande Kerck, als by voorleden tijdt.
+Dan dat de wreedtheyt dus uyt gheesteloose nijdt
+Ontspringht de aders, maeckt de sachte stilt te woelen,
+(660) Sal leeren Nederlandt ghy tijdes treurspel zijt;
+By dien ons aerts Santin noch dwinght by sulck ghevoelen
+Ist menschlijck hooghste liefd , doet dese brandt vercoelen,
+Laet slissen t wreet ghebodt, O Coninck die te meer
+Wy oyt trou swoeren t rijck tot vredeheyl, en doelen
+(665) Nae t wit dijns rechte Croons, groot maeck en hoogher eer,
+Al wert ons naegheschelt, self-soeckers, Hooft en Heer
+Met dees Rebellen, neen, ghelooft Me-Vrou, het bondich
+Dat wy Vyanden zijn der Roomscher Kercken leer
+Gheensints: dus wat beweegh wy voeren open-mondich
+(670) Tuycht d eysch vant jammer dat den grooten al is condich
+Noot roept tot welstandt, op hun out eer Vrijer staet,
+Dus soo wie t leven sal door dien strickt gruwel sondich
+Tijt leeren: hoet t verderf vant bloedighe Placcaet
+Den Coninck druckt, besucht, alst eenmael sy te laet
+(675) U verder buyter d oogh, by ons door vrees verslindert,
+Deurtrilt de grijse Leen van aenghedeelt saet:
+Biddend d Althese doch deur moederliefd verhindert
+Ons zy de bloed ghe schaed, deur erfgront aenghekindert
+Den stoel en leden van Belgica, swaer belast,
+(680) Die aen Gods rechter stoel den roep sy dat vermindert
+De bittre Volckren twist onnoosel overrast,
+Dat soo onreedlijck wert buyten ghebiedt ghepast,
+Vernielt, berooft, ghevaen, ghetercht deur wrevel bloedich,
+Die niet ontsien de storm die daeghlijcx vreesich wast
+(685) By t overgheven volck, int wreecken dubbel moedich:
+Dus o Rechtdoenster! zijt de goeden weder goedich,
+En salft t ghetoetste seer, t ontspronghen dat ghetercht
+Is deur t groot onverstant nochtans t ghetal verwoedich
+By veel die roepen wee, haer wert te seer ghevercht:
+(690) Gheluckich is het Landt, waer dat de wijsheyt berght
+In haer gheseghent hof, de kleynen, en wil draghen
+Heur sterckt, de swacke mensch, soo sticht, wint, anders ercht
+Deur waensucht opgehits, tijdts onvermoede daghen:
+T hart van haer die ghy siet, die goet en leven waghen,
+(695) Zijn Majesteyt in als ghedienstich bey ghetrouw,
+Tijts denckwaerd u de croon van d onverwonnen slaghen
+U alles wel bekent, ontsienelijcke Vrouw,
+Derhalven met op merck, slaen wy de handen nou
+Aen dees de swaere saeck, niet met een hert volqueten
+(700) Den Coninck eewich vrient: Siet dan voor ooghen rou
+Ons al verderffenis, deur rijpen raets wel weten
+[fol. C1v]
+Uyt  t woelendt volck besicht soo seecker afghemeten:
+Oploop, ruw, schennis, moort, Diefs-hantslach, Kercken-roof,
+Tierend uyt dolle brant mocht mind ren, en ghesleten
+(705) Wert niet alleen deurt vry toelaten huns geloof
+Als sachtingh des Placcaets, zijn dus de ooren doof?
+Herkaut rechtvaerdich hooft, en moghende Vorstinne
+De saecken over een, wy laten u ten Hoof
+ t Request, uyt naem den gront ghevreesde Hartoginne
+(710) Voor al ontschuldicht dees wiens een ghesmolte sinnen
+Versoecken s Conincks eer te houden in ghestalt:
+Gheeft dijn weemoedich volck eens troost, als heyl-Godinne,
+Dat daeghlijcks in verdruck u stoel te voetbanck valt:
+In Godes tuych siet wy van harten onvergalt
+(715) Bidden Me-Vrou ghedenckt de reden hier besloten.
+Met oorlof, dat ghelieft by haer Alteze alt
+Bewiste zy te eer, eerbiedigh u ghenoten:
+Slants medeleden uyt de braefste stam ghesproten
+Wenschen de Hartogin veel heyls in alle spoet
+
+              M. DE PARMA.
+
+(720)  t Goet  t best rijcks vormingh heeft de Siele noyt verdroten
+Als wil en  t Landt tot dienst den Coninck zy en moet
+Ghedulden aent verdragh, men sal op d oude voet
+U menichwerf verhael noch eens verstaen deur  t schrijven
+Dus  t saem vertreckt
+
+             HEER BREDERODE.
+
+Verstaet ghy Rechters, en soo doet
+(725) Dit  t saem gheschaeckelt rijck mocht Goddelijck beclijven,
+Soo niet, de Cregel wast, dat wy ontschuldigh blijven
+Veur Godt, als met verdrach hebbent  t ghemeen voldaen:
+[d Adel in.]
+Wy trecken neder met ghebied ons Vrouws
+
+               B. GEWELT.
+
+Verdrijven.
+Heur schriften zijn te swart om rechts meed deur te gaen
+(730) En ist  t ghetal gheen endt. Ick neemt vrymoedich aen
+Hout ghijs al onder dwanck, Sy moeten voort, dees roerders,
+ t Sijn vlagghe-draghers, wat! com reycktse toe de vaen
+Hoe raest de wilde stadt, hoe wasschen dees rumoerders
+[Van binnen gheroep.]
+        Vive le Geus, Vive le Geus, Vive le Geus.
+Triumpheert jou Rabbauwen! Ha Basiliscus voerders!
+(735) Al sacht siet ylich om, en volleght dit gheluyt,
+Dus starckt haer  t nieu verpoos int sort hier zijn beloerders
+Tiert, huppelt om de vlam, ghy zijt de doot te buyt.
+Voort, voort, zijt ghy de quant? daer comt den schelm uyt:
+Ras brenght hem inde handt, die hier toe zijn te straffen
+
+                GEMEENT.
+
+(740) Daer zijnder meer met my
+[fol. C2r]
+
+               B. GHEWELT.
+
+    Wy maecken gheen besluyt
+Ghelijck alst u bequam, moet ghy ons bet verschaffen
+Men sal u doen verstaen dit onmanierich blaffen.
+
+                GHEMEENT.
+
+ t Gemoet roept wraeck, en  t hart is overvierich
+
+               B. GEWELT.
+
+    Jae
+Ghy doet Romeynsche daet, vertelt u metbroers nae
+(745) Hoet u int stuck verginck, ter lacchen of te roemen
+Ghy wilt u vroom alleen en  t gheestelijck verdoemen.
+[Gaen met de ghevangen in.]
+Bestelt hem vast van handt, en schicken dient bekracht
+ t Versien stadts Officiers tot starckt als borgher wacht.
+Onse wittebrootjens by gantsch kracht set nu in dese tijden.
+(750) Al Adels, want dat volck kant met de mont bestrijden:
+Dits recht een werck dat dient, en wert veur al ghelooft:
+Al isser dies te mets een goet hart oft slecht hooft
+Van Hoddebeckx volck, liefhebbers van de wapen met loos cruyt,
+Die meest wel ter Marckt comen en steecken haer uyt,
+[Deur de vingheren.]
+(755) Dat dus ghesien borsten,  t was Lant te waerden schat
+Die met leghe arbeyt ghedient zijn, beste van de stadt,
+Jonghe bloeme van mannen diet toch sonderlingh befeemlen,
+Maer hoe souwense Roose stroyen sachmender altemets een Heemlen:
+T gaet hier nu wat hier van de Rooster by in ander steen,
+(760) En valter een frontier te besetten daer stueren wy ons binne-vaendels
+heen
+Soo dat wijs-beleyt veel doet, an eer en waere deughden,, kleven
+En voorsichtighe stant, de Landen doen in vreuchden,, leven.
+Dus dan, als noodt vereyscht moetment nae noot te werck.
+T machtich Antwerpia, ghebout soo grof en sterck,
+(765) Heeft veel aenstoots gheleen: Ghy kloecke Steden g lijcklijck,
+Wie heeft u oyt ghevrijt? siet op den Scepter rijcklijck,
+Die Oost en West ghebiet, neemt u voor helden aen,
+Soo acht u trouwe Vorst die voor u is ghegaen
+Blijft by t ghesproocken woort dees ketters uyt te royen,
+(770) Maeckt om gheen Conincks Soon u een verdorven Troyen:
+Kap op, ons is het Roer. Wy stueren nae ons sin
+De vruchten nae de tijdt  t Madrilsche Haven in,
+Waer dat ghy hoogh Santin zijt Borght-Vrou vast verbonden,
+Vergheefster offer viel opt buyten pat der sonden,
+(775) Deurt ruw en woest beloop, te mets een stootjen toe,
+Ick gae besien hoe mijn ghevanghen is te moe.
+[fol. C2v]
+
+   Grave van EGMONT, LODEWYCK en KUYLENBURCH
+               comende van t Hof.
+
+              KUYLENBURCH.
+
+G lijck vyer en water is verscheyden van natuer.
+G lijck vreucht en ongheluck niet comt tot eender uur.
+G lijck liefd en bittre haet, nae schijn recht can beheeren
+(780) Een borst en met de wint can sweyen en verkeeren;
+Te min niet,  t vroom ghemoet blijft  t Godes eer gheplaest
+Veur zijn te waerden schat, soo is ons  t salichst naest,
+Ghy die uyt Nassouws bloet zijt trouwe bontghenooten,
+Welckx last uyt siel Soogh, noyt u siele heeft verdroten
+(785) Belanghent ons bescheyt, is duyster van ons Vrouw,
+
+              G. LODEWYCK.
+
+Hoe slagh aer opghebult, verwildert, onghetrouw,
+Onreed lijck, teghen reen, van soo veel rechte Prinssen
+Die anders niet Godt weet, als sulcke glorie winssen:
+Van welck zijn Majesteyt sou voor verdriet en pijn
+(790) Op  t welck ghy voren lecht, sal recht verandert zijn
+Eer erven inde pracht vant harts volcoom behaghen
+En bloeyen inde Crans, zijn Croone eeuwigh draghen.
+    Ong luckich zijdy volck die smeltet in u druck
+    En d alderlaechsten tuyl of spot vant wreet geluck,
+(795) Die daghelijck in ghetraent, als vloeden schijnt te smooren,
+Wat moet een trouwe Prins om u te schermen hooren:
+Dat ons wert nagheduyt oorsaeck int feyt van dees,
+En trachten veur ons buyt en jaghen deur de vrees
+Ons middel inde hant, Ach ongherechte tijdingh!
+(800) Gaettet* dus hier in swanck? ghedenckt de cleyn verblijdingh
+Van Bergh en Montigni, gheeft u de Spaensche vaert,
+Daer togh Granvelle, al te laster heeft beswaert
+De Nederlantsche Raet, de Hemel wil u spoeden
+En brenghen voor de last de saken eens ten goeden.
+
+             G. VAN EGMONT.
+
+(805)  t Kilt deurt Krijsch-hartigh hart, en slaet de moeden neer
+Vrucht van onheylich loon, ja soo verscheyden weer
+Verscheyden en ghedeelt  t request in fijn coemt nader
+In volle hoop te heyl, ons, en de Landen quader,
+De Borgher staet te wreet, noch maer onlijd lijck woort
+(810) Een snoode Barleymonts, die met u snater voort,
+Wtvoert te schelms en wout, u Prachtich onderwinden
+Die ghy gheen d minst verwaert, de schoenen te ontbinden
+En met u laster-tongh voor Bedel-volcken schelt.
+[fol. C3r]
+
+              G. LODEWYCK.
+
+Comt cloecke Amuraths soo laet ons over  t Veldt
+(815) Gaen treden int vergaer, en meer vant stuck ghenieten
+Tot claerder voor de moet: Soo wy Heer Breed rood lieten
+Met mijn Heer broeder. Door begheert noch beyde  t saem
+
+              CUYLENBURCH.
+
+Dat niemant onder u derhalven wrickt noch schaem
+Voor d al te varde wegh, of steyle top der berghen
+(820) Of vreesich om voor  t recht, den stouten af te verghen
+Waer ist beloofde Vorst? als ghy ter seven jaer
+Niet seven, maer  t van noot sout eysschen dat ghy daer
+U Conincklijcke stem, Sout voort ghemeene bieden
+En hooren rechte clach, der rusteloose lieden
+(825) Dat gheen rechtvaerdich hooft, met anpraet zy te vreen
+Van schadelijcke baet, of schijn-bebloemde reen
+En blijft, en druckt, en moort van langher handt soo grover
+Met nieu inquisiteurs, Placcaeten herwaerts over
+ t Sal op een ander endt, vervallen deur de stoot
+
+               G. EGMONT.
+
+(830) Wat wreeckter met meer forts, als d opghedronghen noot?
+
+             G. CUYLENBURCH.
+
+Wat ontsiet min t ghewelt? der God-verlaten Sielen
+Als dit, wanneer ghy hert soo deerlijck siet vernielen
+De naeste van u tijdt, en rucken van gheslacht
+Die ghy ter werelt sont, of u heeft voortghebracht
+(835) Hier op met dubbel reen, weerstaet der boose dranghen
+Maer, over macht die heerscht u middel is ghevanghen:
+Karole groote Vorst, dit voor besluyt sal nu,
+In schrift dus afghemaelt, voor alle eeuwen u
+Vergh lijcken byt ghetal, der wreeste van ons tijden
+(840) Ghy alder wreeden hooft, die nae u doot sult strijden
+
+               G. EGMONT.
+
+Den ijvre vliecht te hoogh, comt wijcken wy van kant
+
+             G. CUYLENBURCH.
+
+ t Is liefd die ck hevich stuer, en hart voort Vaderlandt
+Soo laet ons dan ter sy vertrecken weer na binnen
+Verpoosen voor een wijl, ons staegh bedruckte sinnen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Heer GIISBERT Baender-Heere van BATENBORCH,
+   uytcomende buyten Brussel, op bestemde
+  plaets, verwachtende den ghemeenen Adel.
+
+(845) Hoe wrevel, ban! Soo wickt d onwickelijcke rotsen
+En temt der Leeuwen moet, leer daer Landsaten trotsen,
+De eyghen Princen vant lofruchtich Belgi schadt
+Die Landen seventhien, soo liefdigh trou bevadt,
+[fol. C3v]
+t Staet swaerlijck schoone bruyt, ist ducht ick met Orangien,
+(850) O Godloos overtolch vant Eedloos moordich Spaengien
+Bloet-dorstich raetsvolck uws ongheestelijcke staet,
+Invoerders tot dees schae, wat uytcomst of wat raet
+Salt ondersaets ghedweegh toeneyghen hun Tyrannen?
+Waer onder macht, eer, goet, ons vryheyt leyt ghespannen?
+(855) Vruchtloos daer vreesich meer d ghewelden haet op schort,
+Oneyndlijck, nu dan ons nacomelinghen wort,
+t Gherechte Vaders naeghelaten rijckx Juweelen,
+Van vaste Heerlijckheen, van sloten en Casteelen,
+Ontworstelt, alst te diep leyt aent gheketent block?
+(860) Hier leytmen u voort eerst al speelende om t jock:
+U vroom voor-Ouders diet soo swaer op t hart quam drucken
+In fout van van eenicheyt zijn meest van d onghelucken
+Santin ghevelt, en ghy onwetend nimmer sult
+Wraecks-tocht recht vord ren, alst benevelt onverhult
+(865) Deur d uytheems, soot van nu dus deerlijck is gheschapen.
+Wat ingheseten! hoe? is u t verstaelde wapen
+Niet radigher van noot als inbreuck van dien stam?
+Die uyt t bloet Radimant ons hier of nader quam
+Opsteygheren? dat voor t vry ruste, Neerlants Lauwer,
+(870) Van ons en ons gheslacht, van soo een Spaenschen grauwer
+Gherooft sou blijven, en ghedolven in der as,
+Daer voor ghestrevelt comt de noort en suyder plas.
+Sijt seker, Belgi volck, daer voor wel op u hoeden,
+G lijck haest een nevel schiet, salt dwingh rot der ghemoeden
+(875) U landen op de strand, naer brabant in, om daer
+Haer Goddeloos besluyt te maecken openbaer.
+Doch waer van dat ick spreeck, en strick meer barsse swaerheyt
+Is g heymnis in Gods weet, de mensch verholen sacht,
+Dat t Eelharts louter gront, tuycht soms der dinghen klaerheyt
+(880) Dat d Hemel stelt, in  t licht, deur teyckens van de nacht.
+Voorsichtich in de saeck b siet Heerscheloose Staten
+Niet goets beteycknen ons, de bloedighe Placcaten
+Wt d Hove Brussel aengheslaghen van ons Vrouw
+De Gouvernante, waer op als wy die ghetrouw
+(885) De oude Heerlijckheen, slants vryheyts voor te spreecken
+Int raden niet de Prins, werden snoot vergheleecken
+t Oproer gheboeft, niet waert soo hooghen eeldom, dan
+Dees Geusen eerster naem t versoeck te vaeten an:
+[in margine: d Adel uyt.]
+Schoon Brabant wast soo verr , hant teghen hant dorst roeren,
+(890) T was nutter en dees ziel, helpt u de camp uytvoeren
+Voor t alghemeene best. Hier comt Heer Breedroodt uyt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. C4r]
+
+      Heer HENRICK van BREDEROODE,
+              met den Adel.
+
+D antwoort Baroenen mocht wel klaerder sijn gheduyt,
+En of ghy deur d onschult dyn selfs u wilt verschoonen,
+Ghy sit int midden, die  t Lant helsche lichten toonen:
+(895) Hoe menichmael heeft u gevleyde tongh vergunt
+Loos Adam-tocht, tot moort  tgeen ghy niet soenen kundt:
+Hae! laster Barleymonts, siet nu van heden blincken
+[in margine: Goude Madalie met het Beeldt des Conincks.]
+Dees teeckens u tot troots, welcks trots ghy sult gedincken
+Met lett ren ront omringt, dit monstren voor u Vrouw,
+(900) Dat tot den Bedelsack ons Coninck zijn ghetrouw
+Wy, en ontschuldigh des gemeents verwoeste vlaghen,
+ t Versoeck is voor een quade, wy t garen vredich saghen,
+Alst eer wel plecht ghedenckt u nieuwe vonden part
+Sal zijn een suerdeegh  t geen u eeuwich druckt op  t hart
+(905) En mat u rijcken of
+
+              G. LODEWYCK.
+
+Om d incoemst te vermijen
+Gheschiet den afcoop van der Brabantscher abdijen:
+De Bisschoppen zijn veel gheweyghert soo ick hoor,
+Antwerpen heeft gheleen beelt stormingh: dits niet voor
+De vryheydt van u staet begonnen arme dwasen
+(910) Daer zijnder diet op  t quaetst in s Conincks ooren blasen.
+
+           G. VAN HOOGSTRATEN.
+
+Ghemerckt nu lacht ja veyl, de Cregle Vrou verwaent,
+Die met vervalschter Mom, al lacchend schijnt betraent:
+Hoe menichmael is ons verhael ten dienst gheweyghert
+Van die uyt s Conincks naem te hoogh in eer ghesteyghert
+(915) Verdelghen  twel,  t van noot. Ha! gantsch verloren hoop,
+Verstorven rust des tijts; Siet ghy niet dat de Coop
+Van dees doortrapte bruyt u valschlijck soeckt te liegen?
+Tot dat u overcoemt  t ghewelt, wilt ghy bedrieghen
+De altewisse weet? ist niet in goet verdrach
+(920) Gheweest alsmen den staet uyt Brussel trecken sach
+Elck nae zijn heerlijckheen, daer deur een liefd wel seecker
+Gheweest de lichte storms, vergeldingh en een wreecker
+Vant ongheteughelt volck, voor wijl  t ghebit ontdaen.
+Heeftmen niet corts nae dees door vrienden schrift verstaen,
+(925) Hoet ons ghebieden heersch in Spaengien was bewesen
+In breucken, om alsoo te dwinghen onder desen
+De Landen, jae dat meer aftrecken vande Croon.
+Ghemaeckt de sterckten, om  t Hof tot een camp te noon,
+Dan gafmen u den troost wanneer ghy quaemt verdaghen
+(930) De snoode logen-tijngh: Nu arm verachte Raden,
+Siet daeghlijcks werdt verwacht ontset van over Zee
+Waer toe? ghedenckt
+[fol. C4v]
+
+            P. van ORANGIEN.
+
+    Daer toe ghenoodtsaeckt dat ick mee
+De Reden uyt, hier sijnd in vryheyt by malcander
+Den stant, waer in niet licht mijn sinnen ick verander
+(935) Is tot ghetrouwich merck vant hevich Spaensche Hof,
+Waer alle dienst, hoe vroom, wert haest ghenomen of.
+Granvelle dat ghy trockt uyt ons weerstreefde handen,
+Beclaecht dien Raetsman vry verdruckte Nederlanden,
+T schijn-goet t gheen u verliefd, en set u stil op t drooghst,
+(940) Wacht met opmercken in, tot dat ghy zijt aen t hooghst,
+Als ghy Groot Keyser wout, u Soon Philippum laten
+So waerden Heersingh, die tot landen dienst by Staeten
+Aenvaerden de Vooghdy, beloofde met zijn woort,
+Soo trou, soo goedertier, soo lief zijn gift-deel voort
+(945) Te voorstaen, dat in als heur vryheyt sou bevatten,
+En eeren boven dien met veel begraven schatten:
+T al houden by t gherecht, waer uyt elcks hart hem loech,
+Hy soud haer metter daet aenwijsen wat hy droegh.
+    T lant-gunste, dit, en meer int breeder voor hem taelde
+(950) d Atrechsen Bisschop, die als s Conincx liefd verhaelde:
+[in margine: d Raetsheer Maes.]
+Maes sprack uyt Staten naem verwondert Ouden vorst,
+Die nae t welvarens heyl van t schoone Neerlant dorst,
+T verwondert elck ghy laet u welgheseghent strijden,
+En scheyt o Scherm-Heer in dees twistelijcke tijden:
+(955) Maer nae t zijn Majesteyt gheliefd eyscht sonderlingh,
+Stellen wy  t rijck ghedweegh u Soone onderlingh
+Als Vader inde arm, die van zijn vreughd deed teecken,
+Midts als de Coningin Maria b gost te spreecken,
+De vijfentwintich jaer  t soet Belgi deur ghebodt
+(960) Des Keysers heeft ghedient voor al den hooghsten Godt,
+Welck met eerbiedicheyt haer broeder heeft bewesen,
+Haer loffelick voldaen, en scheyden soo van desen:
+Doen voort u waerdich Rif tradt vande gulden Throon
+En stelder daedlijck op Philippo uwen soon
+(965)  t Saem opgedraghen tal, u selfs van d eed ontlaste,
+Die weynich inden dienst nae Spaignen trock verraste
+Ons, die als trou Vassael? de Landen swoeren by,
+Om daer  t borgonsch besluyt te stroyen vayl en vry
+Tot Gent ontboon den staet, en gaeft dijn wil te kennen,
+(970) U suster d Hartogin sout morrich-rijck in mennen
+Als Gouvernante, die noch heden sidt vergult,
+Doen Philibert te voor zijns vooghdschaps wert onthult.
+Best waert ghy hooghe-Vrou van Lottring ons met eeren
+Van eyghenschap: Wat wast den Coninck deet begheeren,
+(975) s Lants raet in dry ghedeelt, met stem zijns wils verkies
+Begifticht met de eer en naem des gulden Vlies
+[fol. D1r]
+Vertrockt naer Spaignen in t jaer vijftich en neghen,
+Als heden acht verleen, zijn veel verscheyden weghen
+Tot wildernis verwart, deur gul onnoosel bloet,
+(980) En wachten meer gheen gunst vant Spaensch onred lick goet.
+O neen heersloose, niet is ons vant rijck te wachten,
+Die deur  t uyt heemsch ghewelt de Morsters sal vercrachten,
+Soeckt eerstlick met de Prins uyt ziel-sorch  t best ghemeen,
+Versocht doen  t landt dier tijdt in rust was wel te vreen,
+(985) Ontlast mocht werden vande vreemde spaensche knechten,
+Maer neen! Als  t heylich hooft huns wreetheyts uyt te rechten
+Verstonden gheen gheraen: so sy haer lantvolck niet
+Inhielden voor een dwanck, soo soudmen qualick yet
+Invoeren  t heylich van dees Inquisitie: Voorder
+(990)  t Gans Vranckrijck deur, dien tijt, by alder rusten moorder
+Gheblixemt overlast, gheknelt werdt Schotlandt,  t stont
+In roer: Soomen te mets  t invoeren herwaerts vondt
+Der spaensche Raet, om zijn der landen Gouverneuren,
+Wt Conincklick belast vol macht Inquisiteuren,
+(995)  t Deet eerslingh deyssen en bedencken  t noodich,  t gheen
+Dus heyloos staet voor handt en  t zittert deur de leen:
+ t Waerschou was my niet vreemts, uyt een der spaensche leden
+Als Egmont, ghy en ick, tot Gent een kaetspel deden;
+
+                 EGMONT.
+
+O cloecke Prins te recht sich schijn-jonst openbaert
+(1000) En brenght een Legher op de havens van u rijcken
+ t Ghevreest is voor de man en deucht van cleynder waert
+O Nederlantsche Maecht wien sal u staet verg lijcken?
+
+            P. VAN ORANGIEN.
+
+Vrou Maria ghy waert ons nutter tot behoet,
+Die d Inquisitie hebt ter broeder-bee versoet,
+(1005) Soomen uyt aller raet socht onder heylich strijden
+Dees Landen inden toom de vrijheyt te besnijden,
+Daer Phlips de goede met sijn soon om was te baen,
+Soo t oock den Keyser niet welluckten Maxmiljaen:
+Op t welck de bitter Gheest Granvelle langh op hoede
+(1010) Sijn opgheblasen borst, noch onversaet van t bloede,
+Die by veel duyssenden gheoffert zijn vermoort,
+Deur t kennen huns ghemoets nae t licht van Godes woort.
+    Machtighe Keyser doen u swacke vorst betradt
+De Vorstelicke Sael tot Brussel dese Stadt,
+(1015) Als ick u stramme leen, my daer toe waert te kennen
+Deurt schouderbladt herhieft om lichte t onderwennen,
+En bynae Ademloos tradt midden totten Raedt
+Wan wijt vergaerde t saem, de uytghesochte staet
+Waer onder doen ter tijt ten hoof ick selfs beschoude
+(1020) Ghecroonde vier en dry, die rijcken Scepters houden
+Als Hertoghen, daer by veel Princen Graven met
+[fol. D1v]
+De voorste uyt  s lants rey van Adel wel beset
+Ghelust door yvers dwanck, den Vorst by grijse jaeren
+ t Anschouwen zijns ontlast, om over zee te varen
+(1025)  t Herdencken druckt de Geest by  t geen hier van ontstont.
+
+              G. LODEWYCK.
+
+    Mijn broeder, dat verleen men nae veel quader vont,
+Wie sout ghelooven dat de grootste Princen moedigh
+Soo kleyn betrachten  t hoogst huns glorys overvloedigh
+De voorgebaende deughd, wiens honich adem lust
+(1030) Den vromen nae Gods wil op Siel heyls bodem kust:
+Sooght niet meer  t oude speen van t dier tgeen so veel zielen
+Deurt ingedroncken sap deed deerlijck datter vielen
+Uws waens begeerich hooft, te buyt bestrickt van var,
+Dijns aengheheven strijt, en met de morgen star
+(1035) Vervarst weerbarsse borst vant kreegel tot medooghen,
+Nieu baeckert met de lust der onvervaeckter oogen,
+En siet hier voor de wal, jae naeder voor de deur,
+ t Gheen  t hart van menich jaer droegh d wiste sorge veur
+Bedeckt: helaes! vermomt by t geesteloos verdelghen
+(1040) Te royen uyt den staet veel wel-geente telghen:
+Niet by lijdtsaem verdragh tot  t best te onderstaen,
+Als strenger naet ghebodt des Coninckx voort te gaen.
+
+                 H. BRE.
+
+    Het schijn-goet vleyt u grootse borst beduchte braven,
+En slooft u moeden of de trouw blijff maeckt u slaven,
+(1045) Veur goeden dienst quaet loon: de Vrock laed op de Man,
+Als weerloos hooft ghestrickt sich recht noch roeren kan:
+Tijt ist te overslaen dus int eensaem vergaeren,
+Hoe  t saem wy vroom ghemant noot de gheschelde waeren
+Die  sConinckx lant in roer herstellen met die naem
+(1050) Meynedich als ons tijdt, en als de gulde faem
+Door d omgecrolde cloot der aerden vlieght de breeden
+Als som gerecht des saeckx voor d onghetrouwicheden
+Belangende  tbeloop, soot veel som ydel waent.
+
+            P. van ORANGIEN.
+
+Dien wegh is nimmer by t besluyt des harts gebaent.
+
+              G. van HOOG.
+
+(1055) Oorsaeckt dit onbekent werck buyten de gedachten
+Vant opgeworpen rot, deur veel verloren klachten
+Ghesteyghert oppet hooghst tot snoode schelmery
+Aen ons: Ach vreemde quel vertrout den Coninck vry!
+Deurt aenghekittelt aes van aengename Reden,
+(1060) Doet tot verkeerde wraeck Vulcano wapens smeden:
+Voort misvertrouwen, die u waere hooft een Croon
+Bereycken naet beroep der diensten aengeboon:
+Hier zijn wy int besteck vant strengel aengetekent
+[fol. D2r]
+Besloten vol gevaers (de gis te wis) en wetent
+(1065) deur d afgemeten roem: hoe ons gesloten wert,
+Slants noodigh raets vermijt den sleutel van u hart
+O Koppel rechts verkies, sluyt bintsel voort rechtvaerdigh
+Geschaeckelt ziels wel eens de croone wederwaerdigh
+Tuyl, die nu grimt dan lacht: O doolhof mijns gemoet
+(1070) Wat levent wars, geterch, salt groots eersuchtich bloet
+Doen braden inde borst vervreemt van alle wetten
+Des waere vryheyts Crans, soo onder voet te pletten.
+
+                 H. BRE.
+
+Gedweegh al sacht, nae t woort ons vrouws neemt toch vertoef
+En luystert naet vervolgh: soo doet ter laester proef
+(1075) Verwachten  t vol besluyt zijns Majesteyt deurt schrijven,
+Niet langher soot misluckt verwitticht my te blijven:
+ t schijnt dat geen middel ons gewaeghde heerlijck deucht,
+Als recht te vordren  tgeen  t volnoechde leven heucht,
+Geen middel deurt belet, ghy die op platte landen
+(1080) U ruym ghethoorent hof stelt inde woeste handen
+Van  t onbesuysde volck ontschuldich zijt gedreycht
+In schampgedichten, dat de harten toegheneycht
+Soo vruchtloos zijn int werck, onweerbaer, ongheraden,
+Ons zy niet min  t beroers gheschaeckte bruyt, wy laden
+(1085) Alleen  t mistrouwen voor ons Coningh te verstaen
+Als Capiteynen die dit roernest parssen aen:
+De Eeden afghesneen, het vroomst ghemoet te pletter:
+Dermonde by dees reen, hervadt dit nae de letter
+In vrijheyt ons vergunt, te raeden hier alleen,
+(1090) Dat yeder Prins vertreckt, zijns woninghs telcken een
+Verscheyden en ghedeelt, Godt weet hoe graegh wy saghen
+De middel, endt, der last des gruwels aengheslaghen.
+______________________________________________________
+
+Den Nederlantschen Adel wijckt verscheyden* weghen na de Stadt.
+
+                VALS HYP.
+
+Valencijn zijt ghy soo hartneckigh int besteck,
+Siet Camericx belooft, acht ghy de woorden gheck
+(1095)  t Geen ons beroemde Vrouw ghebiet in als te laten?
+Wilt ghy u Rechters zijn wat steldy ons hier staten?
+Al van t gheschaeckelt rot den swerm? Fy! lichte geus
+[in margine: Opt volgende gheblaes coemt bloetdorstich ghewelt
+aentrecken met  t regiment nieuwe waellen buyten Brussel.]
+Het moedig koppel,  t schijnt elck lidtmaet is een Reus:
+Neen, wacht, eer langh beknelt u stap diet wel beooghden,
+(1100) En d hoofden,  t bit aenparst verwachtende ghedooghden,
+Doch met een hart verteert deurt  t smaden van u tongh,
+Hoort ghy wat clach-ghesangh de Suijd-Syrena songh.
+ t Is licht te vlieghen werck, ghy teghen  t Roomsch belegghen?
+[fol. D2v]
+U Armen zijn te swack, ten leyter by gheen segghen:
+(1105) Gheseghent Spaensch Monarch, die nimmer vaecks ontsijcht
+De Sleutel van u roem, noch selden mat ghecrijcht
+[in margine: Gheblaes.]
+Hoort! waert gherucht vermeert tot ons bewiste palen
+T nieu Graven Regiment, ons hart ghebeckte Walen.
+
+            GRA. van MEGHEN.
+
+Gheweldich steunsel vant belaste rijckx verniel,
+(1110) Vertroude sorgh, die voert de wimpel van de ziel
+En d alder Glorie vaen, ick maeck u int beheeren
+T nieu Regiment en past
+Hier blijft tot ick bestel u meerder vant bescheyt,
+En doet niet buyten last, t geen haer Alteze seyt,
+(1115) Van langher handt, mijn borcht sult ghy ons sien ontmoeten
+De eervergheten staet, en buyghen voor de voeten,
+Int wijt van over comt ons hulpe met verdrach,
+Wy zijns nu lief en reet te passen op den slagh:
+Spaensch leermen u met cracht, ghy swijghert van Orangien,
+(1120) Die vreed u int gheloof, maer geensints mede t Spaengien
+By S. Iohannes in wiens naem ick heb ghesticht
+Een Kercke teghen d Oost, sal dit mijn Blixem licht
+Met Donder storm de val u drucken met verwonder,
+En keer dit Nederlant van  t bovenst tottet onder:
+(1125) Ha! leert noch Spaensch in tijdt oft t wert te laet ghebromt,
+Wy soeckent by verdragh tot dat Toledo comt
+Bestelt dit.
+
+         BLOETDORSTICH GHEWELT.
+
+    Twijffelt niet t sal alles wel ghelucken.
+
+             G. van MEGHEN.
+
+    Ick treck ten Hoof.
+
+               B. GHEWELT.
+
+    Ick wacht.
+
+           Valsche HYPOCRISIE.
+
+Soo gaer ick dan de stucken
+Hou Frater watser nieuws, waer rustmen tot den strijdt?
+(1130) Salve Heer overste, hoe!
+
+               B. GHEWELT.
+
+    Al veel te laegh ghewijt
+T is my te hoogh verboon, en ghy zijt soo verheten
+T schat swijghen is u cunst dus dient ghy niet te weten,
+S poort ghy ons t wilt slechts op daer sijdy toe bequaem.
+
+            Val. HYPOCRISIE.
+
+    U doen is sonder my gantsch ydel al te saem:
+(1135) T geestlijck besluyt, ho man, dient alles voor te weten,
+T is nieu be-eedight volck, dit was my haest vergheten.
+
+               B. GHEWELT.
+
+    Daer hebt ghy t Padre, nu vaert wel, t is dan voldaen.
+[fol. D3r]
+
+            Val. HYPOCRISIE.
+
+    Hou sacht, haestich is quaet, versust ghy my t ontstaen
+O soete Cappellaen, de munt wert hier gheslaghen
+(1140) Dan, Non omnia possumus omnes.
+
+               B. GHEWELT.
+
+    Wat hoeft ghijt dan te vraghen
+K weet Frater altemets, soo winje wonder haets.
+
+             V. HYPOCRISIE.
+
+    Sufficit. Laet dat daer wy blijven beste maets
+Ick sy u quade moet, toch staedich hooft en trooster
+B. GHE. Vaert wel Heer. V. HIP. u also, t kost hier ooc na het Clooster.
+
+                     Continue
+
+
+          [Derde Handelingh.]*
+
+             MEEST ELCK EEN.
+
+    (1145) Verhonghert Spaensch ghedroght, scherptandich te verslinden
+Gheslepen clau, bevat wat onder schadu linden
+Onnoosel tierich graest, met recht t wreet schijnsel vreest
+Uws Wolf aerts, oyt het dier hun erfvyandt gheweest
+De seghe sinnen cluys, schat der gheneychde ooren,
+(1150) Ghy doet deur t hitsich bloet vernielen en verstooren!
+Soo dat u grim ghelach gheen Nederlant vermaeckt
+Wiens over Eelens kint ghy Godloos hebt gheschaeckt,
+Op t welck men daeghlijckx roept by veel u dienst begheven,
+Goet Catholijckx, maer niet goet Spaensch, den dach ons leven.
+
+                D OUDER.
+
+    (1155) Dees Prophecy ghemerckt door deerlijckheen vervult,
+Soo oyt gherechte plaegh quam op der sonden schult
+Uws moorts aen dien bevlijt uyt Siel-sorgh Godes haven
+Nae waerd te kiesen
+Nu siend van langher handt dijn bloet-lust onverdult,
+(1160) Verlaet de rechte liefd des lants, waer op ghehult
+U heerlijck hooft ontfinckt de costelijcke gaven
+Licht kont verliesen
+Uws eer-vergheten last, noch jonst gantsch onwaert bloot
+Uytmercht  t gheringh des volckx, die tot u Croone slaven
+(1165) De Peerlen tack int top voor alle Eeuwen groot
+Bevesten wonden dat bewilghen tot de doot
+Ist loon des trou vassaels, ghy vrome dienst cunt haten,
+En maeckt de dorre stronck veel swaerder als het loot,
+Siet meest elck een beroert om t wil des Hof Placcaten,
+(1170) Die d outste breeckt hun erf des lants ghesware staten.
+
+             MEEST ELCK EEN.
+
+Niet nieus ist woels beloop u voorschichts toeghemalt
+Gheluckich rijck by dient gheen tienmael quader valt.
+
+                D OUDER.
+
+Gheweldich Monarchael, die herwaerts over t velt,
+By twintich Croonen roem in dijn lof-tijtel telt
+(1175) Beswerckt dees Belgi vloer die voor den Coninck booghen
+[fol. D3v]
+Ten dienst ghetroulijck
+Wiens Diamanten throon deur faems basuyn gheschelt,
+Europa overgalmt: Siet noodigh hoet ghestelt
+U suyvel cas verteert uyt s hartsen brandt ghetoghen
+(1180) Vol duchten rouwlijck:
+Wat, Basiliscus tongh blies op dijn wrevel dat
+Ghy  t rust-rijck volck die voor de stemme nederbooghen
+Soo wreet bestrickt den loop, diet gulle hart bevadt:
+Ay nieu verdorven standt!  t verderf van menigh stadt:
+(1185) Siet!  t vlucht al heymlick wegh naer Hollant u verlaten
+Tot Enghelandt, Vranck, wiens gheest is levendloos vermat
+Om t Martelaren bloet, lust voor dees nieu Prelaten
+Beweent noch spaengien  t roest uws bloedighe Placcaten.
+
+               M. ELCK E.
+
+Ay my! Godt keer de stoot soud ick mijn landt ontvlien
+(1190) Nochtans wat lijdtsaem hardt can langher  t leydt aensien?
+
+                 D OUD.
+
+Als u deur  t g rechtigh swaerdt des Hemels werdt beledt
+U schreden afghecort, en dolle moet besedt;
+Sal dan zijn Majesteyt erkennen op tijdts schaerden
+Wient dus verbrenghen
+(1195) Vervolghent die int stil beleden Godes Wet,
+Nu deur  t godlooste van dees inquisitie bet
+Soo dood lijck wert belast o gruwel op der aerden
+Cant Godt ghehenghen:
+Ontmoet u rasernij, diefs hantslagh wilde schaed,
+(1200) Ontmoet u prophecy diet moortwerck noot verwaerden
+In hoop ons ghevend Heer alleen in dijn ghenaed:
+ t Treurt al in teghenspoet, siet op dit Vorstlijck saet
+Wien elck s landts vryheyt biet, de leden troost t aenvaten
+Dit menichwerf vertoef vrees voor een quader quaet,
+(1205) Van die langh eedeloos, met loghetael ompraten,
+En voeren g weldich in dees bloedighe Placcaten.
+
+               M. ELCK E.
+
+Alst al verwesen is van menschen al ghelijck
+Deur dijn voorsichticheyt wijst ons een heerlijck rijck.
+
+                 D OUD.
+
+    O Princelijcke deughd, die nae soo heerlijck Croont
+(1210) Selfs met u eyghen cier de Christen hoeder loont,
+Siet neder int ghemoet van die hier zijn versmadich
+Ghy kent de gronden.
+    Hoe noode t hart sou zijn daer schremsacht onder woont
+Ondanckbaer minder haets ons g weten Vrou betoont:
+(1215) T gheheym gront uyt ziels born en reyne gheest weldadich
+Oyt trou bevonden
+Leert doch in lijdsaem t woest der Leeuwen t ondergaen,
+[fol. D4r]
+Als eeuwich blinckt den lof uws heerlijckx onversadich,
+Int sterflijck commer daer meed veel zijn overlaen:
+(1220) Ist ons dus toegheleyt, siet met ontfarmen aen
+Die soo ong rechtich in dees swaerheyt zijn tomvaten,
+Tot licht, o Glory Son, verlicht de silver maen,
+Die t bleecke aenghesicht treckt onder dese straten
+Vlucht met Electra voor dees bloedighe Placcaten.
+
+               M. ELCK E.
+
+(1225) Wat tijdt ist, soo men schout, gheterght uyt waen en gis,
+De waerheyt werdt verjaecht, vlucht in een wildernis.
+
+                 D OUD.
+
+Becinghelt in de vlam der Godt-vergheten zielen,
+Die dwingers g lijck die voor, uyt t weeldich Babel vielen
+Daer noch bewijs noch reen noch s Hemels dreygh en ghelt,
+(1230) En moort u Borgherij, dit werdt u voorghespelt:
+Siet daghelijckx van de Wal ghemist u heymlijck laten,
+D inwoonders neemt ghemerck op dees gheleeghde straten,
+De wreetheyt veel te wreet, t gheen ghy veur t heylighst weert
+En hebt dees Belgi Vrou, dus gruwelijck verneert;
+(1235) Die eer door mildtheyts born besadicht overvloedich,
+Was voester Moeder milt, en deur ghenaden spoedich
+Ghedruckt der tijden Croon, breeckt u der weelden strijdt,
+En laet de gheessel ons der Landen dieren tijdt:
+Die rooft de tierghe Stam zijn seghen-gifs ontluycken
+(1240) Jaecht ander rijcken t gheen ghy selver mocht ghebruycken:
+[in margine: Ghemeent uyt.]
+Is dan u luck op t hooghst, nae hooghmoets ydle top,
+Vianden van de rust, en drijft de harten op
+T verderven Brabants lot, ooghschijnlijck voor te spelden,
+T schijnt s vorsten quade wil, de kleyne altoos ghelden.
+
+                D OPR GH.
+
+(1245) Onlijdelijck beroer, barst damp der volle moet
+Oyt kitteloorich Volck, en treedtse onder voet
+Die duysent dooden lijdt, ick ben te sterven vaerdich
+Veur d ongherechten loon en diensten weder waerdich,
+Onmenschelijck betoont, k had liever veur de daet
+(1250) Te lijden, dat de moort en t grouwelijckste quaet
+My ruckten van de vloer des werelts, en ghy ouders
+Sijn nu u crachten doodt? of sinje gheen vasthouders?
+En neycht der quaden quaet.
+
+                 D OUD.
+
+O lasterlijcke mondt
+En schender van de deughd, de ziel is tot de gront,
+(1255) Tot in der doodt bedroeft, mijn ouden dienst met schromen
+Ghehanthaeft is ten hooff van langh den staet benomen,
+De tranen syn  t verpoos, mijn staegh ghemoet bestreen,
+[fol. D4v]
+Waer sal dit kale hooft en machteloose leen
+Vertrecken veur de val?
+
+         D OPROERIGHE GHEMEENT.
+
+    Sien veur my tijdt ghebonden,
+(1260) Een al te trouwen vrient, die alleen is bevonden
+Ghebeden oppet mael; waer Maechschap volle dis,
+Een tijdts Na-neven eer  t schijnt openhartich is
+In handel nae de reens vereyschte saecken vallen,
+Soo isser vande schaer een Judas onder allen:
+(1265) En gheeft de woorden aen, die g rechtigh zijn vertaelt,
+Oock als ten nausten quam hem uyt de crop ghehaelt,
+Dus is hy t sanderdaeghs op t bed soo voort ghevanghen:
+Nu sweer ick soo ck maer rechts, wel nae mijn groot verlanghen
+Rack achter sulcken schelm, verclicker van t gheslacht,
+(1270) En dat ick t seecker gae, soo sulje onverwacht
+Ter aerden storten dees mijn handen niet ontdringhen
+
+                D OUDER.
+
+Seer quaelijck, jae verkeert wat weet ghy dien hem vinghen
+Van ouder saecken yets aenporden tot belast
+
+         D OPROERIGHE GHEMEENT.
+
+Prater niet of, ho neen, daer is al in vertast,
+(1275) De gruwel werdt u leedt, diet oyt godloos begosten
+
+                D OUDERS.
+
+Oproerich volck besint, dit souder halsen rosten.
+
+         D OPROERIGHE GHEMEENT.
+
+Gheen commer wel ghetroost te sterven met ghedult,
+Als daeghlijcx  t laeste endt te wachten sonder schult:
+Wat! hoe! zijn d anghelijft van outs wethouders vredigh
+(1280) Gheslachten tot gheslacht der Borgherschap onledigh,
+Vertrout gheen minste Raet, noch vordeel, daet of schijn,
+Soo mocht de nicker, wy gheen Spaingaerts eyghen zijn:
+En weetje nau een woort te spreecken onbegrepen
+Van t Gheestelick verdruck, te listigh en gheslepen?
+(1285) U vooghschap als ontvoocht, die eyghen Vaders waert,
+De Princen selfs ghenoech vyandelick verclaert,
+Van haer die  t goeder stant de Landen souden spijsen,
+Die kussen tot haer loon eens  t gat van Alligijsen
+
+                D OUDERS.
+
+Besadight, tot vernoegh van u verwildert hooft,
+(1290) De Godt van Abraham, wiens woorden ghy ghelooft,
+Die alle herten kent, en staet, besiet hoe deerlick
+Tot zijnder tijt verghelt, in winste dubbel heerlick
+De boose laghen sal den vromen nimmer schaen.
+
+         D OPROERIGHE GHEMEENT.
+
+Maer Vader die voor dees soo bloedigh wert verraen
+[fol. E1r]
+
+                D OUDERS.
+
+(1295) Licht onvermoet sy u de hulpe en  t behouwen,
+Ghedenckt  t verdient, hoe wy door sonden vallen souwen
+Des dees toelatingh Gods tot straf de landen vil,
+Soo langh o Vader als u alvernielde wil,
+Ghenadigh hebt medoogh, u heerlijckheyt te loven
+(1300) De goede gaven zijn ons dalende van boven:
+De Nederlantsche vloeck verhart en overheert
+Sal spieghel zijn waer by ghy tijtghenooten leert,
+Als namels nae verdriet vervalt een vayle haven,
+En dat deurt vry gheniet, de slommer leyt begraven,
+(1305) En dat u zy een landt te leven onder al,
+Dat Godt u heeft ghejont die u beschermen sal:
+ t Volleden nae dees tijdt, in Godt, te recht ghedulden
+Croont niet een eeuwich rijck.
+
+             D OP GHEMEENT.
+
+Maer sonder eysch van schulden
+De Landen oyt betoont, den Hemel dubbelfout.
+
+                D OUDERS.
+
+(1310) Hier rustet, om dees saeck mensch dat ghy u vertrout,
+Verdient, en by ghebreck des boets, soo laet u moorden,
+En opghesteghen vloeck, wiens snoode gruwel woorden
+Den gouden Hemel tart, besadight dijn ghewin,
+En gaet met my gherust ter Stadtwaerts weder in.
+
+               G. EGMONT.
+
+(1315) Saech-haftich volck u schrick deurknabbelt  t hartste deel,
+Soo tot belet dijns voedts, niet weynich maer te veel,
+Wat reutelt u int hooft? wat soudy dorven segghen?
+ t Ghedenck waer al te veel, en  t is niet weer te legghen
+ t Is waer ick stem de saeck voor waerdich afgheschaft
+(1320) Sijn Majesteyt ten goen: Sou dan ons loon ghestraft,
+En  t weldoen afghesneen gheen grooter Siel beweghen,
+Dat wil Godt nimmermeer, daer heeft den Hemel teghen.
+     t Onsuyver doet de schreum, uws grimghelach verquaet
+O Parma Vrou, als ghy laestleden by den Raet
+(1325) Te duystre antwoort gaeft u al te trou Vassalen,
+En sluyt de borst ghelijck  t hofs afghegraven Salen:
+De morringh dieder wast hoe langs hoe meerder doet,
+Ghy vreest, wy thienwerf meer, jae willent met ootmoet
+G lijck als de minste knaep, u bidden te bevreden,
+(1330) De Cancker van t ghemeen ons aenghesteken Steden.
+Noch loopt de lichte vlam uws bloetraets die van lanck
+s Lants Staten-raet verset, en dwincktse uyt de banck,
+Die meer gheen plaets ten Hoof vergunt wert te vergadren,
+En tercht het ongheval de opgheswollen Adren:
+[fol. E1v]
+(1335) Als Heer van Stralen deur den President Vergas
+By dryer stem, de lust eens Helscher aert ghenas.
+Ay! Wetrijck Borger-volck wat helpt ons d vry outheden,
+Hollants vasthouders, wy die menichmael ghetreden,
+Met een deurviert ghemoet hebben ghesocht den keer
+(1340) Van d al te strenghe eysch, wien seyt ons Coninck Heer,
+Gheen menichwerf berou bedocht yets sou bedaren
+Int sussen als ghy trockt, en liet u croons welvaren,
+Niet op trou-sorgh alleen rechtvordren maer in d waegh,
+Van Spaensche die de voorst, die selver wel te graegh,
+(1345) Wtputten  t soete graen, en sullen deurt vererghen,
+U offren elck beducht veel opghepuynde berghen.
+[in margine: Hollantse Wetten.]
+    Dus Hollant waert ghy outs rijck in der vrijheen standt
+Huns Graefschap soo t verviel tot erf een Vrou in handt,
+Gheensints mocht trouwen als by wil toelaet van Staten,
+(1350) Dien Raet oft Rechters Godes Amptlien theurder baten
+Worden bedient van gheen als d ingheboren self
+Dees vooghden generael,  t zy onder wat ghewelf,
+Vergadren nae den eysch der saecken eens verdraghen
+Sonder den last van dien haer over Prins te vraghen.
+    (1355) Vertrouwent dat ghespreeck om beters wil gheschiet,
+    Hier van heeft dan de Croon te weynich eer of niet.
+Gheen tollen steltmer noch vermindert als met wil
+Der Staten, en soo nijdts scherptandigh nest vervil,
+Gheen Prins aennemen mocht strijt teghens andre rijcken,
+(1360) Als by d eenstemmingh s lants, daer vaste trou moet blijcken,
+Om deur gherechte saeck te vorderen den strijt,
+Doch overheers gheslacht,  t verandert met der tijt
+Wijs Hollants volck, diet wel mijn rijpen raet besetten,
+Die Coninghen braveert in dijn gheheyde Wetten,
+(1365) Daer dick een dwase Vorst, of opghehiste Prins
+Sijn Creghel is zijn val,  t roest uyt een dolle wins,
+Waer uyt d onnoosel veel van goet en bloet verscheyden,
+Der Princen wil is soms een eeuwich Clach-bereyden
+Aent droevighe bancket, alst een Beltzazar quam,
+(1370) Doen Cyrus Croone  t hoogh van Babel over nam:
+Te laet ist afghewent als straffe heeft het swaert:
+Dus overheerlijck volck Monarchen tros bedaert,
+Soo boven  t Graefvolck heerst met recht eenstemmigh wijsser,
+Als een Neronis macht: O hart g lijck of stael ijser,
+(1375) Sijn Roma in een brant deur dolle moet ontstack.
+[in margine: Grave van Hoorn uyt.]
+
+              G. van HOORN.
+
+Ghegroet zijt edel Prins, ick heb soo even strack
+In een gheleghen plaets dees brief rechts voor de voeten
+Ghevonden, die ons spelt wat sonders noch t ontmoeten,
+Dus luydend 
+[fol. E2r]
+[in margine: Pasquil gestroyt tot waerschouwingh aenden ghemeenen Adel.]
+                Siet wacker uyt, ghevleyde staet,
+                (1380) Ghedenckt eens aen mijn boersche praet:
+                U schoon belooft zijn sachte veeren,
+                Die op de lichte winden keeren.
+            T Afgunstich vyer vant geestloos soch,
+            Dat doet u roepen wee en och!
+                (1385) De overgroote waere trouwen,
+                Soud u ten quaetsten moghen rouwen.
+            Wat sult gy Brabant dies verstaen,
+            Veel zijnder t Spaingien t Scheep ghegaen,
+                Waer van veel tonghen wonder spelden
+                (1390) Wijckt soeckers oft dit mocht u ghelden.
+
+               G. EGMONT.
+
+Wat dwaesse beussellery
+
+              G. van Hoorn.
+
+T is al niet dwaes mijn Prins.
+
+                 EGMONT.
+
+Spelt ghy de ramp de Post.
+
+                 HOORN.
+
+Gaveere dat gheensints
+T is over rijp ghestelt, en met ghemack doorlesen,
+Doch vant ghescheepte volck, soud ons dit seker wesen,
+(1395) Kan niet te goen, noch recht versachten t woest der tijt
+Waer aen ghy Nederlant soo fel ghehalsbant zijt.
+
+                 EGMONT.
+
+    T veeltongich g ruch blaest uyt heur weyfel rasernijen,
+De dinghen hoogh en laegh, waer leyt ons te vermijen,
+Tot weldoen in een saeck, die voor den beste vrient.
+
+            H. GYSB. van BAT.
+
+    (1400) Dat die soo grondich trou schijnt, trouwloos wert ghedient,
+Van dees wiens grootse gheest van bedight lasts verkiesen,
+Dat sonder weyflary soo noode t haer verliesen,
+Als ghy o groot Monarch die over Nijls beringht,
+Beyd slaefs onchristlijck volck, ghebiet, nu dus verginckt:
+(1405) Ons waert ghy aenghenaem, ghy deed u Gheest ghelaten
+Vol yvers opghepronckt, wiens mom ghy hebt der Staten
+Bewesen deur een gift vol schants, te nau beset,
+En rooft de vryheen meer, schent ons te waerden bet:
+Wat uytcomst tot de saeck? ist daechlijckx by  t verdeelen
+(1410) In Godt ghetroost, gaet uyt ghy knaecheresse spelen,
+En stort de damp des borst van waensucht overlaen
+Int midden van de Zee: Wast voor een vrient gheraen,
+T schijnt dat u Spaensch ghemoet verhit my doen yets deerde,
+Of eerder soo ick deurt becommer profiteerde
+(1415) De wisse teyckens merck beduydnis.
+[fol. E2v]
+
+                 EGMONT.
+
+    T mister meer
+Doch dat ghelaten
+
+              SABYNA van B.
+
+Lief, ick toefde u mijn Heer
+Wat strick des vry ghemoet, soo over trou ghedraghen,
+Breeckt dus de fleur van die oyt voorhooft plach te draghen
+Den gouden helm, en soo veel eeren aen de Croon
+(1420) Gheoffert druckt nu vrees van een onheylich loon:
+Ach grootsheyts aenghelijft uyt soo veel ouder stammen,
+Hoe schaedlijck! hoe belast mickt d eer verghete grammen
+Opt boven hevich hooft den top des wils ghereckt:
+Dat in de ruyme lucht zijn blauwe daecken streckt:
+(1425) Gavere Ay mijn Heer, daelt bid ick met ghedooghen
+Van d oversteghen trots dit mannelijck vermoghen
+Ten deert u grootste ziel niet in de minste schae.
+
+                 EGMONT.
+
+    Edele Voesteres! O Vroulijcke ghenae.
+Melijdtster! sachte borst, daers al te veel besloten
+(1430) Doch Graeve Admirael, en trouwste bontghenooten
+Treet met my voorder tot believen van de Vrouw,
+Mijn lief te weynich dacht, dat haer vergasten souw
+De Baenderheere, als Graef Hoorn te verlusten
+Ons afghemande gheests die al te weynich rusten.
+
+                LAN-MAN.
+
+(1435) Jae wel ick weetter niet of, hy is hier niet beter als een slechte
+slorf,
+Wy waghen t lijf, borsten, ghelijck een Vliegh in de keers korf:
+Daer een deel verbrilde onduytsen soudent wel doen verstijven.
+Jae jae: moy weer, de Heydenen willen de Karstenen verdrijven,
+Altements vliechter een queeck heen, t ghebodt is by de vles,, vaeck
+(1440) Waerse achter komen, elcke hant is soo goet als mes,, haeck:
+En dan komender onse devote Spaengaerden om preselen mettet Paternoster
+De een houtet met de Pater en d ander met de Koster,
+En dien  t hooft te vrient het, mach somtijdts wel een potke breecken
+T sinne gien gulsighe dronckaerts, maer dat hebbense voor treecken,
+(1445) Sy maeckender weynich sond af al stoppense in de Vasten vleys in;
+K hadder lestent een soo benuwt hoe wel dat ick nou weer peys bin,
+Even wel vry vol sorgh, want haer aert is moordadich,
+En nou hoor uyt Spaengien t gansch heyr onversadich
+Hier herwaerts ghescheept wordt, dies t volck willich ban,, staen,
+(1450) Roepen, soo dien Capiteyn comt, so wilter eerst an,, gaen,
+T is soo paslijck wel, Mannen ick sachter wel beter.
+
+               Val. HYPOC.
+
+    Wat mach Romp-slomp toch sorghen; hoe ist smul den eter?
+Weetje wel dattet midts vasten is, sie ghy wel watje doet?
+[fol. E3r]
+
+                 LAN-M.
+
+    Wel hey Domine hoe soo? een mensch maeckt wat moet,
+(1455) Daer heb ick t leste beetjen, dat moet ick noch schepen,
+En dat sel ickje uytbiechten, isser dus an vergrepen,
+Ghy meucht mijn een weeck te langher versien met penitentie.
+
+                 V. HYP.
+
+    Ghy slaetet met een quack of schuylter me dees nieu Inventie
+Dat sulgy my uytsnappen
+
+                 LAN-M.
+
+Soo wat entre deux
+(1460) Ghy sout ons de Spaengiarts quijt schaffen niet te paeps noch te geus
+Selment beste deegh hebben, de tusschent mal en vroet binnen,
+Sullen op dewerelt t salichst endt, beste goet winnen
+Maer my dunckt Heer Pastoor, ghy valt de menschen wat te hart.
+
+                V. HYPO.
+
+    Jae schentsel van wonder, wacht nu comter van vart
+(1465) Een ander Regent, die bet u sal doen pijpen.
+
+                 LAN-M.
+
+Alle dinghen buyten dat, ghy moeter mijn niet in begrijpen,
+Ick snack op den ontbijt wat.
+
+                VAL. HYP.
+
+                                            Wy verstaen ons dat snacken wel,
+ k Hebber veel soo gheteeckent, diet mackelick kacken sel
+Onvermoet ontruckt zijn te wil mijns Confrater
+(1470) Hier stout dus staen vleesch eten?
+
+                LANTMAN.
+
+                                                                  Hoort Domine
+Pater
+Ick selge mijn gront segghen
+
+                VAL. HYP.
+
+                                                Nouder g noegh van ghegheten is
+Jou gront veugel wel ick met gheen mastboom te meten is.
+
+                 LANTM.
+
+Jae wel ghy meught mienen ofge all snelle sienders siet,
+Ghy en hebt hier gheen geus veur, noch  t sinne vande mienders niet,
+(1475) Maer met meest elck een roepen vlytigh vol ghetraens
+Dat wy goet Catholijcks zijn, maer nummer goet spaensch:
+En daer ist volck veur vermaert de archste Godts fielen,, ja
+Hoort Domine onse Lijsbet warense soo hit by de hielen,, nae,
+Datse t al gheluck volck by de wegh quam t ontmoeten,
+(1480) Dit lijen! by d elementen! ick maecktense voeten,
+Al quamen noch duysent, wats dat voor nickers aes?
+
+               VALS. HYPO.
+
+Ghy sout dapper de man wesen op een wiecke kaes.
+Men sou u wel swijghen doen
+[fol. E3v]
+
+                  LANT.
+
+                                                  Die my so langhs de straet
+porden
+Inde vrijheyt al kuyrende maer ghy moetmen niet quaet worden,
+(1485) Boere zijn toch Boere Heer, ay laetse wat inde wint snappen,
+En gaet me tot Claes Moutjes, ick sel een vaentje laten tappen,
+Ofter so passelick of mach om dat ghy sulcken rechtschapen lanst bint
+
+                 V. HIP.
+
+Van sulcken onreynen vat niet
+
+                  LANT.
+
+                                                Maer datje oock mient datje so
+veel mans sint
+Een boer doen te swijghen, ghy waert beter een trooster,
+(1490) Ick wou met mijn twien u jaghen uyt alje Clooster,
+Wat wilje al opgeven, waermen noyt eenich wonder,, sach
+Ghy volck maeckt te licht toch van een veest een donder,, slach,
+En niet quaet te nemen Heer, dat mijn geest souw geen bloet,, vresen,
+Sulcke boerse Romeynen souden noch  t rijck mogen goet,, wesen:
+(1495) Altijdt ein siet voor thien die nu herwaerts comen trecken
+Half doot, eerse  t lant ruycken, wieck gebacke Specken,
+Doch voor de sorghen en naem moet soms wat zijn te zien:
+Hoe raest dit woeligh landt daer duysenden vervlien
+Dus vreesich voor de slach, by  t nieuwe recht gheslaghen,
+(1500) Domine Ay int goet, ick moetge dan wat Vraghen,
+Hebje dat uyt de schrift, soo strengh nae Godes wil,
+Wie menschlijck in de swackt zijns moets verandren vil,
+Daerom met swaerder doot soo daetlijck te kastijen.
+
+                 V. HIP.
+
+Dats nou ghevraeght niet waer, wat salder noch gedijen,
+(1505) Al waert ghy tienmael vrient, ghy zijt ghenoech bevleckt,
+Die dus de dolle Geest tot uyt mijn toonen treckt:
+En deedtment uyt geen recht, hoe sout dan kunnen schieden?
+ t Is uyt des Coninckx naem,  t out Keyserlijck gebieden,
+Belast wel scharp en vast besloten daer by  t Hof.
+
+                  LANT.
+
+(1510) Als groote dwalen Heer, soo dwalense wel grof
+Ick ducht het wil dit Neerlandt neeringhloos verderven
+
+                 V. HIP.
+
+Gantsch niet  t waer beter, maer de hoofden moeten sterven,
+Diet werck des woesten loops aen parssen sonder reen.
+Hoort Lantman siet voort toe, en hout u wel te vreen
+(1515) Was hier mijn Frater g wis hy is diet stuck soo fel,, wreeckt
+Ghy waert ghevanghen.
+
+                LANT-MAN.
+
+Ghy vint d goest die inje vel,, steeckt,
+Met jou is te praten, en met jou canmen over wech,, raecken,
+Doch soo niet, van te vooren wel scharp en goet verlech,, maecken,
+Ick spreeck gaern met geestlijckheyt die sinnen toch sachtmoedich
+[fol. E4r]
+(1520) Ay comt drinckt een paertje mee, zijt toch soo goedich,
+Wy sullen wat voort praten.
+
+                V. HIPP.*
+
+                                            Neen van dit niet een woort
+Ghy most hier van swijghen al waerje vermoort
+En datje geen out vrient waert, ick souje strackx an,, geven.
+
+                LANTMAN.
+
+Dat loof ick wel, ghy en ick zijn die niet nauw op een kan,, schreven
+(1525) Com, com, dit vleys moet deur, ick bin veur jou niet bevreest,
+ k Had een dagh twee dry Heer soo laf veur mijn hart geweest,
+Mijn docht ick most wat moets maken, comt laet ons yets gaen spoelen.
+
+                V. HIPP.
+
+Gaet in ick volgh, een man van wonderlijck gevoelen,
+Mijn leven niet gedocht, ontloopt u dus de peeckel,
+(1530) Waer binje nou Provoost dees moetje op de heeckel:
+Dus gaen ick vast en merck by hoogh en laegh op slach,
+Besien dan offer meer te voorschijn komen mach,
+De weeld dick openbaert, doet van verholen buyt,, mallen,
+G lick kinders en droncke luyden sullen altoos  thart vry uyt,, kallen.
+
+                LANTMAN.
+
+(1535) Heer comje by werck
+
+                V. HIPP.
+
+                                                Wat luyster vinck is dat
+Al haest, daer s juyst een vos recht met een vos ghehadt.
+
+[in margine: De derde Handelingh is versuymt aengewesen te zijn,
+moet comen daer Meest Elck Een met den Ouder comt.]
+
+
+                     Continue
+
+
+              De vierde Handelingh.
+
+H. DIRCK van BATENBORCH na buyten, aldaer bestemt
+         malcanderen wederom te vinden.
+
+
+Dits tijdt bestemt den dagh, dat u ghetrouste schaer
+Sal deelen hun ghedeelt, en scheyden van malcaer
+Tot schennis vande vloeck en bastaertlijcke smaelen,
+(1540) En smadinghs tuyl verarmt staet op den hals te halen:
+Is  t heerlijck licht soo eel eens Conincklijcken staf,
+Dat hy de misvertrou nae kint en reen vergaf:
+Hoe al t onwaerdlijck sou een Prince dan verspillen,
+Den offer zijns ghemoets der eens-ghevoede willen.
+    (1545) Hier is de uur en plaets, O Goddelicke Vrou!
+ t Swaerts is van meerder wicht, hoe noode dat elck sou
+Verlaten  t aengherant, als tijdelijcke erven,
+En dus in Ballinghschap op vreemde bodem sterven.
+    De Prins die van ghewoont bevonden ouder daet,
+(1550) Soo hartich dient, bewijst met zijn besloten raet
+Wien op ghehoorsaemheyt den Coninck blijft en beyden
+Een droevigh naeberou als ziel en lichaem scheyden
+Hoe!  t waer t onrechtlijck, wat beswaerder damp bemorst
+[fol. E4v]
+Dit lusteloose hooft, en druckt de groene borst
+(1555) Van Batenborch, ghy heers ghetrouwe Edellinghen
+Siet dat by dien de schricks beschuldingh quam te dringhen
+Ons tot gereet vertreck, waer naeder by geraeckt
+De dienst soo veer de prick ons allen tochtich maeckt:
+Siet waer den Gouverneur van Mechels ons komt nader
+(1560) Met mijn heer Broeder welck my is een trouwe rader.
+
+         Heer G. van BATENBORGH.
+
+    Dat een uytheemsch Prelaet gedenckwaert sal Granvelle
+Versteuren nae hun wensch u waerdicheyt ter helle,
+G lijck lanckx hoe meer dat haer Alteze wert bestreelt
+Deur valsche raden int opclimmen van heur weelt
+(1565) In eygendomme pracht, dat u so licht verdoofden,
+Die d onversade Kist vol schraepten ghy gheloofden.
+Sal dit bloet vreesich rot des Spaengaerts tlant voldoen
+Deur d oorsaecx gruw len welck daet doet haer kisten voen,
+Dees zijnt gesonden of van langher hant u boven,
+(1570) Tot Brussel raet en voocht uyt  s Coninckx naem ten Hove
+Als of elck aenghelijft rechtvaerdigh Prins niet sou
+Op offren zielens plicht dats ampt en woort ghetrouw,
+Godt geeft de uytcompst daer na vredes Vorsten haecken,
+Niet om ons als u volckrijck Brabant vry te maecken,
+(1575)  t Neer Hollant, Zeeu, als Vries tot seventien ghedeelt,
+Onder des werelts Bruyt ghy Belgica ge-eelt
+In wijtberuchte deughd, wiens Adel soeckt deur klachten
+Bey laegh als hoogher staet den Coninck mocht versachten
+Des ons te strenge strenght vant eyloos heersck gewest,
+(1580) Met sachter middel  t waer  t Bourgoensche huys ten best,
+Tis al met wapens wreet, noch bloet-dwanc niet te winnen.
+
+          G. van HOOGHSTRATEN.
+
+    Voorsichts beleyt erft meer deur wijs beslepen sinnen
+Als dolle overmacht, dijn blinckend stael voor wee
+Des vyants treckt, geensins voor borger van u stee
+(1585) Om zijns ghemoeden tuych gevolcht wert nae de Letter,
+Dat dus op  teerst besluyt beswaert heeft wien voor ketter
+Ghevanghen, niet meer rechts versaemlingh was alleen
+Twee tuyghen soo gheleyt wert tot zijn sterfuyr heen
+D aenbrengers die de ziels soo swaerlijck overladen
+(1590) Liefcoosent voor een vrient uyt putten en verraden
+Sijnt alles toe gehoor, macht, eere, dienst en lof
+Oyt voorbegift ter last uyt Keyserlijcke hof
+Dat tlant en theerlijck diens behouden sal dit wreede
+Was vijfd Karole hoogh lofrijcker diet soo dede.
+    (1595) Monarcha die Euroop tvolck als een donderstem
+Deet spieglen op de throon van dijne Diadem,
+By trijck door tvroom besteck u alle sielen presen
+[fol. F1r]
+Hoe liet ghy grijser dus het strijtbaer hart belesen?
+Een soo verslinnent Vier een Cankro vals vergift
+(1600) En liet u neder koop uyt soo veel leyt ghesift,
+d Ondrachelijcke smart, int harts verniel ondraechlijck
+De wiste teyckens, nu staet lichter al te waechlijck
+Hoet schoonste melck wit aes wert jam ren aen te sien
+By dat u guldt gheluck noch daeghlijcx sal vervlien,
+(1605) Beducht o Belgi zijt  t tooneel* by tijdts memorien
+Ghebout voor s werelts woest claegheyndende Historien
+Den borght hoogh op ghehoopt diet Babels werghebou
+Soo even zijt, waer blijft de toeghesworen trou?
+    Als  t vorsts verstorven moet rechts vordringh niet om weygren
+(1610) Lust door een groene spruyt, in hoogher eer te steygren,
+Op t welck ghy soo verplicht de Vaderlicke waert
+Ontsinckt* u eenich rijck ons Coninck hier op aerd,
+Met soo veel heussche groet van toegheneghen Princen,
+ t Lant so veel loons belooft veur d eers aenhevich winssen
+(1615) In soo veel dienst vergoen: hebt dubbel-fout vercort,
+Hier waerdy pogehult met heerlijckheen omgort.
+Den Adel  s lants voor eerst begift veel int verkiesen
+Van d ordre Ridderschap in staet der gulden Vliesen.
+    Nu dan u Vader met ghevlerckte kielen ree
+(1620) Uyt Gent zijn laest adieu, op d onghebaende See
+De soone liet tot borcht, die scheen vol soeter zeden
+Altijt vermeerder s Rijcks, behouder vande Vrede
+By al  t gheen staet des landts vryheden mocht bestaen
+Nu soo ghy haest gevolcht, u trockt te weynich aen
+(1625)  t Cleyn vonck vier nau ghewaer ghetercht nae hoogher wallen
+Last hier een spaenschen Raet,  t onredelijckst van allen
+Dus vindent voor gheraen: oock deur ghedreven  t leyt
+Madama  t hooft bebloemt, volpomt en voorgheseyt,
+Hy dien ons herwaerts sant wil sVaders wet vermeeren
+(1630) Vermindert stem vooghdy van u ghemickte Heeren,
+Gheheven en gheciert het voorhooft louter gout
+Op den Theatrum uws onmenschlickheen gebouwt,
+Hoe dickmaels als wy  t saem in eensaemheyt vermalen
+De afghesleten deughd, gheoffert aen de stralen
+(1635) Vant eeuwich bloeyend recht, onlijdelijcke spijt,
+Comt Grijse Mayer, comt, voorseght ghewisse tijdt,
+De vrome tot een troost, ghy weet  t ondanckbaer proeven
+Ons diensts, gheen grimmich dier dus langher te vertoeven
+Al heymlick en ghereet: hier comen ons ter zy,
+(1640) Meed voor dees selve saeck ghetrouwe vrienden by,
+Veel heyls my Prince, als Heer Brederode beyden
+Den Godt diet al voorsiet die wil u hart bereyden
+Nae  t best, dus ick vertreck als morghen met den dagh.
+
+[in margine: Graef Lodewijck met Brederoode [...]* uyt]
+[fol. F1v]
+
+[ColmTreurspel1616F1v]
+
+
+              G. LODEWYCK.
+
+Dits d oorsaeck ons vergaer, wy vinden u opt slagh
+(1645) Ter goeder uur, voor  t laest met Gods bedeelde seghen,
+Te scheyden; dus mijn vrient, sult ghy u dies verleghen
+Te vaten ons bespreck? soo Egmont wert verwacht,
+Die aen zijn Majesteyt te blijven heeft bedacht,
+Met een gewisse hoop, diet blint hart oyt gheloofden,
+(1650) Vlucht goedeloose, blijft dan blijvers sonder hoofden:
+Besiet int cort verloop noch eens op d eerste gront,
+Daer noyt een trou Vassael gherechte loon bevondt:
+Hier comt den Lamorael, die wy met vlijt beleden.
+[in margine: Prins van Orangien G. van Egmont met Graef Hoorn uyt.]
+
+            P. van ORANGIEN.
+
+Tijdts overstalligh merck, ruwijne voor de vrede
+(1655) Beroemde Heeren, heeft alreed u naem gheleert
+Tot aen Vailladolit veur wonder, doch verkeert
+Dijn eeuw vol schricks bevaen,  t Borgoensch ghewelt te mijen
+Gheschoncken doot te proy voor aes der tierannijen,
+G lijck uyt mijn seecker tuygh des Ziels vast weet beducht
+(1660) O Egmont, oft niet can u perssen datje vlucht,
+Nae dat van aenbegin  t landt eedloos is verraden:
+Als tot de laster ghelt, verovert Heltsche daden,
+ t Glaurierd des proefs vant harts aentockel onversaecht,
+Ist al int trouloos vat verslint, hoe stout ghewaecht
+(1665) By  t trots Karoli kint, Doent selfs creegh Neerlant onder
+Ghedeelde seventhien, wat groots onsichlijck wonder
+Vermolsemt inde haet, so licht verwaent ghebiet
+Nu klaer bevonden,  t gheen een valsche tongh verriet?
+Op t welck t wreet quam voor handt, dees inghebeelde mochten
+(1670) Berechten huns behoefs, als wat wy dienstigh sochten,
+Noyt om aensiend ghestalt, maer  t zijn recht Vaders van
+Ons meeste anpart, g lijck voor yeder borgher man,
+Die ons op straten Hof, soo weghen zijn weemoedigh
+Staen houdent uyt Ziels pars, weet dat de Vorsten spoedigh
+(1675) Noch bittert meer en meer,  t bestreden droef verlies
+Des levendloose hoops, den dwingher lust, soo kies
+Siet d ampten fleur gheschaeckt gilts oorbaer wetten breken,
+De wijcken roer gheplet, elck weyghert op dit teecken
+Ghehoorsaemheyt, verwilt, g lijck thart gheen dooden vreest,
+(1680) Siend dat waertste vrient, die oyt soo is gheweest,
+ t Lant t rouw, vroom voort gherucht, ghetercht sal moeten bitter:
+Staen vlammigh, Ay  t verwoet soo menigh inne sitter
+Dan  t is soo voorghemaelt, deur d onbescheyden handt
+Vant Kitteloorigh spaensch: Selfs tot de hooghste brant
+(1685) En u niet meer vertrout, ghy medeloose leden
+Onvry uws vrye staets noch raet-stoel te betreden.
+De bloetlust greeticht aen, die eyndelingh der tijdt
+[fol. F2r]
+U rijcken zijn te lot als ghy tijts clach-spel zijt:
+Siet selfs op t heylich hooft invoerders van t vernielen
+(1690) Kiest ghy niet voor de keur, o Moorders veelder zielen,
+T gheen by t Concilium tot Trenten wert bevest,
+Voor t welck Granvelle streeft met cracht soo doet de rest
+Gheen erf-rust dy int minst o al te trou Vassalen!
+Van die u vuylste Crans soo nijdich doen bepalen,
+(1695) Hiers nu de pot te vier, ghenoodicht deur een lach,
+Ick vlie! houdt u bancket alst vlieden baten mach:
+Ghy die t naem Gouverment van Vlaendren draeght ter wapen
+O Egmont, tis nu tijdt van sluymer eens t ontslapen:
+Sijt seecker soo ghy blijft, Gavére ons bemint
+(1700) Is u val nader.
+
+             G. van EGMONT.
+
+    Hoe! den Coninck sout bewint
+Eens ondersaets, die oyt Godt kent so was te draghen
+De Vorstelijcke last tot welstant vande daghen
+Ons alghemeen, siet wiens landt lieve borst verstout
+Voort  t Rijck by s Vaders tijdt, dees lofrucht vast en out
+(1705) Vergeten? Prins, hoe dit?  k vertrou de kroone beter
+ t Waer al t onmenschlijck snoot, by dien hy coel vergheter
+ t Gheoffert s Keysers hooft, deur d Amurath gheschiet,
+Dats rechte trouw en deughd noch onvergolden liet:
+K en kan t inbeeld noch niet zijns doens deur liefd gedreven,
+(1710) Ghedencken, onder wiens ick moet my voort begheven,
+Mijn goedren zijn rontom gheleghen mits int landt
+Ick wacht een beter tijdt als nu
+
+            P. van ORANGIEN.
+
+ t Wel rijp verstant
+Behoort de Overvooght: breeckt niet om  t goets verwinnen,
+Dijns hart en heyl, een saeck gherechtlijck wilt beminnen
+(1715) Die niet vervreemden sal, by dien  t recht eeuwigh bloeyt.
+
+             G. van EGMONT.
+
+Gheschelt voor Eedloos Prins, wat ruster onghemoeyt
+In dees te sware knel? laet ons in Godt ghedulden,
+De vluchten laet op t pack veel toegheduyde schulden:
+Scheyt ghy dan uyt de landt Orangien, trouwste raet
+(1720) Men seght ons hooghste Vrou deurt rouwen weten laet
+Tot hinder vande tocht,
+
+            P. van ORAINGIEN.
+
+Siet Grave met bedaren:
+Uws schricks; ist niet ghemerckt van herwaerts soo veel jaren?,
+Wat heeft u aengheparst? wat heeft u Ziel beooght?,
+Wien heeft van aenbeghin  t stick vyerigher ghepooght?:
+(1725)  t Is waer, met soo een hart den Coninck te behaghen,
+Wast niet soo schelms verkeert, van die u soeckt te plaghen?
+[fol. F2v]
+Denckt  t is recht oft gevalst, de vooghd vint licht te quaet
+Waermeed hy ouden dienst beticht voor ouden haet.
+Dus salt met onser gaen, of wy oyt Spaengien swoeren
+(1730)  t Niet lijd lijck eens Godloos, vreemt raet volck in te voeren;
+Doch  t Catolijckx geloof van harten voor te staen,
+Dat na u wensch  t ghemoet en Coninck is voldaen.
+
+               G. van EG.
+
+Sijn Majesteyt ghebiet, ist ons niet te verdraghen?
+
+                 H BRE.
+
+Wat noot dit,  t wert verkeert, onecht komt rechtlijck klaghen
+(1735) En ons wort opgeleyt  t hooft der rebellen van
+De croone, jae geen volck  t Rijcks Laura, deurt gespan
+Eens grimmich beckeneel, met opgevierde harssen
+Noch voor de meeste smaet: soo godloos doen vervarssen
+Ist daet werck Criminel verbeurt bey lijf en goet
+(1740) Den Coninck strijts geneycht
+
+              G. van HOOG.
+
+Alst soo sy datmen moet
+Ghedwonghen tot behout van ons ontschuldigh leven
+Waert quaet hem  t hooft gheboon, by dien wy eenigh bleven:
+ t Vertrecken  t is wel waer geeft ons de meeste rust,
+Doch warwaerts onghelant om nae ghelijcke lust
+(1745) Te leven inden staet van outs ghewoont en pleghen
+Waert ons ghelijck u Prins meest buyten lants gheleghen.
+
+              P. van ORANG.
+
+Nu gelt aent uytterst harts verbintenissen proef,
+Siet varder, d Hertogin berout en soeckt  t vertoef
+Met leyde schrick bevaen, vol besighe ghedachten,
+(1750) Die aen zijn Majesteyt deur opghehitste clachten
+Heeft dus ons aengetockt de vresen.
+
+                 H BRED.
+
+Ay me Godt!
+Tot breeders heylgiers stant schenckt ons een waerdich lot,
+Ghemerckt hiers d eer ontrciert: dijn welghewilt te letten
+Ten Hof verboon  t ghehoor, men gincker Spaensche setten,
+(1755) Dits loon verdient op t clagh: fy Parma snoot en vals
+Deur u te buyt vereert van goederen ende hals!
+Ghy Adel-rijck gheslacht int Neerlant rechts behouders,
+Gheerft, ghevest, gheteelt, uws grootser staet voor-ouders,
+Noyt trouwloos naghemort, een borst vol yver viers,
+(1760) Verhoop noch Hollants gunst mijns wackre Bataviers.
+    Siet g lijck in spieghel dat den draf van Spaensche Heeren
+Aen haer Alteze niet toelaten noch begheeren
+Dat u de minste weet van  t heylich werdt ontdeckt,
+Als zijnd ghewesen voort en alghenoech bevleckt
+(1765) T gheen niet te redden is, noch met meer reens verdaeden,
+[fol. F3r]
+De kloeckste Montigny en Bergh, o voorste Raden,
+Is ons by vrients gheheym vercondicht waere ziel,
+Tversoeck noch reen de Croon noyt lief noch wel gheviel,
+Dees zijn inswaerder ancxt starck t haerder leet ghehouden,
+(1770) Dus ginckt, en ist vergaen diet Spaensch oyt goet vertrouden,
+    Te spae comt dijn berou, verwaende Hartogin
+T gheschoncken vry, roof, moort, t hooveerdich Heyr na sin
+Streeft lancks t ghebaende spoor, en royen uyt vol plaghen
+Hier herwaerts over, g lijck de grootste donderslaghen
+(1775) De menschelijcke starckt, door t galm verschricken doet,
+Soo schrickt de Monster t gheen by Leeuwen is ghevoet:
+[in margine: t Afcomen van t Spaensch Heyr, onder den Hertoch van Alba.]
+Der Albanoysen hooft, die schalckt heeft leeren* blaffen
+Comt nu met volle macht t soet Nederlandt te straffen,
+Ghehelmt gheborst weert, toeghereet zijns gulden tijt,
+(1780) Van t gheestlijck volck rontom als tot een heylghe strijdt:
+Siet nu! dit blaest u op de Maer-conster heeden
+Tot Barcilona selfs is d Alba t scheep ghetreden,
+Met veel uyt s Conincx naem van Adel en verstaen
+Der tijdingh met zijn volck in Piemont comen aen
+(1785) Int Alpische ghebercht, ghedenckt met laeuwe tranen,
+Daer Duytslant, Vranckrijck scheyt van  t deel van Italjanen.
+Op S. Ambrosi plaets daer monstert hy t ghewelt,
+En heeft tot naerder compst het als in maet ghestelt,
+Vervarst de macke schaer, die op de vochte baeren,
+(1790) Deurt hollen onghewoon in swaere kranckte waren:
+Dit is dan t wis bescheyt en t naeste door een groet,
+Als Berleymont die treckt hem selver te ghemoet.
+Hy is heur aertschen God die ck vrees niet goets sal landen
+Als zijn Godts laster wraeck, dats rooven, moorden, branden
+
+            P. van ORANGIEN.
+
+    (1795) Ha! groot nachthangsel vlucht, deublixemt met den dach
+Vant Heerlijck Sonnen licht, wijckt stoel die naulijcks mach
+Opreycken zijn barbaersch benevelt duyster bruyssen,
+Veel min t Godloos ghewilt dees twee Bougoensche cluysen
+De hutten s aerts u niet in meer verlangh nae ceur
+(1800) Dijns levens wert vereert, soo gruwlijck raest, waer deur
+Braveert, o tis ghenoech, en doet de hooghmoet daelen
+Van d opghesteghen trots, den tros des lants vassalen
+Mant elck nae t waer ghevoel, dit ghelt voor eyghen druck,
+Siet voor goe heencompst, dat t u al vergaet te luck,
+(1805) U uytterst wil en macht heeft voor de rust ghesproocken
+Des salt noch metter tijdt soo g rechtlijck zijn ghewroocken,
+Als al int open velt ontsweyt staet om beloert
+Vant Hatigh volck, nu heersk, en met gheen klauwen boert
+t Spaensch reedeloose dier, die naer Sons reysse stralen
+(1810) En kleyn ghetal verschijnt o Brussel op u* saelen,
+[fol. F3v]
+Ach Belgi! Ay wat damp! u wijt ghetoorent rijck
+Swerckt vreesich over thooft, en  twas niet moghelijck,
+In sacht noch soet vergeet te stillen  t vyer van wonder,
+Dies voorste t eer voor Godt gedanckt der dienst bysonder
+(1815) U elck voor rechte deuchts bewesen liefd soo groot,
+En wensch u vreed tot wedersaemlingh.
+
+               G. van EG.
+
+Prins de doot
+Is bitter, en so leyt ist al ten roof te gheven
+Dus vlieden met de naem voor trouloos al ons leven,
+Den Coninck heeft gheen recht ons daerom te versmaen,
+
+              P. van ORAN.
+
+(1820) Siet toe! siet toe! ghedenckt  t gheen wy ten besten raen,
+Dus doend bout ghy de Brugh waer over wert gelaten
+U Moorders, en  t verderf van goedren en lantsaten
+Uw s kinders, u geslacht, of schoon ten besten quam
+Ghy eewich slaefs, verblint volck, van te waerden stam,
+(1825) Ghebout, gheheyt, ghevest, vol Hemelsche cieraden,
+Vant goet werck voor te staen, en huychelt met geen quaden:
+Ay my! wat swaerder pack, doch Vorsten u bekent
+De ernstighe vlijt, soo laet ons op een endt
+Vertrecken uyt dees plaetrs, en nae recht vrients bereyden
+(1830) Bevesten voor een best ons dit ghenoodight scheyden,
+Den Scepter vanden al, die op de wolcken vaert
+An  s Vaders rechter arm, uyt liefd ten Hemelwaert,
+Tuyght uyt der zielen geest het Jammere dus t ontstrengen,
+En laten t heete bloet int coele water menghen:
+(1835) Hier meed die  t alles weet bevest ons harts besluyt,
+Voert Heer dit swaer ghedreyght der landen salich uyt.
+[in margine:t saemen tot verscheyden weghen vertrecken.*]
+____________________________________________________
+
+            H. GYSB. van BA.
+
+NU glibbert vanden tob de opgeklommen moeden,
+Wien kan sich voor een schielijck ongheval verhoeden
+Hier wentelt tot in d as de Laura van u tijdt,
+(1840) Den Borgh-graef is ghereyst Orangien zijn wy quijt,
+O trouwe Raetsman, niets cost dijn bewissen baten,
+Die met u broeder hebt dit bloedigh rijck verlaten.
+    Wee valsche Coninckx borst, alst lant dus stont te proef:
+    Dat voor hun sterfdagh d aertsche zielen men begroef!
+(1845) Sal dees onheyl ghe Pars u al nae waen ghedijen,
+Die nochtans werdt ghedreycht deur sware Prophecijen?
+Is u  t gherucht vervreemt eens Enghels lief geluyt?
+Soo breeckt dan lichte Vrou, deur nevel wolcken uyt,
+Tot mortel-plettringh dijns erfhaetelijcke schenners,
+(1850) De vrome tot een troost, dit merct dan waerheyts kenners:
+Een Loutre heylsaem wel behouden Vrouw uyt cracht
+Uw s toegheneghen vlijts, by Gode hoogh gheacht,
+[fol. F4r]
+Staet met der harten voor op heygront dijner zielen,
+Hy die opt binnenst siet, verstoort die u vernielen;
+(1855) Verslaghen Princen heeft ghelaten wet en stalt,
+Grontvesten tot opbouw t gheen deerlijck laes! vervalt,
+Hy trock ten Hemel heen wilt Vaderlijck bedaeren
+Deur waerheyts kunt die zijt gherechticheyts dienaren:
+Hoe wel een onderdaen noyt overheerscht den stap
+(1860) Sijns Prins of s Princen wet dat in die eyghenschap
+Der Landen vrije toom nae oudt ghebruyck gheen hinder
+Bekome by zijn macht, vermeert en niet verminder
+Op d ingheseten deel, ha!  t schentsel sterckt te veel.
+    Ghy voortse twick recht der conscientie is soo eel,
+(1865) Die lijdt gheen tergh om waens, onchristelijcke sotheyt,
+Als soect  t recht voor waerdy in schult der hooge Godheyt,
+Dits op soo veel beschout, tis lijdsaem onder tast,
+Gheraen ten best, tscheen goet, en opt verraet verrast:
+Tis toegheseyt aen u voor welstant van de Rijcken,
+(1870) Als uyt des Coninckx wil diet lust en dierghelijcke,
+Al om de aerde raest, elcks staet belast de wacht,
+Voor vryheyt Lant en erf, als d eere vant gheslacht,
+O nummer sy u weer soo trouwe bontghenooten,
+Daer u deur t nieu verkies de hoven zijn ghesloten.
+____________________________________________________
+
+        G. van MEGHEN nae buyten.
+
+(1875) GLijck voor een morghen-bloos, en roode Ooster bruyt,
+Die  tvoor-portael des Hofs der Sonnen eerst ontsluyt,
+En bootschapt met een lagh de open-strengh der salen,
+Der alghewenschte dach gheciert met goude stralen,
+Bodinne van de vreughd, van al wat sterflijck was,
+(1880) Als blatent vierghevoet, t gheen op t bedoude gras,
+Nae hun manier begroet de Ciester van de morghen
+Leeft in de klare dach verhuyst van duyster sorghen:
+G lijck als het pluym-gevluch een stemmich sich vermaect,
+Als  t hipplend om en d om de geur ghe bladen raeckt,
+(1885) En neurt zijn soete toon, de schaduw is verstrecken,
+Waer op t ontelbaer saey der lieve starren kecken,
+Verheerlijckt daelt te niet by u eerwaardich hooft,
+G lijck even dat de strick der harten nau ghelooft
+Dat grooter Donder-storm u gaven sal vercrachten
+(1890) In gheen manier verwit de ydele ghedachten
+Tot roof, tot machtloos dol verwesen swerm voor al
+Van t geen u heden is by datter comen sal:
+Siet daeglijcx sy u voor Toledo op u stranden
+Met hoogher macht so breeckt, breeckt lasterlijcke handen:
+(1895) Uws Coninckx haetlijck woort beseghelt tot de strijt,
+Onder wiens schaduw ghy den Troyschen Hector sijt
+Voor wijle int gherucht, noch vreesich te verwachten
+[fol. F4v]
+Den stouten Annibal, wien t groot Carthago achten
+Oft d glorie Africaens een Scipio vermaert,
+(1900) Of g lijck diet wolven soogh heeft mannelijck veraert
+Tot overspringhen tocht, als opgheworpen lichten
+Die eer soo Titus schrijft het groote Roma stichten:
+Den Etna van der eeuw een Alexander stout
+Victorieux en wijs, wiens setel louter Gout
+(1905) De Werelt heeft het oogh ghetrocken van te vreesen,
+Soo sult ghy Albanoys op dees Rebellen wesen:
+T rijck waer doch nummermeer verwittich dus in t soet,
+Van volcken rusteloos, oft zielen uytghewoet,
+Verdraghen in de stilt zijn Majesteyt eerwaerdich:
+(1910) G lijck alst Egyptsche rot, tot dienst en arbeyt vaerdich,
+De Croone tot bereyck van levent g luck te sae,
+Dit stoot ghy onder voet, soo mint dan op ghenae:
+U zy niet meer vergunst tot speeltuygh toeghelaten,
+O nieu-ghesinden loop en yver uyttermaeten,
+(1915) Deur teghentwil ghevoet en barsse kreeghlery,
+Ghenoodight veurt verderf, dit noemt ghyTyranny,
+Nu hier meed afghestreen, u cluwen is ten enden,
+Ghy sult u tot de doodt of tot den Coninck wenden,
+Die ghy niet moochlijck snood vervallingh cunt voldoen
+(1920) Noch d Kerckelijcke schae u daghen niet vergoen.
+____________________________________________________
+
+ B. GHEWELT. Comt trecken met een guarde
+             nieuwe Waelen.
+
+Stap an ghy gorghe maets, com op ghy Baender-Heeren
+Ghy hoecks ghy Cabbeljaus, ghy raeuwe Haneveeren
+Ghy muggen veur de boegh, ghy Leeuwen anden dis
+Ghy Monsters, veegh slae doodt daer wat te cluyden is
+(1925) Veur t out, dats delfs bier, en brandewijn die goet was
+En t hart soo hartich hiel soo langher t varse bloet was
+Bestooven in de borst ghy dwingh-landts schrick en vrees.
+Siet op u heylich, of ons Hannibal verrees
+Cier stammen van het rijck, ghy brallers die doet ruymen
+(1930) Het lichte Geussen rot, steeck op u dolle Pluymen
+Jou Swaellu starten en jou Haenekams, als bloet
+En toont deur naem den aert wat kuyckens datmer broet
+Cruypt in u holle slolf ghy mont-volck sonder Crachten
+Ghy hoofdeloos ghesin, hy die wy hier verwachten
+(1935) Dus nevent prachtich hof en haestlijck comt u voor
+Soo heerlijck toeghetreen van volckeren die int oor
+Het aldersoetst gheluyt, by u bedaede lasten
+Tot welcom en versoen, op u te eeren rasten.
+    Stae vast ghy laffe bloets en hout u opt gheweer
+(1940) Hier staet u toe te sien, nae vruchten van de eer
+Om mijn ghevreesde naem, met glorie te becroonen:
+[fol. G1r]
+En jou met Varcken Speck, en harde raeuwe Boonen
+De sachte kleffe smaeck en is u niet van noot,
+Wiens wieghe was ghesmeet van t harste stael en loot
+(1945) Dus houtge by de back, daert schricklijck staet ghespannen,
+Want wie het snelst vertoont zijn t rijckx de beste mannen,
+Vol roers, vol ramps, vol weyts en t groote hof te nau.
+Tot rustingh veurt verderf daer voor soo cloeck en gau
+Als dees mijn fratter nacht en daeghe weet te stoocken
+(1950) Sal by dees leen te hulp en laster zijn ghebroocken.
+
+[in margine: Vals. Hip. vindende Bloetdorstich gewelt
+met een Guarde aende Poort vant Hof.]
+
+               VAL. HYPO.
+
+    Jae kloecke Capiteyn, dus houje weer de wacht,
+Of hebje t wilt ghespoort, waer op de kittel jacht
+Van t soete Oorloghs ampt en ongheheelde smarten.
+
+               B. GHEWELT.
+
+    Neen Domine, by jou hart reeckent alle harten
+(1955) Levendich, nu dats daer, den Alba is aent Lant
+Ons Vrou comt strack hier voor, dus maeckt u van der hant
+Hiers nu gheen praetjens tijt, daert u om veel te doen,, is.
+
+               VAL. HYPO.
+
+    K hoor wonder, meent ghy dat ons yemant oyt soo groen,, is?
+Segt Bloet-verwant daer dus de nieuwe zijn te roer,
+(1960) En krijghen langhs soo meer veel duysenden aent snoer
+Daer voor besielt ghereet vveurt daeghlijcx noodich koff ren,
+Veel stroyen cellekens, om daer in de ziel te offren,
+Alst in de roode vlam staet gloeyich afghestaeckt:
+Soo met een laest adieu, dats Gode voor ons waeckt,
+(1965) Ons wert gheen tijdt onnut in deser tijdt ghegheven.
+
+               B. GHEWELT.
+
+    Ghy bint een man als Speck de groenste vanje leven,
+Broer Pieter, groote Maet, ick houje als te vrient,
+Ghy cunt een woort ten best, die sulcken setel dient
+Dats d inquisitie Vrou, voor wien ick stel dees leden
+(1970) En onbemurwt ghemoet, dat soot quam by de reden,
+Daer menich half versaecht deyst van t gheswooren woort,
+Soo treed ick vast int parck, soo hoopend dienstigh voort
+Nae hoogher eer mijn Vrou my d ampt bet sal vermeeren.
+
+               VAL. HYPO.
+
+Nae hoocheyt ist toch al dat elck sal soliciteren,
+(1975) Nu dan ick loof u t best datter eerst open valt,
+Ick gae vermits ghy toeft, tijt isser wat vermalt,
+T lof is voorhanden, dus wy sullend hier by laten.
+
+               B. GHEWELT.
+
+    Salve Heer Pieter, man hoe keunje lastich praeten.
+____________________________________________________
+
+[fol. G1v]
+
+MA. de PARMA met al heuren raet zijnde op
+  t Hof, verwachtende den Hertoogh, die
+  voor de mueren aldaer, voorhanden is.
+
+ACh! was dees schrickel compst ten rechten wel verhoet,
+(1980) Te laet ghy Barlaymont gaet treckt hem int ghemoet,
+Hy toont u vol bescheyt, die wy in kent gheloove
+Of dat hy sich vermijt te treden hier ten Hove.
+Wat roer mist  t woest gevaer elck schrickt den dwingher veur,
+En veel die zijnder van den Adel wegh en deur,
+(1985) Gaet int bereyt ghetal hem metter yl ontfanghen.
+
+                 BARLAY.
+
+    Roemsuchtighe Vooghdes,  t is noodigh naet verlanghen,
+Van verr gehoopt, en voor een rechte wraeck begheert,
+Soo waerdight dese dienst zijn Majesteyt verert,
+Hy comt met sulcken naem, wiens staelle lichte n blicken
+(1990) Wil voort verwaende volck noch deyssen noch verschricken,
+Bewijst dit grijsse hooft doch zijn vereyschte eer:
+Ick treck hem selver aen volbrengh ons Vrouws begheer.
+[in margine:Sy blasen.]
+
+                B. GHEW.
+
+Die ondert deck van des ghemeents onrustich woelen,
+Heur Arianen borst versachten en vercoelen,
+(1995) Sal t zijnder tijdt becracht alst schijnt de meeste stilt,
+Ghewroocken worden, jae ghebrant, ghemoort, ghevilt,
+Diet snaterbeck in schijn des Engels houden t onder
+En heben  t Ketters rot, hier op in  s werelts wonder,
+Doch  s Coninckx raet noch by de laetste brieven zijn
+(2000) Versterckt, dats hout dit volck soo in een goeden lijn,
+Gae dus int leytsaem toe, ick sent u  t gruwel teecken.
+Van d onvergolden schae, diet al ten endt sal wreecken,
+Ghy Ferdinando vroom Toledo, g wenschte uur
+Die selver is voor hant tot Brussel ande muur,
+(2005) Wiens g rucht als donder storm doet Brabant nederbuyghen,
+Duc d Alba worpt te neer dees goddeloose tuyghen:
+O stoutste uytgheceurt tot  t geestelijck behoet,
+Dees man ist met my eens, voor alle saeck voldoet
+Volvoert zijn deur de last der nieuwe Ampt ghesellen,
+(2010) Salt Bergh, als Montigny oock konnen na vertellen,
+Die vinden daer hun vast ghesworen vyant fel,
+Ghy Vader Heyligh doens, o grooten wijs Granvel,
+Merckt opt verval des tijts, op u ist dat wy hoopen.
+
+              MA. de PARMA.
+
+    Alst volck oyt opwaerts steegh quam tot my anghstigh loopen,
+(2015) Hoop middel, en vermogen versochten by verdragh
+Is u vergunt wanneer men deur gansch Brabant sach
+U schelmse guytery van kercken te berooven:
+Nu koemt den Alba om dit roer nest te verdoven,
+[fol. G2r]
+Doch Honiel* ghy die weet  t ontgaren, waert belet,
+(2020) Te min niet, ist by wil als rijpen raet gheset
+Starck op d ervaren proef van overmoede tijden,
+Soo werdt de Peerle u, g lijck deur een heylich strijden
+De smaden om end om ghebroocken.
+
+               B. GHEWELT.
+
+    Dats hem recht
+ t Paert  t gheen de meester min ghereet stont als de knecht
+(2025) Eyscht aen den teughel, dees, die ons comt op de weghen
+De Borghery zijn op met lof den Hartoogh teghen,
+Haest werdt hy u Princes voor ooghen by den Raet,
+Met een ghecierde sleep der grootse spaensche staet,
+Versacht u soete sin, gheen vrees sal  t harte drucken,
+(2030) De roed is nu gherecht  t sal voorder wel ghelucken,
+Hy comt mijn borgh-heer, tot bevestingh vande naem
+Sijns eerst gheboren vruchts, de eeren deelingh  t saem,
+Ghecoppelt aent behout der gheestelijcke Heeren,
+Die liever alst verginck, meed slincx en rechts om keeren,
+(2035) Becrijghent met de tongh, ter sijden vant ghewelt:
+[in margine: t Gheblaes op de comst.]
+Hoort wat trompets gheschrey ons blyde maer vertelt,
+Den Alba is voor handt ons Hartogin te groeten,
+Ghy sult hem op de Sael dan selver sien ghemoeten.
+
+   D. D ALBA. comt opt Hof met groote
+                 pracht.
+
+ T Glauriert des gulden Sons, die deur ghelijcke min
+(2040) De Palm van  t spaensche Hof, u hooghe Hartogin
+Soo wenschrijck heeft bestraelt, wiens werc-heer  twercx vervreuchden
+Bepeerelt  t wijt berucht der opgheclommen deuchden
+Van haer Alteze, in grootmaeck van ware eer,
+Midts d anghebonden gunst, dieck voor u presenteer
+(2045) Sijns Majesteyts, bevest met een blylandigh groeten
+Waer van tot vast bewijs de Princen ons ghemoeten:
+Die ck heb int cort ghetoont van als mijn volle last
+ t Welck zy my Vrouw te dienst als vrijheyt beter past,
+Opt noodigh heersk gheboeft en trouweloose schaden
+(2050) Vergheldens nae  t ghedreycht, u eervergheten Raden
+Des staets, gheleden dwael, spijt Cancker vyer en swaert
+Uws harts, o trouw vooghdes!
+
+              M. de PARMA.
+
+Tholedo stout van aert,
+Wel dappre Albanoys,  t is immers waer van heden,
+Dat ick u sie berust hier voor mijn voeten treden,
+(2055) En uyt des Conincks naem de voorste ons bestelt,
+Soo zijt dan met die gunst verwinner van het veldt,
+Uyt u aenbieden heusch ghelijcke deel te loonen,
+Tot danckbaer vande groet die u belieft te toonen
+[fol. G2v]
+Een Parma-Vrou, die nae  t bereyck mijns ampts vooghdy
+(2060) Te veel rampsalich leet en ruwe raserny
+In ondanck overbrocht, verarght des weldaets lusten
+Sal my naer u by zijn gelieven bet te rusten.
+
+               D. D ALVA.
+
+ t Ghecroont half Indies hooft nae wil beduyt, indien
+Behaghens lust ten goen, sal d Hartogin gheschien,
+(2065) Verhoopt uyt dese borst de trou sal vyerich woonen
+G lijck een Panthasile Heldin der Amazonen.
+U hart-verstaelde Siel deurstreeft dees hooghe noot
+Nu biet sich siet van heen, die voor de coude doot
+Gheen vrees sal eerslingh den achtbaren stap ontschreden
+(2070) Maer wensch soo diens voleert de vruchten te besteden
+Mijn grijs bejaert ghemoet een Vader voor me Vrouw,
+Een borght, een troost, een vooghd een broeder inde trouw:
+Set dijn beduchte gheest de Lely weer in handen
+Verheerlijckt op de compst van soo veel dwinghelanden
+(2075) Elck deelt sich over soo veel vaendels, int behoet
+Gheboren edel en van Princelicke bloet,
+Die al opt laest adieu soo hoogh den Coninck swoeren
+ t Gheschaeckt, onteert, berooft, vry aende Croon te voeren,
+Van alle list ontleyt, van sorgen onbeswaert
+(2080) In meer bewist gheplant wiens vruchten lief van aert
+De Roomsche Monarchi en  t heylichdom verdaden
+Ons Coninck te voldoen dees afghestolen schaden.
+
+              M. de PARMA.
+
+Hier toe versterckt dijn gheest diet al nae staet deursiet
+Nu stoute Vorst treet in vermoeyt van reys u jaren
+(2085) Ant toebereyde mael,  t gheen u tot welcom schiet,
+Met al den staet die ons ten Hoof soo lief vergaren
+Wy laten dit int vry tot breeder nae verclaren.
+
+
+                     Continue
+
+
+            Vijfde Handeling.
+
+ M. ELCK EEN vertreckt in  t heymlijck.
+
+[in margine: Daer wort veel triumphe Alba tot welcom vertoont op t Hof.]
+
+Nu leyde schrick verhuyst  t is haest ghenoech gheproeft
+De uytgheputte gheest waer langher nae vertoeft.
+(2090) De Sent vloet is op  t hoogst  t schoon Brabant overslonden,
+Den wreeden Nicanor Jerusalem ghesonden
+Wraecks tocht vliet voor de bal de bout is u op t hooft,
+Eer ghy u selfs versint, met meer van staet ghelooft
+De Olyphanten heyr comt uyt der poorten nader
+(2095) Een Phrotlomeus vooght gheleecken of veel quader
+Ay liefdeloos gheslacht beweeght u moet int slot
+Gheen arm verdruckte bandt soo claghen wy aen Godt,
+[fol. G3r]
+Die d Hemelen beweeght  t recht dus te helpen stichten
+Des opghesonden Knel der swaerheden verlichten
+(2100) Vant slaefs bestreden volck in een te swaren strijt,
+Doch  t comt hier alles om met dees ellenden tijdt,
+    Vaert wel dan prats verwaent, bloetgierich Hof vol tranen
+    Gheoffert, nae soo veel bloetschanden om bestaen.
+    Den Hemel diet als weet wil ons den weghe banen
+    (2105) G lijck die oyt zijn gheleyt deurt drooghe der Jordaen,
+    Vaert wel lief Vaderlandt vol rijck-bewoonde steden
+    Ghescheurt, ghetercht, bestrickt in doodelicke haet,
+    O Vader alles doens, stuert op den padt der vreden
+    Voort arm en vreemt gheslacht  t gheent al om u verlaet
+    (2110) Vaert wegh mijn bloetverwant gheteelt uyt soo veel braven
+    Verlaten, elcx onciert ghebroocken vrienden bant
+    Ws opghesteghen quaets, die deurt eersuchtich draven
+    Nu kiest met Babel eens, O sondigh mis verstant!
+    Haest suldy als het caf voort goede saet verdwijnen,
+    (2115) Dat inden grooten dagh des oordeels wert verleyt
+    Wanneer  t gheloovigh volck sal als de sterren schijnen
+    Aen s Hemels firmament staen in eer heerlijckheyt:
+    Vaert wel ick laet te buyt de vaste erven varen
+    Met Gode in ghedult dees Tyranny ontvlien.
+    (2120) Ick treck met vrou en kint al heymlick op de baren
+    Onlijdlijck mijns ghemoets dijn gruwlen meer t aensien,
+    En kus d ontspronghen aert, met jamren vol medooghen
+    Onschuldigh overheert O vruchtbaer voester milt
+    Die laet voor goet en quaet gheen volle borst verdrooghen,
+    (2125) Als deur des Hemels stuer, dats als ghy Gode wilt
+d Hoogh heylich teughel vant aensichtigh reyn ghestart
+Verwaent, misbruyckt verkeert opt voorborght dijner hart
+Ghy onversade ziels  t vyer voor u eyghen rijcken
+Wel dien by tijds gheluck, gheluckigh van u wijcken.
+___________________________________________________________________
+
+
+   D. d ALBA met al den Spaenschen Staet,
+                stellende in
+          eenen nieuwen Bloet-Raet.
+
+(2130) ISt mog lijck als men seght ent blijckt op claer bescheyt?
+Dats Criminel en roof van s Conincks heerlijckheyt,
+Best liet ick deur dees stadt ontbieden diet beduchte
+En roep op lijf en goet weer binnen dees ghevluchte.
+Saechhaftich E eldom hoe maeckt dit u vayle borst
+(2135) Reyn van  t verwoede pant, u Siel soo eedloos torst
+Dies nacht by nae deurt vars van diep ghevoede reden
+Heeft nae vereyscht ontsagh te weynich rust geleden
+Haest steegh ick vant ghepluymt, en sachte sluym gheschaeckt,
+O Nederlandt u dient een hart, dat onvervaeckt
+(2140) Gheport tot enckel wraeck set alle liefd ter sijden,
+[fol. G3v]
+Den tijdt is overstuur can gheen vertoeven lijden,
+Noch t overmacklijck van een cleyn-ghemoede vrou,
+Welcks slapheyt is de vonck, dats u vervallen rouw
+Ist van u aen bestelt Romero in te daghen
+(2145) Wiens Rif so schelms bevreest gheen coude aert cost draghen
+Huns vry vergunt ghebiet noch eerlijck gheboord
+Plaets, heerlijckheen, soo comt de vruchten van u woort
+Op offren heylloos rot, en rechtet voor dees scharen
+Waer meed ghy meucht volstaen uws ampts van achte jaren
+(2150) Den Coninck veur voldaen, neen hiers u schoon voldient
+Dien ghy met brief of post te Vyand lijcke vrient
+Die Croone tot vertreck soudt smeeckend doen versachten,
+Hier werdt u inghestelt een raet met volle crachten,
+Welckx overwoort en wil tot opsicht hoet vergaet
+(2155) Sal heerschen over u en al de gantsche staet
+Vant reedeloos ghedrocht: Noycarmes cloecke strijder
+U recht vergelde wraeck maeckt menich stout belijder
+Te buyghen onder t spits gheslapen van u stael
+Alt trouweloose volck t gheen nae de Spaensche strael
+(2160) Der Sonnen hooghste graet leep-oogich siet verbeten
+En t heeft de eenge deuchts bedaerde gunst vergheten,
+[in margine: Daer wordt uyt voor Hof gheblasen.]
+Ghy deed haer in waerdy tot Camerick recht loon
+Die met een gantsche sterckt afvielen van de Croon:
+T sal andersints vergaen wat salt gherucht ons leeren.
+
+[in margine: Egmont en Hoorn uyt.]
+
+               BARLAYMONT.
+
+(2165) K acht dattet eenich zijn van d opgheroepen Heeren.
+
+               D. D ALBA.
+
+Siet daer den ketter, der rebellen over hooft:
+Hier is Toledo dien ghy nauwer noot ghelooft,
+U wit ghebaent t onken soud nummer binnen spooren
+Noch langhs de water cust de reyse voor verlooren
+(2170) T van noot dreef t woest ghewelt hier opt vergheten rijck
+Aen d eer onwaerdich volck tot grooter onghelijck.
+
+[in margine: Egmont kust den Alva d handen.]
+
+               G. EGMONT.
+
+Veel heyls beruchte Vorst ick doe my t eer ghebieden.
+
+                D. ALBA.
+
+Ja Egmont t waer gewenscht so t nummer anders schieden,
+Ick kom ick over yl, en schrede op de baen
+(2175) Hiers Ferdinando Duc de Alba, d Albiaen,
+Die selfs t roer monster dier salt spitse voorhooft bieden
+Daers veel te langh ghetuylt met hier te doen ontrieden
+Een waerder vooghd tot stant ghescheurde Neerlant: siet
+By last zijns Majesteyts volcomen dat ghebiet
+(2180) Heeft in ghenaed den staet Toledo als ghegheven,
+Om straffen naer verdienst die hier meyneedich leven,
+Niet langher gilt u krop ghebeckte spartel vlucht
+Hier menghelt doort ghewelt, de aerde tot de lucht:
+[fol. G4r]
+Eer sal de wijde plas der noorder zee ghelaten,
+(2185) Diet Belgi deel omarmt ons drooghe veyle straten
+Eer dat een spaensch ghemoet van uytghenomen cracht
+Ghedooghen sal den trots, dien t haerder glorie acht,
+Daers langh ghenoegh ghedraelt ten leyter meer aenspreecken
+Den Hartoogh comt en is dets dartelheen te wreecken
+(2190) Op t hooghst dats overleen, braveert gheen opper heyl
+De Etna van u wensch was veel te glibber steyl
+Veyl was u vrijheyts slof, tot speeltuygh, soo aenminnigh,
+Daer veur onheussche danck, ghy tercht de klauwen vinnich
+Eens noodigh grim ghemoet, soo denckend waer te wis
+(2195) Dees roest o Parma door u swackt verresen is
+Breeckt dant voornemen ist so gruwlijck voorghenomen
+Ghevreest den blixem daelt en is u overcomen
+Wien dat zijn over Heer soo schelms in dienst verlaet
+En voor bewesen gunst sent vruchten van zijn haet.
+(2200) Waer dees Baroenen niet zijns loon de geessel schuldich?
+Of straf waerom ghy tart en lockt dees onverduldich:
+Siet van deees daghe dat den Alba heeft betreen
+Dit langh ghedreychde rijck te branghen over een
+Den Coninck tot vergoen de afghestreecken eeren
+(2205) Met vol vernoech betaelt nae t grootste Spaengien keeren
+Wiens kroon my heeft ghegrift in volle last dit Landt
+Van doen en laet, vergheef en wraecke in de handt,
+Nu sal dees Ziel u selfs t weeld Neerlants Paert beschreden
+Dat aen den Teughel parst een knel van grover leden
+(2210) Alst Vrouwelijck ghebiet, t ghebit was veel te sacht
+Op glinstert klaere Son verhuyst ghy swarte nacht
+Treckt neven d Horizont den Ocean ter sijden
+Wanneert deur stralent hooft comt op zijn waghen rijden
+ t Sacht soet en stil vergeet des sluymer-lusts verteert
+(2215) Deur d alderclaersten dagh die ons soo hoogh vereert
+Wt Gode wert belast, om recht, ampt, dienst ghebruycken
+Aensiend dan groots ghemoed de worm-roof vant ontluycken
+Een Keyserlicke bloem, verstaen  t recht in ghedult
+Soo wert de vluchters dan beticht met des schult
+(2220) Die ck roep voor  t groote Hof tot Brussels voorste raden
+U schijn recht onverwacht, soo comt en wilt verdaden
+En set de voet by t steck, u doen noyt Prince past
+Laet alles voort gheschien wat datter is belast
+[in margine: Hy gheeft Barlemont eenen winck.]
+ t Verwondert my, waer by lagh u gherechte saecken
+(2225) De reden daer wy noch van heden t samen spraecken
+Me Vrou dient by u mont noch eenmael opghehaelt
+Soo doet dan Barlemont g lijck als u is vertaelt.
+
+               BARLAYMONT.
+
+Een meerder heeft  t ghebodt soo doent starckt zijn verlanghen
+Gaveere sult ghy zijn van s Conincks naem ghevanghen,
+[fol. G4v]
+(2230) Romero slaet dan aen den Grave die ghevaen
+En ghy voorst Admirael moet in ghedulden gaen
+Vant overheersch ghebodt
+
+              G. van HOORN.
+
+Verheert soo moetmen lijen.
+
+             G. van EGMONT.
+
+Hier stuyt ons op de borst o Prins u prophecijen
+Alba was dit vertreck soo nijdich starck belast
+(2235) Dus int besloten Hof dit Prinslijck bloet aentast
+[in margine:  tSijt-gheweer werdt de Graven afgehaeckt.]
+Van  s Coninckx naem, wiens croon noyt van dees ziels aenbinden
+Gheraen sy,  t gheen hier nae noch Spaengen sult bevinden.
+Ha welt van schant en spijt t onrecht te volle bee
+Mijn opghesteghen bloet tot in de wijde Zee!
+(2240) Gavere hiers nu proef vant mannelijck bestrijden
+Nochtans te onverdient: fy eereloose tijden!
+Soo veel met groot verlies van goedren opghewaecht
+Dit Belgi tot een Croon zijn Majesteyt gheclaecht
+Tot onderhoudt vant goet Barlaymont u verschenen
+(2245) Cier-star, die u gheboodt dat eer de harde steenen
+Opbarsten souden t vast bedolven nae den top,
+En deurt ghewelde Sant ons vlieghen veurde cop
+O wijse Raetsman van Nassouwen, waerde Heer.
+
+               G. van HO.
+
+Dit scharp tweesnijdich swaert, en sult ghy nummermeer
+(2250) Hels onberoerich hart weerwaerdich doen besteden
+De grootste uyt alt Spaensch, alst oyt dees Zielen deden
+Welck dijn verwoede crop met anghst en schrick bevaen
+G lijck een verrader vast becinghelt meed te gaen
+Ghesneden van een groots, berucht ghe-edelt leven
+(2255) Doch nummer van der deucht.
+
+               G. van EG.
+
+    Was u te last ghegheven
+Ghy rechters van de tijdt? met ooghen half vervaeckt
+Ghy t Prinslijck blancke stael bloets schandelijck onthaeckt
+Romero, wat ghy doet, bewaert doet vry u heeten,
+En dit my strijdtbaer Ziel by Gode onvergheten:
+(2260) Ha! Belgi schreyt nu vry, dees rimpel was ons niet
+Als t woest onweder t gheen ghy herwaerts over siet
+Sal dy der weemoen Pars tijdts sufferingh balstuurich
+Indrucken vol ghevaers gheteelt en teghen uurich.
+Weercaetster die uyt diepst der grijsse golven sproot
+(2265) Van swarte rijck de Post, ghesuster van de doodt
+Hoe vlieght u kille strenght deur Aders ende Leden
+Ghy nerghens nut bericht o schaeckster van de vrede,
+Nu met ghedult treedt aen Gavere: Barlaymont
+Volbrenght u last, ick volgh ghewillich deser stont.
+[fol. H1r]
+
+                  BARL.
+
+(2270) T is d Hartochs starck bevel, uyt Koninckx woord geboden
+Ter wil ghevolght,
+G. van EG.
+    Soo doet, en denckt u swaerder nooden:
+Dees Graven zijn ghedweegh in handt zijns Majesteyt,
+Ghevancklijck ront beset der gaerden meed gheleyt,
+Ghesloten soo bewaert, noch voor de dienst ghehouwen
+(2275) Mijns Konincx die ck gheen quaet derhalf en sal vertrouwen.
+[in margine: Juliaen en Romero leyden de Graven ghevanghen.]
+
+               BARLEYMONT.
+
+Haes op! vuyl is de gront, O Egmont gaet vry heen
+De Vlaemsche Gent opt Slot met sachte sin betreen
+Voor wijlge daghen lanck, u barsse moet ontladen,
+Daer is voor u gherecht, bey soden en ghebraden,
+(2280) Hier is voor u gherecht, t sacht stil en soet vergeet,
+Ten hoof voor u gherecht vergeldinx, wreetste wreet
+De wijser u gherecht, beperckt deur s Hemels teycken
+Tot aen Madriel, den staets vergeldingh om t bereycken
+Dijns hoogher sonnen vlerck, opt afgheschaduwt waen
+(2285) Der sichteloose coers, daer punt noch teyckens staen,
+Daer gheen gheley des Jaers vry Heeren konden wissen
+Daer t noordlicht eerst verhuyst de seven sullen missen
+Daer Sol en Luna eerst becrychden d Oceaen,
+Omt voorich Monster van der Manen boven gaen
+(2290) Eer dat ghy Voerman hadt u glimmich hooft verstreecken,
+Of eerment Lover tal van tintel Starren keecken,
+Verwisselster die met een groot gheley ghepraelt
+Te boven domineert van wien ghy eerstmael haelt
+T licht dijns vermoghen, t gheen voor Phelegon verdwijnen
+(2295) Verliest de glorie, alst u glans sal overschijnen.
+Even alsoo ghelijckt dit woelich volck ghewis
+Wiens schijn vermoghen streckt in wilde duysternis:
+T weerstrijdich, soo verkeert, vervreemt der rechte luyster,
+Den throon des werelts oogh, ghy mist en sweeft int duyster,
+(2300) T deurstralent morghen licht is dy door noot ghevaer
+Eerst letter wijs gheplant, nu dan wy latent daer
+En sal u volghen na beroemde van Gaveere
+Spoor sacht met lijdtsaemheen wat ons den tijdt sal leeren.
+
+[in margine: Lantman uyt half dronken.]
+______________________________________________________________
+
+
+                LANTMAN.
+
+WEl daer souder meer als ien me speulen, seg ic noch manne Broeders
+(2235) Salter dus toegaen, schat ick, en sien dat de hoeders
+Niet min als diet verraen in groote Muytery
+Werden gheschoncken roof, al aes der Tieranny
+De Spaengiarts int ghedruys van duysenden of meer
+Quamen my juyst int pat ontmoeten met den Heer,
+(2310) Die opt Casteel te Gent sal knaghend legghen droomen
+[fol. H1v]
+ T ontroerich volck in stadt soo by de troep ghecomen
+Wert sonderlingh ghemort en dapper nae vertelt
+Nou gaf ick een paertje om Broer Pieter, die doch weynich tijt te velt
+Dat ick hem hier had, hy mostme dees saecken wat beduyen
+
+                V. HIPPO.
+
+(2315) Sie ghy wel dat ghy boven u verstant wilt
+
+                 LANTM.
+
+Ghy meucht een reys jou Peetje cruyen
+Wat nou, hey, seght wel hoe, wats u van dees gheschiet?
+Boer Pieter daer by gort waerje mijn ouwer niet
+En soojer raet en daet in minst by soeckt te stijven
+By gut
+
+                 V. HIP.
+
+Wat wouje doen?
+
+                 LANTM.
+
+                            Jou veurje ooren drijven!
+(2320)  k Gaffer nu weynich om daers al te bierighen moet ghemaeckt
+De Graef byget!  t is wel, en dat gyt bloet verwaeckt
+Des vryheyts reyne gunst.
+
+                 V. HIP.
+
+    Nou dus niet buyten maten
+ t Is duyster Heeren schrift, daers met u niet te praten
+Ist met Heeren,, quaet verkeeren,, die dicht  t net,, setten
+(2325) D rijpste Peeren,, eerst begeeren,, voor die haer wet,, letten.
+ t Is met u al boeren werck, ghy en weet van dees slaghen niet.
+
+                 LANTM.
+
+Loof ghy dat Munnick?  t salder so bijster daghen niet,
+Ghy liecht, ghy bedriecht.
+
+                 V. HIP.
+
+    Al hooch ghenoech dus wachtje.
+
+                 LANTM.
+
+Geensints,  k heb over reen, hoort Domine ick achtje
+(2330) Siet dat niet: by gantsch macht ist al de papen buyt?
+Ist al ten roof ghestelt? het blijckt by klaer beduyt
+Ist al u, dat is mijn.
+
+                 V. HIP.
+
+    Wel hoe, het volle vat ontsteecken?
+Hoe dus? siet wat je seght, men mach zijn wil niet spreecken
+U doen loopt oppet endt, dus mijdt u van t gevaer.
+(2335) Gaet t huys, stelt daer int werck u vuyle beck te waer
+Dit volle hooft daer t staet.
+
+                 LANT-M.
+
+    Vant selve Bier, wat meugje snappen,
+Daer ghy laest af benevelt waert, dat most icker in lappen,
+Dats Biertje Babbaert, wilje wel? so laet ick ons een scheppen,
+Wilje qualijck? Adieu broer Pieter, maer ghy mosje wat reppen.
+[fol. H2r]
+
+                 V. HYP.
+
+(2340) Quaet worden neemt vry aen voor  t heylichst van mijn gheest
+Weet je wel watje schelt, en benje niet bevreest
+Segt nesch, wien, oft van waer ist u dus voorghemeten?
+Ghedenckt de woorden recht.
+
+                 LANTM.
+
+    Al langh, ho spits vergheten
+Wel kenne wy men caer niet Heeroom, meughe buyre niet wat kallen?
+
+                 V. HIP.
+
+(2345) Ghy en zijt wel de sneechste niet, dogh, verlaet ons soo te mallen,
+U naeckten, quaemt eens uyt, veel wonders onvermoet.
+
+                 LANTM.
+
+ t Schaet niet, leven en sterven,  t kost ick doet
+Set ick op met de Graef, roert ghy hem aen te schanden.
+
+                 V. HYP.
+
+Voort heen, na huys te kooy, dees domme misverstanden,
+(2350) En als ghy droncken zijt soo roert my niet meer aen,
+Godloose schelder die thien dubbelt hebt misdaen,
+Slecht ruw dorp houder dus in volle sadt behouwen,
+Vraecht meer als seven wijs gheleerder antwoort souwen
+Voldoen dijn sot behaegh, wilt ghy u in een saeck
+(2355) Der Landen moeyen wat loopt henen aende kaeck?
+Ghy eervergheten die te veel hebt laten stroyen
+
+                 LANTM.
+
+Harde Vorst schie noot, S. Mathijs salt wel ontdoyen
+Ande kaer broer Pieter? dat weet ic vast datge mijn noch niet en gunt,
+Ghy neemt de penningh avereghs, kier om daer is ander munt,
+(2360) Sachtsinnighe Padre H. Vader hoe isset
+
+                 V. HYP.
+
+U  t waerdigh noyt vertrout voor anders doen so slisset
+Dus onder deck van plomp te vinnigh my ghenaeckt
+Ghy zijt van langh ghemerckt een hart dat onvervaeckt
+By volle last vermocht sal dy in waen verstoren
+(2365) O dubbel vals, siet toe:
+
+[in margine: Vals Hypo. in.]
+
+                 LANTM.
+
+                                                    Niet al te wel gheschoren,
+Gantsch lijden! soot my speet te sien der poorten uyt,
+Veel graven ront beset, dijn godloos spaensch te buyt.
+Als Lamren heeft meedooght veel ingheset nen druckich
+Dan hoe nu best ghekalt, en maeck dat weer gheluckich
+(2370) De eendracht sy in fleur en swijghert hout de kaers,
+Deur ken van sonden my de schult al gout en waers,
+Ick volgh hem wel by tijts eer quader wert ons deel,
+Men can een goet man soms afverghen al te veel
+Dan Domine en ick zijn twee dat elck verwondert
+(2375) Ghy voorste Heer deurtrapt, zijt een wat gheltet hondert.
+_________________________________________________________
+
+[fol. H2v]
+
+             S. van BEYEREN.
+
+WIe sou gelooven? Ach mijn Heer en Prins, de vloet
+Der voorgebaende deucht sou uyt de grove baren
+Opvlieghen teghen roem vant edel groots ghemoet
+In trouwde,  t recht te waerd, gheoeffent soo veel jaren.
+(2380) De glorie overleen, vertreen jae gantsch ontbloot
+Uws g nots, balstuurich, schent, dus met gheslote wanden
+Den Lamorael, dogh deur toeseggingh alsoo groot
+Soo levert my in fleur, de man weer inde handen.
+Mijn lief, mijn waerde voocht uyt Vorstelijcke saet
+(2385) Sabina ongherust deur onvermoede tijdingh
+Heeft nae te weynich rusts ghevolcht, en op die staet
+Ghestrickt de teedre borst in duysterleije strijdingh.
+Belgica, zijnse dit wiens trouw bevrijt de schaen
+Ghesoent uyt siel-sorgh voort Laurieren van de kroone
+(2390) Sijn Majesteyt ten best hoe dickmael ist gheraen
+O Egmont rechter dienst sal Spaengien onrecht loonen.
+Hoe heb ick u mijn Heer ghebeden tot verdragh
+De hevich hooghmoets ernst te dalen van de ghedachten!
+Hoe heb ick langh ghevreest voor een te swaren slagh!
+(2395) Godt gheef deur ware troost de woorden als becrachten
+Dat ghy sult onghemoeyt vry zijn, dogh nu bewaert
+Tot breeder vande rest, die voor  t ghenoode streven
+Ach schrickel fantasy beroeren weeck gheaert
+Vliet henen en verhuyst van hier met angst en beven.
+(2400) Als nae een ydel waens voorsicht, deur schrick beroert
+Een nacht-ghedreych des drooms dees saeck my deet beweghen
+In snelle tocht ontwaeckt, werdt voor u wegh ghevoert
+Lichtaerdich sonder merck Gaveere u versweghen.
+ t Ghewilde leven lust verselschapt met de prael
+(2405) Des overvooghts ghebiedt ghegheven doen en laten
+O schant-vleck sonder reen in een te droef verhael
+Uws trouwe diensts berooft der eer-verachte Staten.
+De Raden meed-ghevaen: O Parma wat beticht
+Deur noodeloose last en al te dwaes vermoeden
+(2410) Beschuldight ghy de gheen, wats van u aenghericht
+Wt enckel vrees wiens Siel socht Neerlandts lot te hoeden.
+Maer dus deur storm ghedruys eens weynigh nu ghewelt
+Verjaecht soo groot ghetal, die met Orangien vloden
+G lijckt den Toledo vars ons al in roeren stelt,
+(2415) En tercht des g rechtheyts Son, die hebben meerder nooden.
+[in margine: De Grave van Buren.]
+Het kleyne kint soo jonck ghenomen en gherooft
+Tot Leuven, die ghy schickt nae Spaengien om wat saecken
+Van Buren jonghe Graef, wat hanght ons over  t hooft,
+Waer sal de flis drancks sae der uytghespaende kaecken.
+[fol. H3r]
+(2420) Ophouden in volnoech eens Goddeloose lust
+Min dees versturven telt, deur schennis als vergheten
+Ontroer, o strijdigh woest, hart dat te selden rust
+Verdruckte Vrou Princes waer hebdy ingheseten.
+De angst beknelt de gheest de kleyne moet verstuyft
+(2425) Egmont waer troost tot haet in mijn versufte sinnen.
+Wat damp, de leude tijt beroert ent harte schuyft,
+En kanckert  t swacke rif der Beyersche Vorstinne.
+Ach Hemel stuert my raet, de siele is belast,
+Om u, die opt Casteel tot Gent zijt droef ghevanghen
+(2430) Wat ongheval des Eeuws, my aende zeeren tast
+Deurvlijmt de banghe borst o lijdeloose dranghen.
+[in margine: Grave van Hooghstraten* uyt, gelaerst en gespoort.]
+
+          G. van HOOGHSTRATEN.
+
+Van Beyeren me Vrouw, grootmoghende Princes
+Liefd-daedster, die u prick noch kille doot vervreesde
+Min als gelijckt beswaer, zijt hartich trouw vooghdes,
+(2435) Ick com dus metter ijl, wat Hels gherucht vereesde:
+Schoon Belgicaensche maecht, juyst werdt mijn Heer ghevaen
+Als ick rechts tot aent Hof op weghe was te gaen,
+Quam my vant drangich volck de leyde maer bet leeren,
+So tijt vereyscht om selfs ras buyten weeghs te keeren,
+(2440) k Vertoefd de laetste uyr deur hoop van grooter loon,
+Grijpt moet Ay Vrouwlick licht ontset de sware noon,
+Liefd dreef my metter haest tot u en zijt te vreden
+Soo haest  t ghehoorent licht comt prachtigh aenghetreden
+En dat de swarte nacht haer schuyfbehangsel spreet,
+(2445) Soo vlied ick uyttet Lant t is alles sins ghereet
+Stilt u weedmoets gheschrey, heo sou den Coninck haten
+Die eer soo vroom, hoe wel veel tonghen looghen praten
+Gaveere zijn te leet, vertroutet nummermeer.
+
+                 SABYNA.
+
+God gheeft, en zy u spoet, Hooghstraten Graef en Heer
+(2450) Tot g luckich wedercomst ons beyder vreuchts beclijven.
+
+              G. van HOOGH.
+
+Een alderheuschten danck, Princes soo wilt verdrijven
+Dees sorghen ingheaert, t recht heeft dan Hemels cracht
+Wiens Al bewaer mijn Vrouw, mijn tijdt dient op geacht.
+
+[in margine: Hooghstraten in.]
+
+
+                 SABYNA.
+
+De Aert die eer verweent trock leven van de eelt
+(2455) Eens Vlaemsch wethouders, vooghd van soo veel eyghen rijcken
+Spalckt op heur weecke huyt, en voor gheschaeckte weelt
+Sal eer u Cruynich hooft, de schraele Oever lijcken.
+De water Cust deur gaens vol crimmelt by de vaert
+Soo heerlijck als ghedient de Steden tot behouwen:
+(2460) Verwisselt dorre Bos, deucht is doch van gheen waert
+U Liefd is overheert, wien sal men meer vertrouwen?
+[fol. H3v]
+Hier stae ick in een strijdt soo swaerlijck nu alleen
+O waerde Heer mijn Prins t sal hoogher hooven tarten
+Tot recht ghy Gode tuyght t gheheym en anders gheen
+(2465) Welck opt verciert t vermoogh ons menschlijcke harten.
+Voorsaghen met beken opt alderwijst verhoen
+Bewarens heylich hof, de Croon van alle Croonen
+Soo gheeft almachtich Heer, die menschelijck huns voldoen
+De Crans des waere vreeds, wilt alle smaet verschoonen
+(2470) Des lants gheluckigh lot voor tijts gedreychde loonen
+Eens wreede Alba, diet Godts lasterlijck verteert
+Int vier zijns dol ghemoet hoovaerdich en verkeert.
+
+_______________________________________________________________
+
+
+    DUCQ DALBA wandelende met d Heer BARLAYMONT na
+ buyten, op den dagh so de achthien Edel-lien onthalst
+                         wer-
+   den, waer onder bey de Batenborgers getelt waren.
+
+[in margine: Grave van Buyren.]
+HA wroeters! wast u dit? u soone sal erkennen
+De soete Spaensche aert, en van u afghewennen,
+(2475) Tot onderhout des quaets by d inghequeecte spijs,
+Leert daer een hoogher les, die naulijcx letter-wijs
+Moet van de Vader, die met opgheworpen boeven
+Soo eerloos dat noch veel derhalven sal bedroeven:
+Becrijcht en heeft ghevelt, soo ons t gherucht verbreyt.
+(2480) Van Arenbergh een vrient u hooghe Majesteyt,
+In Vrieslant deurt beleyt Lod wijck dy bedreven
+Sal hier noch zijn versoent met veel der Princen leven
+Sijt ghy opt vlacke Lant verressen tot de slagh
+Ghenoodicht dijns verderf ick com: doch eer ick mach
+(2485) Vertrecken uyt de Vloer: soo offert voor de schaden
+Dat den Toledo lust een heete moet te braden,
+Aen die als heden zijn van  t leven tot de doodt
+Verwesen, dus ick gae van alle Liefd ontbloot
+Wijt uyt gheschrey des volckx, t versoeck is gantsch verloren.
+
+               BARLAYMONT.
+
+(2490) De Jonghe Baenderheers van Batenborch geboren,
+Heeft dus t Gemeent bedruckt te sien in doodes last.
+Doch d uyr is nu verleen,
+
+               D. D ALBA.
+
+    Haer schalckt is overrast,
+Tot achtien in  tgetal sal  tEdel Swaert ontleden,
+En eens beginnen wraeck, op d afgeschafte eeden
+(2495) Vergeten, huns behaegh: de Velt-tocht sal u smarten
+Opt ongewaer, comt siet waer u vertroude harten
+ t Lichaem geoffert wert, voor Brussel tot een smaet
+Aen een gerechte staeck, dicht langs de buyten straet
+[fol. H4r]
+En wegh der poorten op: Hoe? waer toe wint de schromen
+(2500) Mijn Coninck sy de eer, waer oover is gecomen
+Den Hertogh, die op t Kiel t Antwerpen heeft begost
+ tCasteel met groot getal van werck-lien, dees verlost
+De vrees der nooden, aen u weyffel lichte volcken,
+Welckx donder-blas sal ons een breeder Maer vertolcken.
+(2505) Ras dient rontom, gelijck vermeestert  theerscheloos
+Om toonen en te zijn gerecht de Vooght altoos.
+Wilt ghy onwillich volck dijn haper list belegghen
+Daer voor heeft dan u Prins niet weynich in te segghen.
+Gheoorloft ist met een t huys Culenborgh, dat moet
+(2510) Geruwineert te gront sal puynen onder voet
+Tot een vervloeckt ghedenck daer op ter eeren stichten
+Een Piramijd des lofs, t beelt datter sal belichten
+Dees welbereyde Oost met lettren tot beken
+Vereyscht dees waerd, dats last, daerom ick herwaerts ben
+(2515) Ghecomen over Zee, den Coninck te vergoeden
+Dit half vervreemt berooft in meerder overvloeden
+    Treet van den Etna heen die even vierich brant,
+Ich hoor de koude slach snerckt deur de rechters hant
+G lijck den Tarquino velt de hooghste koppen neder
+(2520) Hebt ghij t verbont ghescheurt, t verbont vernielt u weder
+Ghy zijt int veynsen soo licht g lovich volck onteert
+[in margine: t Geblaes op weghe.]
+O Neerlandt trouws vergeet onsalich omghekeert
+Ghedronghen deur den dreygh der vrouwelijcke strijen
+Dus meer ghecanckert in Vyantsche muyterijen,
+(2525) U sorgh beteyckens vrees is dan te licht besteet
+
+[in margine: Moordorstich gewelt uyt.]
+
+               B. GHEWELT.
+
+Haer namen zijn nu voort een tijdeloos vergeet,
+Treet Brussel uyt de poort,  t bloetoffer vyerich smoocken
+Veur onghedienden dienst de lieffelijcke roocken,
+Sijn hoogheyt zy te lof eer langh, besiet de gaerd
+(2530) By dick gheleerder Krijghs-lants-knechten, om bewaerd,
+Ghevolght naet s Heers bevel.
+
+               D. D ALBA.
+
+De seghel des ghemoets, bedaerde plicht verduldigh
+Door toegheloofde trouw, ons groote Coninck schuldigh
+By een vruchtbaer behou, van voorbestemt bestel,
+Sal by  t voorcomen wraecks verminderen  t ghequel
+(2535) Nu dits voor vroet begin, wel rijpelijck besloten
+Uyt welck de Laura u ghetrouwe tijtghenooten
+Met glorie  t hooft omringht, soo sal dan nae verdienst
+Aentucken  t vierghemoet wanneer u onghesienst
+ t Licht waenen roem ghebeckt eens tijdeloos ontdringhen
+(2540) Nu met ghewilde ernst, soo sult ghy onderlinghen.
+Verselschapt met een spaensch ghereet hier voor de poort
+[fol. H4v]
+Nieu regiment, en brenght de Graven ons wiens woort
+Beriep tot breeder proef, soo laetse  t stuck verdaeden
+Vrouw Belgi trots gemoet van d eersucht overlaeden
+(2545) Vervreemt een goet geneych deur al te hooghe weelt
+Waer by misgaen vermaeckt u doen van cleyner eelt.
+
+ G. van MEGEM met eenighe knechten voort
+                  Hof.
+
+Dat vant gheloovert cleet een vonckjen wert vermindert
+Dat van een rechte saeck de voortganck wert verhindert,
+Dat van een goeden boom de tierge weeldt gheschaeckt,
+(2550) Blijft in onloon verdelcht, soo ghy de vruchten laeckt
+Eens welbedeelden oogst, van  s Hemels milde gaven
+Sou vruchteloos versuymt en ydel zijn begraven
+Waer alt onwaerdigh aen de Croone voorgheeert
+Wiens gulden Scepter  t groot Hispania beheert.
+(2555) Als u int naerst des nachts Gavere wert ghesonden
+Een onverwacht bescheyt, en u ghedulde monden
+Besturven bloos corael deurt mercken watter gaens
+De Hertoogh heeft bereyt u trouwe onderdaens
+U grootse moet verhuyst van Hoorne sagh verslaghen,
+(2560) Dat een bestemde uyr nu aen den derden daghe
+Met een benaut adieu treet in een meerder noot
+En scheyden vande tijdt, deur u ghy kille doot
+Scheurt dijn verbintenis by stemmen overgheven
+Wel onbedacht ghemoet int slijten van u leven
+(2565) Weer alle dienst besteet,, voor eereloos vergheet
+Dan hout de sorch bewaeckt ghedachtens roeringh breecken.
+Mijn dienaer dat ghy gaet den Bisschop selver spreken
+Van Yper die so strack spoet met u op de ganck
+[in margine: Dienaer in.]
+Aen t huys van Culenborch, vertoeftme niet soo langh,
+(2570) Ick sal inder yl daer op de sael verbreyden.
+G lijck een beroerens hert van grootsheen t onderscheyden
+Voor al te swaren saeck beweecht ons meerder pijn
+Dat  t lants ontroerich volck mocht inde stilt zijn
+En werden nau ghewaer den dagh daer toe beschreven
+(2575) Die d laeste zijn sal van der Graven beyder leven.
+______________________________________________________________
+
+             V. HYPOCRYSIE.
+
+HOe wonder staet de schrick der tijden afghemaelt
+Waer haestich wert by nacht de Bisschop om ghehaelt,
+ t Is alles om en om vol vrees dit sal u buyghen
+De moeden afgheslooft, jae anders doen betuyghen:
+(2580) U huysen siet ghesloopt,, die met de Prins verloopt
+Als ballingh voor u Coninck,, en schijnt met veel verschooningh
+Vergheet u eer gemilt,, dat vruchteloos verspilt,
+Soo dat ghy uyt de clau eens wijse Vorst verwaerde
+De geessel uw s berucht, hy die u erf beaerde
+[fol. I1r]
+(2585) Deur Vaderlijcke sorgh, ons Kercke tot behouw
+Ghescheurt soo woest ghy socht, de teyckens vande rouw
+Op d gheestlijcken staet de drucken boos en quaet,
+Valt anders als u winschen,, d Voorst uyt u grootste Princen
+Die endelingh  t gheween,, sal brenghen over een,
+(2590) Het borgher volck verbaest onkenbaer  teyghen vande
+ t Strafnoodigh is u Crans, de naeburighe Landen
+Te stroyen  t ingheslorpt ghesopen ketter sop,
+En royen tot verderf veel duysent sielen op
+O neen: Elck Prins voorsiet te weren van u palen
+(2595) Wiens inghecanckert quaet de moederlijcke salen
+Noyt saghen met medoogh int myden liefdigh aen
+Nu best ick voort de wegh cort zijnde overlaen
+In daghelijckse last ontmoetich vol bestrijen
+Der nijdelicke pars, om valsche ketterijen,
+(2600) Hoe langh salt ongheleert volck blijven even steyl,
+Dat daeghlijcks wert verhart,  t verghelden maeckt de heyl.
+_______________________________________________________________
+
+         Vertoon des Sterfdaghs
+  Vande Graef van EGMONT en HOORN, op t
+  welck onder elcke veranderingh, dees
+                volgende
+   Claech-veersen ghesproocken worden.
+
+HY wien den scepter vrees der Franschen heeft gedweecht
+Ghetrouwe Campioen des oorlogs roem gebleven
+Wiens vaderlick gemoet t onlijdlijck heeft beweecht
+(2605) Laet dus u Tyranny ghedult het stoute leven.
+Gaveere doen ghy bleeft van Egmont Lamorael
+In liefd de Croon ten dienst, verwachtend op ghenade
+Gheschiet u s Prins voorsegh dit jammerlick onthael
+Vergheten deucht van vroom ghesleten nutte daden.
+(2610) Ghy cloecke Admirael der Nederlantsche Zee
+ t Verwachten op de hoop versteent van mededooghen
+Wert lasterlijck gheloont, wat hulp u vrienden bee
+De Vorsten moeden zijn nu vloeden voor de ooghen.
+Als  t Lam verwonnen duyckt onredelijck verheert
+(2615) Onrechtlijck inde clau van wolven grage beten
+Hy knielt voort blancke swaert, den Grave en verneert
+U lichaem crijcht de aert u doot is onvergheten.
+[fol. I1v]
+Beydt voorste des ghesin, begifticht met de staet
+Des ridderlijcke oordt, u Neerlandt veel ghebroken
+(2620)  t Onthou nae levers cracht vergeldens vaste daet
+ t Geen by t ontstaend gerucht sal dubbelt zijn gewroken.
+Ghewillich offer hadt u droeve borst voor  t lest
+ t Benaude volck ontset in claerheen van u sterven
+Dat deur Trom en gheschrey ghebroken wert tot best
+(2625) Uw s wreede Alba lust dat niet en cost verwerven
+Het Princelijck verschey en Goddeloos bederven.
+____________________________________________________________________
+
+[in margine: Dit wert vertoont daer op verschijnt den Tijdt.]
+
+De Nederlandtse overghebleven Princen onder verbin-
+    tenisse, legghen in toegheruste wake, wiens opper hooft Wilhelm
+    Prince van Oraengien bevest en vercoren wordt, op welcke vrije een-
+    stemmighe verschijnt den Tijdt.
+
+
+                Den TYDT.
+
+HOe aerdtsche dapperheen die blixemt uyt den slingher
+En stuyt op t bruyne schilt met dijnen kleynste vingher
+U varre over-buur vant swarte Coninckrijck.
+(2630) Des Solimans ghewelt en swerm soo eysschelijck.
+D omheynsels, Tyghers wreet, Jae leeuwen van ghemoede
+Daer voor in Godt ghe-eedt, dees helden vanden bloede
+En Staten grijs wiens goet en bloet staet vry te pant
+Uyt deerelijck besicht vant lieve Vaderlandt.
+(2635) Aemtocht versturven ziels, bevlijt de dienst ghesworen
+Onder dees Hercules uyt duytsche stam geboren:
+Bedolven slooft u Gheest int al t weemoedich leyt
+Breeckt deur een Godlijck stuur dees nieu afgrijslijckheyt,
+Den Hemel walcht van  t quaet deucht sal u doen verwinnen
+(2640) Siet nae een wijs beleyt soo recht uyt u beginnen,
+De waere schickingh en opbouw tot Godes eer
+Om slaen  t verwarde rot van Babilon ter neer
+ t Landt Melck-wit alst verwoest rootverwich was ghestyghert
+Tast aen de heylicheen, de heyrtocht ongheweyghert
+(2645) Met David, moedigh grijpt den Vyandt g loovich aen,
+Veel Martelaren bloet heeft u een Heyl ge baen
+Gheopent veur de stoel, waer alle scepters knielen
+Den Vader die u helmt cant groote wel vernielen.
+
+BElgicas wond ren schrickt de aengeboren heen
+(2650) Int tranen vloedigh bat behlven  t onverleen,
+Dat onder  t breede ront tijdts tijden teelt verduystert
+Staegh nae hun uyr ghestelt en tijdt der baringh luystert,
+[fol. I2r]
+Ay soete Borgher nu in vreemde Cluysen leert
+Den naem vergrooten wiens ghesicht u heeft gheweert
+(2655) Van soo een Godloos helt, welcks lof onloflijck strevelt
+En leyt voor hel en doodt al knarrende en wrevelt,
+T verdelcht mijn sachte schuur volspoedicht met der vlucht,
+Daer ick mijn setel baen juyst tusschen aert en lucht
+Int vochtich swerck omringht Olimps ghemarmer straeten
+(2660) Schuyfheuvels voor de Sons aemtochtich vocht ghelaten
+Den sluymer Titan nae een middachs heete strael
+Becrullen t suyder ront de borght van Phebi sael
+En als vergheten sie dees ysre eeuwe woelen
+In strijts vervloeckte brant, die niet is om vercoelen,
+(2665) Dael neder deur dit vreemt o kleyne Lant van u
+Gheleden tot een troost, soo merckt dan voort van nu
+Besiet my rechtlijck aen, dees adem sal u spijsen,
+Wt t Goddelijck gheheym, de waere Heven wijsen
+De slommer dijns verstants wert vierich wel ghemoet
+(2670) Als ghy om hooghe recht de Lancy met de hoet
+Die al in alles is my tijdt int wesen stelde,
+Die eenich Bouheer was en voeder op den velde,
+Versterckt u deur dees mont mijn lippen vloyen geur
+Becrachtighen den glamt uws graghe tochten deur:
+(2675) O dan verwanckelt noch buycht u gheen Baal onder,
+Maer trouwt vertrouwens trou die d alghevreesde donder
+Wt t midts zijn Palmen hant stort over s Hemels vloer
+Besagh t van noot volstreen opt hooghst Godlijck beroer
+Met zijn Hebreen nae langh verstrengde slavernijen
+(2680) Een vet beloofde wey u erflijck toe te wijen
+Het volle Hollant dat Visrijcke Maes en Rijn
+Omarmt daer sal u rust en schoonste Gosen zijn
+De Babiloonsche knel ghevancklijck soo veel Jaren
+Sal zijn de gront waer op ghy haeren sult vergaren
+(2685) Van u Vyanden hooft; siet hier deur Godt ghestelt
+Een Machabeus borst een Leeuwe op den veldt
+Van Iuda: dus siet op ghy Batavieren moedich
+Treckt teghen d Antiochs bloetgieren die verwoedich
+Verhonghert zijn op u onnoosel harts ghespan:
+(2690) En na de tijdt als ick ter hoogher Hemel an
+Int midden afghepaelt ter halver Son ghemeten
+Niet licht yets openbaer: Soo suldy naemaels weten
+Gheloovich Christen volck hoe lief u Gode vrijt
+Als ghy verdartelt op u Goude vrije tijdt
+(2695) Als u kint onghequeeckt deur weelt nau kent zijn selven
+Als d yver vant verleen men Hoovaerd siet bedelven
+Als vrede bloeyt opt schoonst nae langh vervarste drangh
+T gheen Jaer op Jaer u heeft benadert even strangh
+[fol. I2v]
+Denckt van heyr helden waert en vroom nacomelingen
+(2700) Wat u Heer Vaders eerst diet soo in noot aenvinghen
+Meer parste als de licht gheveerde gheest van dy
+Diet noodigh goet verdelght in snoode guytery
+Dan wert u sorgh lijckst te bewaeren Godes vreese,
+Hy die u Heylant is mocht voort u hulper wesen:
+(2705) De Huys-heer des ghewins gherechte deel int slodt
+T erkennen  t spaerwaerd en ghebogen voor de Godt
+Die zijn gheliefde schaer leydt deur d Arabys golven,
+Waer onder dat een Nyls Croondrager wert bedolven
+Deur sonde vielt al g lijck  t groot Ninive te gront
+(2710) Tot puynen opghehoopt  tgheen dat gheweldich stont
+Soo spieghelt int begin: o wijsgier acht noyt ledigh,
+Hoe swaer oyt was ziel pars al quaemt u naermaels vredig
+Looft dien op t hoogh verwelf de gulde saelen spant
+En spalckt de groote zee met leden omgherant
+(2715) Van daer den Horizont vertoont de morghen randen
+Tot over  t wyde dal by afgeloopen stranden
+Op  t grijs asure velt Vrouw Hesperus ontmoet
+Als langs de vochte plas u Luna  thooft begroet
+    Vergheet lichtvaerdigh niet o Neerlandt die Vriendinne
+(2720) Wien veurt verdruckte volck in noot deur reyne minne
+Haer Bruydegom omhelst, en toont een open borst,
+G lijck als den Pellicaen, wanneer haer Jonghen dorst:
+Tijdt hanght u over  t hooft veel vyantlijcke strijden
+Eer ghy so grooten Vorst sult brenghen u ter zijden
+(2725) So min zijns stoute moets u wercklien ande wal
+Dat die u kind ren noemt u mannen achten sal,
+Dat die u nu bespot met Vossen veur te jaghen
+Ghenoech mocht vinden noch voor reddingh zijns en magen
+Die u bloet schandigh eyscht en tart voor snoode schent
+(2730) Deur dijn manhaft, u weer voor vrije landen kent
+Dat dies zijn groote Croon moet teghen  t roernest spelen
+Deur voorsicht wert gheleyt recht met u  t rijck te deelen
+O wonder deelt wat haelt ghy Spaengien in so waert
+Deur  t Godloos monster dwanck een tweed Troyaensche paert
+(2735) Selfs opgheworpen by u Gheesteloose Vliesen,
+Verwaent int groots sal dy de setel doen verliesen
+Dit volckrijck Neerlandt: segh ick eergiers helden, jae
+Langh heugers tot vergelt der Vaderlijcke schae
+Aen hun voorouders diet rechtvaerdgh wilden vryen
+(2740) Siet Hollant  t laegh dat sich uyt kleyne visscherijen
+Van Bato stelt nu heeft deur Gods regeringh me
+Verovert menich wel bewoonde schoone Ste
+En steyghert teghent Oost, in meerder t haerder spoeden
+Met vloten op de rugh der Oceaensche vloeden
+[fol. I3r]
+(2745) Nieu vintsels porren aen ontsien van landt en stadt
+Vercieren met de roem haer wel gheseghent schat
+Seer trou hun overheers, doen rechte daeden blincken,
+Dit suldy voor ghenoech aennemen en ghedincken
+Voor veel der Eeuwen dat dijn draf vergaet te niet
+(2750) Dijn een ge glorie wart, en noodigh is gheschiet
+Om uyt den Diensthuys uw s ghedwonghen moets onheylich
+Te leven, dies de strijts vervolgingh bet onveylich
+Keert met ghenoeghen  t hooft, u schermheer siet nae wins
+Ghy recht vercoren hebt Wilhelmo uwen Prins
+(2755) Uyt d huyse van Nassou erfheere op Orangien
+Behoeder uwer thuyn, teghent vernielent Spaengien.
+Adolf leyt, Lodewijck,  t huys van Brederoode staet
+Graef vanden Bergh d Marquis en Grave van Hooghstraet
+Mansvelt van Culenborgh de Graven in verdraghen
+(2760) Die door de vrijheyts crans nu staele leden draghen
+Aen tempel recht waer dat Bellona sal te wraeck
+U rechten seghes palm der Vaderlijcke saeck.
+Uyt Nassou dubbel heyl verwacht deur  s Hemels gaven
+Op d onvergheten moort tot Brussel heen begraven
+(2765) En of dick  t wreet verargh, verraets soo schelms berooft
+Een Borght, vertrout te meer op alder Princen hooft,
+Die by gherechte pleyt verwint en hout victorie,
+Deur een uytspruytend loot, die voor veel eeuws memorie
+De Vorstelijcke deucht niet min zijn eyghenschap
+(2770) Noch achter treden stout de Princelijcke stap.
+    Dus hier op zijt gemant t toe segh u sterckte wacker
+Dijn Vyant zijt ghetroost Batavia niet swacker
+Maeckt t laest herdencken dy tot Brussel met versaegh,
+Dat erft den Lauwer op ghehelmt u Hollants Haegh:
+(2775) Hy die tot drijwerf heeft het Fransche rijck doen beven
+Liet deur een snoo Tiran onnoosel  t stoute leven,
+Onschuldigh veur een al te trouwe dienst Vassael
+Gaveere moedigh Prins, van Egmont Lamorael.
+En ghy o Admirael deur  t g welts rumoer ontdrongen
+(2780) Uyt noodes bort len dijns ziels claechelijcke tonghen
+Van Trommels en ghetier, ghy baenderheeren kloeck
+Uyt Batenborch, ghy dwonght, uw s Godtvergheten vloeck
+Tholedo, daer toe deet, de sestien Edelinghen
+Op  t Paerde Velt in noot een droevich clagh-liet singhen,
+(2785) O wreetheyts gruwel, diet uyt Roomsch list, macht ons sijt
+Des Lants gesworen smaet van staet en volcken nijt,
+Hebt ghy niet  s Coninckx soon vermoordet en verslonden?
+De Vroomste vorsten die legaeten zijn ghesonden
+Uyt cracht des droeve eeuws, tgheen aende voetbanck schreyt
+(2790) Clagh tranen Godt beweeght, nu deur ghenadicheyt
+[fol. I3v]
+G lijck mits int even wick der Sonnen recht u claerheyt,
+En stuurt der tijden tijdt te duyden metter waerheyt
+ t Gheen onghelooflijck scheen, volspoedight: Dus ghy Rijcks
+Ghedeelde staet siet op en ant onmoghelijcks
+(2795) Slaet klauwen aende want ghy blixems onder t vechten
+Ghy Oorloghs-gruwlen om Godt Mars een beeldt te rechten
+Voorsichtich kleyn ghesin groot werdt u aenhangh noch
+Daer niets op hechten sal noch wreetheyt noch bedroch,
+Al is u Zee-Godt self van Hoorn-Graef verslaghen
+(2800) Ghy sult  t ontsich der vloen Neptuni Croone draghen,
+Als wolcken deur de locht heen streven op de Ree
+En dwinghen  t Moorsche landt, ghy vooghden vande Zee
+Gheen t saem gheschraepte list noch vreemt verbondt sal schaerden
+U Eendrachts-bintsel, noch  t ghebrijs van veel Spaengaerden
+(2805) Noch dubbel-loogh deurtrapt, van die u schijnen vreucht
+Nassouwe zy u roep, niets overtreft de deught,
+Die langhs de blauwe rugh der vloeden schrickt u dwinghers
+En aen de Westerkant maeckt hier de kleynste singhers,
+Den stam die int ghestaelt van my staet vast ghegrift
+(2810) Deur ware schickingh Godts en eeuwigh heyl begift,
+Sullen van t Oost tot West, soo wijt de Globe spande
+Van Noort ten Suyden weer hem vruchten alle Landen,
+En u o kleyn ghedeelt doen kennen voor Manhaft,
+Die laet  t ghedenckwaert werck  t Lant d eer, u lichaem  t graft
+(2815) En  t leven vol ghenoech hebt Princelijck ghequeten
+Op d onversturven moort uws Ouders onvergheten:
+Dus aertsche wondren slaet de handen aent gheweer,
+t Is al ontworstelt daer  s vertrouwens tijdt gheen meer,
+U bintnis zy in Godt, wiens heyl u socht te baenen
+(2820) Een wel gheseghent spoor: Soo keert u vyants vaenen
+En  t opghesworen, leyt u soete Borgher hart
+Te voeden zijns ghenoech, en wrevelighe smart,
+Den Alba treckt ghereet,, int Nederlandt te vallen
+Nu recht nu vast gheeedt,, den standert onder allen,
+(2825) Voor  t vast gheheyde Lof, van  s Hemels clare licht
+Die u, een Monarchi des vruchtbaer leven sticht,
+Dat noyt gheen roem verrijckt van stout gheweldigh roemen,
+Van vry ghestreden Eelt, sal u Batavi noemen:
+Die doet t Gods eere recht welck u volstandigh vrijt,
+(2830) En schenckt u nae  t verdruck de loon der gouden tijdt:
+Verdartelt nummer soo als wars verwaende Christen
+Tot strijts onheylghe vrock, om noodloos bitsich twisten
+Ick gae en vliegh int midts der Sonnen reyse heen
+Ghedenckt tijt  t s Hemels eer, alst g luckich verleen
+
+[in margine: Den Tijdt gaet in.]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. I4r]
+
+                t Besluyt.
+
+(2835) HEt Belgi Treurspel is verschenen op tijdts baen,
+De heyren trecken op nu gaettet strijden aen:
+Nae tijdt deur Godts gheheym u allen deed verclaren
+Heeft Nederlandt omringht gheleden veertich jaren,
+Soo u t ongaren woest, en s Princen noot bewijst
+(2840) Ghedwonghen veur de doot, haer goude Son die rijst
+Dus Borgherlijck ghesin, lust dreef my pen te schrijven
+ t Voldaen soo dubbel fout daer teghen  t bloedich drijven
+De wreetst der Sielen ent rechtvaerdigh teghenweer
+U Hollants wapen-school ghesticht van menich Heer,
+(2845) Dat nu in stille bandt by b eedicht Prins vertrouwen
+Voor twaelf jaers verdragh te rampen op sal houwen:
+Godt sterck hem die ter heyl hier nader  t lot beschreef
+Deur kunst en ijver alst ons te verhalen dreef,
+Hier meed Godt spaer u  t saem duyt al ten best de claerheyt
+(2850) Van g offert  t Ziel wel eens, ghetrouw en Mint de waerheyt.
+
+
+                      Bemint de Waerheyt.
+
+
+                 Eynde.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. I4v]
+
+              t AMSTERDAM,
+           __________________
+
+   Ghedruckt by Paulus van Ravesteyn.
+               Anno 1616.
+
+                     Continue
+
+
+              Tekstkritiek:
+
+fol. *1r: KOLMS er staat: KOMLS
+              1616 er staat: L616
+fol. *2v DUCK er staat: D UCK
+vs. 1605  t tooneel er staat  t ooneel
+vóór vs. 554 Megen er staat Megem
+vs. 1612 Ontsinckt er staat Ontfinckt
+vs. 1643 Tekst in de marge is moeilijk leesbaar.
+vs. 1777 leeren er staat leereu
+vs. 1810 u saelen, er staat n saelen,
+vs. 1837 Tekst in de marge is onvolledig en daardoor moeilijk leesbaar.
+vs. 2019 Honiel De tekst is uitgelopen en de naam die hier staat is moeilijk
+leesbaar
+vs. 1098 Tekst in de marge is onvolledig zichtbaar en door de vlekken moeilijk
+leesbaar
+vs. 1145 Bij dit vers begint het derde bedrijf. Hiervan is de aanduiding
+weggevallen (er staat alleen een horizontale streep), maar op fol. E4r wordt
+naar deze plaats verwezen
+vs. 1391 G. VAN HOORN. er staat G. van Hoorn.
+vs. 1521 V. HIPP. er staat V. HPP.
+vs. 1605  t tooneel er staat  t ooneel
+vs. 1612 Ontsinckt er staat Ontfinckt
+vs. 1643 Tekst in de marge is moeilijk leesbaar.
+vs. 1777 leeren er staat leereu
+vs. 1810 u saelen, er staat n saelen,
+vs. 1837 Tekst in de marge is onvolledig en daardoor moeilijk leesbaar.
+vs. 2019 Honiel De tekst is uitgelopen en de naam die hier staat is moeilijk
+leesbaar.
+vs. 2432 Hooghstraten er staat Hooghstaten
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  • Ceneton
+  • Voorkeurenpagina Opleiding Nederlands
+

@@ -1,0 +1,1984 @@
+[Dutch]
+
+
+Georgius Macropedius (Joris van Lancvelt): Petriscus.
+Utrecht, 1553.
+Uitgegeven naar de tekst van 1553, op basis van de
+uitgave op de cd bij Georgius Macropedius, 1487-1558
+leven en werken van een Brabantse humanist (Tilburg
+2005) door Henk Giebels en Frans Slits.
+Red. dr. A.J.E. Harmsen, Universiteit Leiden.
+Ceneton062070  Ursicula
+Eerste druk  s-Hertogenbosch 1536
+In deze uitgave zijn evidente zetfouten gecorrigeerd en
+gemarkeerd met een asterisk. De lopende toneeltekst, in
+het origineel cursief gedrukt, hebben wij in romein
+gezet.
+
+                     Continue
+
+[fol. G1r]
+
+
+                ¶ PETRIS-
+             CUS GEORGII MA-
+             CROPEDII FABULA
+              iucundissima.
+                  (.?.)
+
+[Vignet: Amor; Superantur ingenio vires.
+                  1551]
+
+               ULTRAIECTI.
+  ¶ Harmannus Borculous excudebat, anno
+                  1553.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[fol. G1v]
+
+
+           ¶ GEORGIUS HADRIANO
+        à Krimpen, studioso puero
+                  S. D.
+
+MEmor patris tui erga me benevolentiae & liberalitatis,
+(cum alijs in rebus non possim ei dignius gratificari)
+hoc te volui mi Hadriane literario donare munusculo, ne
+primùm in me, tanquàm in hominem ingratum, & beneficij
+immemorem, iure torqueri possit Graecorum senarius,
+Οὐδὲν γέροντι χρηστὸν οὐδέ ποτε δράειν. Ut & tu in eo
+subinde versato animum tuum oblectes, & à socordia,
+nugis, ineptisque lusibus deflectas. Consideres quoque
+praeter eruditionem Latinam, quid tu parentibus &
+praeceptoribus, quid illi rursus tibi debeant, & quod
+improborum convictus ac sodalicium perinde sint tibi ac
+pestis vitanda. Accipe itaque grata manu ab amico
+profectum munusculum, & (quod dici solet) σοὶ δῶρον ὃ
+δῷ τις ἐπαίνει.
+
+                  Vale.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. G2r]
+
+
+     ¶ Argumentum in Petriscum.
+
+MAter Petrisco, quem probum fore vult pater,
+Misandra nimis indulget uxor pervicax.
+Post parva furta, magnam & insolentiam
+Pater hunc magistro accusat, atque caeditur.
+(5) Caesus, patri furatus aureos decem
+In ganeo sociatus est nequissimis
+Pulsis schola gerronibus, cum quibus & ob
+Furta ac dolos coniectus est in vincula.
+Porrò imminente morte proprijs litteris
+(10) Matrisque precibus impetrat Didascali
+Clementiam, qui alijs relictis patibulo, hunc
+Virga eximit, caesumque cum peculio
+Reddit parentibus, & strepunt convivia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        ¶ Dramatis personae.
+
+Prologus.               Meloclopus      fures.
+Galenus pater           Argyroclopus  }
+Petriscus filius.       Philochrysium } meretrices.
+Liturgus servus.        Philargyrium
+Misandra mater.
+Didascalus cum discipu-  Lorarij duo.
+    lis, & puero.        Gnorimus senex.
+                         Rusticus.
+                         Praetor cum satellitibus
+                         Sycasta delator.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             ¶ PROLOGUS.
+
+DIdascalus noster animadvertens nihil
+Gregi suo scholastico opportunius,
+[fol. G2v]
+Vobisque spectatoribus fore gratius
+Ludis, iocisque scenicis, ex tempore
+(5) Pro temporis ratione scripsit ludicra, ut
+Habeat iuventus nostra, quo se exerceat,
+Quo vos quoque hoc iam tempore oblectemini.
+Praeterea habebunt, plus satis si liberos
+Suos ament, veténtve castigarier,
+(10) Stultissimae mulierculae, pueri quoque
+Suis rebelles usque praeceptoribus,
+Exempla non vulgaria. Atque illae quidem
+Uti videant suam per indulgentiam
+Gliscere suorum liberum licentiam.
+(15) Hi vero ut edocti suorum turpibus
+Commilitonum casibus, nulli velint
+Rebellium parere contubernio,
+Sed optimis subesse praeceptoribus.
+Videbitis (quanquam probo satum patre)
+(20) Puerum Petriscum matris indulgentia
+Sodalibus adhaerere perditissimis.
+Tandemque post rebellionem, fornices,
+Et furta, ad infandae, probrosae, & horridae
+Mortis venire periculum. Quòd usus est
+(25) Tali autor argumento, id in causa fuit,
+Quòd cum Rebelles primiter dedisset in
+Lucem, fuere qui parum vel candidi
+Vel eruditi dicerent, quòd fabulam
+[fol. G3r]
+Tanquam sibi propriam, alienam venderet,
+(30) Quasi adulterinam ut propriam Terentius
+Aedat, quòd Andriam ex Menandro transferat.
+Fatetur ingenuè autor ipse, sibi prius
+Visam sub argumento eodem fabulam,
+Prosa haud metro scriptam ab Helicone brevissimè, et
+(35) Arrisit adeò hypothesis, ut decerneret
+Tractare eandem honestius seu comicῶs,
+Longe tamen alio ordine atque schemate.
+Nunc eius an sit adulterina, candidus
+Ubi contulerit utranque lector iudicet.
+(40) Ut igitur obtrectator is habeat sibi
+Quod non queat lacessere, simili quidem
+Iam lusit hypothesi, haud eadem, denuo.
+Ut id quod illis taedio, vobis siet
+Iucunditati maximae. Vos itaque huic
+(45) Quotquot theatro adestis oro & obsecro,
+Ut prorsus omnibus abdicatis fabulis,
+Omnique strepitu ac sibilo, nostri gregis
+Aureis benignas praebeatis ludijs,
+Ne fructu & utilitate vos privemini,
+(50) Nostrique inutilem laborem assumpserint.
+Inutilem arbitramur utique, dum vacat
+Attentione, labore parta oratio.
+Si identidem vos nil quoque animadvertitis,
+[fol. G3v]
+Domum profecto hinc absque fruge redibitis.
+(55) Quiescite itaque, adeste cum silentio,
+Musisque candidis favete candidi.
+Post horulam unam aut alteram amittemini.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+     ACTUS primi. SCAENA prima.
+          Iambici trimetri.
+  Galenus.   Petriscus.   Liturgus.
+
+REcta Petrisce ludum adi scholasticum,
+Quaedam priusquam abibo huic mandavero,
+(60) Atque in macellum postea ablegavero.
+Pet. Quonam pater proficisceris? num vesperi*
+Rediturus? Gal. Id refert tua prorsus nihil.
+Tu recta adi ludum ultro litterarium,
+Didascaloque nuncia me iam adfore,
+(65) Ad coenam enim mihi hoc die invitandus est.
+Cave deprehendam abesse te cum venero.
+Pet. Non deprehendes. Unde oritur haec tibi
+De me pater suspectio? Gal. Pareto, abi.
+Liturge adesdum, ut quae volo & tibi imperem.
+Lit. (70) Praesto est Liturgus here. Quid exequi iubes?
+Gal. Sta paululum dum abeat. Putásne vera sunt
+Quae intus mihi de filio suggesseras?
+Lit. Pol, aegre & illibenter here gnatum tuum
+Insimulo quovis crimine, ut quem post tua
+(75) Fors fata habebo haerum alterum, veruntamen
+[fol. G4r]
+Cum deceat esse plus patri quam filio
+Servum fidelem, quod ego iam plus septies
+Et deprehenderam haud data opera, & videram.
+Celare te non debui. Gal. Probus es, & ego
+(80) Cum tempus exiget. Lit. Morare aliquantulum,
+Nam praeter ova, butyrumque, & caseum:
+(Quod hactenus silui) & pecuniam extulit.
+Gal. Pecuniam? Lit. Subinde vidi. Gal. ut potuerit?
+Aut si videbas, quin vetabas? Lit. Scilicet.
+(85) Audaculus, procaxque per me desinat.
+Suum mihi crimen potius impingeret.
+Gal. Sed qui potuit (inquam) mihi argentum adimere,
+Arctissimis quod obseratur scrinijs?
+Lit. Nil scrinijs (quod adhuc sciam) hactenus eruit.
+(90) Verum latenter introit cellam frequens,
+In qua tuis cum debitoribus soles
+Subducere ratiunculam, & quod invenit,
+Audetque, surripit. Gal. Quid audio? Lit. Quod est
+Res ipsa: vidi aliquando quod duo aut tria
+(95) Sestertia illinc clanculo subduxerit.
+Ex his quid actum, quid futurum conijce.
+Comperta bis, volunt patrata septies.
+Partesque edens, tandem canis corium vorat.
+Gal. Probè mones, ipsamque rem quam suggeris
+(100) Dum tacitus expendo, intuor verissimam.
+Putaveram profectò me in ratione vel
+[fol. G4v]
+Dati vel accepti frequenter decipi,
+Ast imposuit (ut iam liquet) mihi filius.
+Lit. Sunt, cum quibus solet interim versarier,
+(105) Nequissimi, verum mihi non cogniti,
+Quos ipse dum voles facile vaenaberis.
+Gal. Sat est, cape hos solidos duos, abi ocyus
+Recta in macellum, & ut placuit uxori, eme
+Quaeque optima hoc pro vespero convivio.
+(110) Ego filium dignè, priusquàm rus eam,
+Iubebo castigarier, Didascalum
+Quoque ad epulas vocavero. Lit. Sospes redi.
+Gal. Cura omnia approbè exigas. Lit. Curavero.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA II.
+Galenus.   Didascalus.   Discipuli 4.
+
+MOrtalium iucunditas quàm turbida,
+(115) Quàm vana, quàmque amara sit, praesertim ijs,
+Qui coniugem rixosam habent, & liberos.
+Experior in me maxime. Sed eccum adest
+Quem convenire gestio Didascalus
+Stipatus auditoribus. Did. Uti dixeram
+(120) Alacriter (si occurrerint) prehendite
+Nequissimos, ne terreamini impetu
+Minisque eorum, néve terga vertite.
+Disc. Haudquaquam enim praeceptor, haudquaquam. Did. Quis hic
+[fol. G5r]
+Qui concito nobis gradu fit obvius?
+Disc. (125) Galenus est, pater Petrisci, te petit.
+Gal. Salve magister erudite. Did. Identidem
+Salve Galene. Gal. Quò hunc gregem extra septa agis?
+Did. Belle quidem tu, ut lepidus & facetus es
+Sed quid Galene ovicula tua creberrimè
+(130) Ab ovilibus se subtrahit? Gal. Quid? subtrahit?
+Di. Subducit. Ga. atque id crebrius? Did. Creberrimè,
+Fultusque semper testimonio tuo
+Et syngrapho. Ga. quo syngrapho? Di. tuo equidem
+Chirographo. Ga. Id est autographon, non syngraphum
+(135) Meum, neque intra mensem & unum aut alterum
+Chirographum dedi, scio equidem quid doli
+In syngrapho latet, patris dum syngraphus
+Autographus fit filio. Did. Utinam & omnibus
+Isthuc parentibus semel persuadeas.
+(140) Eapte sunt profectò pueri industria,
+Ut scripta scriptis affigurent proximè.
+Nobis quoque illudant, sibique maximè.
+At qui omnibus mens neque eadem, neque ratio.
+Nimisque amant suos parentes liberos.
+Gal. (145) Ita est, parum secede mecum hac obsecro,
+Est nanque quod secretius tibi in sinum
+Fundam. Did. Libens facesso, duc me quolibet.
+[fol. G5v]
+Paucis tamen (quòd ad alia festinem) modo
+Loquendum erit. Sunt nanque qui praepropere se
+(150) Ferculae meae subduxerint, nisi caute eos
+Mox antevertero, quemadmodum accinctum vides.
+Gal. Video, sed audi me tribus modo verbulis
+Did. Audio. Gal. Petriscus in schola est? Did. Est in schola.
+Gal. Ideo obsecro te quam potissum maxime, ut
+(155) Ad sanguinis suffusionem usque flagris
+Caedatur acrioribus priusquam eas.
+Ne si quid interim (ut est sagax) ei per hos
+Suboleverit, meditetur aut fugam, aut suam
+Matrem subornet lachrymula, ut se liberet.
+Did. (160) At unde castigavero? nam caedere
+Palam omnibus causa latente haud congruit.
+Gal. Heu, causa talis est, ut & tandem mihi
+Mala pertimescam, & filio. Praeter dolum et
+Mendacium, quae & ipse crebro expertus es,
+(165) Praeterque furta casei atque butyri,
+Praeterque furta carnium atque piscium,
+Etiam subinde sustulit pecuniam. Did. Hui.
+Gal. Quapropter obsecro tuam prudentiam,
+Ut corrigatur ocyus, dum foris ero,
+(170) Mecumque coenaturus adsis vesperi.
+Did. Referenda gratia est, libensque quod rogas
+Prius exequar. Gal. Quod atque dictum oportuit,
+[fol. G6r]
+Venare quonam transtulit. Did. Rimabimur.
+Quantum negotium parentibus suis
+(175) Plerunque liberi ingerunt. Disc. Didascalus
+Redit, Petriscus absque controversia
+Caedendus est, non absque causa enim pater
+Severitatem praeferebat pectoris.
+Did. Silete: sequimini, mihi exequenda sunt
+(180) Alia priusquam abivero. Disc. Quid dixeram?
+Caedendus est puer absque controversia,
+Quod cum vagantibus est ei communio.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA III.
+Didascalus.   Petriscus.   Discipuli
+                 4.
+
+PRoferto flagra Claviger. Petrisce ades.
+Pet. Quid vult? Did. Ades, paucis loqui tecum volo.
+Pet. (185) Adest Petriscus. Ecquid in me criminis?
+Did. Tu solve subligaculum: parentur ij
+Quoque, qui futuri sunt mihi adiutorio.
+Pet. Qui caedar omnino innocens? Did. Tun innocens?
+Tu praeter ova, caseum, & alia plurima,
+(190) Quae sustulisti ex aedibus creberrime,
+Tu neutiquam pepercisti patris peculio,
+Et innocens? Pet. Id nemo mihi probaverit,
+Neque mater unquam tale de me dixerit,
+Quam huc advocatam oportuit (si mecum agas
+(195) Iuste) priusquàm caederer, vel testibus*
+Probato, quod falso astruis. Did. Quod ex tuo
+[fol. G6v]
+Parente didici, non potero non credere.
+Pet. Vernaculi mendacibus credit pater
+Instinctibus. Nego, ni probetur testibus.
+Did. (200) Nos iudicis testisque fungimur loco.
+Tu caeditor, vos tendite ac dissolvite.
+Pet. Heu. Did. Vivam ad usque cutem, videbo si queant
+Haec flagra testem accersere. Protendite,
+Tenete fortiter. Pet. Innocentem caeditis.
+(205) Proh Iupiter quid patior? O Deûm fidem, ô
+Praeceptor, ô praeceptor. Did. Es adhuc innocens?
+Pet. Haud quaquam. Did. adhuc testes ne? Pe. testis ipse sum,
+Ego ipse sum furti omnium. O. Di. at quo elata sunt?
+Pe. Sodalibus meis duobus tradidi. O.
+Did. (210) Ultro? Pe. Ultro. Did. quis? Pe. Meloclopo, & Argyroclopo.
+Did. Digni profectó quibus ferantur pluria.
+Quid reddidere? Pe. Furta praeter sua nihil.
+Miserere sat caeso. O. Did. Patrabis amodo?
+Pet. Numquam patravero. Did. Amodo te corriges?
+Pe. (215) Correxero, correxero: miserescito.
+Did. Surgat. Sedete in classe quisque propria.
+Cave Petrisce, ne quid ultra exaudiam. Pet.
+Meminero dum tempus sinet. Did. Quid murmurat
+Nequam? Pe. Nihil. Did. nequissimum ingenium istud est.
+(220) Cave. Dis. Fugit praeceptor, excurrit schola,
+Vin huc reduci? Did. Hem, currat in malam crucem
+[fol. G7r]
+Pet. Vah sordide ac pedunculose Didascale,
+Meminero dum queam. Disc. Minatur, obstrepit,
+Lapidesque mittit. Vin citi prehendimus?
+Did. (225) Nolite filij, suo se tempore
+Ipsus prehenderit, ipsus irretiverit.
+Vos expedite ad alia quae proposueram.
+Ubi paululum quieverim, concessero.
+Disc. En expediti te foris morabimur.
+(230) Ut iam Petriscus ululat ante aedes suas.
+Matrem illico videbimus procedere. Pet. Heu
+Mater mea, obsecro prodi foras. Dis. Opus ingredi.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+            SCAENA IIII.
+       Misandra.   Petriscus.
+
+QUos eiulatus audio pro his aedibus?
+Quis lachrimat? Tun mi Petrisce lachrymas?
+Pet. (235) Ego lachrymo mater. Mi. Fatere quid accidit.
+Num caesus es? Pet. Gravissimò ô mater flagris
+Acerrimis. Mi. Quid feceras? Pet. Prorsus nihil.
+In innocentem enim hoc modo bacchatus est
+Didascalus, vide ut cutis mea lacera est,
+(240) Ut membra livent, ut rubenti sanguine
+Infecta vestimenta sunt. Mi. Papae quid hoc
+Mali? Perinde ac in latronem saevijt.
+Pe. Id diceris, si me videres distrahi.
+[fol. G7v]
+Mis. Mitte haec: quid inquam feceras? Petr. Nihil quidem
+(245) Commiseram, verum pater meus prius
+Quam abiret, accusaverat me criminis.
+Mi. Pater tuus te criminis? De quo obsecro?
+Quae adulteria, quae stupra, quae ve furta sic
+In te acriter punita sunt? Unde arguit?
+Pe. (250) Dicere vereor. Et si innocens, furti arguit.
+Me mala, pyra, ficus, nucesque dixerat
+Sed & ova saepe sustulisse ex aedibus.
+Mi. O animos truces Didascali, Minutula haec
+Delicta castiganda erant tam saeviter?
+(255) Quaenam (malùm) dementia & patrem tuum
+Eò impulit, uti te iuberet propter haec
+Tam atrociter laniarier, lacerarier,
+Etiam si ea ipsa admiseris? Pet. Pol neutiquam
+Mater, Liturgus haec patri falso omnia
+(260) Suggesserat, pluribus at ipse obnoxius.
+Mi. Liturgus haec? Mecastor hic vesaniae
+Suae dabit penas, sategero quoque
+Ut neuter impunitus isthuc egerit.
+Mecum Petrisce mi domum ingredere, ut tibi
+(265) Calido incubanti lectulo per mollia
+Fomenta & unguina adhibeam. Pet. Mater praei.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+       CHORUS Scholasticorum,
+          Iambici dimetro.
+
+[fol. G8r]
+[muziekbalken]
+AMor parentis in suos
+Sit temperatus liberos,
+Ne moribus petulantium
+(270) Conniveat, sed arguat.
+    Si indulgeat lasciviae,
+Parcatque lentis virgulis,
+Protervientes senserit,
+Necique vix subduxerit.
+    (275) Lucretio gnatus cruci
+Cum adduceretur ab osculo
+Nasum momordit, parvulo
+Quia fuerat indulgentior.
+    Quid necuit Heli ac liberos
+(280) Una die, nisi blandior
+Correptio, & remissior
+Impuberum educatio?
+[fol. G8v]
+    Quin David Ammon passus est
+Caesum ense fratris Abessalom.
+(285) Quòd non sororium ob stuprum
+Redarguit clementior.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+    ACTUS secundi. SCAENA prima.*
+          Iambici trimetri.
+         Philochrysium sola.
+
+BEllum diurnum plus timent mei amiculi
+Duo cum Didascalo in schola, quàm singuli
+Nocturna mecum praelia in thalamo aggredi.
+(290) Et ob hoc meam hanc operam locabo tanto eis
+Lubentius, quanto obsequi malunt mihi in
+Complexibus, quam in lectione Didascalo.
+Videbo & explorabo, ne Didascalus
+Fortassis inconsideratos opprimat.
+(295) Pape, Ipse adest repente subdolus, suis
+Stipatus (ut solet) undique auditoribus.
+Quid facto opust ? Intrò recurrendum ocyus,
+Et indicandum amasijs, si quo modo
+Praesentibus malis quaeant occurrere.
+(300) Neque fugiendi neque latendi hic est locus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA II.
+  Didascalus cum .4. discipulis.  
+             Meloclopus.
+   Argyroclopus.   Philochrysium.*
+
+UT dixeram prius, prehendite alacriter
+[fol. H1r]
+(Si occurrerint) nequissimos, ne aut impetu, aut
+Minis eorum terga vertite. Dis. Neutiquàm.
+Did. Pulsabo ad ostium. Recludite has foreis.
+Phi. (305) Quis pulsat ostium meum? Me. Praeceptor est.
+Did. Recludite. Ar. haud recludimus, quin te magis
+Tuosque disturbamus aedibus, nisi
+Profugeris. Did. Aperito tu mulier fores,
+Nequando iure consulatus te arguat. Disc.
+(310) Praeceptor in te lotium Ar. habet. Phi. tun sordide hoc
+Meum relinques ostium? Me. Argyroclope
+Tu saxa, coctilesque lapides suffice.
+Philochrysium tu profer huc plus lotij.
+Facile hunc aristarchum aedibus repulerimus.
+(315) Pedunculose, sordide, ac phanatice
+Nondum recedis ab aedibus? Disc. Petrae ruunt,
+Praeceptor effuge. Did. Irrita haec industria est,
+Captanda consilia altera. Heus tu Claviger
+Accede consulem, roga mittat duos
+(320) Lorarios, qui corrigendos exigant.
+Curre, hoc loco vel in schola morabimur.
+Disc. Factum puta, curro, revertor, hic resisto.
+Me. Ut iners & ignavus modo astat turpiter,
+Abi cruente, haud amodo caesurus es.
+Did. (325) Nisi ego cecidero, caedet ipsus carnifex.
+[fol. H1v]
+Vetus est paroemia. Si patrem non audias,
+Pòst vitricum auditurus es. Quid filij,
+Quid mihi rebelles improbè aversamini, &
+(Praeter meam aeruditionem) quicquid est
+(330) Et pium, & honestum, & aequum, & utile? Non pudet
+Pigetque vos? An non Dij ulciscentur haec?
+Similés ne vestri cernitis passim cruci
+Gladióve adactos emori infoeliciter?
+Descendite heus descendite, ut peiora non
+(335) Patiamini. Ar. Quas tu cruces, quosque gladios
+Nobis paras vanissime? Hinc si non abis,
+Saxis tuo illisis cerebro hanc plateam
+Tuo cruore purpurabo. Abito dum.
+Disc. Hem saxa mittitis in Didascalum impij?
+(340) Saxá ne remittimus? Did. Tacete, quiescite.
+Praestat tacendo iniuriam mihi fugere,
+Quàm multa respondendo vincere. Expedit
+Redire dum Lorarii veniant, quia
+Cum stulto inire praelium, stultissimum est.
+(345) Eamus, ante ludum adest muliercula,
+Quae me expetit conventum, ut autumo. Disc. Refuge,
+Mater Petrisci ea est. Did. Nova ea contentio est.
+Vos introite. ^___________
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA III.
+Misandra.   Didascalus.   Petriscus.
+
+[fol. H2r]
+^___________ SOrdide plagoseque
+Didascale, ut quid in meum hunc sic filium
+(350) Crudeliter grassatus es? Non sic ferae
+Trux carnifex, non sic ferae à venaticis
+Canibus solent lacerari, ut hic tenerrimus
+Laniatus est. Did. Sile parum muliercula.
+Mi. Egon tibi silebo pestis? Egon tibi
+(355) Silebo? Vix me contineo, quin in tuos
+Manibus capillos evolem. Did. Quis te malus
+Genius agitat muliercula? An nulla ratio
+Tibi reliqua est? Quo fine tandem filium
+Tuum in hanc scholam mihi tradidisti? Nunquid ut
+(360) Post scelera, postque flagitia, impunita sit
+Nequitia? Peniculóve vulpis vapulet?
+Nonne erudiri volueras, cum adduceres?
+Et pro sceleribus corrigi? Eruditio haud
+(Ut is vel invitus fatetur) defuit*
+(365) Cur ergo vis sola absit huic correctio?
+Pluris facis doctrina & eloquentia,
+Quàm moribus pulcherrimis fore praeditum?
+Mi. Non vitia corrigi, sed oviculam veto
+Innoxiam excoriarier. Fera bestia
+(370) Haeccine tua est correctio? Iam didicimus
+Quae saepe numero audivimus, quonam hactenus
+Pacto usus es nostris tyranne liberis.
+Probis satos parentibus & innoxios
+[fol. H2v]
+Sinamus ita caedi, trahi, mactarier?
+Did. (375) Innoxium vocas, qui adhesit noxijs?
+Qui rem tuam domesticam furto abstulit,
+In ganeúmque transtulit? Qui in fornice
+Latens vagabundúsve saepe schola abfuit?
+Pet. Mentire singula. Egó ne mater patiar haec?
+Did. (380) An mentior, qui à patre partim isthaec tuo
+Partim ab alijs vera didici, partim quoque
+Mihi ipse fassus es? Pet. Ego fassus sum tibi?
+Mentiris aedepol. Did. At hic grex testis est.
+Mi. Fors verbere extorsisti, ut aliqua diceret.
+(385) Et quid, si (ut assuevere pueri) vel pyra,
+Vel mala, vel ficus, vel his simile abstulit?
+Did. Adde ova, carnes, caseum, & pecuniam.
+Pe. mentitur impudens. Did. Vel ego, vel tutumet.
+Mi. Quid audio? Tantillus hic puer audeat
+(390) Vel istiusmodi vel obolum attingere?
+Did. Et felium catuli subinde lebetibus
+Carnem extrahunt. Mihi crede mulier, si sinas
+Adolescere hoc pacto tuum puellulum,
+Vereor cruci ne tandem adultum nutrias.
+Mi. (395) Quas tu mihi obtrudis cruces homo omnium
+Deterrime? Egó ne filium meum cruci? Pet. Hem,
+Egó ne cruci? Caedamus. Mi. Impudens caput.
+Did. Te contine mulier, alioqui ad consulem
+Duci iubebo, adsunt enim Lorarij. Pet. Hui,
+[fol. H3r]
+(400) Cedamus hinc mater, valeat. Mi. Haud sic tamen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+            SCAENA IIII.
+  Versus tetrametri seu octonarij.
+Lorarij 2.   Didascalus.   Discipuli
+                 2.
+     Polymathes, & Philomathes,
+
+ABi domum impudens, bonósque desine incessere viros
+Convitijs, si non velis (ut merita) cras traducier.
+Salve magister. Did. vosque àvete probi viri. Lor. τοῦ λυγκέως
+Ὀξύτερος εἶ. Did. quid ita? Lo. quia probitatem inesse perspicis
+(405) Utrique nostrum? quam hactenus vel alteri nemo tribuit.
+Did. Facete. Lo. Erat cum muliere mala (ut video) tibi contentio.
+Did. Nec id infrequens ludimagistris, quîs profectò miserrima est
+Conditio. Lo. Lites redimeres has, vulpiumque caederes
+Peniculis. Extra iocum: quid advocasti nos duos?
+(410) Nostra indiges opera? An rebelles, quos oportet corrigi,
+Sese erigunt? Did. Audite me. Meretricula in vicinio est
+Cui se applicant duo ex scholasticis meis nequissimi.
+[fol. H3v]
+Quos corrigendos dum volebam adducere, obdito ostio
+Missis lapidibus propulerunt desuper, quapropter &
+(415) Opus mihi vestra est ope & prudentia, sed maxime
+Authoritate publica. Lo. Iuvabimus pro viribus.
+Praecede, duc nos ad locum certaminis, quia pugiles
+Tuos videre perlibet, cum quibus oportet congredi.
+Did. Eamus. Disc. An concedimus? Did. manete, praestolamini.
+Poly. (420) Veh natibus. Immo tergoribus illis, quibus tot verbera
+Immorientur, horreo memorans. Tu claviger virgas para
+Pulsant domum. Phi. Nostri silent. Poly. Intróque rumpunt viribus.
+Phi. en alter exilit, tenet magister, alterum extrahunt
+Sequitur meretrix eiulans. Po. fortasse caesa fustibus.
+(425) Viden ut manu aversa retunditur? Phi. video, vice savij
+Pol. O utinam & ipsam huc pertrahant, dissaviandam mastige.
+Phi. En iam revincti funibus, ducuntur haud secus ac solent
+Fures philacae adducier. Pol. Spectaculum lepidissimum.
+Iam quicquid irrogaverint probri aut doli mulctabitur.
+(430) Verum quia adsunt proximi, cedamus intrò. Phi. Ita censeo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. H4r]
+
+
+              SCAENA V.
+     Lorarij 2.   Didascalus.  
+     Meloclopus.   Argyroclopus.
+
+HOs hactenus nostros recipe magister, & scholastico
+Ex more corrige, alterum servabimus dum tu alterum
+Caecideris, ne quid tumultus interim in schola excitet.
+Did. Solve. An ephebe non foret modo honestius, me audito ad has
+(435) Spontaneum venisse plagas, quam per hos turpissimè
+Trahi ministros publicos, & hanc movere tragoediam?
+Me. Caedes modo, at non amodo. Did. Faxit Deus, verum cave,
+Ne postea te caedat atrox carnifex, quod est meum
+Nunc exequar. Lo. Quo privilegio secundus vapulas?
+(440) An te superior ille nequitia, prior quod vapulat?
+Ar. Ridete nunc, fortassis olim non adeò ridebitis.
+Lo. Cessent minae. Numera potius ephebe quot nam cottabos
+Socius ferat, perferre cum te totidem oporteat. Ar. Truces
+Vos glutiant, vorentque lemures, & ater tartarus,
+(445) Me vos quoque enecabitis? Retaliabo si queam.
+Lo. probè salutat nos, Habenda gratia est. His vinculis
+Solvatur, atque vestibus spolietur, ut eò alacrior ad
+Pugnam siet, nostróque munere hoc modo expeditius
+[fol. H4v]
+Fungamur. Ar. Hui, Lorarij me solverint? Lo. Lorarij
+(450) Possunt ligare & solvere. Huc profer lacertos, ne simul
+Cum Sosia Plautino & ante cottabos pugnos edas
+Atque colaphos. Probus est. Soluto singulo tunicam abstrahae,
+Thoraca laxa, ut vivam ad usque cutem facile Didascalus
+Indusium mox auferat. Ar. Diespiter vos perduat.
+Lo. (455) Redit Didascalus, ut salutis ratio & ordo postulat.
+Vocatum ad ulmeum modo accubare faciet ferculum.
+Did. Eho, altero hic festivior, qui se apparavit praelio.
+Lo. Nos antagonisten novum tibi antè praeparavimus.
+Praeter tua unguina nil ferè desyderatur amplius.
+(460) Propter minas, linguaeque virulentiam, nostram hanc ei
+Operam locavimus. Did. probè actum, & hunc athletam inunxero.
+Ades sceleste. Nonne mage decebat auscultare mihi,
+Quam hoc schemate, exemplisque pessimis palàm traducier?
+Ar. Traducitis, traduxeróque vos, fuat si occasio.
+[fol. H5r]
+Lo. (465) Abi data est nobis prius iam occasio haec. Videto ne
+Etiam secundo detur, & poeniteat impudentiae.
+Quid tu fugis post verbera? Stultam facis rem, si quidem
+Licuisset has plagas fuga evasisse, prudentissimam
+Profectò iudicarem. At ubi iam caesus es, quorsum fuga?
+(470) Numera sodalis cottabos, animósque moestos explica.
+Me. Explicuero mox Baccho, dapibus, & puellis candidis.
+Lo. Eho puer, tu Veneri, Iaccho, epulationibus vaces?
+Me. Vobis quoque invitis. Lo. Et unde tibi pecuniae? Me. Et quid ad
+Vos attinet? Lo. Iam adest sodalis. Me. Commodum. Lo. Sequitur quoque
+(475) Praeceptor. Me. Ad corvos, neque amodo mihi praeceptor est.
+Valedicimus palàm tibique literisque, & ludo huic.
+Ar. Valedicimus meminerimusque olim, ubi fuerit occasio.
+Did. Abite, abite vel ad crucem, dum neque suavibus quidem
+Neque asperis corrigimini. Me. Vah sordide. Ar. Vah carnifex.
+[fol. H5v]
+Lo. (480) Valeant magister hi improbi. Did. Caveant sibi. quod muneris
+Mei fuit subivi, habeoque gratiam vobis viri
+Fortissimi, mecumque adeste in prandio. Lo. Placet. Iterum
+Illi ad suum rediere prostibulum. Did. Doleo. Vos sequimini:
+Crepit ostium in vicinia, vitanda turba. Sequimini.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA VI.
+         Versus septenarij.
+       Misandra.   Petriscus.
+
+(485) VIr abest, Liturgus abest, familia abest, vacant plateae,
+Vacántque vicinae domus. Quid sola ego obtuebor
+Deses parietes? Feriae ne publicae? Petrisce
+Ades (est enim quod filio mandem, priusquam abibo ad
+Philoeniam atque Euodiam) Heus prodis ne? Quid moraris?
+Pet. (490) Matercla praesto sum: quid est quod mea opera curatum
+Voles? Mi. Cape has claves, domum dum rediero curato.
+Pet. Curabo. Mi. Adibo proximum oenopolion ad amicas
+Veluti spopondi. Si pater vel si Liturgus veniat,
+Tu traditis his clavibus me accerse, modò requirant.
+[fol. H6r]
+Pe. (495) Facesso, verum ad ludum ut exeam statim necesse est.
+Mi. Ubi feceris quae iusserim dimisero, quocunque
+Libuerit ibis, interim claudenda claudito, atque
+Siqua aperienda aperi. Cave nequid domesticarum
+Mi gnate rerum pessum eat. Pet. Matercula id cavebo.
+(500) Euax, mihi omnia credidit mater mea his collatis
+Mihi clavibus. Iam intra Petrisce ad quaslibet parentum
+Opes. Reclude matris abdita scrinia, ut pigmenta &
+Piper eximas. Aperi patris thesaurum, ut inde argenti
+Quantum citra notam audeas, tollas. Adi securus,
+(505) Nam solus es sine arbitris, foribusque pessulum obde,
+Nequando callidus Liturgus opprimat te incautum.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+               CHORUS.
+           Versu dimetro.
+
+[muziekbalken]
+[fol. H6v]
+QUanquam probi infestos sibi
+Semper tulerunt improbos,
+Tamen fuerunt ante nos
+(510) Foeliciora tempora.
+    Iam ridet auditor suum
+Didascalum, puer senem,
+Sanctum profanus, impius
+Pium, parentem filius.
+    (515) Iuratio, devotio,
+Obscoenitas, lascivia,
+Furtum, dolus, procacitas,
+Pueros cum ephebis occupant.
+    Mores parentum lubrici,
+(520) Amplectitur quos puerulus,
+Nimia quoque indulgentia
+Causa atque fomes omnium est.
+    His itaque non medebimur,
+Nisi tum parentum tum boni
+(525) Didascali vitae integra, &
+Correctione acerrima.
+    Stultitia si ligata sit
+(Scholomonis ex sententia)
+In corde pueri, virgula
+(530) Severiore fugabitur.
+    Nam virgula dum caeditur,
+Non corpus ipsum occiditur,
+[fol. H7r]
+Sed liberatur ignibus
+Caesi anima horrendis tartari.
+    (535) Quamvis enim impossibile sit
+Corrigere, quem Deus oderit,
+Caedendus est tamen impius,
+Quo habeant timorem caeteri.
+
+                     Continue
+
+     ACTUS tertij. SCAENA prima.
+             Septenarii.
+       Liturgus.   Petriscus.
+
+DIutius moratus est me lanius, ut Dij omnes
+(540) Morentur ipsum in distrahendis carnibus vicissim.
+Quod commodum sibi sedulo investigat, at quid alijs
+Incommodet, perpendit ipsus neutiquam. Nam certo
+Est certius, si verbera evadam, hera mihi maledicta
+Mox ingeret, magnae infidelitatis insimulabit.
+(545) Herus modestus est, herus tranquillus est. Contrà, illa
+Nil incommodius, inquietius, impudentiúsve
+Iam plena compita sunt, in ore est omnium procacis
+Malitia foeminae, qua in optimum virum insanivit
+Pro pestilente filio, dignissiméque caeso.
+Pe. (550) Si ipsam mihi teneam catenis ferreis fortunam in
+[fol. H7v]
+Nervo ligatam, non queam extorquere commoda tanta
+Quanta ultro iam est largita. Pipere, zaccaro atque cinnamo*
+Hanc manicam & intimos sinus tunice replevi: at aurum
+Suffarcinabo peplo involutum in subligaculo, ne
+(555) Si fors sit explorata, me crumena furti accuset.
+Ex mille nummis plus minus decem abstuli, sed totos
+Rutilos & aureos. Pater non deprehendet, quòd si
+Deprenderit, tempus docebit quid reus praetexam.
+Et commodum, nam adest Liturgus, autor huius furti
+(560) Futurus. Ubi res postulaverit, has eidem claves
+Tradam, atque abibo, sodalibúsque cuncta mox partibor.
+Quid ades Liturge, quid inquam ades serius, ubi transivit
+Ferme hora prandij? Lit. Quòd haud possem citius adipisci haec,
+Quae voluerat matercula tua, cuniculos, perdices,
+(565) Capum, anserem, vervecis armum, & his similia.
+Ubi est hera? Pet. Abijt cum familia, iussit & tibi claves
+Has traderem, nam lectionum tempus est, ludum adeo.
+Lit. Da, vade. Ne pater domi forís ve te prehendat.
+[fol. H8r]
+Pet. Vado. Bene est quòd omnia evenere fortunate. Hui,
+(570) Veh mihi, redit pater, ni fallat oculus. Ipsus
+Est, aliquid ut me hoc explicem pavore comminiscar.
+Adveniat, est quod facile persuadebo, obit commentum.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA II.
+              Trimetri.
+  Galenus.   Petriscus.   Misandra.
+
+UBi sunt libri Petrisce? quin scholas adis? Pe.
+Sub vestibus pater. Gal. explica, ne (quemadmodum
+(575) Edoctus es) furtum rei domesticae
+Suffarcinaveris. Pet. En pater mi codices.
+Mi. Plus satis in uno exhauriendo congio
+Morata sum, quòd non venirent, quae tamen
+Dudum mihi spoponderant. Nunc tempus est
+(580) Paraere, vesperi quae edenda sunt. Quid hoc?
+Eho, redit Chrysippus hic solito prius,
+Rursumque vexandum Petriscon excipit.
+Scrutatur, atque territat. Quid hoc (malùm)
+Dementiae? Si impunè puerum laeserit,*
+(585) Misandra non vocabor. Haud me debitus
+Examini videt. Morabor in ostio,
+Ut candidè excipiam virenti verbere.
+[fol. H8v]
+Gal. Esto, sed hac iter ad scholam? Pe. Non est pater,
+Verum ad meam materculam (uti praeceperat)
+(590) Vocandam eo. Gal. Quo mater abijt? Pe. In forum
+Pater, quo emat quod erit necesse vesperi.
+Gal. Abi, cave mendacij ne te arguam.
+Pet. Successit hoc. Iam adibo praefectos meos,
+Ubi matrem adesse patrem atque servum dixero.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA III.
+        Galenus.   Misandra.
+
+(595) NIl mihi boni praesaga mens de filio
+Promittit: una heu mater in culpa est, suam
+Demens per indulgentiam, quòd funditus
+Corrumpitur. Si obnitar illi, aut arguam,
+Mox gliscit odium, & iurgium, & turbatio. At
+(600) Quid, In ostio ipsa? Profectò sunt quae non satis
+Cessere ei ex sententia, pallori enim
+Vultus rubor permistus isthuc indicat.
+Quid pestilentius quieto sit viro
+Muliere mala? Non aspides, non tigrides.
+Mi. (605) Impie, cruente, edax tuorum viscerum,
+Quid in meum gnatum tuos animos truces
+Iam prodidisti, ut instar pecudis redeat huc
+Laniatus? An paterna mens tam dura sit,
+Ut filium suum adeò discerpi velit,
+(610) Te praeter unum in baeluam mutabilem?
+Gal. Uxor tuis moderare paulùm affectibus,
+[fol. I1r]
+Sermonibusque brevibus aurem accommoda.
+Scis cur puer percussus est? Quid fecerit?
+Non pro leviculis aut minusculis (quod &
+(615) Fortassis arbitraris) his affectus est
+Plagis, sed ob mendacia, ob furta, ob mala
+Furum sodalitia, quibus cum in ganeo
+Versarier didicit, scholásque omittere,
+Ea propter isthunc (ut decebat) ulmeis
+(620) Caedi flagris, non ungulis discerpier,
+Mandaveram. Id crudelitatis arguis,
+Id impium, id vel beluinum iudicas,
+Si ob scelera sua puer parenti vapulet?
+Non hoc sacris iussum & prophanis legibus?
+(625) Non aequum, honestum, & patriae assuetudinis?
+Quin te mage ausim criminum caput omnium
+Contendere, utpote quae tua indulgentia
+Pueri indolem alioqui bonam corruperis.
+Mi. Mentiris isthaec omnia insulsum caput.
+(630) Num annos puer vix quattuordecim habens, tibi
+Scortabitur, furabitur, bacchabitur?
+Egó ne eidem omnis mali dedi originem?
+Hem tibi caput stolidissimum. Sic disce, sic*
+Disce obloqui mendaciter mihi impudens
+(635) Nugator, insontémque caedere filium.
+Gal. Prima haec feram mea uxor abs te verbera,
+Verum secunda si feram, iam nescio.
+[fol. I1v]
+Mi. Feres secunda & tertia, modò pergis hoc
+Modo loqui. Ga. Heu. Mi. Ne fle miser. Ga. Certè miser.
+Mi. (640) Sic terge ocellos, atque abi in malam crucem,
+Nam senties peiora, si reverteris.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+            SCAENA IIII.
+  Gnorymus.   Galenus.   Mysandra.
+
+STrepuit domus vicina turba aut iurgio,
+Videbo quid siet. Galenus astat hic
+Pro foribus. Heus vicine quid faciem fricas?
+(645) Quid lippiunt oculi? Quid aegri passus es?
+Gal. Fumosa domus est, & oculis meis nihil
+Fumo molestius, adeóque cum mea
+Uxorcula iurgatus exeo, propulit
+Fumúsque. Gno. Quid, fumus? Cum & ipse annos decem
+(650) Habitaverim hanc domum, nec unquam (quod sciam)
+Fumo molestam passus sim. Gal. Sic est. Vide.
+Gno. Videbo, ubi hic fumus? Mi. secundo ades impudens?
+Feras secundo oportet: hem tibi. Gn. malum. Ga. habet.
+Mi. Tun es? Virum putabam. Abi, quod habes, tene.
+Ga. (655) Redit. Quid est? Fumós ne nondum expertus es?
+Gno. Haud miror equidem quod modo haec fumosa sit,
+Cum extra focum ligna ardeant virentia.
+[fol. I2r]
+Cuius domus tali rogo haud fumosa sit?
+Cuius oculi fumo pari non lippiant?
+Gal. (660) Ha ha he. Te & experirier fumos meos
+Oportuit? Gno. Vicine eamus obsecro,
+Et optimo vino serenemus oculos,
+Moeroribus medeamur his Bromio sacro,
+Letísque poclis abluamus tristia.
+Gal. (665) Placet. Gno. Quid age dic mihi Galene, quid tibi
+Cum illa negotij? Gal. Audies Gnatum meum,
+Quod clanculo quaedam domo abstulit, acribus
+Caedi flagellis iusseram. Gno. merito quidem.
+Ga. Id uxor aegrius ferens (quia filio
+(670) Indulget ultra quàm sat est) me primulum ex
+Agro reversum obiurgat impudentius.
+Cum deinde totius mali ipsam dicerem
+Fontem atque originem. Virentem insaniens
+Fustem meo illidit levatum vertici.
+Gno. (675) Post tale tonitru hymbrem sequi necesse erat,
+Sed sustines? Gal. Non sustinerem Gnoryme,
+Si mihi perinde placeat ac tranquillitas
+Turbatio. Primum hunc feram, non alterum.
+Gno. Dum animus quiescit coniugis, secreto adi.
+(680) Expostula acriter cum ea de singulis.
+Si lenitate flexeris, longe optimum.
+Ga. Et haec mea est sententia. Gno. Hem, cedamus hac.
+[fol. I2v]
+Contrâque curas hauriamus congium.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+      CHORUS. Iambico dimetro.
+
+CReata sunt solatio
+(685) Baccho dicata munera,
+In gaudiúmque danda sunt,
+Sumenda quoque moerentibus.
+    Sumenda sunt moerentibus
+Pro temperato gaudio,
+(690) Non regibus nec satrapis,
+Ne iusta & aequa negligant.
+    Si hostis greges abegerit,
+Si cura mentem presserit,
+Si uxor malis me affecerit,
+(695) Vinum bibendum porrige.
+    Dum mea megoera in me furit,
+Dum blacterat, dum perstrepit,
+[fol. I3r]
+Dum illidit aulam vertici,
+Vinum bibendum porrige.
+    (700) Porrige bibendum largius
+Unum duósve congios,
+Ut mens dolore tabida
+Per Liberum refloreat.
+    Dum flavet in calice merum,
+(705) Dúmve exiluerit poculo,
+Cave modum ne excesseris,
+Gulaeve nimis indulseris.
+    Nam blandius solet ingredi,
+Ridentis instar pueruli,
+(710) At nisi modum servaveris,
+More aspidis momorderit.
+    Si biberis immoderatius.
+Quod gaudio creatum erat,
+Iram, probrum, libidinem,
+(715) Simileisve pestes imbibes.
+    Cui vaeh? cui querela? cui
+Plagae? cui discrimina?
+Viro qui Iaccho deditus
+Studet hauriendis poculis.
+    (720) Mediocritatem igitur tene,
+Ne plus minúsve sumpseris
+Necessitas quàm postulat.
+Extrema enim vitiosa sunt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. I3v]
+
+
+    ACTUS quarti. SCAENA prima.*
+          Iambici senarij.
+     Petriscus.   Meloclopus.  
+            Argyroclopus.
+
+ILla regressa, adibo prefectos meos.
+(725) Planè futurus luce clara acceptior.
+Adeste sotij, adeste amiculi, ostium
+Reserate quàm potestis hoc citissimè.
+Me. Congerro salve. Quid agitur? Sana est cutis?
+Pe. O Meloclope, quod ictibus nates meas
+(730) Laniaverat Didascalus. Qui amabò dic
+Utrique vestrum cum magistro convenit?
+Me. Prorsus nihil. Nam venit huc violenter, ut
+Nos in scholam perduceret, sed lapidibus
+Abactus est. Misit ministros publicos,
+(735) Quibus resistere non valentes, saeviter
+Vincti sumus, tracti sumus, caesi sumus
+Tam immaniter Petrisce, ut hulcerosior
+Nostrum utriusque sit cutis, quàm scabrae ovis,
+Aut omnium qui in compitis stipem rogant.
+(740) Meis medentur clunibus Philochrysium, &
+Sòcia* Philargyrium. Pet. Suavis unctio.
+Me. Quid plura? Uterque scholis renunciavimus.
+Pet. Et ego renunciavero, si cesserit
+Materculae ex sententia. Iam amiculi
+(745) Videte, quîs me dotibus fortunula
+Beaverit. Videte cinnama, zaccarum,
+[fol. I4r]
+Piperque, plurima. Ar. Per Aphroditen plurima.
+Pet. Nondum omnia. Ar. Hui, quid subligaculo erues?
+Per Herculem pecuniam. Me. Pecuniam?
+Ar. (750) Pecuniae (ita me Mercurius amet) satis.
+Pet. Videte nunc. Ar. O Iuppiter, iam caesare
+Beatiores. Aureos philippeos
+Decem video vel undecim. Haec poterunt putas
+Poterunt domi celarier? Pet. poterunt patri.
+Ar. (755) Si illi, sat est. Pet. Haec trado vobis largiter.
+Me. Et nos tibi utram volueris amiculam
+Nostram suaviter. Argyroclope, nos quidem
+Arguimur ignavissimi, si simile nil
+Patraverimus. Ar. Institue quod factum voles,
+(760) Habebis usque me paratum ad omnia. Me. Heus
+Amiculae, Petriscon introducite.
+Tractate comiter, fovete molliter.
+Amate dulciter, dum obambulabimus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA II.
+  Philochrysium.   Philargyrium.  
+             Petriscus.
+
+VIdeon lepusculum meum? passerculum
+(765) Meum? Ades amatorcule, ades. Ecquid stas foris?
+Phila. Ducamus intrò. Ingredere belle amicule.
+Ingredere. Quid vult erui femoralibus?
+Pet. Primum omnium afferri iubete celeriter
+[fol. I4v]
+Treis optimi musti falerni congios.
+(770) Bellos agamus homunculos meae animulae.
+En aureus philippeus. Philo. pulcherrimus.
+Puella ades. Primum introi cum* misero,
+Nam quispiam in vico strepit, ne forte non
+Velis viderier. Pet. Sequor, strepitum audio.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA III.
+
+     Rusticus.   Argyroclopus.  
+             Meloclopus.
+
+(775) PEcuniam mihi tradidit vir urbicus,
+Sed fraudulenti ut plurimum sunt urbici,
+Et rustico imponunt, queant modo commode.
+Iccirco (si sapiam) priusquàm abivero
+Numeranda denuo est, & exploranda si
+(780) Sit iusti (ut inquit) ponderis, monetáque
+Si publica & probata sit. Locus aptus hic.
+Ar. Fortuna iam favet, video pecuniam.
+Me. Nihil inter est inter videre & habere? Ubi?
+Ar. Ubi? Vidés ne stupide stupidum rusticum
+(785) Nummos suos numerantem ad aedes proximas?
+Me. Video, sed an tibi numeret, non sat scio.
+Ar. Numerat mihi, et tibi si velis. Me. volo aedepol.
+Sed quo modo? Ar. Docebo te brevissimè.
+Me. Ausculto. Ar. Iunge te viro, atque cominus
+(790) Affare blanditer. Inde & inter fabulas
+Nummum subduce quemlibet, dein viculum
+Te in dexterum mox proripe. Me. hem. Ar. Sile parum.
+[fol. I5r]
+Sequetur ocyus, sequenti reijce,
+(Si sit necesse) posteaquàm sat alijs
+(795) Abduxeris à nummulis. Me. Rem intelligo.
+Ar. Tace, ego interim tota citus pecunia
+Correpta in hunc vicum sinistrum fugero.
+Uterque facile plaebis in frequentia
+Latebimus. Nunc sine mora ipsum accedito.
+Me. (800) Accedo. Faxit mercurius, ut prospere haec
+Utrique cedat vafricies. Salvus sies
+Probe vir. Tun es Portengius? Ru. non sum quidem
+Portengius, sed Spengius. Quid hoc rogas?
+Me. Portengius Cockengiús ve si fores,
+(805) Per te meis mandare possem amiculis.
+Putás ne iusti ponderis sit hic aureus?
+Rust. Est. Ar. Habet. Rust. Ades. Quo curris improbe? Heus redi.
+Ar. Persequitur in vicum relictis omnibus,
+Iamiam Argyroclope curre, iam tuae vices.
+(810) O Croesi opes. Midaeque gazae amplissimae.
+Quàm multa fors fortuna mi semel aggeris,
+Ut integram hanc pecuniae summam simul
+Nactam, absque furto in pileo sic colligam.
+Recurre iam Argyroclope vicum in alterum
+(815) Move tuos celeres pedes, ne videat, aut
+Te deprehendat Rusticus, cum redierit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+            SCAENA IIII.
+[fol. I5v]
+         Versus tetrametri.
+    Rusticus.   Philochrysium.  
+     Philargyrium.   Petriscus.
+
+EGóne miser? egóne stultus? qui scholastico vago
+Credens, philippum perdidi, meliust redire ad alteros
+Ne simul et illum et hos. Ut omnia evoluta conspicor?
+(820) Heu me miserrimum, deest summarium peculium,
+Basis senectutis meae, atque post labores unicum
+Vitae meae solatium. Quid restat heu mihi misero,
+Nisi triste mendicabulum? O cives miserrimi senis
+Miserescite! Philo. Heus mi vir, quid hoc clamoris ante hoc ostium?
+(825) Quid accidit? Rust. Perij miser. Phil. Quamobrem? Rust. Ego occidi virûm
+Miserrimus. Phi. Quid hoc? virum occidisti? Erat consultior
+Fuga tibi quàm clamor. Rust. Ego non occidi, at occidi miser,
+Mulier, quia ibi desederam paulò prius, pecuniam
+Mei laboris precia numeraturus, adeunt perfidi
+(830) Me nil mali tum suspicantem, duo scholastici (ut autumo)
+Quorum alter (ut blande locutust ) mox philippum surpuit,
+Quem dum fugacem persequor, venit alter, ac totam rapit
+[fol. I6r]
+Vitae meae substantiam. Pet. Τέχν ἀργυροκλόπου νὴ Δία.
+Rust. Quid ais puer? Pet. Te inquam misellum. Rust. Nil profectò certius.
+(835) Sed, quem citabas in tuo sermone peregrino refer.
+Quem tu mihi ἀργυρόκλωπα Quid ridetis? Pe. ὀυ νοεῖ κλοπὴν
+Rust. Quenam Clopa est? Num vestra id actum conscientia? quis hic
+Clopost ? Philo. Abi hinc quadrate, nós ne tuam pecuniam exiges?
+Abi hinc senex delire. Nos scimus tuam pecuniam?
+(840) Pulsate, verberate, trudite procul his ab aedibus.
+Phila. Iaces senex delire? Abi ocyus hinc, vel ad corvos vel ad
+Tua sterquilinia. An tuae pecuniae nos argues
+Fures? Abit socors, et ut meruit luto foedè oblitus.
+O quanta lucra, quanta commoda, opésque mox videbimus.
+Rust. (845) Quid agam, querárve? Quo miser me vertam, opis modo gratia?
+Si ad praesidem confugero, argentum deest, quo iudicis
+Animum in meam sententiam flectere queam. Vadam tamen,
+Si fors meam sortem misertus adiuvet. Quam vera sunt,
+Quae dicta sunt proverbio. Abit in calamitosum illusio.
+Philo. (850) Te subtrahas Petrisce oportet, nam pater cum Gnorymo
+[fol. I6v]
+Redit ebrius domum, amiculos morabimur nos sedulo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        SCAENA V. Septenarij.
+        Galenus.   Gnorymus.
+
+QUid nunc futurum Gnoryme? An domum introgressus, iterum
+Uxoris infoelix caput verberibus obiectabo?
+Malim profectò viro cum fortissimo pugnare
+(855) (Necesse si sit) cominus, quàm in mulierem rixari.
+Gno. Non ibis hac hora. Audies me. Vesperi cum instabit
+Coena, & vocandi iam hospites. stabis meis pro foribus,
+Videbis ultro te vocaverit. Nec alio pacto
+Malam mulierem rectius mollire, quàm contemptu
+(860) Poteris. Ga. Id usque experior: obsequar tibi. Gno. prudenter
+Facis. Docebo te quoque intus pluria. Ga. I, sequor te.
+Ignoro quos utrinque risus audiam obstrepentes.
+Malo fugere dicteria irridentium, quàm verbis
+Revincere ^___________
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA VI.
+Meloclopus.   Argyroclopus.   Megera.
+
+^___________ ARgyroclope nunc argentum habes,
+(865) Quid si meo modo acquiescas suasui,
+Quo illec Megera, quae suos (viden ) advehit
+[fol. I7r]
+Fructus recentes, valeat implanarier?
+Arg. Quonam dolo Meloclope, quave industria?
+Mel. Primum omnium nostra alteremus nomina.
+Ar. (870) Factum puta, tu Simplus esto, ego Duplus ero.
+Quid Simple postea? Mel. Tibi Duple suggeram.
+Licere mala primulum, deinde ubi
+Tibi numeraverit mihí ve plurima,
+Pro crassiore argenteo ostenso voles
+(875) Tibi monetas publicas numerarier.
+Quas ubi dedicit te ocyssime in pedes dabis.
+Mox ego (sequente te Megera) amplissimas
+Stipabo manicas has sinusque vestium
+Sollerter optimis quibusque fructibus,
+(880) Et in angiporto te morabor proximo.
+Arg. Sat est. probe teneo modum quem suggeris.
+Mel. Itaque probe exequamur. ipsa enim suas
+Megera merces ordinat, blande canit,
+Nondum furit, nullusque presto est arbiter,
+(885) Nec alius emptor, erimus acceptissimi,
+Invitat ultro. Meg. Heus heus adeste iuvenculi.
+Parva emite mala odora, mitia, dulcia,
+Aliosque fructus optimos pecunia.
+Arg. Quin exequamur insignis en Ioachimus hic
+(890) Fallet Megera lumina cupidissima.
+Meg. Adeste, quid moramini, aut veremini?
+Mel. Videt pecuniam, ilicet, modo commodum.
+[fol. I7v]
+Ar. Ave Megera. Meg. Avete vos quoque. unde tu
+Me nosti? Ar. Apud Proserpinam te vidimus,
+(895) Cuius videris utrique nostrum filia.
+Meg. Ha ha he. videre tu mihi nequissimus.
+Quo nomine appellabo te vel alterum?
+Ar. Hic Simplus, ego Duplus vocor. Meg. rectissime.
+Quid Duple emes? delectus, est pulcherrimus.
+(900) En poma citra, persica, atque medica.
+En pyra volema, coctana, & nostratia.
+Ar. Quanti simul tibi omnia istec veneunt?
+Meg. Sex omnia haec sestertijs venundabo.
+Arg. Dabo quinque, manicis his meis simul indito. Meg. Hem.
+(905) Nil Simplus hic empturus est socius tuus?
+Ar. Nescio equidem, simplicior est quam aliquid emat.
+Meg. Nulli duplex ero, tametsi simplici.
+Parvi (si emat) venundabo. Tu mercem habes
+Iam solve. Ar. Solvam, & pro sodali cum mihi
+(910) Sestertios pro argenteo hoc numeraveris.
+Meg. Ioachimus est. videbo num tot habuero
+Sestertios. numerato tu. Ar. Hem. Meg. Iam quinque habes.
+Ar. Iam quinque, iam decem, cito. Meg. Hem. Arg. Iam quindecim,
+Iam quindecim. Meg. Iam bis decem nebulo Arg. A ha he.
+[fol. I8r]
+Meg. (915) Hem, quinque adhuc, reliquum meust . Ar. Quinque addito,
+Quo commode hoc pro simplici solvam duplex.
+Meg. Accipe duplex hos quinque adhuc. simplex quid hic
+Empturus est? Mel. Quod hic voluerit solvere.
+Arg. Solvam unicum sestertium. tu delige.
+Mel. (920) Minime, sed ipsa det mihi. Meg. Hem. Arg. Quis me vocat?
+Mel. Nescio. Me. quo abis? heus tu mihi Ioachimum adhuc
+Non tradidisti, sed meas merces mihi &
+Sestertia triginta abstulisti subdole.
+Mel. Sequere, fugit. Me. Non sic tamen me effugerit.
+(925) Serva puer bellaria haec. sta fur fugax.
+Mel. Servabo (ut inquit) & κλοπήσω; singula.
+O Mercuri suffecerint bellaria
+Haec in dierum hebdomadas ampliter duas.
+Recte suis Megera rebus consulit,
+(930) Curanda quòd sua mala Meloclopo dedit.
+Iam sat probe suffarcinatus, me ocyus
+(Si sapio) in hunc recipio vicum dexterum.
+Quòd in sinistro iam furentis maximè
+Strepitum Megerae exaudiam. ^___________
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA VII.
+            Megera sola.
+
+^___________ SImplex puer
+[fol. I8v]
+(935) Ubi Simplus est? ubi reliqua sunt bellaria?
+Simplus duplex (ut suspicor) ea surpuit.
+O Utinam & hunc dolosum & illum stringerem,
+Quo unguibus eos & dentibus discerpam, ad haec
+Carnes cruentas devorem. Si qui mala
+(940) Vel hactenus dixere de scholasticis,
+Dicúnt ve nunc, vel postea dicturi erunt,
+Ego pessima loquor per Iovem, & subscribo eis.
+Furens relicta rheda adibo praesidem.
+Ut conquerar super irrogata iniuria.
+(945) Hoc ganeum scholasticum gregem enutrit.
+Et prorsus execrandus est praeceptor is,
+Qui hos tenebricones non flagellat indies.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        SCAENA VIII. Septenarij.
+    Philochrysium.   Philargyrium.  
+       Meloclopus.   Argyroclopus.
+
+QUid habet Megera? Assunt amiculi. Petrisce caveto,
+Ne prodeas, nondum pater patriam domum introivit.
+Mel. (950) Cur nam sequenti (ut iusseram) numisma non reddebas?
+Ar. Reijcerem egóne Philippeum tam splendidum? nequaquàm.
+Mel. Si redderes minus foret periculi tibi primum.
+[fol. K1r]
+Quia unde te accusaret haud haberet, praesidi. Atqui
+Me (ut suspicor) non viderat. Ar. me accuset, obtrudatque
+(955) Me praesidi, meliust tenere quam abijcere philippum.
+Eccas amiculas, forem observant, mora nulla ne sit
+Nobis revertentibus. Phi. adeste cito, mora in periclost .
+Mel. Quid nunc? ut estis timidae, ut estis scrupulosae? mente
+Amantem oportet esse libero. Phi. Profectò oportet.
+(960) Fortuna ut arrisit? fuit secunda? Me. Nunquam melior.
+Croesi adfero ingenteis opes. Phi. dic serio mi amice,
+Num rusticum expoliastis? Me. Hem, quid rusticum? pol nugae.
+Quid huius in mentem venit? Philo. miris modis turbavit
+Iam rusticus (nescio quis) hanc nostram familiam amoenam,
+(965) Et liberam, duobus implanatum ait sese esse
+Nebulonibus. Phila. Scholasticis. Phi. quem (ut par erat) trusumque
+Caesumque disturbavimus. technas Petriscus vestras
+Certo autumat. Ar. Ha ha he. Phil. Quis hic risus (quod aiunt) plus quàm
+Sardonicus? Me. mea unica Philochrysium te dono
+[fol. K1v]
+(970) Hoc munere aureo. Ar. Duplóque te Philargyrium hocce
+Argenteo donabo munere. Intrò iam properemus.
+Sortémque nostram inter caliculos planius recitemus.
+Properemus inquam, utrinque nanque in viculis fit strepitus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        SCAENA IX. Trimetri.
+Sycasta.   Praetor.   Satellites. 3.
+
+MIranda sunt, si quae feruntur vera sunt,
+(975) Meloclopi atque Argyroclopi de fraudibus
+Nisi tempori his praetor malis occurrerit,
+Paulatim in omnem proruens licentiam.
+Quapropter illi haec suggerenda censeo, &
+Capienda si qua mihi ferantur commoda.
+(980) Et commodum, se Praetor ipsus ingerit.
+Sa. Te heros Sycastes ultro conventum petit.
+Prae. Moremur, hoc cum homine mihi est negocium.
+Sa. Delator in casses tuos feram inferet.
+Sy. Salve domine Praetor. Prae. Sycasta salvus es.
+(985) Nihil novi. Sy. Parum. Prae. Parum refer. Sy. Nihil
+Tibi proditum de Meclopo & Argyroclopo?
+Prae. Certi nihil. Qui sunt ij? Sy. Adulescentuli
+Pol omnium, quos terra habet, nequissimi,
+Qui fraude passim quoslibet.
+(990) Qui vina, carnes, mala, pyra dolo auferunt.
+Modóque ferunt aes abstulisse rustico.
+[fol. K2r]
+Sed & Megerae praeter aes* bellaria.
+Prae. Modo? Sy. Modo, fama publica est. Prae. Sed quo modo?
+Sy. Nisi sit onerosa nostra tibi prolixitas,
+(995) Quod fama fert modo publica, tibi suggeram.
+Prae. Prolixitatem nec locus nec tempus hoc
+Patitur, in auditorio dicturus es.
+Sed ubi latere modo putas latrunculos?
+Sy. In ganeo se aliquo retrudunt suspicor.
+(1000) Nam è ganeo ferunt eos Didascalo
+Iam per ministros publicos contraditos.
+Prae. Hem. Sy. Vapulasse. Pre. quid ergo? sunt scholastici?
+Sy. Fuere, sed puto iam abdicatos litteris.
+Prae. Vade. experire, deinde mox domum meam
+(1005) Revertere. Sy. Faciam quidem non segniter.
+Prae. Vade cito. Dum ferrum calet, cudendum erit.
+Paulùm moratus mox domum revortero.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+              SCAENA X.
+             Septenarij.
+Rusticus.   Praetor.   Satellites. 3.
+
+ME miserum, ut infortunia infortunijs succedunt
+Hunc circiter locum miser pecunijs meis spoliabar,
+(1010) Hic vapulabam, & in cloacam deprimebar insons.
+Et hactenus quaerendo susque deque praetorem, adeò
+[fol. K2v]
+Tandem fatigatus sum, ut hiscere vix queam ad loquendum.
+Sed eccum, adest cinctus caterva militum suorum.
+Adibo. Reddat hunc mihi Deus pium, mansuetum, &
+(1015) Tractabilem. Prae. quid vult sibi villanus ille? Adesto.
+Sa. Procede, ades pagane. Quid tibi negotij? Adsis.
+Rust. Volo, sed pudore deferor. Sat. Minus pudendum. Accede.
+Praet. Ne sternere, at causam tuam explica absque pavore.
+Rust. Heu domine praetor hoc die, hac in urbe, in hac platea,
+(1020) Pecuniam, quam pro laboribus meis immensis
+Paulò prius receperam, tota miser spoliatus
+Sum. Prae. Quo modo? Num astu dolóve? manibus aut violentis?
+Rust. Si me audiat dominus meus, brevi admodum sermone
+Actum exposuero, neutiquàm violentiam. Praet. Proferto.
+Rust. (1025) Dum nummulos meos recenseo, venit adolescens
+Scholasticum quem suspicabar, comitérque locutus
+Mihi primulum, rapit illico imprudenti (ut autumo) unum
+Philippeum, fugitque. Quem dum nitor assequi, mox
+[fol. K3r]
+Me paululum abducto venit sodalis (ut conijcio,
+(1030) Quàmvis prius non viderim) & tollit simul mihi omnem
+Mi domine residuam pecuniam. Prae. Quis ausit isthuc
+In urbe libera? Quid hoc? Rust. Sic actum. Prae. eum describe,
+Quem videras. Rust. Pulcher, agilis, comáque cincinnatus,
+Non admodum procerus, at rubente tunica indutus
+(1035) Nigróque pileo caput velatus. Prae. Hem, venabor
+Si quo modo hos queam duos prehendere nebulones
+Et perdere. Rust. Ecquid proderis misero impios perdendo,
+Si non, quod abstulere, eidem reddier curaris?
+Etsi quidem mi domine agricola sum rudis, bardúsque,
+(1040) Novi tamen debere te tantum iuvare oppressos,
+Quantum opprimentes plectere. Sat. Intulit probè mehercle.
+Prae. Quid efficere queam, nisi exhibeas mihi nocentes.
+Rust. Scrutetur hanc dominus meus domunculam, fortassis
+Pecuniae meae indices, furésve deprehendet.
+Praet. (1045) Quo nixus argumento id autumas? Rust. Meam dum sortem
+Flerem miser miserabilem, hac domo exeuntes ipsa
+[fol. K3v]
+Hora duae mulierculae, scholasticus quoque procax,
+Illudere meam calamitatem, opprobrióque affectum
+Abigere, cum nonnulla mihi de illis foret suspicio.
+(1050) Et nescio quos mihi Clopos, quas mihi Clopás ve ludens
+Graecè puer memoraret. Praet. Hem, secede paululum, sed
+Hinc longius ne abito. Abi. Satel. Per Herculem, Argyroclopus hic
+Est, alter & Meloclopus, qui similibus tibi heros
+Sceleribus accusati erant Sycasta deferente
+Prae. (1055) Apparet. Ostium crepit, videte quis prospiciat.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA XI.
+              Trimetri.
+    Argyroclopus.   Satellites.  
+        Rusticus.   Praetor.
+
+VIdebo si tutus Petrisco transitus
+Hinc ad parentes pateat. Hui, quid Praetor hic?
+Sa. Hic est profectò domine, quem iam Rusticus
+Depinxerat. Se substrahit. Rust. Vidistin hunc
+(1060) Qui prodijt? Profectò is est, qui sustulit
+Philippeum, reliquíque furti conscius.
+Prae. Properate vos, irrumpite, & producite
+Totam familiam. Fortiter. Sa. Parebimus.
+Aperite. Dissimulant. At introrumpimus.
+(1065) Prodite vos, prodite. Praetor vos simul
+[fol. K4r]
+Vult convenire. Rust. Timeo fortioribus
+Aut pluribus tres non queant resistere.
+Clamant, fremunt, tumultuantur, obstrepunt.
+Res salva, plorant, deprecantur exeunt
+(1070) Manicis revincti ferreis, trepidique eos
+Sequuntur improbus puer cum foeminis.
+Quid nunc futurum? Quid spei mihi reliquum?
+Prae. Caedantur haec prostibula colaphis, at alios
+Tres in phylacam puniendos ducite.
+(1075) Tu sequere, reddetur tibi pecunia.
+Rust. Denuo renatus videor. Hinc actus tuos,
+Mores tuos heroicos, clementiam, &
+Prudentiam laude efferam dum vixero.
+Prae. Non hoc requiro. Sequere me in praetorium.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA XII.
+Megera.   Praetor.   Satellites tres.
+
+(1080) HEus praetor, heus. Prae. Quid sibi Megera nunc volet?
+Meg. Horum duos experta sum nequissimos,
+Furesque versutissimos. Pr. Quosnam duos?
+Mege. Simplum Duplumque. Praet. Nullus est qui vel Duplus
+Vel Simplus appellatur. At Megera quid
+(1085) Furti patrarunt? Num tibi mala aut pyra
+Dolo involarunt? aut quid est similis rei?
+Meg. Pyra, poma, multa & id genus bellaria, &
+[fol. K4v]
+Quod maximum, meam ipsius pecuniam.
+Prae. Etiam tuam pecuniam? Meg. Pecuniam
+(1090) Nequissimi. Suspende eos cum tertio
+Quem & ipsa dudum comperi nequissimum.
+Sat. Latet hic dolus, nam sunt ijdem. & nomina
+Astu sua invertere, ne cito quispiam
+Se deprehendat noxios. Prae. Considero.
+(1095) Nos sequere cum sene rustico in Praetorium,
+Quo latius causae modumque & ordinem
+Mihi explices, & recipias pecuniam.
+Meg. Pecuniam si recipiam, furta reliqua
+Aequanimius toleravero, modo laqueo
+(1100) Videro necatos facere longas litteras.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        ¶ CHORUS Iambico dimetro.
+
+[muziekbalken]
+OBoediendum praecipit
+Tum sacra tum profana lex
+[fol. K5r]
+Principibus & senatui
+Qui plaebi honeste praesident.*
+    (1105) Non modo pijs, clementibus
+Probéque praesidentibus,
+Sed & improbis & dyscolis
+Est obsequendum satrapis.
+    Nam omnis potestas à Deo est,
+(1110) Quaéque à Deo, ordinata sunt.
+Itaque potentibus obstrepens,
+Dei resistit ordini.
+    Hi dirigunt rem publicam,
+Rebúsque privis consulunt.
+(1115) Sine his nec usquàm tutus est
+Nec in urbe nec in agro locus.
+    Hi pauperis, viduae, orphani,
+Inopisque causam vindicant,
+Hi rusticos innoxios
+(1120) Servant, perdúntque noxios.
+    Per hos sacris sub aedibus
+Ritus sacrorum permanent.
+Per hósque leges publicae
+Vigent ubique gentium.
+    (1125) Quid Core, Dathánque perdidit?
+Quid Abessalom, quid Bochriden,
+Nisi insolens in principes
+Gentis suae arrogantia?
+[fol. K5v]
+    Te itaque magistratum decet*
+(1130) Venerari honore debito.
+Quod Caesari ipse praestitit
+Christus, suisque tradidit.
+    Ne dum Iovi recalcitres,
+Iaculato ab axe coelico
+(1135) Cum immanibus gygantibus
+Pereas trisulco fulmine.
+
+                     Continue
+
+     ACTUS quinti. SCAENA prima.
+          Iambici trimetri.
+  Gnorymus.   Galenus.   Liturgus.
+
+PUtavimus pro foribus his bacchantium
+Pugnas fuisse, iam nihil tumultuum.
+Prodi foras Galene, nugemur foris.
+Gal. (1140) Perterruit profectò me quoque strepitus.
+Sed iam quid uxor incipit? Mandata dat
+Liturgo ab ostio. Gno. Ut quidem antè dixeram,
+Te revocat ultro, non ferens absentiam.
+Li. Me iussit hera quaesitum abire herum meum, &
+(1145) Gnatum suum, quos ubi modo inveniam haud scio.
+At herus ad aedes Gnorymi iucundus est.
+Gn. Num te petit? Quid dixeram? Ga. Men vis puer?
+Lit. Te rogat hera, ut quam ocyssimè venias domum,
+Quòd hospites vocandi, & alia in aedibus
+(1150) Prius ordinanda sint quàm coenites.
+Rogátque serio honore pro domestico,
+[fol. K6r]
+Iniuriae sis immemor. Gno. Quin me rogat?
+Lit. Quid te roget? Gal. Ut iniuriae sit immemor.
+Lit. Cuius? Gal. Ha ha he. Lit. Non capio. Gno. Abi, venturus est.
+(1155) Res mitiganda est vesperi. Gal. Dic me adfore
+Post horulam. Gno. Nonne id tibi praedixeram?
+Obsequere nunc, vehementius cras argue.
+Gal. Stat acquiescere. Heus adesto vesperi.
+Gno. Adero, bene est. Venit uxor obvia mitior.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA II.
+        Misandra.   Galenus.
+
+(1160) VEreor virum affectum mea esse iniuria,
+Quòd & absque iusta causa eum ceciderim.
+Nam traditis meis Petrisco clavibus
+Periere cinnama, piper, & omne zaccarum.
+Verum omnia haec celanda prorsus sunt ei,
+(1165) Ne habeat quibus firmet etiam partes suas,
+Adest, benignius alloquar. Morata sum
+Te mi vir hactenus tua indigens ope,
+Prudentia, atque industria. Veni igitur, ut
+Et singla disponamus ad convivium,
+(1170) Et aureos tribuas duos, quibus piper
+Et zinziber, cum zaccaro mihi comparem.
+Gal. Hui, rursus aureos duos? Aromata
+Nondum priora absumpta credidi. Quid est
+Quod ipsa eam pecuniam non ceperis?
+[fol. K6v]
+Mi. (1175) Id hactenus tentare nolui, ut ipse scis,
+Ne oriatur inter nos aliqua suspectio.
+Ga. Sequere intrò, ut accipias, emasque tempori.
+Mi. Praei, sequar. Pro filio sollicita sum,
+Ne forte* bacchanalia, pariant ei (ut
+(1180) Usu venit) aliquid mali, aut periculi.
+Eccum, redit Liturgus, at sine filio.
+Id quod facit multo magis iam me anxiam.
+Gal. Uxor. Mi. Quid occipit? Gal. Uxor. Mi. Hem, quid clamitas?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA III.
+ Liturgus.   Misandra.   Galenus.  
+              Lorarij.
+
+PEr cuncta compita, fora, sphaeristeria,
+(1185) Tandem in scholam regressus illum quaerite[??/o]
+Petriscon, & frustra fatigatum manent
+Me forte verbera, quòd domum non duxerim.
+Aiunt sodales accitos iam praesidi. Hui,
+Quid turbae in aedibus? Quid audio miser?
+(1190) Quae furta mihi tandem imputant innoxio?
+Mi. Adest, cui tua credidisti omnia, adeò
+Ut propter hunc neque parceres gnato tuo.
+Huic (freta nempe tua fide) claves meas
+Iam credidi. Hic furti reust . Hic in aedibus
+(1195) Solus moratus est. Gal. Ades trifurcifer,
+Cui tanta credidi, tot aureos mihi
+Semel auferas? Li. quot aureos? Mi. Numerum rogas
+[fol. K7r]
+Nequissime? Lit. Ecquos aureos? Ego innocens.
+Gal. Tu plus minus mihi viginti es aureos
+(1200) Furatus. Lit. Id here sobrius non dixeris.
+Gal. Tibi ebrius nefande videor? Reddito
+Celeriter id quod eruisti scrinio.
+Lit. Iuro Iovem optimum, supremum, maximum,
+Nil me tui attigisse furti gratia.
+Mi. (1205) Respice marite. Commodum, en lorarios,
+Adducier iubeto vinctum praesidi, ut
+Examinatum, praetor in cruce, puniat.
+Lit. Me praesidi? Me praetor in cruce puniat?
+Mi. Te praesidi. Li. quid commerentem? Ga. adeste vos.
+(1210) Propter rei domesticae furta, & alia
+Crimina, scelestum hunc rapite. Lo. Quonam ducimus?
+Gal. Ad praesidem, quo Praetor ipsum examinet
+Tantisper in suo equuleo, dum dixerit
+Quantum abstulit, quo gessit, & quam crebriter
+(1215) Patravit. Lit. Heu, me innoxium? Ga. Hunc in noxium
+Inijcite vos manus. Lo. Renitaris licet,
+Nobiscum adibis Praesidem. Gal. Sublimem eum
+Rapite. Quid estis frigidi? Lo. Nos frigidi?
+Quid nunc videmur? Gal. Acriores. Tollite.
+(1220) Ego vos sequar. Lit. Vestram fidem cives boni,
+Vestram fidem, succurrite, haec fero innocens.
+Gal. A Gnorymo crepit ostium, morabor hunc.
+Tu vade coniunx, redime quod necesse erit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. K7v]
+
+
+              SCAENA IIII.
+    Gnorymus.   Galenus.   Rusticus.
+
+UT habent negotia mi Galene? Gal. Pessimè.
+Gno. (1225) Agiturne res uxoria tibi denuo?
+Gal. O Gnoryme, omne peculium mihi famulus.
+Quem credidi prorsus fidelem, dissipat.
+Iam praeter alia, nescio & quot aureos
+Furto abstulit. Gn. Quid ais mihi? Ga. furto abstulit.
+Gno. (1230) Liturgus? Gal. Ipsus. Gn. Neutiquam speraveram.
+Gal. Videor mihi omnium facile miserrimus.
+Uxor procax, gnatus rapax, furax puer.
+Venit ferè ad restim negotium meum.
+Gn. Quid ipse? Ga. Constanter negat, quare accitis
+(1235) Lorarijs adactus est ad praesidem.
+Gno. Is iustus est, usque ad quadrantem extorserit,
+Reddètque. Fidito. Quid hic senex ovans
+Recenset? Heus senex quid agitur in foro? Rust.
+Furtum. dolus, periurium. Gno. Isthaec vetera sunt.
+Rust. (1240) Expertus ipse sum novissima. Gno. Hem senex
+Qui expertus es? Rust. Pecuniam mihi dolo
+Duo abstulere perfidi scholastici.
+Veruntamen cum tertio, qui quoque suis
+Parentibus aliquot aureos subtraxerat,
+(1245) Vincti simul servantur (ut puto) crucibus.
+Valeant, meam mihi reddidit pecuniam
+Aequissimus Iudex. Gal. Quis isthic tertius?
+[fol. K8r]
+Ru. Novi Meloclopum & Argyroclopum, tertium
+Puerum quidem non noveram. Gal. Liturgus est.
+Rust. (1250) Hic servus est, adductus ultimo innocens.
+Ga. Tun innocentem dixeris? Rust. Ego dixero,
+Quia captus antè parvulus furti reust 
+Gn. Vale senex. Ga. O Gnoryme, ô quantum vir hic
+Amaritudinis incutit mihi scrupulum.
+(1255) Hic filiust . Gno. Vereor egoipse plurimum.
+Gal. Is ipsus est, indicia multa congruunt.
+Perij miser. Quin ense coniugem meam
+Sexenties non interim, quae fuit
+Una autor huius Tragoediae? Hei mihi.
+Gno. (1260) Animaequior sis mi Galene, forsitan
+Periculum non tantum erit, quantum imminet.
+Accurrit uxor; cave mali quicquam inferas.
+Cave graves grave gravioribus malis.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                SCAENA V.
+   Misandra.   Galenus.   Gnorymus.  
+                Nuncius.
+
+HEu nos miserrimos. Galene filius
+(1265) Vinctus teneri dicitur, cruci quoque
+Adiudicandus. Ga. Impijssima mulier,
+Stultissimàque, nunc ne innocens est filius?
+Vides modo quid agit indulgentia? Mi. Heu,
+Sero sapio mi vir, sero sapio nimis.
+Gno. (1270) Stet iurgium, videte si redimi queat.
+Gal. Quid consilij vicine? Gno. Sollicita cito
+[fol. K8v]
+Siquos habes notos amicos Praesidi,
+Ut antequàm pronuncietur, obvient.
+Mi. Accedit huc (quis nescio) celeri gradu.
+(1275) Moremur hunc. Nun. Aiunt Galenum in hoc loco
+Morarier, cui traderem has epistolas.
+Ga. heus bone adulescens, ego Galenus: quid agitur?
+Nun. Has litteras geminas Petriscus filius
+Tuus unicus mittit, vide celerrimè
+(1280) Quid continent. Gal. Aperito eas ô Gnorime,
+Ut perlegas. Gno. Ne fle, priores has tibi
+Scripsit. Didascalo dabuntur alterae.
+Audito nunc. In mortis horrendae ultimo
+Positus pater discrimine, oro & obsecro
+(1285) Clementiam tuam, ut adiuves me & eruas,
+Si quo modo fieri queat. Cum cernerem
+Matris meae nimiam per indulgentiam
+Vitia fore impunita, per licentiam
+Quicquid libebat, id licere credidi.
+(1290) Quicquid domi surripere quiveram dolo,
+Ad improbos meos sodales, cum quibus
+Et ipse sum in furto prehensus, transtuli.
+Ego mi pater tuam pecuniam abstuli,
+Culpam in Liturgum transferendam callidus
+(1295) Putaveram, verum Deus pius arbiter
+Quo innoxium servet, prehendit noxium.
+Nunc itaque clementissime pater obsecro,
+[fol. L1r]
+Ut alteras has litteras sine remora
+Supplex meo tradas Didascalo, quia
+(1300) Nisi ille servet, de meo iugulo actum erit.
+Vale. Igitur accelerato opust . Aditedum.
+Gal. Eamus itaque, ut tradita hac epistola, ad
+Clementiam flectere queamus supplices.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+               SCAENA VI.
+  Misandra.   Galenus.   Didascalus.  
+                  Puer.
+
+QUisnam Deus dabit hunc virum mihi propitium,
+(1305) Quem tam improbè insectata sum convitijs?
+Gal. Vir obviust Tu prorue, & supplex roga
+Crimen remitti, quod in eum commiseras.
+Did. Salvete vos. Quid tristior solito tuus
+Galene vultus est? Quid uxor lachrymat?
+Gal. (1310) Supplex rogat sibi remitti crimina,
+Quae in te procaciter nimis commisit. Did. Hei,
+Surgat, facile remisero, etiam pluria.
+Mi. Mei misereat te magister optime,
+Quae oculus meos ad te levare indigna sum,
+(1315) Sine te tamen mulier ero perditissima.
+Did. Ades, bono sis animo, ades, parce lachrymis.
+Quid habes? G. lege ô praeceptor hasce litteras. Di.
+Graecásne? cuius nam? Gal. mei heu. Did. quid lachrymas?
+Gal. Gnati. Did. Petrisci? Ga. Perditi. Did. Hem, lege hanc puer.
+[fol. L1v]
+Pu. (1320) Καλῷ Διδασκάλῳ πετρίσκος ἐυπραγεῖν
+Διδάσκαλ ἓνεκά μου δόλων ἀνάξιος*
+Θαῤῥῶν ὃμως σῇ χρηστότητι ἔμφύτῳ
+῾Ικετήριός σου δέομ ὑπὲρ ζωῆς ἔμοῦ,
+῾Ώς χρησάμενος ἔξουσίας σχολαστικῆς.
+(1325) Ρύσῃ με ταχὺ παρόντος ἀπὸ τοῦ κινδύνου*
+Σταυρώσεως, ᾧ δι ἔμὰκλέμματ ἔνέπεσον.
+ὃτι οὐκ ἔάν σώσῃς με σὺ, ὃσον οὐδέπω*
+περὶ μου πέπρακται τῆς δέρης καὶ τοῦ βίου.
+῎Αρ ἔλθε λιπαρῶ ταχύτερον, ῥάβδῷ τέ με
+(1330) ῎Εξαιρε, πρίν μ ἀπολέσθαι αἰσχίστῳ μόρῳ.*
+῎Εῤῥως , ἔπιστάτα πρευμενέστερε. Did. δός. Puer. λαβέ.
+Did. Miseret profectò me utriusque, & filij.
+Verum quid hic auctoritas nostra valeat?
+Contrá ve îura quid mea ferula praesidis?
+(1335) Id est Misandra mane quod tibi dixeram.
+Mi. Nil praeter iram & contumeliam (palàm
+Loquor) ego merui. Flectere misericordia.
+Did. Quid Graeca quàm Latina scribere maluit?
+Gal. Quo te (reor) mage flectat eruditio. Heu.
+Pu. (1340) Moveant magister te tam amarae lachrymae, &
+Gemitus parentum. Moveat eruditio.
+Moveat quoque puerilis aegra infirmitas.
+Se corriget puer, tuásque perpetim
+Miserationes praedicabit plurimas.
+Did. (1345) Audi Galene. Vester (ita Deus me amet)
+[fol. L2r]
+Et sum & futurus sum, quid autem per meam
+Queam obtinere auctoritatem, nescio.
+Eamus, antequàm antevertat nos gravis,
+Severa & irrevocabilis sententia
+(1350) Iudicis. Ades puer ocyus, gere virgulam. Pu. Hem.
+Gal. Praetoris optimi Ioves animos parent,
+Ac mitigent, quo facilius nos audiat.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA VII.
+   Iudex.   Satelllites.   Fures.
+       Didascalus.   Parentes.
+
+NUnc hora serior, diesque occiduus est.
+Producite impios, ut extremam suis
+(1355) Pro sceleribus sumant palàm sententiam.
+Sat. Parebimus. Did. Iudex tribunal occupat.
+Mi. Heu! Did. Prodeunt rei. Accidetis supplices
+Praetoris genibus. Heus, ut est Misandra? Ne
+Time. Galene tene labantem coniugem,
+(1360) Res salvae erunt. Iu. Consistite. Me. Heu miserrimos
+Fures. Arg. Itáne nos separas amara mors?
+Pet. O quis Deus poli, solive mihi puero
+Miserabitur? Num mihi pater, num mater est?
+Maledicta furta, quae me in haec necis trahunt
+(1365) Discrimina. O parvi greges scholastici,
+Parete praeceptoribus vestris. Cavete
+Ab his quoque impurissimis sodalibus.
+Hi in crimina, hi in vincla, hi in necem induxere me.
+[fol. L2v]
+Iud. ῝Αλις λόγων. Quis hic irruit temerarius?
+Did. (1370) Iudex tremende tibi, tribunalique huic
+Foelicitatem & aequitatem usque imprecor.
+Verum hunc puellum tum parentum lachrymis,
+Tum aetate tenera, tum scholastico meo
+Pro vetere privilegio, primum rogo,
+(1375) Dein impero, mihi corrigendum creduas.
+Discipulus est meus, meae quoque ferulae,
+Nondum tuis Praetor subactus legibus.
+Iu. Tun es scholae nostrae didascalus? Di. Ego sum.
+Iud. Partem alteram aequitatis esse te arbitrans,
+(1380) Iuri meo iam cessero. Verum amodo
+Cave puer manibus meis prehendier.
+His iudicatis, dabo parentibus suum
+Mancipium, & aurum residuum quod abstuli.
+Did. Ago gratias tibi Praetor (ut queo) maximas,
+(1385) Nostraque si uti opera velis, rursum impera.
+Iud. Quin hos quoque eximis? An ne & hi duo tui?
+Did. Non sunt, fuere aliquando, sed rei vale
+Dixere litterariae. Et ferulae meae
+Uterque subduxere iam manum suam.
+(1390) Veni puer. Iudex, tuam rem perfice.
+Pet. Venerande praeceptor, quid unquam pro his tibi
+Digne rependero? Did. Tace, poteris quidem,
+Sed moribus correctioribus. Veni,
+Ut corrigaris more pro scholastico.
+[fol. L3r]
+(1395) Nummis receptis nos parentes sequimini.
+Gal. Sequimur, magister, pereat haec pecunia.
+Did. Recipite. Iudici referte gratiam.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+              SCAENA VIII.
+  Iudex. Fures.   Satellites. Parentes.
+                Lorarij.
+
+TUrbavit hoc nobis tribunal paululum
+Didascalus. Nunc propius adducantur huc
+(1400) Iuvenes nefarii. Fu. Heu, salus nulla reliqua est.
+Sat. Utrumque iudex noxium vides Iud. Bene est.
+Sa. Adeste cuncti, state, taciti advortite,
+Pronuncianda novissima est sententia.
+Iud. Quo civitas sit nostra pestilentibus
+(1405) Et improbis semper viris liberrima,
+Hos deprehensos in scelestis actibus,
+Furto, dolo, rapina & id genus aliis,
+Et morte dignos iudicamus, & antequàm
+Sol occidat, laqueo necandos in cruce
+(1410) Pronuntiamus. Tuba sonet. Persequimini.
+Educite. Sa. Exsequemur. Fu. Heu clangor tubae.
+Iud. Lorarii, Liturgon absolutum hero
+Reducite & gnato aureos quos abstuli
+Parentibus restituite. Lo. Hem, parebimus.
+Par. (1415) Te semper optime Praetor, & laudes tuas
+Nos praedicabimus, dieque crastini
+Grati erimus hac super tua clementia.
+Iud. Iamiam sat est gratatum, abite ad liberos.
+[fol. L3v]
+Sa. Hic verna & hic est residuum pecuniae.
+Par. (1420) Ades Liturge, affecimus te iniuria,
+Verum bonis potioribus pensabimus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             SCAENA IX.
+Didascalus.   Petriscus.   Parentes.
+        Liturgus.   Gnorymus.
+
+COrrectus es Petrisce multo mitius
+Quàm si cruci suffixus esses debitae.
+Nunc itaque mores atque studia corrige.
+Pet. (1425) Correxero, praeceptor, atque gratiam
+Olim tibi (si modo parentes neglegant)
+Rependero. Did. Mox procidens parentibus
+Veniam roga. Dein pro Liturgo interveni,
+Ut liceat esse libero, qui pro tuis
+(1430) Facinoribus coniectus est in vincula.
+Adsunt parentes. Mi. O Petrisce, quis malis
+Adegeras te, me, & patrem tuum optimum.
+Pet. Ignoscite hanc mihi parentes noxiam.
+Non amodo commisero. Par. Hanc ignoscimus.
+Did. (1435) Bene facitis. Pe. Adhuc est, pater, quod te rogem.
+Ob mea facinora pessimé Liturgus hic
+Affectus est, rogo, liceat esse libero.
+Did. Profectò meritus est. Gal. Liturge te manu
+Mitto. Lit. Habeo gratiam. Ga. Optime nunc omnibus
+(1440) Praeterque spem cedentibus reliquum diem
+In requie agamus, atque honesto gaudio.
+[fol. L4r]
+Tu primus adsis author huius gaudij
+Didascale. Di. adero. Ga. Et adsit inde Gnorymus
+Vocetur huc. Lit. Heus Gnoryme. Gno. Hem recta omnia?
+(1445) Hoc est quod opto maxime. Ga. Foelicius
+Mihi cessit ac speraveram. Iam nostro ades
+Convivio. Gno. Licet. Gal. Praei uxor. Sequimini.
+Vobis nihil profecto spectatoribus
+Hic coximus, quapropter ijs, quae vos domi
+(1450) Parastis, hinc recedite ut vescamini.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           SCAENA Ultima.
+        EPILOGUS PER GREGEM.
+
+SPectator asta paulùm adhuc spectaculo,
+Ut audias quid in tuam rem effabimur.
+Discat pater per hanc modo actam fabulam,
+Ut liberos suos rebelles corrigat.
+(1455) Discátque mater ne per indulgentiam,
+Se inhonestet, & corrumpat ipsum filium.
+Vos quoque scholastici greges, intendite
+Vestris & auscultate praeceptoribus,
+Ne post rebellionem, & alia pluria
+(1460) Flagitia, tandem crucibus adnectamini.
+Vestrum proinde quisquis oblectatus est,
+Musis faveto, gregique nostro plaudito.
+
+              FINIS.
+
+                     Continue
+
+       Tekstkritiek:
+
+vs. 61 num er staat: nnm
+vs. 195 vel er staat: nel
+vóór vs. 207 sprekersaanduiding toegevoegd
+vóór vs. 287 secundi er staat: secuudi
+vóór vs. 301 Argyroclopus er staat: Agyroclopus
+vs. 364 defuit er staat: desuit
+vs. 552 Quanta er staat: Quata
+vs. 584 Dementiae er staat: Damentiae
+vs. 633 stolidissimum er staat: stolidissimnm
+vóór vs. 724 SCAENA er staat: SCANEA
+vs. 741 Sòcia er staat: Sòcij
+vs. 772 cum er staat: tum
+vs. 992 aes er staat: es
+vs. 1104 plaebi er staat: phaebi
+vs. 1129 decet er staat: docet (evenals in de uitgave van 1536)
+vs. 1179 forte er staat: ferte (evenals in de uitgave van 1536)
+vs. 1321 ἀνάξιος er staat: ἀνυξιος
+vs. 1325 παρόντος er staat: παρόνος
+vs. 1327 οὐδέπω er staat: οὐδέτω
+vs. 1330 αἰσχίστῳ μόρῳ er staat: αίσχίστῳ μορῳ
+
+
+  • Macropedius 12 toneelstukken
+  • Ceneton
+  • Heinsius-verzameling
+  • Voorkeurenpagina Opleiding Nederlands
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

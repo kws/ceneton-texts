@@ -1,0 +1,2537 @@
+[Dutch]
+
+Nil Volentibus Arduum: Andromache. Amsterdam, 1678.
+Naar Andromaque (1667) van Jean Baptiste Racine
+Uitgegeven door drs. P. Koning en drs. G.C. van Uitert.
+Red. dr. A.J.E. Harmsen, Universiteit Leiden.
+Ceneton063590 - UBGent
+In deze uitgave zijn evidente zetfouten gecorrigeerd en gemarkeerd met een
+asterisk.
+
+
+                       Continue
+
+[p. 1]
+
+                      ANDROMACHÉ,
+
+                      TREURSPÉL,
+
+         Uit het Fransch van den Heer RACINE.
+
+            [Vignet: Nil Volentibus Arduum]
+
+                     Te AMSTERDAM,
+
+         By ALBERT MAGNUS, op de Nieuwen Dyk,
+                  in den Atlas, 1678.
+
+                    Mét Privilegie.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 2: blanco]
+[p. 3]
+
+                      Aan Mêvrouw
+
+                   ANNA MARIA TRIP,
+
+                       GEMAALIN
+
+                     Van den HEER
+
+                   WOUTER VALKENIER,
+
+                 Sékreetaris der Stad
+
+                      AMSTERDAM.
+
+MÊVROUW,
+
+    De Prinsés Andromaché, by de aaloudheid, om de grootheid van
+haar gemoed, boven alle Héldinnen beroemd, komt hier in eene geheel
+andere gestéltenis te voorschyn. Haare grootmoedigheid, die
+onverslagen het verlies van rykdommen, staat, vaderland, égemaal,
+én alle bedénklyke weelden kon ver- [p. 4] zetten, bezwykt hier
+door spyt van die édele deugd te moeten afléggen, mét zich ten écht
+over te geeven aan den zoon van den doodslager Haars mans, én den
+doodslager van Haars mans vader; nademaal Haar geen ander middel in
+de waereld overig is, om de reeds bestémde dood van haaren eenigen
+zoon voor te komen. Wés Zy voorwaar zo veel meerder érbarming
+waardig is, als de grootheid van Haare élénde de grootheid van
+Haare moed overtréft. In déze schyn heeft Zy eerst in Vrankryk het
+licht gezien, én zodaanig een médelyden verwekt in veele Grooten,
+dat Haare klagten zeer dikwils mét hunne traanen zyn vereerd
+geworden. Sédert is die zélfde Andromaché hérwaarts overgekomen, én
+heeft omtrént voor tien jaaren van iemand myner vrienden, én my op
+maat, én rym Néderduitsch leeren spreeken; maar geen gelégenheid
+gehad van zich in het openbaar te laaten zien, als nu, dat ik Haar
+aan U. Ed. opdraag, my verzékerende [p. 5] door een proef, die wy
+van U. Ed. opmérking hébben, dat U. Ed. van de réchte waerdy Haarer
+klagten zal kunnen oordeelen; én gelukt het ons, dat zy maar iets
+van Haare Fransche welspreekendheid in het Nederduitsch behouden
+heeft, zo twyfelen wy niet, óf Zy zal, door de bekénde lóf, die U.
+Ed. goedaardigheid by al de waereld behaalt, in U. Ed. een
+édelmoedig, én vermaaklyk médedoogen veroorzaken, het wélk ons
+eenig doelwit is; En dat het ons met éénen verstrékke tót eene
+kleene érkéntenis van onze verplichting te Uwaarts. Ik bén,
+
+
+                MÊVROUW,
+
+                                U. Ed. Verplichtste Dienaer,
+
+                                                L. MEIJER.
+
+
+                          Continue
+
+[p. 6]
+
+               COPYE Van de PRIVILEGIE.
+
+DE Staten van Holland ende Westvrieslandt doen te weten. Alsoo Ons
+vertoont is by eenige Liefhebbers van de Nederduytsche Taal en
+Poëzy, hoe dat sy al voor eenige Jaren, na het voorbeeld van de
+Italiaansche en Fransche Academien, t Amsterdam opgerecht hadden,
+een Konstgenootschap onder de Prent en Sinspreuke van NIL
+VOLENTIBUS ARDUUM, waar in dagelijks gearbeyt was, en noch wiert,
+tot voortsettinge van onse Taal en Dichtkunst, gelijk ook a1 eenige
+werkjens, nu en dan daar van in  t licht gekomen, en door den druk
+gemeen gemaakt waren; en dewyl van tyt tot tyt uytgegeven souden
+worden grootere werken, die by dat Konstgenootschap, sommige reets
+gemaakt, sommige noch onderhanden waren, waar toe het selve boven
+haar tyt en arbeyd, noch groote kosten tot den druk, en wat daar
+meer toebehoort, soude moeten doen, en vermits ook niet sonder
+groote reden gevreest wierd, dat al het gene van eenigh belangh
+zynde, by het selve Konstgenootschap uytgegeven soude worden,
+aanstonts door andere soude mogen werden naargedrukt, en sonder
+eenige opmerkingh, veel min naauwkeurigheydt der Spelling oft
+nettigheydt der Tale, aan al de wereldt gemeen gemaakt, waar door
+het goede insigt tot opbouwingh der Nederduytsche Tale, ende
+voortsettinge van de welsprekentheydt in de selve verhindert, en de
+lust om daar in voort te gaan aan het voorseyde Konstgenootschap
+soude benomen worden; soo hadde sich het selve Konstgenootschap
+genootsaakt gevonden, om sich te keeren tot Ons, ootmoedelyk
+versoekende, dat het Ons gelieven mogte haar te begunstigen alle de
+werken, die uit het selve Konstgenootschap in  t licht gebraght
+souden worden, met Ons Octroy voor 20 jaren langh, en onder
+soodanige straffe tegen de gene, die de selve souden nadrukken,
+verkoopen, oft elders naargedrukt, in dese Onse Provintie voeren om
+te verkoopen, als het Ons soude gelieven goet te vinden. SOO 1S  t
+dat Wy, de Sake en  t Versoek voorsz. overgemerkt hebbende ende
+genegen wesende ter bede van de Supplianten, uyt Onse rechte
+wetenschap, Souveraine macht ende authoriteyt de selve Supplianten
+geconsenteert, geaccordeert, en geoctroyeert hebben, consenteren,
+accorderen, ende Octroyercn mits desen, dat sy gedurende den tyt
+van vyftien eerstkomende jaren, de Werken by het
+voornoemdeKonstgenootschap onder [p. 7] den Tytul van NIL
+VOLENTIBUS ARDUUM gemaakt werdende oft alrede zynde, binnen den
+voornoemden Onsen Lande alleen sullen mogen drukken, uytgeven ende
+verkoopen, verbiedende daarom allen ende eenen iegelyken, de selve
+werken na te drukken, ofte elders naargedrukt binnen Onsen Lande te
+brengen, uyt te geven ofte te verkoopen, op verbeurte van alle de
+naargedrukte, ingebraghte ofte verkofte Exemplaren, ende een boete
+van drie hondert guldens daarenboven te verbeuren, te appliceren
+een derdepart voor den Officier die de calange doen sal, een
+derdepart voor den Armen der plaatsen daar het casus voorvallen
+sal, ende het resterende derdepart voor de Supplianten. Alles in
+dien verstande, dat Wy de Supplianten, met desen Onsen Octroye
+alleen willende gratificeren tot verhoedinge van hare schade door
+het nadrukken van de voorsz. Werken, daar door in geenigen deele
+verstaan, den Inhoude van dien te authoriseren ofte te advouëren,
+ende veel min het selve onder Onse protectie ende bescherminge
+eenig meerder credit, aansien ofte reputatie te geven; Nemaar den
+Supplianten in cas daar in iets onbehoorlyks soude mogen influeren,
+alle het selve tot haren lasten sullen gehouden wesen te
+verantwoorden, tot dien eynde wel expresselyk begerende, dat by
+aldien sy desen Onsen Octroye voor de selve Werken sullen willen
+stellen, daar van geene geabbrevieerde ofte gecontraheerde mentie
+sullen mogen maken; Nemaar gehouden sullen wesen, het selve Octroy
+in  t geheel, en sonder eenige Omissie daar voor te drukken, op
+pene van het effect van dien te verliesen. Ende ten eynde de
+Supplianten desen Onsen consente en Octroye mogen genieten naar
+behooren, lasten wy allen ende eenen iegelyken, dat sy de
+Supplianten van den inhoudt van desen doen laten ende gedogen,
+rustelyk, vredelyk ende volkomentlyk genieten ende gebruyken,
+cesserende alle beleg ende wederleggen ter contrarie. Gedaan in den
+Hage onder Onsen grooten Zegele hier aen doen hangen, den XV Maart,
+in  t Jaar onses Heeren en Zaligmakers duysent ses hondert seven en
+seventigh.
+
+
+                                            A. Br. d ASPEREN,
+                                                    1677.
+
+                                        Ter Ordonnantie van de Staten
+                                HERBERT van BEAUMONT,
+                                                          1677.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+    Het KONSTGENOOTSCHAP heeft het Récht van de bovenstaande
+PRIVILEGIE, aangaande ANDROMACHÉ vergund aan ALBERT MAGNUS,
+Boekverkooper tót Amsterdam.
+
+                                In Amsterdam, den 10 Mey, 1678.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 8]
+
+                      VERTOONERS.
+
+ANDROMACHÉ,   Wéduwe van Héctor, gevangene van Pyrrhus.
+PYRRHUS,      zoon van Achillés, Koning van Epieren.
+ORÉSTÉS,      zoon van Agamémnon, minnaar van Hérmioné.
+HERMIONÉ,     dóchter van Hélena, verloofd aan Pyrrhus.
+PYLADÉS,      vriend van Oréstés.
+CLÉONÉ,       eerste Edeljuffer van Hérmioné.
+CÉPHISE,      voedster van Andromaché.
+PHOENIX,      zédemeester van Achillés, én daarna van Pyrrhus.
+GEVÓLG,     } van Oréstés, stom.
+SÓLDAATEN,
+
+
+        Het Tooneel is te Buthrót, Hoofdstad van Epieren.
+
+
+                             Continue
+
+[p. 9]
+
+                      ANDROMACHÉ,
+
+                      TREURSPÉL.
+
+                _______________________
+
+                    EERSTE BEDRYF.
+
+                    EERSTE TOONEEL.
+
+                   ORÉSTÉS, PYLADÉS.
+
+                            ORÉSTÉS.
+IA geen gemeene gunst, ô trouwste myner vrinden,
+Geniet ik van  t geluk, nu  t my u weêr doet vinden;
+En haare gramschap schynt ten deele alreê verzoet
+Dewyl Oréstés hier zyn Pyladés ontmoet.
+(5) Wie durfde hoopen, dat ik u op déze stranden,
+My zo rampzalig, zoude aantréffen in het landen,
+Dat ik mijn vriend na ruim zés maanden weêr zou zien,
+En déze ontmoeting zoude in Pyrrhus hóf geschiên.
+                            PYLADÉS.
+Ik dank de Hémel, die, mét steeds myn reis te stuiten,
+(10) De wég na Griekenland mét kracht scheen toe te sluiten,
+Sint die bedroefde dag, dat dichte by Myceen
+Door  t onweêr onze vloot gescheiden wierd van één.
+Helaas, wat leed ik niet om zulk een bitter scheijen!
+Wat heeft uw ongeluk myne oogen niet doen schreijen!
+(15) Ik vreesde, dat u steeds ontmoette nieuw gevaar,
+Dóch wénschte een deel daar van, én dat ik by u waar.
+Voor alles vreesde ik uw zwaarmoedige gedachten,
+Die uw verliefde ziel begroeven in uw klachten;
+[p. 10]
+En dat de Hémel u zyn wreede hulp niet brógt,
+(20) En schonk een dood, die gy aan alle kanten zócht.
+Maar neen, myn Heer, ik zie u wéder, én  t bestieren
+Van  t noodlót voert u heel verandérd in Epieren;
+Want al die toestél, al die staatelyke stoet,
+En hófsleep duidt niet, dat ge uw dood gaat te gemoet .
+                            ORÉSTÉS.
+(25) Wie weet, óf  t noodlót op my goed is, óf verbólgen;
+De liefde doet my een meêdoogenlooze vólgen.
+Wie weet, óf zy myn beê begunstigt, óf verstoot,
+En ik hier vinden zal myn leeven, óf myn dood.
+                            PYLADÉS.
+Hoe, zyt ge op nieuw een slaaf der liefde? wilt ge uw leeven
+(30) Weêr aan de zórg van zulk een dwingland overgeeven?
+Door wélk een tovery, na dat gy zo veel druk
+Hébt uitgestaan, bréngt hy u weder onder  t juk?
+Hérmioné, die gy te Sparte niet kost winnen,
+Zal die te Buthrót nu omzétlyk zyn van zinnen?
+(35) Ik meende, dat ge uw min vergeefs ziende, én veracht,
+Eene afschrik van haar hadt, én niet meer om haar dacht.
+Bedroogt gy my?
+                            ORÉSTÉS.
+                            O neen, ik héb my zélf bedroogen.
+Bestraf my niet, wees eer mét uwen vrind bewoogen.
+ k Verbérgde u nimmer myn verlangen, hoop, én hart;
+(40) Gy zaagt den aanvang van myn liefde, van myn smart.
+Toen Ménélaüs aan den wreeker van zijn schande,
+Achillés dapp ren zoon Hérmioné verpandde,
+Zaagt gy myn wanhoop, én hoe ik van zé op zé
+Myne eerste kluisters, én die wanhoop voerde meê.
+(45) Gy weet, hoe noode ik leê, dat gy me alom verzélde
+In die bedroefde staat, om  t hartzeer, dat mij kwélde
+Te maatigen, én in die onverdraagb re plaag
+My te beschérmen voor my zélven alle daag .
+Maar toen ik zag, dat haare aanbiddelijke lonken
+(50) Hém al haar vrindlykheid, my al haar stuursheid schonken,
+[p. 11]
+Toen scheen het, dat myn hart, in toorne om zulk een smaad,
+Myn min vergeeten wilde, in weêrwraak van haar haat.
+Haar wreedheid vloekende, én de krachten van haare oogen
+Verkleinende, dreef ik de spot mét haar vermoogen.
+(55) Ik maakte u wys,  k had my verwonnen, ja ik docht
+Het zélf, én nam myn tógt van haat voor minnetógt.
+Dus, meende ik, had myn min de laatste snik gegeeven,
+En landde in Grieken, daar ik liefdloos dacht te leeven.
+Maar al haar Vórsten, daar vergaderd, hielden raad,
+(60) Om voor te komen, zo het scheen, een dreigend kwaad.
+Ik voeg me  er by, én dénk, de roem, én de oorlóg zullen,
+Nu de onbezétte plaats des harten weêr vervullen;
+Of schuilt  er nóch een vonk der half gebluschte min,
+Die wordt gedoofd, zo haast komt eerzucht daar niet in.
+(65) Maar lét eens op de loop der waereldlijke zaaken;
+ k Vlieg régelrécht in  t nét, daar ik meende uit te raaken.
+Ik hoor van alle kant, hoe dat het Pyrrhus géldt,
+Op wien heel Griekenland mét dreigen mort, én schéldt;
+Mits hy verbasterd zyn belófte schynt te breeken,
+(70) En in zyn Hóf de vloek der Grieken op wil kweeken,
+Astyanax, de zoon van Héctór,  t overschót
+Van zo veel Koningen, zyn buit, én oorlógslót.
+ k Hoor, hoe Andromaché haar zoontje had verschoolen,
+En listig aan de schrand re Ulysses had ontstoolen;
+(75) Terwyl ze een ander kind liet rukken uit haare arm,
+En overgaf ter dood mét nagebootst gekarm.
+ k Hoor, hoe Hérmioné den Vórst niet kan behaagen,
+Dat hy zyn hart, én kroon een andere op wil draagen,
+ t Geen Ménélaüs spyt, schoon hy  t voor loogen houdt,
+(80) Omdat Hérmioné dus lang blyft ongetrouwd.
+Maar wyl zyn ziel, gesóld van onlust, is vol vreezen,
+Gevoel ik myne ziel in tóp verheugd te weezen;
+Ik zeegepraal van vreugde, én meen, dat my de wraak
+Die uitgelaatenheid verschaft, én dat vermaak;
+[p. 12]
+(85) Maar  t is de ondankb re, die my  t hart weêr komt ontsteeken
+Een half gebluschte vlam, die weêr komt door te breeken.
+Ik voel, dat myne haat ten énde is van haar loop,
+Of liever, dat my steeds gevleid heeft liefde, én hoop.
+Dies kuip ik  t in de Raad door vrienden, én door vonden
+(90) Dat ik voor Afgezant aan Pyrrhus word gezonden,
+En de eisch is, dat hy  t kind van Héctór overgeev ,
+Op dat de Griek om hém niet staag in onrust leev ?
+O Hémel, zo déze eisch hém gram maakte, én verbólgen,
+Dat hy my  t kind ontzeide, én myn Prinsés liet vólgen,
+(95) Zo zégende ik het vuur der nieuw ontsteeken vlamm ,
+En geen gevaar zo groot, dat ik niet overkwam.
+Nu  t in myn magt niet staat myn min te wéderstreeven,
+Wil ik my blind ling aan die hartstógt overgeeven:
+Ja, Pyladés, ik min, én zal Hérmioné
+(100) Omzétten, schaaken, óf omkomen hier ter steê.
+Maar gy, die Pyrrhus ként, hoe, dunkt u, staan de zaaken,
+Ten hóve, én in zyn hart? hoe vérre zal  t hém raaken?
+Mint hy Hérmioné, óf haat hy haar? zal hy
+My haar ontstoolen hart weêr schenken? zég het my.
+                            PYLADÉS.
+(105) Beloofde ik u, dat hy zo van zyn bruid zou scheijen,
+Haar stéllen u ter hand, ik zoude u licht verleijen.
+Niet dat hy is voorzien mét uw Hérmioné;
+O neen, in zyne ziel mint hy Andromaché.
+Elk ziet het; maar die trótse, in plaats van hém te hooren,
+(110) Betaalt zyn min mét haat; hy kan haar niet bekooren.
+Wat hy ook aanwéndt, zy blyft évenééns geneigd;
+Hoe ned rig hy haar smeekt, hoe toornig hy haar dreigt.
+Vaak veinst hy haaren zoon van kant te willen hélpen,
+Dan smélt ze in traanen, die hy straks weêr weet te stélpen.
+(115) Hérmioné heeft zélf hém honderd maal verwoed
+Van spijt gezien, én dat hy haar weêr viel te voet,
+Haar ófferde zyn hart, én zuchtte, min uit liefde,
+Dan kwaadheid, om de smart, die hém de ziel doorgriefde.
+[p. 13]
+Wie durft, wie kan u dan verzék ren van een hart,
+(120) Zich zélf geen meester, én van wéderzyds benard?
+Hoe licht kon  t weezen, dat hy dol bestond te kiezen
+Zyn haat te trouwen, én zyn liefde te verliezen.
+                            ORÉSTÉS.
+Maar kan Hérmioné verdraagen, dat haar staat
+Zo lós veracht werd dat haar schoonheid wérd versmaad.
+                            PYLADÉS.
+(125) Hérmioné doet aan de gansche waereld blyken,
+Als óf zy, lachchende mét dat verongelyken,
+Verzékerd was, dat hy zal blyd zyn nu, óf dan,
+Dat zy hem weêr neem in genade aan, én tót man.
+Maar in het heimlyk heeft zy my haar hart ontslooten,
+(130) Hoe bitter haar die wrók een jaar lang heeft verdrooten.
+Geduurig reisreede, én tóch blyvende in zyn land,
+Wénscht zy Oréstés vaak te hébben by der hand.
+                            ORÉSTÉS.
+O Hémel, zo ik dat gelooven durfde, ik rénde
+Straks na haar toe.
+                            PYLADÉS.
+                            Gints komt de Koning, maak een énde
+(135) Van uw gezantschap. Spreek, én toon, dat Héctórs kind
+De Grieken tégens hém in eedgespan verbindt.
+Mét hém de dood van zyn bemindes zoon te vérgen
+Zult gy  t verliefde hart tót spyt én weig ring térgen.
+Twist rókk nen tusschen hén is hén vereenen, dés
+(140) Eisch alles maar, om niets te érlangen. Pérs, én prés
+Hém aan, hy komt.
+                            ORÉSTÉS.
+                              En gy, maak, dat ik haar moog spreeken,
+Om wiens wil ik alleen  t gezantschap héb besteeken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 14]
+
+                    TWÉDE TOONEEL.
+
+              PYRRHUS, ORÉSTÉS, PHOENIX.
+
+                            ORÉSTÉS.
+EEr ik myn last voltrék in  t openbaar, sta toe,
+Myn Heer, dat ik vooraf myn plichten hier voldoe,
+(145) En u begroet mét vreugde, als winnaar der Trojaanen,
+Achillés dapp ren zoon, én nazaat; ja wy waanen
+Dien Héld in u te zien, als óf hy  t zélve was.
+Door hém kwam Héctór om, door u ligt Troje in de asch;
+En gy bewyst door al uw daaden tót op héden,
+(150) Dat gy alleen zyn naam zyt waerdig te bekleeden.
+Maar hy zou nooit, ten spyt der Grieken, Héctórs bloed
+Verhéven hébben in die staat, als Pyrrhus doet;
+En zich érbarmende uit een av réchtsch médedoogen
+ t Gevaarlyk overschót dier oorlóg opgetoogen.
+(155) Vergeet gy dan zo haast, wie Héctór is geweest?
+Wien nóch het Grieksche vólk tót in  t gebeente vreest;
+Wiens naam alleen het haar aan weeuw, én weez doet ryzen;
+Ja, in gantsch Grieken is geen huis, óf  t zal bewyzen,
+Dat Héctór haar een zoon, óf vader kóst; dus wil
+(160) Een ieder, dat de dood zyns zoons dat klaagen still .
+Myn Heer, wat staat ons min van Héctórs zoon te vreezen,
+Dan dat hy zo, gelyk zyn vader deê voordézen,
+Met toortsen in de vuist in onze havens kom,
+De schépen steeke in brand, én brénge  t alles om;
+(165) Ja, zo ik zéggen mag, het geen ik wél durf dénken,
+Vrees voor het loon, dat hy u voor die dienst zal schénken;
+Wees op uw hoede, dat die doodelyke slang,
+Die ge in uw boezem kweekt, u zélf niet straffe eerlang.
+Wil dan der Grieken eisch, myn Heer, niet wéderstreeven,
+(170) Verzéker hén de wraak, én u uw eigen leeven;
+Maak u die vyand kwyt, die licht door  t ongeluk
+Van uwe dood zou doen zyn proef, zyn meesterstuk.
+[p. 15]
+                            PYRRHUS.
+ k Bén aan de Grieken voor hunn voorzórg zeer verbonden;
+Dóch meende, dat ze op iets van meerder nadruk stonden:
+(175) Te meer, nu een gezant, als gy, hunn last verricht,
+Verbeeldde ik my, het was een zaak van groot gewicht.
+Want Agamémnons zoon dus staatlyk in Epieren,
+En uit de naam van al de Grieksche magt te stieren,
+Belooft iets anders, dan  t belachchelyk bewind
+(180) Der boodschap, dat men wrókt op een onnozel kind.
+Maar schoon het sneuv len moest, voor wien zoude ik het slachten?
+Komt hy den Grieken toe, óf my? hoe moet ik  t achten?
+Is my alleen verboôn te hand len na myn zin
+Mét myne krygsbuit? mét de zoon van myn slaavin?
+(185) Toen wy, nóch bloedig van de moord voor Trojes wallen,
+Vast rookende, de buit, ons daar ten deel gevallen,
+Omdeelden, vonniste de kans, dat Héctórs zoon,
+En wéduw my ten deel zou weezen, én ten loon.
+Was Hécuba niet voor Ulyssés? is Kassandre
+(190) Niet nóch in Argós by uw vader onder andre?
+En maak ik eisch op hén, óf hunne buit, myn Heer?
+Misgunde ik hén die vrucht des oorlógs immermeer?
+Maar Troje, zégt men, zal zich dus eens weer verhéffen,
+ s Beschérmden staal misschien eerst zyn beschérmer, tréffen;
+(195) Dat overlég is wel met groote zórg verzéld;
+Ik kan zo diep niet zien, wat ons het noodlót spélt.
+Want overdénkend, hoe wéleer die Stad der stéden,
+Zo stérk bemuurd, zo vol van hélden, aangebéden
+Van al de waereld, gaf gansch Azië de wét;
+(200) En hoe dat al die roem zo deerlyk ligt verplét,
+Hunn trótse torens diep in  t gloeijend puin bedólven,
+ t Plat land verlaaten; én van bloed hunn stroomen gólven;
+[p. 16]
+Kan ik niet dénken, hoe men een gekluisterd kind
+In  t oog heeft, dat het zich der wraake ooit onderwind .
+(205) En schoon men had de dood van  t arme wicht gezwooren,
+Waarom een jaar gewacht, én zo veel tyds verlooren?
+Waarom den jongen niet in Priaams schoot geslagt
+Mét Troje, én zo veel doôn gelyklyk omgebragt?
+Toen stond ons alles vry, toen hoefde men de jaaren
+(210) Van oud, óf jong niet uit meêdoogenheid te spaaren.
+De zeege, én naare nacht meer woedende, dan wy,
+Vervoerde ons blindeling tót alle moordery;
+Ja  k héb myn vyanden zélf toen te wreed doen sneeven.
+En zou die wreedheid nu myn toorn nóch overleeven?
+(215) Myn hand, die ik geneigd tót zyn beschérming vind,
+Zich wasschen in het bloed van een onnoozel kind?
+Neen, neen, myn Heer, de Griek zoeke and re stóf tót wraake,
+En élders; want ik til niet aan zo snood een zaake.
+De loop van myne haat, én vyandschap is uit;
+(220)  k Beschérm het overschót van Troje, als myne buit.
+                            ORÉSTÉS.
+Myn Heer, gedénkt u wél mét wélke looze streeken,
+En list een onrécht kind wierd in de plaats gesteeken
+Van kleine Astyanax, én van de toorn gestort?
+Het zyn de Trojers niet,  t is Héctór in het kort,
+(225) Die wy vervólgen in zyn zoon, om ons te wreeken.
+Zyns vaders bloeddorst heeft de Griek in toorne ontsteeken,
+Die niet te lésschen is, dan in het bloed des kinds.
+Dit  s de oorzaak, dat ik in Epieren kom, ô Prins;
+Maar kom hén voor.
+                            PYRRHUS.
+                                Neen, neen, ik zal mét vreugde aanschouwen,
+(230) Dat zy Epieren voor een twéde Troje houwen.
+Zy komen vry, indien hun afgebrand gemoed
+Alééns acht  s winnaars, én des overwonnen bloed.
+ t Is eerst niet, dat wy van de Grieken onrécht lyden;
+Myn vader kreeg dat loon gemeenlyk voor zyn stryden
+[p. 17]
+(235) En wist  er Héctór toen zich van te dienen, licht
+Zal  t nu geen nadeel doen aan  t nagelaaten wicht.
+                            ORÉSTÉS.
+Door die weêrspannigheid zult gy hunn haatzucht schérpen.
+                            PYRRHUS.
+Hoe won ik dan, om my den Grieken te onderwérpen?
+                            ORÉSTÉS.
+Hérmioné, myn Heer, zal u licht om doen zien,
+(240) En zich ter zoen van u mét haaren vader biên.
+                            PYRRHUS.
+Schoon ik Hérmioné meer minde, als ooit voordézen,
+Ik hoef daarom de slaaf haars vaders niet te weezen;
+En lichtlyk zal ik u nóch zien doen déze dag,
+Hoe ik vereenen kan myn liefde, én myn gezag.
+(245) Ga ondertusschen by Hérmioné uw plichten,
+Wyl gy namaagschap zyt, af léggen, én verrichten.
+Voorts moogt ge, zonder dat ik  t u belétte, gaan,
+En zéggen, zo  t u lust, den Griek myn weig ring aan.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    DÉRDE TOONEEL.
+
+                   PYRRHUS, PHOENIX.
+
+                            PHOENIX.
+ZO zendt gy hém, myn Heer, zelf heen na zyn beminde?
+                            PYRRHUS.
+(250)  t Is waar, men zégt, dat hy voor dézen haar bezinde.
+                            PHOENIX.
+Maar zo dat vuur op nieuws eens weêr te ontvonken kwam?
+Hy haar zyn hart bood, zy zich zéngde aan zyne vlam?
+                            PYRRHUS.
+Dat zy zich onderling beminnen,  k bén te vréde;
+Hy maak , dat zy mét hém vertrékke, neem haar méde
+[p. 18]
+(255) Na Sparte; dat men hém, nóch haar myn havens sluit,
+Zo raakt  er myn verdriet, én onlust mét hen uit.
+                            PHOENIX.
+Myn Heer....
+                            PYRRHUS.
+                 k Zal u hier naar myn hart ontdékken kunnen;
+Daar komt Andromaché.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    VIERDE TOONEEL.
+
+             PYRRHUS, ANDROMACHÉ, CEPHISE.
+
+                            PYRRHUS.
+                                        Mêvrouw komt gy me gunnen
+ t Geluk van uw bezoek, dat onwaardeerlyk goed?
+                        ANDROMACHÉ.
+(260)  k Ga na de plaats, daar gy myn zoon bewaaren doet.
+Dewyl gy my vergunt hém éénmaal  s daags te spreeken,
+Wien ik al  t overschót van Troje, én Héctór réken,
+Zo ging ik mét hém, naar gewoonte, ons beider staat
+Beschreijen;  k weet nóch niet, hoe  t héden mét hém gaat.
+                            PYRRHUS.
+(265) Mêvrouw, zo  t vreezen, daar de Grieken van gewaagen,
+Gegrond is, men bestélt u and re stóf tot klaagen.
+                        ANDROMACHÉ.
+Wat vrees, myn Heer, wat vrees maakt Grieken weêr beducht?
+Is lichtlyk één Trojaan zyn slaverny ontvlucht?
+                            PYRRHUS.
+Neen, de oude veete, én wrók op Héctór schynt verreezen,
+(270) Men vreest Astyanax.
+                        ANDROMACHÉ.
+                                          Waerd oogwit van hun vreezen?
+Een ongelukkig kind, helaas! het weet nóch pas,
+Dat gy zyn Heer zyt, én zyn Vader Héctór was.
+[p. 19]
+                            PYRRHUS.
+Hoe  t zy, gantsch Grieken wil éénpaarlyk, dat hy stérve,
+En Agamémnons Zoon zyn dood by my verwérve.
+                        ANDROMACHÉ.
+(275) Zult gy tót zyne dood ook geeven uwe stém?
+Ja,  t is op my gelaân; maar ach! wat raakt dat hém?
+Hoe! Grieken vreest, dat hy zyn Vader ooit zal wreeken?
+O neen; men wil my sléchts van zyne troost versteeken;
+Om dat hy my verstrékt voor vader, én voor man,
+(280) Raak ik hém kwyt, én gy zyt zélf daar oorzaak van.
+                            PYRRHUS.
+Mêvrouw, myn weig ring heeft uw traanen voorgekomen,
+My dreigt de wraak, waar meê hunn hart is ingenomen;
+Maar schoon de Griek het kind kwame eischen over zé
+Met duizend schépen, én zich ankerde op myn reê;
+(285) Al kóste  t meerder bloed, als ooit Hélénes schaaken;
+Al zou dit hóf tót asch, na tien jaar oorlógs, raaken?
+Ik stap  er over, ik vlieg tot zyn hulp, én zal
+Uw zoon beschérmen, al was  t mét myne eygen val.
+Maar mag me al dit gevaar, waar in gy my ziet loopen
+(290) Om uwent wil, wel ooit op uwe gunst doen hoopen.
+Ik aller Grieken haat, van alle kant benard,
+Moet ik nóch worst len daarenboven mét uw hart?
+Myn arm is te uwer dienste, én mag ik niet verlangen,
+Dat gy myn ned rig hart ééns éndlyk zult ontfangen?
+(295) Geeft my ten minsten hoop, dat, als ik voor u stry,
+De schoone Andromaché my zélf geen vyand zy.
+                        ANDROMACHÉ.
+Myn Heer, hoe schandlyk zou dat by den Grieken luiden;
+Geef hén geen réden, om uw goetdoen te misduiden.
+Dit edel opzét moet niet spruiten uit uw min;
+(300) Héld Pyrrhus banne zulk een zwakheid uit zyn zin.
+En ach! wat moogt ge my om wéderliefde vraagen;
+Ik haat my zélve, hoe zoude ik den Vórst behaagen?
+Wat zoudt ge doen mét zulk een ongelukkigh hart;
+Een hart, van u gedoemd ter onuitwisb re smart?
+[p. 20]
+(305) Neen, zich te ontférmen, als de vyand ligt ter néder,
+Hém goed te doen; den zoon aan zyne moeder wéder
+Te geeven, én om hém geen vyanden te ontzien;
+Zélf zonder hoop van loon, hoe veel men ook verdien,
+Ja, tégen myne dank myns kinds beschérmer strékken,
+(310) Zoude in Achillés zoon zyn héldenhart ontdékken.
+                            PYRRHUS.
+Hébt gy de wrók zo diep geprént in uw gemoed,
+Dat gy my eeuwig haat, én straft, gelyk gy doet?
+My scheen voorheen de naam uws vyands wél te passen;
+Ik héb myn hand in  t bloed van de uwen vaak gewasschen:
+(315) Maar zo  k uwe oogen héb doen schreijen altemét,
+Heeft my hunn wreedheid dat niet ruim betaald gezét?
+Wat heeft my  t naberouw de ziel niet konnen knaagen?
+ k Lyd meerder, dan ik ooit aan Troje deed verdragen.
+ k Bén slaaf, gekluisterd, van myn droefheidt overmand,
+(320) My kwélt een grooter vuur in  t hart, als Trojes brand,
+Die zórg, die traanen, al die onrust zal doen blyken...
+Ach! is myn wreedheid by uw wreedheid te gelyken?
+Wy hébben lang genoeg malkanderen geplaagd;
+Om onze vyanden dient ééns die haat verjaagd.
+(325) Veréénen we ons; wilt sléchts wat hoops in my verwékken,
+Ik bérg uw zoon, ik zal hém zélf tót vader strékken,
+En onderréchten van de midd len zyner wraak;
+Ja straffen Griéken zélf tót voorstand onzer zaak.
+Eén lonk sléchts, én geen vrees zal ooit myn opzét tréffen;
+(330) Dus kan zich Troje eens weêr licht uit zyne asch verhéffen;
+Dus kan in minder tyd, dan Troje kwam ten val,
+Uw kind weêr Koning zyn in zyn hérbouwde wal.
+                        ANDROMACHÉ.
+Myn Heer, die hoop kan my nóch troost, nóch blydschap geeven,
+Al hoopte ik het zo lang zyn vader bleef in  t leeven.
+[p. 21]
+(335) Gewyde muuren! neen, kon u myn Héctór niet
+Beschérmen, wacht vergeefs, dat gy ons wéder ziet.
+Myn Heer, het is nóch staat, nóch wraak,  t geen wy bejaagen;
+ t Is onze ballingschap, die u myn traanen vraagen;
+Vergun me, dat ik verr van u, én Grieken beij
+(340) Myn zoon verschuilen mooge, én om myne Ega schreij,
+Uw min zal u, én ons te doodelyk doen haaten:
+Wilt tót Hérmioné weêrkeeren, my verlaten.
+                            PYRRHUS.
+Mêvrouw, hoe kan ik (ach! kon ik het doen, ik zou  t,)
+Haar offeren een hart,  t geen gy gevangen houdt.
+(345) Haar is myn kroon beloofd, zy is tót in Epieren
+By my gekomen, om ons huwlyksfeest te vieren.
+ t Geval toog beide u uit uw ryken in het myn ,
+Haar om hier Koningin, u om slavin te zyn.
+Maar zócht ik immermeer haare oogen te behaagen?
+(350) Moet zy in  t tégendeel niet lyden, én verdraagen,
+Dat ik haar hoone, én u aanbidde? schynt het niet,
+Dat zy gevangen is, én dat gy hier gebiedt?
+Schonk ik Hérmioné maar ééns één van myn zuchten,
+Wat zou het uit haar hart niet al verdriets doen vluchten?
+                        ANDROMACHÉ.
+(355) Wat réden heeft zy om uw zuchten af te slaan?
+Zy is verplicht aan u, én aan uwe oorlógsdaân.
+Heeft ooit uw toorts, óf staal haar man, óf stad verslonden?
+Vindt zy haar liefde aan een verslagen man verbonden?
+En wélk een man! ô wreed gedénken! zyne val
+(360) Alleen verbreidt de lóf uws vaders overal.
+Zyn grootste luister heeft hém Héctórs dood gegeeven.
+Beij, zonder myne ramp, waart ge onbekénd gebleeven.
+                            PYRRHUS.
+ t Is wél,  t is wél,  k zal u gehoorzaam zyn, Mêvrouw;
+ k Zal u vergeeten,  k zal u haaten, maar mét rouw.
+(365) Ook is myn moed te vol, én veel te hoog gereezen,
+Om buiten wédermin, of bitt re haat te weezen.
+[p. 22]
+Bedénk u wél, zie toe, dat ik myn hoop verwérv ,
+Of zyt verzékerd van uw uiterste bedérf.
+Gy zult myn toorn, uw straf op u alleen niet haalen?
+(370) O neen, des moeders smaad zal ook de zoon betaalen;
+De Griek begeert hém, én ik weiger hém niet meer.
+My noodt tót voorstand van ondankb re plicht, nóch eer.
+                        ANDROMACHÉ.
+Hy zal dan stérven! én heeft anders geen beschérming,
+Dan zyne onnozelheid, helaas, én myne ontférming!
+(375) Hy stérve, ik vólg hém, én zal door zyn ongeluk
+My haast ontslagen zien van alle ramp, én druk.
+Om zynentwil verléngde ik myn rampzalig leeven;
+Nu zal ik mét hém by zyn vader my begeeven,
+En onze harten, die gy zélf weêr samen bindt,
+(380) En weêr vereent.....
+                            PYRRHUS.
+                                        Ga, ga, Mêvrouw, bezoek u kind;
+Licht kan het zyn, dat, als gy hém zult zien, én spreeken,
+Een ander overlég die trótse toorn zal breeken.
+Ik zal om de uitslag hier straks wéderkeeren; maar
+Als gy uw zoon omhélst, dénk dan om zyn gevaar.
+
+                      Eind van het eerste Bedryf.
+
+
+                             Continue
+
+[p. 23]
+
+                     TWÉDE BEDRYF.
+
+                    EERSTE TOONEEL.
+
+                   HÉRMIONÉ, CLÉONÉ.
+
+(385)  t IS wél, ik doe,  t geen gy begeert, hy zal me kunnen
+Bezoeken; déze vreugd wil ik hém niet misgunnen;
+Vórst Pyladés zal hém straks zénden hier na toe;
+Maar  k sta in twyfel, óf ik wél, óf kwaâlyk doe.
+                             CLÉONÉ.
+Zyn tégenwoordigheid kan immers u niet deeren;
+(390) Het is de zélfde Orést, Mêvrouw, wiens wéderkeeren
+Gy dikmaals hébt gewénscht; wiens afzyn vaak beklaagd;
+En wiens standvaste min uw hart nóch daaglyks knaagt.
+                           HÉRMIONÉ.
+Ach! zyn standvastheid, die  k nooit wilde gunstig weezen,
+En myne ondankbaarheid doen my zyn byzyn vreezen.
+(395) Wat zeege is dit voor hém, wat schande is dit voor my,
+Dat ik veracht word in myn min zo wél, als hy?
+Zal hy niet zeggen, wel is dat die trotse, én fiere?
+Te Sparte hoont men my; haar hoont men in Epiere;
+De ondank bre, die haar hart hield op zo hoog een prijs,
+(400) Wordt mét verachting tót haar schande, én schade wijs.
+O Goôn.
+                             CLÉONÉ.
+              Mêvrouw, uw ziel is te onrécht zo bewoogen;
+Zyn hart ként al te wél de krachten van uwe oogen.
+Nooit hoonde opréchte min het oogwit zyner vlam.
+Zyn hart brengt hy weêrom, dat hy u gaerne ontnam.
+(405) Maar wat ontbiedt u tóch de Koning, uw Heer Vader?
+                           HÉRMIONÉ.
+Zó Pyrrhus langer marr mét uitstél, zich niet nader
+Bedénke, én Héctórs zoon gewillig nédermaak,
+Dat my de Griek weêrom meêvoeren zal uit wraak.
+[p. 24]
+                             CLÉONÉ.
+Verhoor Oréstés dan, wanneer hy u komt smeeken;
+(410) Nu Pyrrhus  t wérk begint, zult gy het laaten steeken?
+Om wél te doen, wees zelf voor Pyrrhus in de weer;
+Want na gy zégt, Mêvrouw, zo haat gy Pyrrhus zeer.
+                           HÉRMIONÉ.
+Hoe kan ik laaten hém te haaten;  k bén het schuldig
+Eers halven, hy vergeet myn min, die  k zo zórgvuldig
+(415) Bewees aan die ondankb re, ach! zo van my bezind!
+Om niet te haaten, héb ik hém te zeer bemind.
+                             CLÉONÉ.
+Zo vlie dan wég; want nu Orést u op komt passen....
+                           HÉRMIONÉ.*
+Hy gunn myn woede tóch meer tyds om aan te wassen.
+ k Zal my verbitt ren in myn vyand aan te zien;
+(420) Ik wil mét meerder schrik van dien ondankb ren vlien;
+Hy zal me, ik twyfel niet, daar stófs genoeg toe geeven.
+                             CLÉONÉ.
+Hoe, wacht ge, dat u nóch meer hoons wérd toegedreeven?
+Die eene ondankb re, en dat noch in uw byzyn, mint,
+Maakt, dat men stóf genoeg om hém te haaten vindt.
+(425) Wat kan hy meerder doen? kunt gy zo veel verdraagen,
+Zo zie ik wél, dat hy u nimmer zal mishaagen.
+                           HÉRMIONÉ.
+ k Wil niet, dat gy me in myn verdriet zult zarren, én
+ k Vrees my te kennen in de staat, waar in ik bén.
+In alles wat gy ziet, mistrouw uwe eigene oogen;
+(430) Zég, dat ik niet meer min, doe me op die zeege boogen.
+Zég, dat zyn koelheid my het hart hérschépt in ys;
+En, is het mooglyk, maak my ook het zélfde wys.
+Gy wilt, dat ik hém vliê, wélaan; niets houdt me tégen;
+ k Gun hém de buit wel, die zyn liefde heeft verkreegen.
+(435) Hy lief kooz zyn slaavin, en zie haar na  t gezigt.
+Kom vliên we. Maar zo hy weêrkeerde tót zyn plicht!
+De trouw weêr plaats vond in het hart van dien ontrouwen!
+Hy my te voet viel, én genâ bad mét berouwen!
+[p. 25]
+Ach liefde! bragt gy hém weêr onder myn gebied.
+(440) Indien... maar neen, hy schépt vermaak in myn verdriet.
+Kom blyven we échter, om hunn blydschap te verstooren;
+Ons byzyn strékke hén tót overlast, én tooren;
+Of maaken wy, dat hy, gedwongen onze band
+Te breeken, schuldig by den Griek zy aan die schand.
+(445)  k Héb tégens haren zoon reeds hunne wraak ontsteeken;
+ k Wil, dat men hém ook om de moeder aan kom spreeken;
+Men dryf, haar  t leed, dat zy ons aandoet, wéder toe;
+Dat zy hém hélpe om hals, óf hy haar sneuv len doe.
+                             CLÉONÉ.
+Meent gy dat die bedroefde ooit hadde in haar gedachten,
+(450) Haar schoonheid néffens uwe aantréklykheeden te achten?
+En dat een hart mét zo veel kwélling overlaân
+Ooit naar het hart van haar beschérmer hebb gestaan.
+O neen, ze is éven droef, als ze immer was voorheenen;
+Waar  t zo, gelyk gy vreest, zy maatigde ééns haar weenen.
+(455) Lét op haar koelheid, op haar fierheid, op haar haat.
+                           HÉRMIONÉ.
+Ach! waarom hield ik me ook zo fier niet van gelaat?
+ t Hart lag my op de tong, ik héb niet konnen veinzen;
+ k Dacht, dat ik zonder vrees mogt uiten myn gepeinzen.
+Geen stuursheid wapende myne oogen; ach wat smart!
+(460) Ik ging alleen te raad mét myn ontsteeken hart.
+En wie zoude anders doen, dan ik deê? wie zou dénken,
+Dat hy zou durven eer, én eed meineedig krénken?
+Onthaalde hy my, als hy nu doet? alles ried
+My aan, dat ik hém zou beminnen; weet gy  t niet?
+(465) Hy was de wreeker van ons huis, het heul der Grieken,
+En Trojes straf; zyn naam, gedragen op de wieken
+Der Fame, vloog die van Achillés verr voorby;
+Behalven dat ik hém verliefder achtte, als my.
+[p. 26]
+Myn hart in  t énd, myn hart te vol van zyne daaden,
+(470) Gy zélf verried my eer, eer hy my kwam verraaden.
+Maar Pyrrhus blyve, die hy wil; Oréstés heeft
+Ook deugden, én ik héb te wreed mét hém geleefd;
+Hy weet van minnen, zélfs al mint men hém niet wéder;
+Licht zéngt my zyne vlam, een vrouwenhart is téder;
+(475) Hy kome, ik wacht hém af.
+                             CLÉONÉ.
+                                                    Daar komt hy récht van pas
+                           HÉRMIONÉ.
+Helaas! ik dacht niet, dat hy zo dicht by ons was.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    TWÉDE TOONEEL.
+
+              HÉRMIONÉ, ORÉSTÉS, CLÉONÉ.
+
+                           HÉRMIONÉ.
+VErlaat ge een oogenblik de last van uw gezantschap,
+Om, na  t betaamen van ons beider bloedverwantschap,
+My te bezoeken? óf mag ik my vleijen, dat
+(480) Op uwe ziel een vonk der oude vlamme vat?
+                            ORÉSTÉS.
+Mêvrouw, de dolheid van myn liefde wérkt zo krachtig,
+Dat ik gestaadig (ach! hoe wél is  t u indachtig)
+Uw schoonheid vólg, om die te aanbidden overal,
+En eeuwig zweer, dat ik haar immer* vólgen zal.
+(485) Uwe oogstraal, voel ik, vlymt myn wonde in  t hart weêr open;
+Ik bén meineedig, mét op uwe min te hoopen.
+ k Bekén  t, én schaam  t my; maar ik zweer u by de Góôn,
+Getuigen hoe verwoed ik van u bén gevloôn;
+Dat ik me alom, waar sléchts gevaar scheen, zócht te smyten,
+(490) Om door myn stérven my eens van myne eed te kwyten.
+Ik bédelde myn dood by vólken, die verwoed
+Geen óffer deeden, dan alleen van ménschenbloed;
+Maar hunne kérk wierd my geslooten; hunne altaaren
+Begeerden  t bloed,  t geen ik verkwisten wou, te spaaren.
+[p. 27]
+(495) In t énd kom ik tót u; uw oog ontzég me niet
+De dood te schénken, die me aan alle kanten vliedt.
+Alleen uw koelheid is dit magtig te volbréngen,
+Zo gy niet, dat ik sléchts moog hoopen, wilt gehéngen;
+En steeds volhardt mét my te zéggen, dat ge altyd
+(500) Gezégd hébt, zo raak ik  t wanhoopend leeven kwyt.
+Dit is een jaar lang al myn hoopen, én verlangen,
+Mêvrouw, én  t staat aan u eene ófferhand te ontfangen,
+Die lang geslagt waar door den wreeden Schyt, had hy
+Min médedoogend, én zo wreed geweest, als gy.
+                           HÉRMIONÉ.
+(505) Hoe, zou Hérmioné zo waard een bloed verspillen,
+Daar zich gansch Griekenland op heeft verlaaten willen,
+En gy, volvoert ge dus de last van Griekenland,
+Die gy in uw pérsoon vertoont, als hun gezant?
+Aan uwe uitspoorigheid zal Griekens wraak dan hangen,
+(510) Als óf Oréstés komst waar  t wit van hun verlangen?
+Volvoert uw last, myn Heer, zo  t voegt, voldoe uw plicht.
+                            ORÉSTÉS.
+Door Pyrrhus weig ring vind ik die geheel verricht;
+Want hy, vervoerd door zyn slavinne, óf uit ontférming,
+Neemt haare zaak, zo wél als zoon, in zyn beschérming.
+                           HÉRMIONÉ.
+(515) De ontrouwe!
+                            ORÉSTÉS.
+                              Dés is my niets ov rig, dan alleen
+De plaats van Héctórs zoon éléndig te bekleên,
+Beij zyn wy vyanden, ik de uwe, én hy der Grieken;
+Wreek u aan my, nu  t kind schuilt onder Pyrrhus wieken.
+                           HÉRMIONÉ.
+Beeldt uw vervoerdheid u gestaâg die dwaling in,
+(520) Dat gy my eeuwig acht te zyn uw vyandin?
+Aan wélk een wreedheid maakt my uw vermoeden schuldig?
+ k Blyf hier te Buthrót, als gevangen,  k ly  t geduldig
+Op vaders last; maar ach! hoe weet gy, óf myn hart,
+Schoon ik my anders hield, niet deelde in uwe smart?
+[p. 28]
+(525) Gelooft ge Oréstés, dat ge alleen hébt récht te klaagen?
+Dat liefde, én spyt my nooit het hart bestond te knaagen?
+En éndlyk, dat ik u in weêrwil van myn plicht
+Somtyds niet by my hoopte, én wénschte in myn gezigt?
+                            ORÉSTÉS.
+My wénschte in uw gezigt! aanbiddelyke schoonheid!
+(530) Maar meent ge Oréstés al?  t is buiten uw gewoonheid.
+Verzin u niet, het is Oréstés, die hier staat,
+Oréstés,  t voorwérp van uw tooren, van uw haat.
+                           HÉRMIONÉ.
+Neen,  t is Oréstés, die aan myn bevalligheeden
+Geleerd heeft, wélk een kracht zy op de zielen deeden;
+(535) Wiens deugd hém waerd maakt, dat men zo veel van hém hou,
+En dien ik gaeren, zo ik kon, beminnen zou.
+                            ORÉSTÉS.
+Ik mérk, Mêvrouw, ik mérk al, wat my staat te hoopen;
+My wénscht men alles goeds,  t hart staat voor Pyrrhus open.
+                           HÉRMIONÉ.
+Wénsch Pyrrhus lót niet, wees zo vérre niet verblind,
+(540)  k Zoude u zo haaten!
+                            ORÉSTÉS.
+Neen, dan wierd ik récht bemind;
+Dan wierd ik aangezien van u mét andere oogen.
+Gy wilt me haaten, én  t is niet in uw vermoogen;
+Maar als ik Pyrrhus was, zo zoude uw minnebrand,
+In spyt van uwe haat, bekomen de overhand.
+(545) O Góôn! zo veel ontzags! die liefde! én die zo téder!
+Mêvrouw, verstond gy my, gy gaaft my  t leeven weder.
+Want schoon ge in weêrwil van u zélve voor hém pleit,
+De ondankb re weet het u geen dank, récht uitgezeid.
+Gy wordt van hém veracht, én zo hy ooit een klagte,
+(550) Of zucht....
+                           HÉRMIONÉ.
+                          Wie zeide u ooit, dat Pyrrhus my verachtte;
+[p. 29]
+Heeft immer u zyn woord, óf weezen zulks geméld?
+Of is  t myn schoonheid, die by u zo weinig géldt?
+Schiet nu myn oog zo flaauwe, én krachtelooze straalen?
+ t Is wél;  t zal élders licht meer zeege, én gunst behaalen.
+                            ORÉSTÉS.
+(555) Vaar voort sléchts, én verdruk my vry mét al uw kracht;
+Bén ik het, wreede, die uw moordend oog veracht?
+ k Héb om die vonken dan niet leeds genoeg geleeden?
+Ik kén hunn kracht niet? men verwyt het my mét réden?
+Uw schoonheid ik veracht! wat had uw ziel al rust,
+(560) Waart gy van Pyrrhus hart, zo wél, als  t myn bewust.
+                           HÉRMIONÉ.
+My ligt nóch aan zyn haat, nóch aan zyn min gelégen.
+Ga dien weêrspannigen sléchts, als een vyand, tégen;
+Ga bréng gansch Griekenland in wapens tót zyn straf,
+Epieren wérde Troje, én strékke Pyrrhus graf.
+(565) Wat zégt ge nu? is dat beminnen? of is  t haaten?
+                            ORÉSTÉS.
+Mêvrouw, doe meerder, kom mét my zyn ryk verlaaten.
+Wilt ge altyd blyven hier ten hóve in gyzeling?
+Uw byzyn is, Mêvrouw, ons nut voor alle ding;
+ t Zal aller Grieken haat fél wétten, én verylen.
+                           HÉRMIONÉ.
+(570) Maar zo Andromaché hém trouwde midlerwylen?
+                            ORÉSTÉS.
+Wat dan, Mêvrouw?
+                           HÉRMIONÉ.
+                              Bezéf, hoe vrémd het klinken zou,
+Wat schand voor ons, indien hy trouwde een Troische vrouw?
+                            ORÉSTÉS.
+Is dat hém haaten! Ay, bely vry uw gepeinzen;
+Een minnevlam is niet te dékken, nóch te ontveinzen;
+(575)  t Verraadt ons alles, spraak, stilzwygen, mond, én oog.
+ t Beslooten vuur vliegt op, als  t plaats krygt, hémelhoog.
+[p. 30]
+                           HÉRMIONÉ.
+Ik zie, waar  t schort; uw ziel, mét argwaan ingenomen,
+Braakt op myn meining  t gift, dat haar zal om doen komen;
+Zoekt steeds eene omwég in de opréchtheid van myn zin;
+(580) En dénkt myn haat te zyn  t bewys van myne min.
+Wél, hoor dan, hoe  t er ligt, gy kunt  er  t werk na stieren:
+Gy weet, hoe my myn plicht gevoerd heeft in Epieren,
+Dat my myn plicht hier houdt, én dat ik blyven moet,
+Ten zy my Vader, óf de Koning wég gaan doet.
+(585) Gy kunt hém uit de naam van Vader dit doen weeten:
+Der Grieken viand zal zyn schoonzoon nimmer heeten.
+Hy vonniss tusschen my, én tusschen Héctórs zoon,
+Wien hy wil missen, óf hier houden mét der woon.
+Hy zénde my weêrom, óf geeve u  t kind in handen,
+(590) En stémt hy  t eerste, ik ga voort mét u uit zyn landen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    DÉRDE TOONEEL.
+
+                    ORÉSTÉS alleen.
+
+IK twyfel niet, gy zult verlaaten Pyrrhus hóf.
+O ja,  k verzéker u alreê van zyn verlóf.
+Hy zal Hérmionés vertrék mét vreugd gedoogen;
+Zyn lieve Trojaanin verblindt, én sluit hem de oogen;
+(595) Alle and re schoonheid staat hém tégen, én misschien
+Zal hy niet liever, als ons eigen aanbód zien.
+Mét één woord is  t beschikt. Góôn! kan ik het gelooven,
+Dat zich Epieren laat van sulk één schat berooven!
+Bérg nu vry  t overschót van Troje, én Héctórs stam,
+(600) Zyn zoon, én wéduwe, én al wat die brand ontkwam,
+Epieren, zo ge my sléchts myn Prinsés wilt geeven;
+En wy uw Vorst, én u verlaaten al ons leeven.
+Daar komt hy by geluk; ô Min, hoor myn gebeên,
+En sluit zyne oogen voor zo veel bevalligheên.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 31]
+
+                    VIÉRDE TOONEEL.
+
+              PYRRHUS, ORÉSTÉS, PHOENIX.
+
+                            PYRRHUS.
+(605)  k HÉb u gezócht, myn Heer, de oploopendheid der zinnen
+Belétte, dat op my de réden niet kon winnen;
+ k Bekén  t; maar sédert héb ik my mét érnst bedacht,
+Erkénd haar billikheid, én ingezien haar kracht.
+ k Bén mét u ééns, dat ik den Grieken, én myn vader,
+(610) En lichtelyk my zélf te kort doe, ja licht kwaader;
+Dewyl ik Troje zou hérbouwen, én verraân
+Myns vaders luister, én myne eigene oorlógsdaân.
+Té récht waar  t Grieksche vólk mét gramschap ingenomen;
+En  t zal op uw bevél Astyanax bekomen.
+                            ORÉSTÉS.
+(615) Myn Heer, hoewél  t besluit is lóffelyk, én goed,
+Zo koopt ge dóch de vreê mét zyn onschuldig bloed.
+                            PYRRHUS.
+Zo is het; maar ik wil die band nóch vaster maaken.
+Hérmioné zy  t pand, dat ik die nooit zal slaaken.
+ k Neem haar ten écht. Het schynt, dat dit gezégend feest
+(620) Waar zonder uwe komst gantsch onvolmaakt geweest.
+Gy zult heel Grieken, én haar vader zélf vertoonen;
+Want Agamémnon, schynt gelyk in u te woonen.
+Ga, groet haar, Heer, én zég, dat ik haar, als het pand
+Der vréde, mét haar hart wacht mórgen van uw hand.
+                            ORÉSTÉS.
+(625) Góôn!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 32]
+
+                    VYFDE TOONEEL.
+
+                   PYRRHUS, PHOENIX.
+
+                            PYRRHUS.
+                    PHoenix, wél, heeft liefde  t véld behouden?
+Bén ik die zélfde nóch, dien straks uwe oogen schouden?
+                             PHOENIX.
+O neen, nu kén ik u; die éd le gramschap heeft
+Gemaakt, dat gy weêr voor u zélve, én Grieken leeft.
+Wie durfde hoopen, dat ge uw liefde wég te jaagen,
+(630) Die roem te omhélzen, zo op ééne sprong zoud waagen!
+U zélf zo rédden zoudt uit die vergulde strik!
+Maar Pyrrhus, als hy wil, wint in een oogenblik.
+De slaafsche Minlust héft niet langer op dien Minnaar;
+Hy is Achilles zoon, én nazaat; die verwinnaar,
+(635) Die Pyrrhus, die in tyds de roem nóch achterhaalt.
+En voor de twéde maal van Troje zeegepraalt.
+                            PYRRHUS.
+Zég liever, dat myn zeege eerst héden gaat beginnen,
+Om dat ik héden eerst récht aanvang te verwinnen.
+Myn hart, nóch straks zo yl, én nu zo vol van moed,
+(640) Meent, dat het in de liefde een léger sneuv len doet.
+Wat myd ik al gevaar!  t is niet wél af te meeten;
+Wat sleept de liefde niet al rampen aan een kéten!
+Myn vrinden maakte ik my tót vyanden, de wét
+Van plicht, én eer... Een lonk had my heel omgezét;
+(645) Ik wierd alreê gedreigd van al de Grieksche staaten,
+ k Waar blyd gestorven, had myn dood haar kunnen baaten.
+                             PHOENIX.
+Ik dank de Hémel, die haar trótsheid had verstaald,
+Door dien....
+                            PYRRHUS.
+                    Gy hébt gezien, hoe zy my heeft onthaald.
+[p. 33]
+Ik dacht, toen ik haar hart ontroerd zag, en verlégen,
+(650) De liefde tót haar zoon zal éndlyk overweegen.
+Ik beeldde my al in, datze in myne armen lag.
+Maar dol, én vol van druk, én trótser, dan ze plag,
+Heeft zy my afgezét; én meer, dan ooit te vooren,
+Liet zy staâg uit haar mond de naam van Héctór hooren.
+(655)  k Bood haar vergeefs myn hulp voor  t jongske, dat zy hiel
+In de armen;  t is, sprak zy, myn man, myn twéde ziel.
+Hoe zweemt na hém die mond, én fierheid zyner oogen!
+Myn Héctór, ik heb u in de armen;  t is geen loogen.
+Wat meent ze, dénk ik, dat ik haar dat voedzel van
+(660) Haar liefde laaten zou,  t afbeeldzel van haar man?
+                             PHOENIX.
+Gewis, geen ander loon stond voor uw diensten open.
+Maar kreun u haarer niet.
+                            PYRRHUS.
+                                        Ik mérk, wat haar doet hoopen.
+In spyt van myne toorn draagt ze op haar schoonheid moed.
+Die trótse wacht, dat ik nóch ééns haar val te voet.
+(665) Maar schoon zy  t my deê,  k zou het aanzien zonder minne
+Ik bén Achillés zoon, zy Héctórs gemaalinne;
+Te groot een haatzucht schift, én scheidt Andromaché
+Van Pyrrhus.
+                             PHOENIX.
+                      Toon  er u dan niet bekommerd meê.
+Bezoek Hérmioné, én zoek die te behaagen,
+(670) Vergeet mét haar de hoon, die gy niet kunt verdraagen.
+ t Is raadzaam, dat gy zélf haar aenport tót déze écht,
+En zulk een last niet op uw médeminnaar légt.
+Gy weet, hoe hy haar mint.
+                            PYRRHUS.
+                                            Gelooft ge, dat myn trouwen
+Andromaché niet zoude in  t heimelyk berouwen.
+[p. 34]
+                             PHOENIX.
+(675) Hoe is uw geest dus mét Andromaché belaân?
+En wat gaat u haar vreugd, of haar misnoegen aan?
+Heeft u Andromaché betoverd ziel, én zinnen?
+                            PYRRHUS.
+Neen, neen,  k was veel te goed, ik hield myne toorne binnen;
+ k Scheen, toen ik by haar was, maar half gestoord, zy moet
+(680) Eerst weeten, dat ik bén doodvyand van haar bloed;
+Ik zal haar, vérr van my, als minnaar, aan te tieren,
+Trótseeren, én myn haat de ruime teugel vieren.
+Steuntze op haar schoonheid, kom, zie, hoe ik  t haar verleer,
+Kom mét my.
+                             PHOENIX.
+                      Ga, myn Heer, ga val voor haar ter neêr.
+(685) Ga zweer, dat gy haar mint, én aanbidt, por haar nukken
+Tót schótser smaad, én laat u, als een kind, verdrukken.
+                            PYRRHUS.
+Gy dénkt licht, dat ik haar verschoone, mét myn hart
+Haar naloope, én dat my alreê myn opzét smart?
+                            PYRRHUS.
+Gy mint haar.
+                            PYRRHUS.
+                      Zoude ik die ondankbaare beminnen,
+(690) Die hoe men haar meer vleidt, hoe fierer wort van zinnen,
+Zy heeft nóch vrind, nóch maag, én hoopt alleen op my,
+Die tégens plicht misschien haar zoon in  t leeven ly!
+Een vreemde! én slimmer, als een vreemde! die gevangen
+Haar kind, myn ziel, én troon aan haar alleen ziet hangen!
+(695) En meer niet héb ik nóch gewonnen, wat ik tracht,
+Als dat zy tót déze uur my haar vervólger acht.
+Maar  k héb gezwooren, én ik zal de wraak voltrékken;
+ k Wil ééns het doelwit van haar haat mét récht verstrékken.
+[p. 35]
+Haar zoon zal sneuv len. Maar hoe zal ze schreijen! hoe
+(700) Zal zy my lasteren, én vloeken, droef te moê!
+Het is onmoogelyk, zy kan het niet aanschouwen,
+Of zal  t bestérven, én dat zou my eeuwig rouwen;
+Niet minder, óf ik zélf een priem stiet in haar hart.
+                             PHOENIX.
+Waarom belooft gy iets, indien u  t geeven smart.
+(705) Waarom hébt gy terstond de zaak niet overwoogen?
+                            PYRRHUS.
+ t Was nóch een overschót van  t voorig médedoogen.
+ k Dénk niet, dat gy myn toorn zo licht gestild gelooft.
+Het was de flikk ring van een vlam sléchts, die men dooft.
+Kom gaan we, al, wat gy wilt, zult gy op my verwérven.
+(710) Staat my by de Prinsés te gaan? zal  t jongske sterven?
+                             PHOENIX.
+ t Is billyk, dat gy haar bezoekt, én viert, én vleidt,
+En zweert....
+                            PYRRHUS.
+                    Kom, gaan we, én doen we al  t geen ik héb gezeid.
+
+                Eind van het Twéde Bedryf.
+
+
+                             Continue
+
+[p. 36]
+
+                     DERDE BEDRYF.
+
+                    EERSTE TOONEEL.
+
+                   ORÉSTÉS, PYLADÉS
+
+                            PYLADÉS.
+BEdwing de woede van uwe afgepynde zinnen.
+Zyt gy Oréstés, die zich altyd kon verwinnen,
+(715) Verdraag dan....
+                            ORÉSTÉS.
+                                  Neen, gy geeft me een buitentydsche raad;
+De réden, Pyladés, wraak ik in dézé staat.
+Te lang sleep ik myn straf, én afgemarteld leeven:
+Ons staat Hérmioné te schaaken, óf te sneeven.
+Ik héb  t beslooten, én voer  t uit, zo haast ik kan.
+(720) O ja, ik wil het zo.
+                            PYLADÉS.
+                                       t Is wél, men schaak haar dan;
+ k Stém  t méde; maar bedénk, wélke aarde wy betreeden;
+Gy geeft u veel te bloot door uwe uitzinnigheeden.
+Stil tóch de oploopendheid van u ontrust* gemoed;
+Bedwing uw dreigend oog voor alles, wat gy doet.
+(725) Dit Hóf, de Hófwacht, zélf de lucht, én déze wanden
+ t Vliegt van Hérmionés,  t vliegt al van Pyrrhus handen.
+Verbérg ten minsten aan haar oog die dulligheid.
+Durft gy haar zoeken in die staat? wat onbescheid?
+                            ORÉSTÉS.
+Weet ik het? bén ik voogd van myne ontstélde zinnen?
+(730) Zy zyn me ontvoerd; ik zócht de ondankbaare hier binnen,
+Om haar te dreigen, én haar minnaar, kwam ik hier.
+[p. 37]
+                            PYLADÉS.
+Wat vruchten hoopt ge van dit raazen, én getier?
+                            ORÉSTÉS.
+Myn Pyladés, hoe kan een ziel  t gewéld verdragen,
+Dat op de réden stórmt met onweêrstaanb re vlagen.
+(735)  k Trouw mórgen, zégt hy, mét Hérmioné, myn Heer,
+En wil haar van uw hand, op dat ik u vereer !
+O hoôn! eer zal myn hand zich in het bloed des wreeden...
+                            PYLADÉS.
+Gy noemt hém de oorzaak van uw ramp licht zonder réden;
+En hy, door zyne plicht genoodtzaakt, én geplaagd,
+(740) Verdient licht meer, als gy, mét récht te zyn beklaagd.
+                            ORÉSTÉS.
+Neen, tót myn wanhoop heeft hy sléchts déze écht beslooten;
+Had ik haar niet bemind, hy had haar lang verstooten.
+Tót nu toe kon haar oog niet winnen op zyn ziel,
+Nu trouwt hy haar, alleen, om dat zy my beviel.
+(745) O Góôn! ik had haar wég, haar stuurscheid was bewoogen,
+Voor eeuwig waaren wy geweeken uyt zyne oogen.
+Haar hart, bestreeden hier van liefde, daar van hoon,
+Ontbeerde een weig ring sléchts, én zy was myne, ô Góôn!
+Zy zag haar dwaaling, hoorde Oréstés spraak, én klagten;
+(750) Beklaagde, én sprak my zélf; wat kon ik meer verwachten?
+                            PYLADÉS.
+Gelooft gy dat?
+                            ORÉSTÉS.
+                        Hoe dan? dus toornig, én ontzind
+Op eene ondankb re....
+                            PYLADÉS.
+                                  Nooit was Pyrrhus meer bemind.
+[p. 38]
+Wat meent ge, schoon ze u zélf van Pyrrhus waar gegeeven,
+Zy paaide u dan licht mét een glimp, én waar gebleéven.
+(755) Geloof me, ik zou uit spyt van dus myn min te zien
+Gehoond, in plaats van haar te schaaken, voor haar vliên.
+Hoe! wilt ge uw leevenstyd by zulk een vrouw verslyten,
+Die u vervloeken zal, én eeuwig u verwyten,
+Dat zy in Pyrrhus arm zou léggen blyde, én stil,
+(760) Zo gy niet....
+                            ORÉSTÉS.
+                              Daarom is  t, dat ik haar schaaken wil.
+Hoe Pyladés, zou  t haar na wénsch gaan? ik de smarte
+Van eene onnutte woede omdraagen in myn harte?
+Zoude ik vérr van haar vliên, op dat ik haar vergeet !
+O neen, ik wil, dat zy de hélft lyd van myn leed.
+(765) Te lang alleen gezucht, alleen beklaagd te weezen
+Verdriet me, ik wil, dat my die wreede eens weêr zal vreezen:
+En dat haar oog, gedoemd te schreijen tót in  t graf,
+Haar wreedheid weêr geeve al de naamen, die  k haar gaf.
+                            PYLADÉS.
+Die schoone naam heeft u gezantschap dan verkreegen,
+(770) Orést de schaaker.
+                            ORÉSTÉS.
+                                      Wél, wat ligt  er aan gelégen.
+Schoon Grieken van myn zórg trok een gewénschte vrucht,
+Trékt zy een mind re van myn tranen, én gezucht?
+En schoon men t huis myn hoofd mét lauw ren wilde sieren,
+Wat baat het my, zo ik tót spót bén van Epieren?
+(775) Maar luister Pyladés, ay hoor eens, hoe  t my leit
+Op  t harte; ik héb een walg van myne onnozelheid.
+Wélke onweêrstaanb re magt, wat Gódheên moogen haaten
+De onnozelheid, terwyl zy  t kwaad onstrafbaar laaten;
+Al  t leed dat my omringt, wyl ik  t niet héb verdiend,
+(780) Verwyt den Góôn hunne onréchtvaerdigheid, myn vriend.
+[p. 39]
+Ik wil hén réden tót die toornigheid verschaffen;
+Der straffe eerst waerdig zyn, eer zy my te onrécht straffen.
+Maar gy, myn Pyladés, hoe zyt ge zo geneigd
+Te deelen in de ramp, die my sléchts wordt gedreigd.
+(785) Uw vrindschap heeft u lang gewikkeld in myn rampen;
+Och al te lang! laat my alleen daar tégen kampen;
+Schuw een éléndige, vlied Pyladés, én spaar
+U zélve; ik héb nóch vrugt te hoopen van  t gevaar;
+Bréng aan de Grieken  t kind, hét doel, daar zy naar haaken.
+(790) Ga heen sléchts.
+                            PYLADÉS.
+                                  Neen, laat ons Hérmioné gaan schaaken.
+Een édelmoedig hart dringt op gevaaren in,
+Wat kan de vrindschap niet gesteeven door de min?
+Kom maaken wy den Griek fluks tót onze aanslag moedig;
+De vloot is vaerdig; weêr, én wind is ons voorspoedig.
+(795) Ik weet een donk re wég, én gang uit het Paleis:
+Gy ziet, hoe  t uitkomt op de zé na wénsch, én eisch.
+Nóch déze nacht zal ik uw buit, eer dat we scheijen,
+Door die verhoolen wég tót in uw schip geleijen.
+                            ORÉSTÉS.
+ k Misbruik uw goedheid; maar wyt my dat misbruik niet,
+(800) Om  t médelyden, dat gy hébt mét myn verdriet;
+Mét my éléndige, wien alles gaat begeeven;
+Van élk gehaat, én die myns ondanks blyf in  t leeven.
+Ach! kon ik u in een gelukkiger geval...
+                            PYLADÉS.
+Ay veins maar, én ik zal voldaan zyn heel, én al.
+(805) Maak niet, dat voor de tyd onze aanslag wérd geweeten;
+Gy moet Hérmioné, én haat, én min vergeeten
+Alleen tót t avond toe. Vaar wél, daar komt ze u by.
+                            ORÉSTÉS.
+Verzéker my van haar;  k verzéker u van my.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 40]
+
+                    TWÉDE TOONEEL.
+
+              HÉRMIONÉ, ORÉSTÉS, CLÉONÉ.
+
+                            ORÉSTÉS.
+NU hébt ge door myn zórg uw bruidegom behouwen;
+(810) De bruilóft wordt bereid, én Pyrrhus gaat u trouwen.
+                           HÉRMIONÉ.
+Zoo hoor ik, én dat gy my zócht, om  t huwlyksfeest
+Zélf voort te zétten; gy verplicht my op het meest.
+                            ORÉSTÉS.
+Zo geeft gy hém uw hart weêr over, als voor dézen?
+                           HÉRMIONÉ.
+Wie had geloofd, dat hy niet ongetrouw zou weezen?
+(815) Dat zyne vlam zo spaâ zich openbaaren zou,
+Hy weêr zou keeren, nu ik hém verlaaten wou?
+ k Geloof, dat hy den Griek vreest stóf tót wraak te geeven;
+Dat hém zyn voordeel, niet zyn min heeft aangedreeven;
+En dat myn oog op u had grooter heerschappy.
+                            ORÉSTÉS.
+(820) O neen, hy mint u, én  t is vrees, nóch veinzery.
+Uw oog doet, wat het wil, wie kan die kracht verdraagen,
+En zonder twyfel dacht gy hém niet te mishaagen.
+                           HÉRMIONÉ.
+Wat zoude ik doen, myn Heer? myn trouw was hém beloofd
+Van Vader; mag hém die door my weêr zyn ontroofd?
+(825) Prinséssen moogen zich uit liefde in de écht niet geeven;
+De eer van gehoorzaam zyn is ons alleen gebleeven.
+ k Was immers vaerdig om mét u van hier te gaan,
+Indien  t niet aan myn plicht, maar wil sléchts, had gestaan.
+                            ORÉSTÉS.
+Ha wreede, wist gy niet... Maar wélk een noodloos klaagen!
+(830) Uw hart was  t uwe, én  t stond u vry, dat op te draagen
+[p. 41]
+Aan die gy wilde. Ik hoopte, én mist myn hoop haar wit,
+Zo rooft gy my niet, maar misgunt my u bezit.
+Ook is  t myn ongeluk, niet gy, die ik beschuldig.
+Maar ik misbruik uw gunst, gy zyt te zeer geduldig.
+(835) Het was uw plicht;  t is waar. Wél is  t de myne uw vreugd
+Niet meêr te stooren mét myn klagte, én ongeneugd.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    DÉRDE TOONEEL.
+
+                   HÉRMIONÉ, CLÉONÉ.
+
+                           HÉRMIONÉ.
+WAt dunkt u van zyn toorn? was die niet zédig?
+                             CLÉONÉ.
+                                                                               
+  Waarlyk
+Zy was  t; maar  t leed, dat zo verkrópt wordt, is gevaarlyk.
+ k Beklaag hém, én te meer, om dat hy de oorzaak is
+(840) Van uwe trouw, die hém baart zulk een droefenis;
+Want nóch waar Pyrrhus niet tót déze trouw gedwongen,
+Ten waare Oréstés hém daar toe had aangedrongen.
+                           HÉRMIONÉ.
+Meent gy, dat Pyrrhus vreest? hy vreezen? wél, voor wien?
+Een vólk, dat Héctór nooit durfd onder de oogen zien?
+(845) Dat vaak, om  t afzyn van Achil in  t hart beneepen,
+Zyn schandlyk leeven bérgde in barrenende schépen?
+Dat nóch Héléne aan Troje, én, zonder straf der hoon,
+Zou vérgen, had haar niet gehaald Achilles zoon?
+Neen Cléoné, myn héld is meester van zyn zinnen;
+(850) Hy wil, al wat hy doet; zyn trouw spruit uit zyn minnen.
+Oréstés noeme my vry de oorspronk van zyn pyn;
+Ik wil nu van zyn klagt niet onderhouden zyn.
+Myn Pyrrhus keert weêrom, zég, kunt gy uit de trékken
+Myns aangezichts de vreugd myns harten wél ontdékken?
+[p. 42]
+(855) Ként gy myn Pyrrhus wél? hebt gy wél van zyn daân
+Gehoord? wat wond ren! maar daer is geen téllen aan.
+Hoe onversaagd is hy! hy weet niet, als van winnen;
+Hy is bevallig, en standvastig in zyn minnen,
+En zyn volmaaktheid....
+                             CLÉONÉ.
+                                      Veins: u médeminnarés
+(860) Komt u haar spyt, zo  t schynt, zelf klaagen, ô Prinsés.
+                           HÉRMIONÉ.
+Moet zy me nu verbiên myn vreugd in tóp te rékken!
+Vertrékken we van hier.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    VIERDE TOONEEL.
+
+        ANDROMACHÉ, HÉRMIONÉ, CLÉONÉ, CÉPHISE.
+
+                        ANDROMACHÉ.
+                                        Mêvrouw, wil niet vertrékken.
+Zo immer nédrigheid bewoog een grootsch gemoed,
+Zo zie hoe Héctórs weêuw valt Pyrrhus bruid te voet.
+(865) Ik kom u hier niet mét een weenend oog benyden
+Een hart, dat zich aan u opóff ren komt, én wyden.
+Neen, door zyns Vaders hand zag ik ter neêr gevéld,
+Op wien ik all myn hoop voor eeuwig had gestéld.
+Die zuiv re vlam, alleen voor Héctór aangestooken,
+(870) Is, toen myn Héctór sturf, met hém in  t graf gedooken:
+Maar ik héb nóch een zoon, én de ééne, óf de and re dag
+Bespeurt gy lichtlyk méde eens, wat een zoon vermag;
+Maar  k hoop niet, dat gy ooit zult weeten, wélk een lyden
+Ons om  t gevaar eens kinds, wat angst ons komt bestryden,
+(875) Wanneer van al de schat, die immer hart beviel,
+De laatste ontroofd wordt aan een troostelooze ziel.
+Ach! toen de Trojers, moê van tien jaar kryg te voeren,
+Uws Moeders dood uit wraak in heete toorne zwoeren,
+Maakte ik dat Héctór haar beschérmde; gy kunt nu
+(880) Het zélfde doen, bérg gy zyn zoon, het staat aan u.
+[p. 43]
+Of vreest men voor een kind beroofd van hulp, én vrinden;
+Laat ons een toevlugt dan op eenig eiland vinden.
+Daar bann men my mét hém,  k zal dérwaarts gaeren gaan
+Hém schreijen leeren, én nooit na de wraak te staan.
+                           HÉRMIONÉ.
+(885)  k Begryp uw droefheid; maar gy weet, Mêvrouw, myn plichten
+Zyn, als myn Vader spreekt, het zwygen, én het zwichten.
+ t Is hy, die Pyrrhus dryft tót de oorzaak van uw smart.
+Maar gy vermoogt veel meer, dan ik, op Pyrrhus hart;
+Zo die wil, dat uw zoon zal in het leeven blyven,
+(890) Dat hy het vonnis vélle, ik zal het onderschryven.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    VYFDE TOONEEL.
+
+                 ANDROMACHÉ, CÉPHISE.
+
+                        ANDROMACHÉ.
+DIe wreede voegd de smaad nóch by haar weigering.
+                             CÉPHISE.
+Indien men Pyrrhus op haar raad eens onderging,
+Eén lonk zou haar, én licht gantsch Grieken wérk bereiden:
+Maar daar komt Pyrrhus zélf.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    SÉSDE TOONEEL.
+
+        PYRRHUS, ANDROMACHÉ, PHOENIX, CÉPHISE.
+
+                            PYRRHUS.
+                                                WAar heen gaat gy me leiden?
+(895) Verwachtte de Prinsés my hier ter plaatse niet?
+                            PHOENIX.
+Ik dacht het.
+            ANDROMACHÉ, tegen CÉPHISE.
+                    Zie, vermag myn oog op Pyrrhus iet.
+                            PYRRHUS.
+Wat zégt ze?
+[p. 44]
+                        ANDROMACHÉ.
+                      Groote Goôn, hoe zyt ge dus verbólgen?
+Elk vliedt voor my.
+                            PHOENIX.
+                              Laat ons Hérmioné gaan vólgen.
+                             CÉPHISE.
+Waar toe dit zwygen, breek uw opzét, spreek den Héld.
+                        ANDROMACHÉ.
+(900) Hy heeft myn zoon beloofd.
+                             CÉPHISE.
+                                                        Nóch niet ter hand
+gestéld.
+                        ANDROMACHÉ.
+Zyn stérven is bestémd; ô onuitspreekb re élenden!
+                            PYRRHUS.
+Verwaardigt zy wél ééns haar oog na my te wénden!
+Wat trótsheid!
+                        ANDROMACHÉ.
+                      Zie, myn klagt verbittert hém, kom straks,
+Gaan wy van hier.
+                            PYRRHUS.
+                            Men geef den Griek Astyanax.
+                        ANDROMACHÉ.
+(905) Ay blyf; wat maakt ge? eilaas! gy waart tót nu de hoeder
+Myns kinds, nu geeft ge hém ter dood; ay geef de moeder
+Ook over, wien gy straks nóch uwe vrindschap zwoert.
+Is alle érbarming zo uit Pyrrhus hart vervoerd?
+Ik bid vergiffenis; ay Pyrrhus, spaar hém  t leeven.
+                            PYRRHUS.
+(910) Uw béde komt te laat; myn woord is wég gegeeven.
+                        ANDROMACHÉ.
+Helaas! gy tartte flus om my zo veel gevaar.
+                            PYRRHUS.
+Toen was ik blind, Mêvrouw; nu zien myne oogen klaar.
+Toen stond het in myn magt Astyanax te bérgen;
+Maar uwe trótsheid wilde aan my die gunst niet vérgen.
+(915) Nu is  t te laat.
+[p. 45]
+                        ANDROMACHÉ.
+                                Deede u myn zuchten niet verstaan,
+Hoe  k vreezde, dat gy my uw bystand af zoudt slaan.
+Myn staat kwam my in  t hoofd, én wat ik was voordézen.
+Vergeef het my, vreezde ik u moeijelyk te weezen.
+Gy ként eens Konings hart. Ach! buiten u alleen
+(920) Omhélsde Andromaché nooit eens verwinnaars beên!
+                            PYRRHUS.
+O neen; gy haat my tót in  t binnenst van uw harte;
+In  t minste aan my verplicht te weezen doet u smarte;
+Uw zoon zélf, nu het wit van uw beneepen ziel,
+Waar  t van uw haat licht, zo ik hém in  t leeven hiel.
+(925) Verachting, haat, én hoon,  t komt me al gelyklyk praamen;
+Gy haat my meer, Mêvrouw, dan al de Grieken saamen.
+Voldoe die êd le toorn én voe die tót uw straf,
+Ik ga, vaar wél.
+                        ANDROMACHÉ.
+                          Ik vólg myn Héctór in zyn graf.
+                             CÉPHISE.
+Mêvrouw.
+                        ANDROMACHÉ.
+                  Héb ik hém nóch iets meerders voor te léggen?
+(930) Hy is de brón myns leeds; behoef ik  t hém te zéggen.
+Myn Heer, aanschouw, aanschou myn jammerlyke stand;
+Ik zag myns vaders dood,  k zag Troje in lichte brand;
+ k Zag al myn broeders door het wreede lémmer sneeven;
+Ik zag, hoe deerelyk myn Héctór raakte om  t leeven;
+(935) Men voerde mynen zoon, én my gevangen heen.
+Ik leef, én ly  t; maar  k leef, én ly  t om hém alleen.
+Ja, dat nóch meer is,  k héb my zélven troosten kunnen,
+Wyl  t lót ons, in uw dienst te leeven, wou vergunnen.
+ k Was bly, dat, wyl myn zoon, gesprooten uit een ry
+(940) Van Vorsten, dienen moest, diende onder uw voogdy.
+Zyn kérker, maakte ik staat, zou hém tót toevlucht strékken.
+Vórst Priams ootmoed konde uws vaders gunst verwékken;
+[p. 46]
+ k Verwachtte van den zoon nóch meer bescheidenheid.
+Vergeef  t my, Héctór, heb ik my te veel gevleid;
+(945)  k Durfde op uw vyand niet, als dapperheid, vermoeden;
+En dat hy was te fier, om op een kind te woeden.
+Ach, was hy fier genoeg! en gunde hy ons  t graf,
+Dat myne plicht, én zórg aan uwe doodbus gaf;
+En deed hy, staakende zyn haat, én onze élénden,
+(950) Vereenigd in die tómbe, ons droevig leeven énden!
+                            PYRRHUS.
+Ga, wacht me, Phoenix.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                   ZÉVENDE TOONEEL.
+
+             PYRRHUS, ANDROMACHÉ, CÉPHISE.
+
+                            PYRRHUS.
+                                          BLyf, Mêvrouw, én zie my aan.
+Het kind, daar gy om schreit, is u nóch toe te staan.
+Ik zie myns ondanks, door uw traanen te verwékken,
+Dat zy tót waapens, om my te bevéchten, strékken.
+(955)  k Dacht, dat myn komst uw haat én toorne wétten zou.
+Maar sla uw toornig oog eens op my neêr, Mêvrouw;
+En zie eens, of het myn zweemt na een straffen réchter.
+Waar zweemt het meer na, na uw toevlucht, óf bevechter?
+Hoe port ge my dan, om u zélven te verraân?
+(960) Ter liefde uws zoons, min my weêrom, óf  t is gedaan.
+Ik zélf, ik noodig u, om hém het lyf te bérgen.
+Zal ik al zuchtende u, Mêvrouw, zyn leeven vérgen,
+Begeert ge, dat ik u om  t jongske vall te voet?
+Bérg gy zyn lyf, het staat aan u, zie, wat gy doet.
+(965) Ik breek de kétting van zoo veel gezwoorene eeden,
+ k Haal op myn hals de haat van all de Grieksche stéden;
+ k Verzénd Hérmioné, én druk haar zulk een hoon
+Op  t voorhoofd, in de plaats van een beloofde kroon;
+ k Leij u ter Tempel, daar zy Koningin moest worden;
+(970) De Rykskroon zal uw kruin, in plaats van haare, omgorden;
+[p. 47]
+Zyn dat aanbiedingen, die te verachten staan?
+Mêvrouw, ik zég  t u, gy moet heerschen, óf vergaan.
+Myn hart, vol wanhoop, nu een jaar lang afgeslagen,
+Kan die onzékerheid zyns lóts niet meer verdraagen.
+(975) Al lang genoeg gevreesd, gezucht, gedreigd, getracht.
+Ik stérf, zo ik u mis, maar ook zo  k langer wacht.
+Bedénk u wél, ik ga; maar kom u straks geleiden
+Tót in de Témpel, daar uw zoon my zal verbeiden.
+Mêvrouw, daar zult ge my gedweeg zien, of ontzind,
+(980) U kroonen, óf het hart doorstooten van u kind.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                   ACHTSTE TOONEEL.
+
+                 ANDROMACHÉ, CÉPHISE.
+
+                             CÉPHISE.
+Mêvrouw, ik wist wél, dat gy nóch, gelyk voordézen,
+In spyt van Grieken, van uw lót zoud meester wezen.
+                        ANDROMACHÉ.
+Helaas! waar spreekt gy van? wat schiet my over, als
+Te stémmen, dat men brénge Astyanax om hals.
+                             CÉPHISE.
+(985) Uw liefde is Héctór nu ten uitersten gebleeken.
+Hy zoude uw straffe deugd licht houden voor gebréken,
+Licht zélf u raaden aan tót die gedwongen trouw.
+                        ANDROMACHÉ.
+Hoe, dat ik Pyrrhus tót zyn naazaat kiezen zou?
+                             CÉPHISE.
+Ja, om het hoofd zyns kinds niet te verwaareloozen.
+(990) Of meent ge, dat daarom zyn bleeke schim zou bloozen?
+En hy u houden zoude uit eens verwinnaars béd,
+Dat u weêrom zo hoog, als uw voorouders, zét?
+U meester maakt van alle uw vyanden te gader?
+Hém doet vergeeten, dat Achillés was zyn vader?
+(995) En al de daaden, die hy immer heeft verricht?
+                        ANDROMACHÉ.
+Dit wérk, schoon hy  t vergeet, is my van meer gewigt.
+[p. 48]
+My heugt nóch, wélk een dood myn Héctór moest bezuuren,
+Die zonder lykeer wierd gesleept om onze muuren;
+Hoe Héctórs vader door zyn staal viel voor myn voet
+(1000) Aan  t outer, dat hy vatte, én verwde mét zyn bloed.
+Dénk eens, Céphise, dénk eens aan die nacht der nachten,
+Die eeuwig den Trojaan zal blyven in gedachten.
+Verbeeld u Pyrrhus eens; hoe mét een woedend oog,
+Hy op het licht der vlamme, als dol, het hóf doorvloog;
+(1005) Zich maakte een wég, door all myn broeders, die hy vélde,
+En dus den Grieken een verdoemlyk voorbeeld stélde.
+Hoe tróts de winnaar schreeuwde, én lust schépte in de klagt
+Der stérvenden, wien  t vuur, én staal om  t leeven bragt.
+Dénk, hoe ik was ontstéld, wanhoopende, én verlégen.
+(1010) In zulk een schyn kwam ons Achillés zoon eerst tégen.
+Dit zyn zyn daân, waarom ik steeds in traanen smilt;
+Dit is de bruidegom, die gy my geeven wilt.
+Hoe! zoude Andromaché deel hébben aan die schande?
+O neen, hy neem veeleer ons tót zyne ófferhande,
+(1015) Nooit schóld ik hém de schuld van zoo veel jammer kwyt.
+                             CÉPHISE.
+Kom gaan wy dan uw zoon zien slachten,  t is hoog tyd,
+Men wacht alleen naar u. Wél hoe? gy schynt te schrikken.
+                        ANDROMACHÉ.
+Hoe moogt ge my met dit gedénken  t hart doorprikken!
+Céphise, zoude ik hém zien stérven? ik den zoon,
+(1020) En  t beeld van Héctór, all myns harten lust, zien doôn!
+Hy is het eenig pand van Héctórs trouwe, én minne.
+My heugt, hélaas! die dag, dat hy, te fier van zinne
+Achillés zócht, een tógt, die my zo zuur bekwam,
+Dat hy het kleine kind eerst in zyne armen nam;
+(1025) Myn, liefste, zeid hy, wyl ik schreide, én hy myn traanen
+Afdroogde, niemand kan zich onverwinlyk waanen.
+Ik laat u onzen zoon, als  t pand van onze min;
+Indien ik stérf, dat hy in u zyn vader vinn 
+Indien  t geheugen van onze écht u  t bloed in de ader
+[p. 49]
+(1030) Verkwikt, zoo toon den zoon, hoe lief u was de vader.
+En zoude ik lyden, dat men zo dat bloed vergiet ?
+De Trooische Koningsstam ga in die télg te niet?
+Ontménschte Koning! moet hy myne misdaad boeten?
+Ik haatte u, maar zal hy die haat bezuuren moeten?
+(1035) Verweet hy u de dood der zynen immermeer?
+Nooit bragt de kénnis van zyn rampen hém zo veer.
+Maar ach! myn zoon, gy stérft, houdt myne hand de dégen,
+Daar u de wreede meê te slachten dreigt, niet tégen.
+Zoude ik u sneuv len zien, daar ik u rédden kan?
+(1040) Gy zult niet stérven; ach! myn hart verschrikt  er van.
+ k Ga Pyrrhus spreeken; neen, myn staat wil  t niet gehengen;
+Doet gy  t Céphise.
+                             CÉPHISE.
+                              Maar, wat boodschap zal ik bréngen?
+                        ANDROMACHÉ.
+Zég, dat des moeders liefde, én zucht tót haaren zoon...
+Maar zou  t in Pyrrhus hart bestémd zyn hém te doôn?
+(1045) Een dulle liefde zou die Pyrrhus zo vervoeren!
+                             CÉPHISE.
+Besluit; zyn wéderkomst zal anders u ontroeren.
+                        ANDROMACHÉ.
+Wél, ga, verzéker hém...
+                             CÉPHISE.
+                                      Waar van? van uwe trouw?
+                        ANDROMACHÉ.
+Ach! is ze wél aan my, schoon ik die geeven wou?
+O asch van Héctór! ô Trojaanen! ô myn Vader!
+(1050) O zoon! geen doodsangst raakte een moeder immer nader!
+Kom gaan we.
+                             CÉPHISE.
+                        Waar, Mêvrouw? én wat besluit ge dan.
+                        ANDROMACHÉ.
+Raad pleegen op het graf, én doodbus van myn man.
+
+                        Eind van het dérde Bedryf.
+
+
+                             Continue
+
+[p. 50]
+
+                    VIERDE BEDRYF.
+
+                    EERSTE TOONEEL.
+
+                 ANDROMACHÉ, CÉPHISE.
+
+                             CÉPHISE.
+IK twyfel niet, óf  t is uw Héctór, die van binnen
+Uw ziel beweegt, én dus verandert uwe zinnen.
+(1055) Hy wil, dat Troje eens weêr verryze door de moed
+Van dit gelukkig kind, dat hy u spaaren doet.
+Gy hoort, hoe Pyrrhus u belooft het jongskens leeven:
+Hy wacht alleen één woord, om  t kind u weêr te geeven.
+Mêvrouw, geloof zyn drift; om uwe wédermin
+(1060) Verbandt hy roem, én staat, én plichten uit zyn zin.
+Hy geeft u magt op zich, én all zyne onderzaaten;
+Verdient die winnaar, dat men hém zo bits zou haaten?
+Op Grieken is hy fél gebeeten om hunn wraak;
+En neemt de zaak uws zoons ter harte, als zyne zaak;
+(1065) Hy komt hunn woede voor; mist, om hém te bewaaren,
+Zyne eygen lyfwacht; ja hy wil zich zélf niet spaaren,
+Maar men verwacht u in de Témpel, om de Góón...
+                        ANDROMACHÉ.
+Ik zal  er komen; maar bezoeken we eerst myn zoon.
+                             CÉPHISE.
+Wat haast heeft dit, Mêvrouw? hier na zult gy hém kunnen
+(1070) Bezoeken naar uw lust; wie zal het u misgunnen?
+Geef aan uw gunst, én vreugd dan vry een open véld,
+Als niemand uw bezoek meer gade slaat, óf télt.
+O! wélk een vreugd is  t, dat ge uw kind moogt op zien wassen,
+Niet om, gelyk een slaaf, op zynen Heer te passen;
+(1075) Maar als zyne ouders, om te heerschen, én gebiên!
+                        ANDROMACHÉ.
+Neen, neen, Céphise, gaan wy hém voor  t laatste zien.
+                             CÉPHISE.
+O Góôn! wat zégt ge?
+[p. 51]
+                        ANDROMACHÉ.
+                                Ach myn Céphise, ik zal my uiten;
+En  t geene ik in myn hart besluit voor u ontsluiten.
+Uw trouw is my heel klaar gebleeken in myn pyn;
+(1080) Maar béter, dacht ik, dat ik u bekénd zou zyn.
+Kan  t in u komen, dat ik ongetrouw zou weezen
+Een Egemaal, wiens ziel in myne schynt verreezen?
+Zoud ik zo veele doôn ontrusten gaan in  t graf,
+Uit inzigt van myn rust? gelooft gy my zo laf.
+(1085) O neen, aan Héctórs asch héb ik myn min gezwooren;
+Dies réd ik sléchts zyn zoon, die anders gaat verlooren.
+Want Pyrrhus zweert my  s kinds beschérming mét zyn trou;
+Eene eed, waar méde ik my geheel te vréden hou.
+Ik kén hém, hy is zo oprécht van hart, als héftig,
+(1090) En wat hy immermeer belooft, volvoert hy déftig.
+Ook steun ik op de wraak der Grieken; hunne haat
+Zal Pyrrhus prikk len tót beschérming van myn zaad.
+ k Zal dan aan Pyrrhus, wien ik my moet overgeeven,
+Het overig beloop verzék ren van myn leeven.
+(1095) Ik zal hém, mét de trouw te ontfangen van zyn hand,
+Verbinden aan myn zoon mét eene onbreekb re band.
+Maar, dit gedaan, zal  t aan myne eigen hand niet schorten,
+ t Verfoeilyk ov rig deel myns leevens af te korten;
+My kwytende, terwyl ik schand, nóch opspraak ly,
+(1100) Aan Pyrrhus, aan myn zoon, aan myn gemaal, aan my.
+Zulk eene onnooz le list heeft myne min verzonnen;
+Hier toe heeft Héctór my in  t énd beweegen konnen;
+By wien myn veege ziel mét vreugd ten grave duikt,
+Céphise, én  t voegt u, dat gy my myne oogen luikt.
+                             CÉPHISE.
+(1105) Ach! dénk niet, dat ik u zou kunnen overleeven!
+                        ANDROMACHÉ.
+Neen, leef, én wacht u dit gebód te wéderstreeven.
+Uw zórg vertrouw ik al myn schat, én eenig goed.
+Ach! leefde ge ooit om my, leef nu om Héctórs bloed.
+Ay, weiger niet het bloed van Troie te bewaaken;
+[p. 52]
+(1110) Want aan veel Koningen zult ge u hoognoodig maaken.
+Hou  t oog op Pyrrhus, maak, dat hy zyne eed niet breek;
+En dat men zomtyds ook van my, is  t noodig spreek:
+Hou hém myn huwlyk, én zyne eed steeds in gedachten;
+Dat hy uit plicht, én eer die eeden moet betrachten;
+(1115) Dat ik, die mynen zoon, hém nalaat, élk doe zien,
+Hoe  k Pyrrhus acht, én dat ik haat, nóch wraak verdien.
+Doe mynen zoon de daân van zyn voorouders kénnen;
+En moedig hém langs die beroemde baan te rénnen.
+Vertél myn zoon wat hén befaamd maakte, én gevreesd;
+(1120) Maar meerder wat zy deên, dan wat zy zyn geweest.
+Spreek hém geduurig van de deugden van zyn vader:
+En zomtyds ook van my; helaas! wie raakt hy nader?
+Maar dat hy op de wraak niet dénke, want hy heeft
+Een meester, wien hy dank moet weeten, dat hy leeft.
+(1125) Hy boog niet op zyn stam, al spruit hy uit de béste,
+Uit Héctórs stam, hy is het overschót, het léste.
+En om dat overschót raakte ik op ééne tyd
+De prikkels van myn haat, én min, ja  t leeven kwyt.
+                             CÉPHISE.
+Ach!
+                        ANDROMACHÉ.
+        Vólg my niet, indien uw ziel, te stark bewoogen,
+(1130) Zich zélf niet toevertrouwt  t bedwingen van uwe oogen.
+ k Hoor iemand, króp u in, én dénk dat aan uw trouw
+Alleen hangt al  t geluk van Héctórs zoon, en vrouw.
+Het is Hérmioné; laat ons haar bitsheid vlieden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    TWÉDE TOONEEL.
+
+                   HÉRMIONÉ, CLÉONÉ.
+
+                             CLÉONÉ.
+IK kan niet dénken, wat die stilheid moog bedieden.
+(1135) Gy zwygt, Mêvrouw, én schynt niet eens ontroerd van geest,
+Schoon gy van Pyrrhus zyt zo slécht onthaald geweest.
+Kunt ge in die euv le stórm u zo te vréden geeven?
+Gy pleegt, om  t peinzen op Andromaché, te beeven;
+[p. 53]
+En fél te ontvonken; in uwe oogen blaakte een vonk
+(1140) Van toorne, als Pyrrhus haar vereerde met één lonk.
+Nu trouwt hy haar, én durft, u hoonende, vertreeden,
+Met haar te trouwen, zyn belóften, én zyne eeden;
+En uwe mond blyft stom, én heeft nóch tong, nóch stem,
+Om u mét schélden te beklaagen over hém?
+(1145) Ik vrees die stilheid; ach! die kalmte doet my schroomen,
+Het waar veel béter, dat....
+                           HÉRMIONÉ.
+                                      Doet gy Oréstés komen?
+                             CLÉONÉ.
+Hy komt, Mêvrouw, hy komt; gy zult hém daadlyk zien,
+Verlangende uw bevél afwachten op zyn kniên,
+Hy troost zich zonder loon zyn dienst u op te draagen;
+(1150) Uw oog zal, stél het vast, Oréstés staâg behaagen.
+Daar komt hy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    DÉRDE TOONEEL.
+
+              ORÉSTÉS, HÉRMIONÉ, CLÉONÉ.
+
+                            ORÉSTÉS.
+                    ACh, Mêvrouw! mag  t éndlyk ééns geschiên,
+Dat ik, u zoekende, u gehoorzaam bén, én dien?
+Of vleidt me een valsche hoop! beweegt u myne smarte,
+Dat gy me ontbiedt? voelt gy ontroering in uw harte?
+(1155) Mag ik gelooven, dat ge uw oog ontwapend vindt
+Van toorne?
+                           HÉRMIONÉ.
+                   k Wil eens zien, óf gy me oprécht bemint.
+                            ORÉSTÉS.
+Of ik u minne! ô Góôn! zo veel, vertwyfelde eeden
+Myn vlucht, myn weêrkomst, myn ontzag, myn dulligheeden,
+Myn wanhoop, dit gezicht, dat steeds in traanen smélt
+(1160) Wat zyn  t, als tékens van die liefde, én zyn gewéld?
+                           HÉRMIONÉ.
+ k Geloof het; wreek me sléchts
+[p. 54]
+                            ORÉSTÉS.
+                                              Wélaan, ik zal u wreeken.
+Moet ik het oorlógsvuur in Grieken weêr ontsteeken?
+Moet onze lóf daar in bestaan? dat wy bekleên,
+Ik Agamémnons naam, én gy die van Héleen?
+(1165) Kom, laat ons dan de ramp van Troje in Grieken wékken;
+En geen verbasterd zaad van beider oud ren strékken.
+Kom, vlieden we, ik bén reê.
+                           HÉRMIONÉ.
+Neen, blyven we, myn Heer.
+Men zoek zo vérr geen wraak van myn beleedigde eer.
+Hoe, zoude ik lyden, dat men my hier zou verachten.
+(1170) En langzaam, vérr van huis, myn wraak, hunn straf verwachten?
+Ik hoopen op het lót, op de uitkomst van een stryd,
+Daar de geréchtste zaak in  t énd vaak onrécht lydt?
+O neen; op myn vertrék moet gansch Epieren weenen;
+Wilt gy my wreeken, wreek my daadelyk; ga heenen;
+(1175) Al uw gemar neem ik voor weig ring; gy verkwist
+Maar tyd; vlieg vaerdig na de kérk; vermoord
+                            ORÉSTÉS.
+                                                                  Wie is  t?
+                           HÉRMIONÉ.
+De Vórst.
+                            ORÉSTÉS.
+                De Vórst?
+                           HÉRMIONÉ.
+                                Gy schynt te wankelen, te schroomen;
+Ga heen vry, ga, én vréés, dat ik u weêr doe komen.
+Haal my geen réchten op, die  k willens ga voorby;
+(1180)  t Misstaat u Pyrrhus te réchtvaerdigen voor my.
+                            ORÉSTÉS.
+Ik hém réchtvaerdigen? ô neen, Mêvrouw, uw goedheid
+Maakt hém misdaadig; vult myn boezem mét verwoedheid.
+Neen, wreeken we ons; maar in een schandeloozer schyn.
+[p. 55]
+Laat ons zyn vyanden, én niet zyn moorders zyn;
+(1185) Laat ons mét eenen van zyn neêrlaag zeegepralen.
+ k Bén hier gestierd, maar niet om Pyrrhus hoofd te haalen;
+Ik nam het ampt van die gezantschap niet op my,
+Om my te kwyten door verraad, én moordery.
+In aller Góden naam, laat Griekenland hêm straffen,
+(1190) En de algemeene zaak hém loon na wérk beschaffen,
+Dénk, dat hy Koning is; dat zulk een woord genoemd...
+                           HÉRMIONÉ.
+ t Zy u genoeg, dat ik hém héb ten val gedoemd;
+Dat ik een vonnis, tót hérstélling myner eere,
+Door hém beleedigd, van Oréstés hand begeere;
+(1195) Dat gy Hérmioné mét hém te slagten wint;
+En éndlyk, dat ik haat hém, die ik héb bemind.
+ k Verbérg  t niet; hy geviel my nóch niet lang geleeden;
+ t Zy dan door Vaders last, óf eigen zinlykheeden;
+ t Is évenveel, zie toe, dat ge op uw zaaken lét.
+(1200) In weérwil van myn min, zo schandlyk afgezét,
+In weêrwil van de walg, die my zyn misdaân geeven,
+ k Vergaf  t hém alles licht, indien hy bleeve in  t leeven.
+Vertrouw geen gramschap, die zo wyflend is, myn Heer;
+Want stérft hy héden niet,  k min hém licht mórgen weêr.
+                            ORÉSTÉS.
+(1205)  k Zal hém de hoop van die vergifnis wél belétten,
+Zyn dood staat vast; maar zég, hoe is die voort te zétten.
+Men hélpt zo op een sprong een Koning niet aan kant.
+Wat veilig middel, dat de Vórst werde aangerand.
+ k Stél in zyn koninkryk zo éven eerst myn voeten,
+(1210) En wilt ge, dat myn hand het daadlyk om zal wroeten:
+De Vórst moet stérven, én op dat men dat beschikk ,
+Geeft gy me sléchts één dag, één uur, één oogenblik;
+En wilt nóch, dat ik hém afmaake in ieders oogen.
+ k Bén vaardig tót zyn straf, maar zo gy kunt gedoogen
+(1215) Een weinig uitstél, én dat ik my moog beraân
+Op plaats, én wys, hoe ik de manslagt moet begaan,
+Zo moogt ge u van zyn dood te nacht verzékerd houwen.
+[p. 56]
+                           HÉRMIONÉ.
+Maar midlerwyl zou hy mét Héctórs wéduw trouwen.
+Reeds is hunne eertroon in de Témpel opgericht,
+(1220) Myn hoon bevéstigd, én zyn misdaad in het licht.
+Waar wacht men na? hy schynt u zélf zyn hoofd te bieden,
+En treedt ter feeste, alleen verzéld mét édellieden.
+Zyn lyf, én hófwacht houdt omsingeld Héctórs zoon;
+En Pyrrhus geeft zich bloot aan de arm, die hém wil doôn.
+(1225) Wilt gy, zyns ondanks, hém het schuldig leeven spaaren;
+Ga liever al myn vólk, én  t uw by één vergaâren.
+Beweeg uw vrinden, al de myne zyn bereid.
+Ik wordt van hém veracht, gy wordt van hém misleid,
+De Grieken, om die hoon zo wél, als wy, ontsteeken,
+(1230) Verlangen, zich aan dien meineédigen te wreeken.
+Spreek, én myn vyand kan zyn val niet wéderstaan,
+Of liever, laat alleen de Grieken maar begaan.
+Ga gy hén voor, óf vólg hén in die éd le tooren,
+En kom my niet, als in zyn bloed gevérwd, te vooren;
+(1235) Ga heen, én in die staat wees zéker van myn hart.
+                            ORÉSTÉS.
+Maar dénk, Mêvrouw...
+                           HÉRMIONÉ.
+                                  Myn Heer,  t is al te lang gemard;
+ k Ontsteek in toorn om al die rédenkavelingen;
+ k Geef u de midd len om u in myn gunst te dringen,
+ k Geef raad tót uwe rust; maar  k zie, gy hébt in  t zin
+(1240) Niets te verdienen, én te klaagen steeds van min.
+Ga heen, roem élders uw standvastheid; ga weêr doolen
+Op nieuw, laat my de zórg van myne wraak bevolen.
+ k Bén in myn hart beschaamd, om  t uiten van die gunst.
+Het afslaan van een beê wordt by de minnaars kunst.
+(1245) Ik zal hém, zonder u, wél in de Témpel vinden,
+En doen,  t geen gy om my geen moed hébt te onderwinden.
+Ik zal hém, (schoon myn klagt niets op Oréstés won)
+Zélf  t hart wél tréffen, dat ik nimmer raaken kon;
+Dan myn bebloede vuist voorts op my zélven wenden,
+[p. 57]
+(1250) En,  t zy u lief, óf leed, ons bey ten grave zénden.
+Het zal my, hoe ik ook gehoond bén, minder pyn
+Mét hém te stérven, als mét u te leeven zyn.
+                            ORÉSTÉS.
+Neen, hy zal dat geluk niet van uw hand verwérven;
+De Koning zal geen dood, dan van de myne stérven.
+(1255) Uws vyands bloed moet door Oréstés zyn gespild,
+En gy zult myne dienst érkénnen, zo gy wilt.
+Wat zég ik, zo gy wilt! Ay, laat ik hoopen moogen;
+Verschoon een minnaar, wien de zinnen zyn vervloogen,
+Wien, boven zyn geluk,  t gelukkig stérven kwélt
+(1260) Van een ondankb re, om dat uw mond zyn vonnis vélt.
+                           HÉRMIONÉ.
+Ga heen sléchts, én laat my voor uw vergélding zórgen;
+Maar dat de vloot ter vlucht vervaerdigd wérd voor mórgen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    VIERDE TOONEEL.
+
+                   HÉRMIONÉ, CLÉONÉ.
+
+                             CLÉONÉ.
+Mêvrouw, gy vliegt in uw bedérf: zo groot een zaak...
+                           HÉRMIONÉ.
+Ik lach mét myn bedérf, én doel sléchts op myn wraak.
+(1265) Ja  k twyfel zélfs, al zal hy zyn belóften houwen,
+Of ik  t op and re, als op my zélven moet vertrouwen.
+De Vórst is in zyn oog min schuldig, dan in  t myn .
+Ook kan hy faalen, én myn hand zou wisser zyn.
+Ach wat vermaak! mogt ik my zélve aan Pyrrhus wreken.
+(1270) Myn hand beschouwen, mét  s verraders bloed bestreken!
+Mogt ik, tót meerd ring van myn vreugd, én zyne pyn,
+Zyn minnaarés verbiên by zyne dood te zyn.
+Deed hém Oréstés mond, als hém zyn hand aanrandde,
+Tóch weeten, dat hy sturf alleen myne ófferhande.
+(1275) Ga heen, én zég hém, dat de ondankb re weeten moet,
+ t Is myne haat alleen, niet Grieken, die  t hém doet.
+Ga, vlieg, myn Cléoné, myn wraak is gansch verlooren,
+[p. 58]
+Ten zy hy stervend weet, dat ik zulks héb beschooren.
+                             CLÉONÉ.
+ k Zal u gehoorzaam zyn. Maar wie komt daar? beschouw;
+(1280) Wie dacht dit? Góden!  t is de Koning zélf, Mêvrouw.
+                           HÉRMIONÉ.
+Ga, vólg Oréstés, vlieg; én zég, kunt gy hém vinden,
+Hy moet, voor hy my spreeke, óf zie, niets onderwinden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    VYFDE TOONEEL.
+
+              HÉRMIONÉ, PYRRHUS, PHOENIX.
+
+                            PYRRHUS.
+ k ZIe gy verwachtte my hier niet, Mêvrouw; én  t schynt,
+Dat myne komst uw hart geheel ontroert, én pynt.
+(1285) Maar dénk niet, dat ik hier kom, om mét schyn van réden
+Voor u myn misdaad te verbloemen, óf bekleeden.
+ t Is my genoeg, dat my myn hart in  t heimlyk doemt.
+ t Geen ik niet eerlyk achtte, én héb ik nooit geroemd.
+ k Trou mét een Trojaaninne, én wil het niet ontkénnen,
+(1290) Dat ik myn trouwbelofte aan u, daar door ga schénnen.
+Een ander zeide u licht, dat buiten ons, in  t véld
+Voor Troje, onze écht wierd door onze ouders opgestéld,
+En, zonder onze liefde in  t minst eens raad te vraagen,
+Dat gy aan my, én ik aan u wierd opgedraagen.
+(1295) Maar neen, Mêvrouw; ik héb hun woord gestand gedaan,
+En nam het huuwelyk door myn gezanten aan.
+Vérr van  t hérroepen, héb ik zelve u in myn paalen,
+Als myn verloofde, doen door myn gezanten haalen.
+En schoon een ander oog alreê de plaats in  t hart
+(1300) Bezét had, én myn ziel bestórmde, én hield benard.
+Myn opzét échter was, die nieuwe vlam te dooven;
+Ik docht, myn woord komt met gemak die tógt te boven.
+ k Ontfing u in myn ryk, gelyk een Koningin,
+En hoopte, dat myne eed voldoen zou voor myn min.
+(1305) Maar ach! myn min wou dit niet dulden.  k Word gedreeven,
+Om Héctórs wéduw, die my vloekt, myn hart te geeven.
+[p. 59]
+Wy sleepen teegens wil de één de and re na  t autaar,
+Op dat ons beide daar de Trouw voor eeuwig paar .
+Schéld my, Mêvrouw, schéld een verraader, die  t wil weezen,
+(1310) Hoewél hy  t is mét schaamte; ik zal  t verwyt niet vreezen.
+Neen, vérr van klaagen, dat uw toorn my onrécht doet,
+Zal ik door schélden troost ontfangen in  t gemoed.
+Geef me al de naamen, die trouwloozen zyn te geeven.
+Ik vrees u zwygen meer, dan vloeken;  k héb misdreeven;
+(1315) Myn schuldig hart vol van getuigen, vol van spyt,
+Verwyt my zoo veel meer, als gy my min verwyt.
+                           HÉRMIONÉ.
+Het is my lief, dat gy uw schuld niet wild verbloemen;
+Maar door bekéntenis u eigen zélven doemen,
+En, wyl gy tóch de band van uw belóften breekt,
+(1320) Dat ge als misdaadiger, uw misdaadt tégen spreekt.
+Ook is  t geen réden, dat zo groote Hélden zouden
+Zich binden aan de wét van slaafsch hun woord te houden.
+Neen, de ontrouw kittelt u; gy hébt me sléchts gezócht,
+Om dat gy u daar van by my te roemen dócht.
+(1325) Hoe! zonder dat u plicht, of eer, of iets verbinde,
+My aan te zoeken, daar ge Andromaché beminde,
+My weêr verlaaten, weêr verzoeken, gaan weêr heen
+Van Héctórs wéduw, na de dóchter van Heleen;
+Dan een Prinsés, én dan weêr een slaavin te kroonen,
+(1330) Zich dan van Troje, dan van Grieken vyand toonen;
+Past eenen Héld wél, die na récht, nóch réden hoort,
+En, meester van zich zélf, geen slaaf is van zyn woord.
+Op dat hy zyne bruid zou dienst doen, én behaagen,
+Kreunt hy zich niet de naam van trouweloos te draagen.
+(1335) Zyne éd le moed dingt naa myn traanen, op dat hy
+In de armen van zyn bruid zich om myn druk verbly .
+Hy wil niet, als mét zulk eene eernaam wéder keeren.
+Maar  t zoude op eene dag uw vreugd te zeer vermeêren;
+En, zonder dat gy na geleende tytels zoekt,
+(1340) Genoegt ge u niet aan die, waarom men u vervloekt?
+[p. 60]
+Hoe Héctórs vader, krom van oude, wierd doorreegen
+In  t midden van zyn kroost, gesneuveld door uw dégen,
+Die  t ov rig bloed zócht, (wyl uw wreedheid woedt, én hólt)
+ t Geen door de jaaren in zyne ad ren was gestóld;
+(1345) Dat gy oud Troje in bloed deed zwémmen, én verbranden,
+Dat gy Polyxena, een maagd, mét eigen handen
+Vermoordde, in  t aanzien van den Griek, die  t wérk verdoemt.
+Wat kan men weigere aan daaden, zo beroemd?
+                            PYRRHUS.
+Mêvrouw, gy weet wél, dat die onbescheiden tooren
+(1350) Sproot uit een drift van u te wreeken na behooren;
+Dit inzigt gaf my al dat bloedverstorten in.
+Maar stéllen we, is  t uw wil,  t voorleedene uit de zin.
+Ik dank de Hémel, dat uw koelheid my doet mérken
+De onnozelheid, van  t geen myn min kwam uit te wérken.
+(1355) Ik was te vaardig om myn min te dwingen, én
+ k Bevind in  t énde, dat ik u, nóch my récht kén.
+ k Zie, myn berouw heeft u in nieuwe toorn ontsteeken;
+Want die niet mint, acht ook geen ontrouw voor gebréken;
+Gy hoopte my niet steeds in uwe dienst te zien;
+(1360)  k Meende u te hoonen; maar ik doe u dienst misschien.
+Myn hart was niet voor u, nóch  t uw voor my gebooren;
+Héb ik myn plicht gevólgd, gy vólgde het behooren;
+Ook drong u tót myn min geen groote réden aan.
+                           HÉRMIONÉ.
+Héb ik u niet bemind, wat héb ik dan gedaan?
+(1365)  k Verwierp om uwent wil de trouw van zo veel Grooten,
+En kwam u vinden tót in Buthrót mét myn vlooten;
+Ik bén, ik blyf  er nóch, hoe schóts men my onthaalt.
+ k Héb al myn vólk belast, hoe zeer  t in  t heimelyk smaalt,
+Het ongelyk, dat gy my lyden doet, te zwygen.
+(1370) Op hoop, verraader, dat ik u zo weêr zou krygen.
+ k Dacht, dat gy door uw plicht, mét na berouw beklémd,
+My weêr zoud bréngen  t hart, dat gy my hébt ontvrémd.
+Ik minde een weiflaar, zoude ik een standvasten haaten?
+En in dit oogenblik, dat gy my zo verwaaten
+[p. 61]
+(1375) De dood komt mélden, mét eenen ontroerde zin,
+Ondankb re, ik twyfel nóch, óf ik u niet bemin.
+Maar zo de Hémel, uit een lust, om my te plaagen,
+Aan andere oogen schénkt de eer van u te behaagen.
+Volvoer uwe écht, ik zal het toestaan; maar verschoon
+(1380) Hérmioné, dat zy niet zy by déze hoon;
+Ik bid u, want ik zal u lichtlyk nooit weêr spreeken,
+Verschuif uw trouw één dag nu gy die tóch wilt breeken.
+Gy antwoordt niet? ha schélm,  k zie waar  t u schort, ô spyt,
+Hy télt élk oogenblik,  t geen hy by my verslyt.
+(1385) Ay zie, hoe hy verlangt Andromaché te aanschouwen;
+Hy lydt mét weêrzin, dat hy hier wordt opgehouwen.
+Hy zoekt haar mét zyn oog, hy spreekt haar mét zyn hart.
+Ga heenen, ga, ik houd u niet, waar toe gemart?
+Ga, zweer haar uwe trouw, die gy my zwoert voorheenen;
+(1390) Ontheilig, en ontwy  t gezag der Góôn met éénen.
+Die zélfde Góden zyn getuigen, dat uwe eed,
+Een meineid is, én dat gy me eerst belófte deed.
+Ga voor hun outer u aan uw Prinsés verbinden:
+Maar vrees vry Pyrrhus, zo ik my by  t feest laat vinden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    SÉSDE TOONEEL.
+
+                   PYRRHUS, PHOENIX.
+
+                            PHOENIX.
+(1395) MYn Heer, gy weet, hoe haar de spyt vervoert. Versmaad
+Haar dulheid niet, die u misschien na  t leeven staat.
+Zy heeft een groote steun, én aanhang in Epieren;
+Gy hoont gansch Grieken mét dit Huuwlyksfeest te vieren.
+Oréstés mint haar, én misschien zal ze u tót loon...
+                            PYRRHUS.
+(1400)  k Word van Andromaché gewacht. Bewaar haar zoon.
+
+                Eind van het vierde Bedryf.
+
+
+                             Continue
+
+[p. 62]
+
+                     VYFDE BEDRYF.
+
+                    EERSTE TOONEEL.
+
+                    HÉRMIONÉ, alleen.
+WAar bén ik? én waar langs ontvlied ik myne smarte?
+Wat drift verrukt myn geest? wat worm doorknaagt my  t harte?
+En jaagt me spoorloos door  t Paleis, zaal uit, zaal in?
+Kan ik niet weeten, óf ik haat, dan óf ik min.
+(1405) Die wreede! Op wélk een wys is hy van my gescheijen!
+Gansch zonder hartseer, óf meêdoogen in myn schreijen,
+Zélfs niet in schyn. Zag hy my wél eens deerlijk aan?
+Heeft hy wél eens gezucht? liet hy wél eene traan?
+Doof voor myn klagten, én gevoelloos voor myn kérmen,
+(1410) Scheen hy zich myner smarte in  t minste wél te ontférmen?
+En ik beklaag hém nóch, én tót vermeerd ring myns
+Verdriets kreunt nóch myn ziel, myn laffe ziel zich zyns?
+Alleen op zyn gevaar te dénken doet my beeven:
+En zo na by myn wraak wil ik  t hém nóch vergeeven?
+(1415) Neen, neen, hérroepen wy ons vonnisse niet weêr.
+Hy sneuvele. Ook en leeft hy tóch voor ons niet meer.
+De ontrouwe zeegepraalt, én lacht mét myn verwoedheid.
+Hy oordeelt nóch van my uit myn voorleeden goedheid.
+Hy waant, dit onweêr zal mét schreijen overgaan,
+(1420) En dat ik, altyd zwak, onzéker, onberaân,
+Zal keeren mét de een hand de slag, die de and re bragte.
+Wat zeg ik: Neen, hém speelt wat anders in  t gedachte:
+Hy moeit zich niet, wyl hém zyn trouw tót vreugde nood,
+Of iemand élders zoekt zyn leeven, óf zyn dood.
+(1425) In déze warring laat my die ondankb re steeken.
+Neen, neen, nóch eenmaal, laat Oréstés arm ons wreeken.
+Hy stérve, wyl hy tóch die slag wél heeft voorzien,
+En my zyne ondergang gedwongen te gebiên.
+[p. 63]
+Gebiên! Hoe dus? wordt dan van my die last gegeeven?
+(1430) Zal dan door yver van myn liefde Pyrrhus sneeven?
+Die Prins, wiens óorlógsdaân, toen hy voor Troje streê,
+Myn minziek harte zich zo vaak vertéllen deê;
+Wien zélfs in  t heimelyk myn ziel hadde uitverkooren,
+Eer ik van Vader hém ten Huuwlyk wierd beschooren.
+(1435) Reisde ik van Sparte dan, door zo veel zee en zand,
+Tót in Epiere, om hém te hélpen aan een kant,
+Te doôn, te moorden? Neen, eer Pyrrhus raake om  t leeven....
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    TWÉDE TOONEEL.
+
+                   HÉRMIONÉ, CLÉONÉ.
+
+                           HÉRMIONÉ.
+ACh Cléoné! wat bréngt ge? ach wat héb ik bedreeven!
+Hoe maakt het Pyrrhus?
+                             CLÉONÉ.
+                                    Hy, ten tóp van zyne wénsch
+(1440) Verheeven, schynt de fierste, én de verliefdste mensch.
+ K héb hém ter Témpel, daar de Priesters  t feest bereijen,
+Al zeegepraalende, zyn buit, én Bruid zien leijen,
+En, mét zyn oog op  t wit van zyne hoop gericht,
+Zich dronken drinken in  t vermaak van haar gezicht.
+(1445) Andromaché, bejuigd van duizend vreugdezangen,
+Sleept Trojes droeve val voor  t outer op haar wangen,
+En, ongevoelig voor de haat, én voor de min,
+Vólgt zonder schyn van vreugde, óf morren Pyrrhus zin.
+                           HÉRMIONÉ.
+Ondankb re, uw overmoed is dan ten tóp gereezen?
+(1450) Maar, Cléoné hébt ge acht geslaagen op zyn weezen?
+Genoot hy volle weelde, én wéllust na den eisch?
+Heeft hy  t gezigt niet ééns gewénd na dit Paleis?
+Ey zég me, gingt ge u niet vertoonen voor zyne oogen?
+Wierd hy niet rood van schaamte, óf bleef hy onbewoogen?
+[p. 64]
+(1455) Hébt gy zyne ontrouw aan zyne onrust niet gekénd?
+Of hiel dat tróts gelaat zyn fierheid tót aan  t énd?
+                             CLÉONÉ.
+Zyn liefde maakt hém blind. De zórg voor eer, én leeven
+Heeft hy de schop mét u, én uwe min gegeeven.
+ t Volvoeren van zyn trouw is  t sléchts, daar hy na haakt,
+(1460) En yvert, zórgloos, óf hém vriend, óf vyand naakt.
+Zyn wacht heeft last om op Astyanax te passen.
+Hy meent, dat die alleen gevaar loopt van  t verrassen.
+Ja Pyrrhus zélf staat voor hém in, én heeft hém tót
+Meer veiligheids gebragt vér van  t Paleis op  t slót.
+(1465) Geen andere achterdócht schynt zyne vreugd te stooren.
+                           HÉRMIONÉ.
+De schélm zal sneuv len. Maar wat deede Orést? laat hooren.
+                             CLÉONÉ.
+ k Héb hem ter Témpel in zien treeden mét zyn stoet.
+                           HÉRMIONÉ.
+Wél, scheen hy t myner wraak gehard, én wél gemoed!
+                             CLÉONÉ.
+Ik weet niet.
+                           HÉRMIONÉ.
+                  Weet gy  t niet? Wat  s dit! Oréstés méde,
+(1470) Oréstés my verraân!*
+                             CLÉONÉ.
+                                        O neen, stél u te vréde,
+Hy bidt u aan; maar half mét zin, half tégens zin,
+Verkiest nu,  t geen zyn deugd hém raad, én dan zyn min.
+Hy vreest in Pyrrhus de eer der kroone te verraaden,
+Hy vreest in Pyrrhus héld Achillés, groot van daaden,
+(1475) Ja Pyrrhus zélf; hy vreest gansch Grieken; ja hy vreest
+De gansche waereld; maar zich zélvén vreest hy  t meest.
+Hy wénscht mét Pyrrhus hoofd te stillen uw gepeinzen;
+Maar de eereloze naam van moorder doet hém deinzen.
+Hy streeft ter Témpel in in  t énde, onzéker, óf
+(1480) Hy weêr, als moorder, óf aanschouwer keer na  t Hóf.
+[p. 65]
+                           HÉRMIONÉ.
+Neen, neen; hy zal dat paar in volle pracht zien glooren,
+En zich wél wachten, zulk een huuwlyksfeest te stooren.
+Ik weet wat wroegingen ontroeren zyne geest.
+Die bloodaart vreest de dood: dit  s alles wat hy vreest.
+(1485) Myn moeder, zonder iets te béd len, óf te smeeken,
+Zag, hoe gansch Grieken zich in  t harrenas ging steeken,
+En in tien jaaren krygs, om  t leed haar aangedaan,
+Wél twintig Koningen, haar onbekénd, vergaan.
+En ik, ik eisch alleen de dood van een meineedigen,
+(1490)  k Beveel myn minnaar aan de wraak van myn beleedigen,
+Hy kan my voor die prys verkrygen buiten nood,
+En ik verzoek vergeefs myn wraak door  s vyands dood.
+Kom, gaan we: ik zélve moet alleen myn óffer slagten;
+Vervullen wy de kérk mét bloed, én jammerklagten;
+(1495) Verstooren wy dit feest door moordgeschrey, én schrik.
+En dat hunn huuwlyksknoop sléchts duure een ogenblik,
+Ik zal niet kiezen, neen,  t heeft my al konnen honen.
+Elk strékt me een Pyrrhus;  k wil Orést zélf niet verschoonen.
+ K vlieg in myn dood: zy réd my hier zeeghaftig door.
+(1500) Ik stérf alleen niet. De een, óf de ander vólgt me op  t spoor.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    DÉRDE TOONEEL.
+
+            ORÉSTÉS, ANDROMACHÉ, HÉRMIONÉ,
+              CLÉONÉ, CÉPHISE, GEVOLG én
+                SÓLDAATEN van ORÉSTÉS.
+
+                            ORÉSTÉS.
+Mêvrouw, het is gedaan. Men vliede zonder toeven.
+Kom op myn vloot de vrucht van uwe wraaklust proeven.
+Zie die gevangene: zy kan, gelyk  t behoort,
+U mélden, hoe Orést gehouden heeft zyn woord.
+                           HÉRMIONÉ.
+(1505) Góôn!  t is Andromaché.
+[p. 66]
+                        ANDROMACHÉ.
+                                              O ja,  t is die Vórstinne,
+Ten twéden maale weêuw, ten twéden maal slaavinne;
+Maar die tót binnen Sparte u tróts braveeren zal,
+Nadien zy haren zoon bevryd ziet voor zyn val.
+ k Verwacht, als deelgenoot, van Pyrrhus euveldaaden,
+(1510) Meê zyne straf; vermits Oréstés door uw raaden
+Tót déze Koningsmoord gehitst, na dat ik mérk
+U opdraagt al de roem van dit doorluchtig wérk.
+ k Dacht niet, dat, zonder my Astyanax te ontrukken,
+De hémel meerd ren kon myn leed, én ongelukken,
+(1515) En maaken, dat myn oog, reeds afgetreurd van rouw,
+Eene and re, als Héctórs dood, nóch eens beklaagen zou.
+Maar gy alleen, gy wist een middel op te spooren,
+Om Trojes heug nis voor een wyle in my te smooren.
+Gy doet, veel wreeder, dan Achillés, én zyn zoon,
+(1520) Myn grootsten vyand my beweenen by de doôn;
+En Pyrrhus schynt de plaats myns Héctórs te bekleeden,
+Voorheen geweigerd aan zyn dreigen, én gebéden.
+Mêvrouw, ik héb zyn toorn geproefd, niet dan te straf;
+Zyn tróts my meerder stóf, als u, tót klaagen gaf.
+(1525) Uw wreede vriendschap kost, ô Pyrrhus, my bekooren,
+Te worden trouw loos aan myn Héctór.  k Had beschooren,
+U dés te straffen: maar ik neem al  t Gódendom
+Tót tuige, dat myn wraak op vér zo hoog niet klom;
+En schuw van  t bloed van u, én van uwe onderdaanen
+(1530) Te pléngen, had het u gekóst alleen wat traanen.
+                           HÉRMIONÉ.
+Hoe! Pyrrhus is dan dood?
+                            ORÉSTÉS.
+                                        O ja, der Grieken moed,
+Getérgd, heeft uitgedoofd zyne ontrouw in zyn bloed.
+Ik had u zulks beloofd, én schoon myn vórstlyk harte
+Tót zulk een gruweldaad niet stémde, dan met smarte,
+(1535)  k Vloog échter témpelwaarts, daar ik myn vólk terstond
+[p. 67]
+By  t outer, én rondom den Vórst gesloopen vond.
+Hy wierd my fluks gewaar. Maar, zonder zich te ontzétten,
+Scheen myn gezigt het vuur zyns overmoeds te wétten,
+En dat gantsch Grieken, bits getrótst in hun gezant,
+(1540) Verhoogen moest de glans van zyne huuwlyksband.
+In  t énde, neemende zyn kroon, met groot genoegen,
+Bestond hy zyner bruid die zélf op  t hoofd te voegen.
+Ontfang, Andromaché, myn kroon, én trouw, sprak hy;
+Regeer voorts over gansch Epiere, én over my,
+(1545)  k Beloof uw zoon te zyn een vader, én behoeder;
+Ik daag de Góôn tót tuige, ik zweer het zyner moeder;
+All zyne vyanden verklaar ik voor de myn ,
+En hém den Koning van het Trooische vólk te zyn.
+Hier op liet zich een galm van vreugde, én blyschap hooren,
+(1550) Waar onder Grieken gilde uit dolle spyt, én tooren,
+Vloog den ontrouwen toe, én sloot hém in een kring,
+En liet geen toegang aan myne uitgetoogen kling.
+Elk woede om  t zeerst! wie hém de steek in  t hart zou geeven.
+ k Héb hém een lange tyd hunn drift zien tégenstreeven,
+(1555) En worstelen, om  t lyf te bérgen in die nood;
+Maar éndlyk stort hy neêr, én valt voor  t outer dood.
+Astyanax is vry. Maar voor dit schamper hoonen
+Zal Grieken t zyner tyd Epieren eens beloonen.
+Intusschen wilde ik, dat Andromaché ten toon
+(1560) Gevoerd wierde in myn zeege, én insta voor haar zoon.
+Het graauw door schrik aan  t vliên, én mét ruimbaan te maaken,
+Liet myn gevangene my zonder weêrstand schaaken,
+En bréngen hier ter steê, daar ik myn vólk verwacht;
+Besprénkeld mét het bloed, uw hoon ter wraak geslagt.
+                           HÉRMIONÉ.
+(1565) Wat hébben zy gedaan!
+                            ORÉSTÉS.
+                                              Wilt hén die drift vergeeven,
+[p. 68]
+Zy hébben,  k zie  t , uw wraak te héftig voortgedreeven.
+Gy wilde, dat myn hand hém de eerste had verrast,
+En dat hy stérvend wist, dat hy stierf door uw last.
+Ik bén  t nóchtans; wiens moed myn Grieken heeft ontsteeken,
+(1570) En témpelwaarts doen spoên, alleen om u te wreeken;
+Zoo dat ge u moogt mét récht toeëigenen zyn dood,
+Daar toe myn vólk niet, dan hunn hulp, én handen bood.
+De eer van die daad komt u alleen toe.
+                           HÉRMIONÉ.
+                                                        Zwyg, verraader.
+En wyt u zélf die moord: wien raakt het schélmstuk nader?
+(1575) Ga, roem in Grieken op dit héldelyk bestaan.
+ k Gruw voor uw boosheid: ga, ik wil geen deel daar aan.
+Wat ging u aan, ontménschte! én van wat zucht gedreeven,
+Hébt gy de draad gekort van zulk een kóstlyk leeven?
+Hoe kóst gy hém, vervloekte, opóff ren voor  t autaar!
+(1580) En grilde niet uw bloed? rees niet te bérge uw haar?
+Maar zég me eens, wie heeft u die magt op hém gegeven?
+Hém dooden! wie heeft hy beleedigd? wat misdreven?
+Wie zulks belast?
+                            ORÉSTÉS.
+                          O Góôn! hébt gy my hier terstond,
+Gy zélve niet belast zyn dood mét eigen mond?
+                           HÉRMIONÉ.
+(1585) Ach! moest ge luist ren na een minnaarés vol woede!
+Kost gy niet dénken, hoe  k inwéndig was te moede?
+En zaagt ge niet in  t heetst van myne uitspoorigheid,
+Hoe  t hart afstémde,  t geen wierd mét de mond gezeid?
+Schoon ik  t al had geboôn; moest gy my niet weêrstreeven,
+(1590) En honderdmaal die last doen geeven, én hérgeeven?
+Of ik volharde, eer gy de slag gaaft, komen zien;
+En nóch eens komen; óf veel eer myne oogen vliên?
+Waarom liet gy my niet de zórg van my te wreeken?
+[p. 69]
+Wat dryft u hier, daar élk u schuwt te zien, én spreken?
+(1595) Dit zyn de vruchten, die gy van uw liefde plukt.
+Gy brouwde my de ramp, onzaal ge, die u drukt.
+Gy zyt het, gy, wiens komst hém, om ons bey te kwéllen,
+Na myn meêminnaarés deedt t zyner schande héllen.
+Hy zou nóch zonder u ons deelen zyn gevry.
+(1600) Licht minde hy my nóch: ten minsten veinsde hy.
+Vaar wél. Vertrék. Ik meen Epieren te bewoonen.
+ k Sta Grieken af, én Sparte, én  t voorrécht van twé kroonen.
+ k Verzaak myn gansch geslacht, én walg  er voor, én gruw,
+Om dat het baarde, schélm, een monsterdier, als u.
+(1605) Mêvrouw, kom, gaan we. Ik stél u op uw vrye voeten.
+ t Is Pyrrhus last. Gy kont my vólgen. Kom, wy moeten
+Ons kwyten vólgens eisch van onze last, én plicht.
+Laat zien, wie t zyner wraak die bést van ons verricht.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    VIERDE TOONEEL.
+
+             ORÉSTÉS, GEVÓLG, én SÓLDAATEN
+                     van ORÉSTÉS.
+
+                            ORÉSTÉS.
+WAt zie, wat hoor ik? zal Hérmioné zo spreeken,
+(1610) Wiens hoon door s Konings moord ik héb bestaan te wreeken?
+Zy schéldt me voor een schélm, een moorder, wreed, én fél!
+Is  t Pyrrhus ook die stérft? Bén ik Oréstés wél?
+Hoe!  k ban de réden, én haar licht uit myn gedachte.
+ k Vermoord mét wéderzin een Koning, die  k hoog achte.
+(1615)  k Schénd op een dag het récht der Oppermajesteit,
+ t Récht der gezanten, én het récht der ménschlykheid;
+Ja  t récht der Kerken door  t ontzag der Góôn te ontwyen
+Mét doodslag, Koningsmoord, én Témpelschénderyen.
+Voor wien? voor eene ondankb re, aan wien ik  t had beloofd,
+[p. 70]
+(1620) Die, zo hy niet én stérft, my van haar gunst berooft,
+Diens woede ik vólg: én naauw héb ik die moord bedreven,
+Of ze eischt weêr van myn hand  s vermoorden bloed, én leeven.
+Zy mint hém, én ik bén een monsterdier, voor wien,
+Als voor de pést, zy zégt voortaan te willen vliên,
+(1625) My laatende tót loon de schande, én  t innig wroegen
+Van  t géne ik niet bestond, dan om haar te vernoegen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    VYFDE TOONEEL.
+
+        ORÉSTÉS, PYLADÉS, GEVÓLG, én SÓLDAATEN
+                     van ORÉSTÉS.
+
+                            PYLADÉS.
+WY moeten voort, myn Heer. Laat ons vertrékken, óf
+Vast stéllen, nimmermeer te scheiden uit dit Hóf.
+Ons vólk houdt nóch een poos de poort mét moeiten open.
+(1630) Het graauw, tót wraak getérgd, mét drommen aan komt loopen.
+Andromaché gebiedt het, als haar onderdaan.
+ t Ziet haar voor Koningin, én ons voor vyand aan.
+Zy zélf, die Pyrrhus min weêrstreefde, én stadig griefde,
+Voldoet de plichten van een weêuw, vol trouw, én liefde;
+(1635) Belast dat élk hém wreeke, én poogt misschien mét één
+De wraak van Héctórs dood te neemen op ons twéên.
+Kom, gaan we, én marren niet tót dat zy ons omringen.
+Ons vólk verwacht ons, én, terwyl men  t graauw ziet dringen
+Rondom Hérmioné, gestort op Pyrrhus lyk,
+(1640) Is  t tyd voor ons; men neem voort veiliglyk de wyk.
+                            ORÉSTÉS.
+Neen,  t is Hérmioné myn vrinden, die  k wil vólgen.
+Ik overleef geensins haar gramschap zo verbólgen.
+Vertrékt gy, ik héb schuld, daar ik de straf voor wacht.
+                            PYLADÉS.
+Hérmioné, myn Heer! Ban die uit uw gedacht.
+[p. 71]
+(1645) Hoe, steeds het wérktuig, én het voorwérp van haar woeden,
+Zoekt gy nóch by haar lyk weêr vérsse tégenspoeden?
+Moet gy, om dat zy stérft, ook stérven.
+                            ORÉSTÉS.
+                                                              O verdriet!
+Zy stérft? wat hoor ik! Góôn!
+                            PYLADÉS.
+                                            Hoe Heer, weet gy  t nóch niet?
+Terwyl wy uit de Kérk na  t Hóf spoên, komt ze ons tégen,
+(1650) Die na de Témpel vloog, ontstéld, verbaasd, verlégen.
+Ze ontmoette Pyrrhus lyk, gedraagen van zyn vólk,
+Dat, t zyner wraak gehitst, vast wettede zyn dólk.
+Op dat vertoog is wis haar razerny ontsteeken.
+Wy hébben éndelyk ter hófpoorte afgekeeken,
+(1655) Hoe zy op Pyrrhus viel, én mét ontbloot geweer
+ t Gezigt ten hémel sloeg, zich stak, én storte neêr.
+                            ORÉSTÉS.
+Dank, Góden, myne ramp gaat vér myn vrees te boven.
+Ja, Hémel, ik moet u voor uw volharding looven.
+Geduurig bézig om te pynigen dit hart,
+(1660) Hébt gy my klimmen doen ten tóp van alle smart.
+Uw haat heeft lust geschépt, om my op  t wreedst te kwéllen.
+Gy woudt me tót een beeld van uwe gramschap stéllen,
+Daar in de élende stond volkomen afgeprént.
+Wélaan, ik stérf vernoegd myn lót loopt op het énd.
+(1665) Waar zyn de minnaars; om myn lusten te verzaaden,
+Moet ik my in hun bloed, én in het myne baaden,
+Hén stérvende aanzien, én vereenigen mét één
+Dry harten, onder zich in  t leeven nooit te vreén.
+Maar wélk een donk re nacht belét me voort te treeden?
+(1670) Wat schrik rydt my door  t bloed? wat grilling door de léden?
+[p. 72]
+Waar bérg ik my? Héb dank, ô Hémel,  k zie een straal.
+Hélp Góôn! wat stroomt  er bloeds rondom my in de zaal!
+                            PYLADÉS.
+Myn Heer.....
+                            ORÉSTÉS.
+                    Hoe Pyrrhus, komt gy my nóch wéder tégen?
+Moet ik gemoeten myn meêminnaar te allen wégen?
+(1675) Hoe! zyt ge  t nóch ontvlucht, doorboord mét wond op wond?
+Hou daar de doodsteek, die my u te geeven stond.
+Maar hoe! Hérmioné komt hém vól minne omarmen,
+En voor de slag, die ik hém bréngen wil, beschérmen.
+Hélp Góôn! wat blikken spalkt zy op zo wreed, én naar?
+(1680) Wat vloek, wat onderaardsch gedrócht sleept ze achter haar?
+Wélaan, gy Dóchters van de Hélle mét uw spooken,
+Wien dreigt ge met uw toorts, én slangen te bestooken?
+Voor wien is de eersleep, die gy méde hébt gebragt?
+Komt gy my rukken na uwe eeuwig duist re nacht?
+(1685) Zo komt. Oréstés geeft zich over aan uw slagen.
+Maar neen, staat af, én laat Hérmioné my plaagen.
+De ondankb re is wreeder, dan gy alle, én zal  t wél doen.
+Oréstés óffert haar zyn hart, om op te woên.
+                            PYLADÉS.
+Hélpt, vrinden; hy bezwykt. Laat ons geen tyd verzuimen,
+(1690) Die ons zyn flaauwte gunt, om voort de stad te ruimen.
+Laat ons hém bérgen; want daar toe is kans, nóch raad,
+Zo na zyn zwymeling hy weêr aan  t raazen slaat.
+
+                Eind van  t vyfde, én laatste Bedryf.
+
+
+                             Continue
+
+                   Tekstkritiek
+
+vs. 385: Hérmioné: de aanduiding van de spreker ontbreekt.
+vs. 418: Hérmioné er staat Hérnioné
+vs. 484: immer er staat nimmer
+vs, 723: ontrust er staatonrust
+vs. 1228: Ik word er staat Ik wordt
+vs. 1404: min? er staat min.
+vs. 1448: Hérmioné er staat Hérnioné
+vs. 1466: Hérmioné er staat Hérnioné
+vs. 1470: verraân! er staat verrân!
+vs. 1476: zélven er staat zélvén
+vs. 1627: vertrékken, er staat vetrékken,
+
+
+                        Continue
+
+                             Continue
+
+  • Nil Volentibus Arduum: Andromache (herdruk 1715)
+  • Lijst van Nil-Volentibus-Arduum-drukken
+  • Ceneton
+  • Voorkeurenpagina Opleiding Nederlands
+

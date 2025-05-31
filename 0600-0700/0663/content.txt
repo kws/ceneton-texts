@@ -1,0 +1,3544 @@
+[Dutch]
+
+Lukas Rotgans: Scilla. 1709
+Ceneton079990
+Uitgegeven door dr. A.J.E. Harmsen,
+Universiteit Leiden.
+In deze uitgave zijn evidente zetfouten gecorrigeerd en gemarkeerd met een
+asterisk.
+
+                          Continue
+
+┌────────────────────────────────────────────────────────────┐
+│ Rotgans ontleent een groot deel van de stof van zijn       │
+│ Scilla aan Ovidius Metamorphoses. In zijn voorrede citeert │
+│ hij de Latijnse tekst, maar in zijn treurspel staan ook    │
+│ woordelijke overeenkomsten met de vertaling van Vondel:    │
+│                                                            │
+│ Publius Ovidius Nazoos herscheppinge. Vertaelt door J. v.  │
+│ Vondel. Amsterdam, [ter drukkerye van Daniel Bakkamude]    │
+│ voor de Weduwe van Abraham de Wees, 1671. UBL 2143 B 7.    │
+│                                                            │
+│ [p. 226]                                                   │
+│ Minos belegert ondertusschen Alkatoë, het welk gewonnen,   │
+│ zoo verkeerde Nizus in eenen arent, Scille in eenen        │
+│ leeurik.                                                   │
+│ [...]                                                      │
+│ [p. 227]                                                   │
+│ ALree verdrijft de glans, in  t krieken van den dagh,      │
+│ Den duistren nacht, en komt de zon ter kim uit jaegen,     │
+│ En d oostenwint legt vlak. de donkre regenvlaegen          │
+│ Verrijzen, en de wint van  t zuiden uit een wolk           │
+│ (5) Begunstight Eakus, en  t nieugeworven volk,            │
+│ Met eenen Cefalus, den afgezant, in  t keeren,             │
+│ Die, eer men hen verwacht t Atheen, naer hun begeeren,     │
+│ De haven winnen: maer de koning Minos prest                │
+│ Terwijl zijn heir, en stroopt al  t Lelegeesch gewest,     │
+│ (10) En komt zich legeren voor d Alkateesche muuren,       │
+│ Daer Nizus hof houdt, die eerwaerdigh by gebuuren          │
+│ Om zijnen ouderdom, op  t hooft droegh  t purpren haer,    │
+│ Waeraen de welvaert van al  t rijk hing met gevaer.        │
+│ De maen vernieut zeswerf haer horens hoogh gesteegen,      │
+│ (15) Geduurende  t beleg, noch bleef de stadt belegen,     │
+│ En d oorloghskans hing lang in twijfel, en beraet          │
+│ Wat zy te kiezen stont. dicht by de vesten staet           │
+│ De toren en het slot, gewoon geluit te geven.              │
+│ Men zegt hier is de klank van Febus lier gebleven,         │
+│ (20) En d aengenaeme galm bleef hangen in  t ciment        │
+│ Der muuren. Nizus oir en dochter was gewent                │
+│ [p. 228]                                                   │
+│ Hierop te steigeren voor d ooreloghskrakkeelen,            │
+│ En daer met kaikens zoet der muuren galm te streelen,      │
+│ En onder het beleg der stede reis op reis                  │
+│ (25) Den fellen strijt te zien. nu kendeze in  t pallais,  │
+│ Geduurende  t bestant, de hopmans, hunne naemen,           │
+│ En der Kretenzen draght, en pijlekokers, t zaemen          │
+│ Met al de benden, en de paerden, boven al                  │
+│ En meer dan haer betaemt in ooreloghs geval                │
+│ (30) Te kennen, Minos zelf den koning, voortgesprooten     │
+│ Van schoone Europe.  t zy de hellem bleef geslooten,       │
+│ Of  t hooft van pluimen hing beschaduwt voor het licht,    │
+│ Zy prees zijn schoonheit, en opheldrende aengezicht.       │
+│ Schoot hy den schittrenden metaelen schilt aen d armen,    │
+│ (35) De schilt stont voeghelijk. schoot hy in d            │
+│ oorloghszwarmen                                            │
+│ Een taeien esschen schicht den vyant naer het lijf,        │
+│ De jongkvrou prees den scheut, en  t afgerecht bedrijf.    │
+│ Zagh zy hem met den boogh en pijl op iemant mikken,        │
+│ Dan zwoerze Febus kon den vyant dus verschrikken           │
+│ (40) Met een gezwinden pijl. zagh hem de maeght in  t stof │
+│ Bloots hoofts, en zonder helm, door d ope poort van  t     │
+│ hof,                                                       │
+│ In  t purperen gewaet het witte paert beschrijden,         │
+│ En  t rijke dekkleet, root van gout, om uit te rijden,     │
+│ Den breidel, wit van schuim, regeeren; dan vermant         │
+│ (45) Van liefde, en naeulijx by haer zinnen en verstant,   │
+│ Schat zy den schicht, dien hy alleen aenraekte en eerde,   │
+│ Gelukkigh, en den toom, dien zijne hant regeerde,          │
+│ Gelukkigh, en de maeght kreegh eenen lust in  t ent,       │
+│ Zoo  t vry stont, Minos zelf t aenschouwen in zijn tent.   │
+│ (50) Het zou haer lusten uit den toren op het wenssen,     │
+│ Te springen midden in het leger der Kretenssen,            │
+│ Of vaders kopre poort t ontgrendelen al stil               │
+│ Voor haeren vyant, of te doen wat Minos wil.               │
+│ Zy zat terwijl en zagh alle oorloghsdreigementen           │
+│ (55) Van dien Dikteeschen heer, en zijn sneeuwitte tenten. │
+│ [p. 229]                                                   │
+│ Toen sprakze: ik twijfele of de blyschap my betaemt,       │
+│ Of treuren, om den krijgh van Minos, die ons praemt.       │
+│ My smart dat Minos my bestrijt, die hem beminne:           │
+│ Maer rees hier  t oorlogh niet, ik zelve, zijn vriendinne, │
+│ (60) Had Minos noit gekent: doch evenwel zoo  k ging       │
+│ Uit vaders sterke stadt in vaste gyzeling,                 │
+│ Hy moght van deze stadt aftrekken met zijn benden,         │
+│ My tot een vredepant behouden,  t oorlogh enden.           │
+│ O allerschoonste heer en koning, wijt vermaert,            │
+│ (65) Was uwe moeder, die ter kroone u heeft gebaert,       │
+│ Zoodaenigh, billijk dat een godtheit om haer blaekte:      │
+│ En hoe gelukkigh waer mijn levenslot, geraekte             │
+│ Ik vliegende in het heir van dien Kretenzer heer,          │
+│ Om hem mijn minnevier t ontdekken, en van veer             │
+│ (70) My hem ten bruitschat op te veilen, en bedingen       │
+│ Dat hy heer vaders rijk zoo fel niet zou bespringen:       │
+│ Want eer blijf  t huwelijk, waerop ik hoope alree,         │
+│ Noch steeken, dan ik, tot verraet van vaders ste,          │
+│ Vervalle: schoon het wel verwonnen quam te stade           │
+│ (75) Dat hy verwonnen wiert door goetheit en genade        │
+│ Des overwinners: en gewis hy voert niet los                │
+│ Om  t deerlijk sneven van zijn zoon Androgeos              │
+│ Den oorlogh, en is sterk en qualijk af te keeren,          │
+│ Die met den zwaerde komt zijn goede zaek verweeren.        │
+│ (80)  k Geloof wy zullen in den oorlogh gaen te gront,     │
+│ En met de stadt ten roof hem vallen in den mont.           │
+│ Waerom zal krijghsgewelt, en  s vyants heir hier buiten,   │
+│ En niet mijn liefde en gunst, de poorten open sluiten?     │
+│ Men gunne liever hem onbloedigh, zonder moort,             │
+│ (85) En nederlaeg van volk, de sleutels van de poort.      │
+│ Ik ben, ô Minos, zelf bekommert dat een wreede             │
+│ En reukelooze hant, in  t openen der stede,                │
+│ U moght doorstooten: en wie is zoo wreet van aert,         │
+│ Die kennisdraegende u een schicht of staelen zwaert        │
+│ [p. 230]                                                   │
+│ (90) In  t harte drijven zou? dit inzicht steunt op reden. │
+│ Ik wil het rijk en my ten bruitschat uitbesteden,          │
+│ En zulk een oorloghsvier uitblusschen met mijne echt:      │
+│ Doch wat vermagh de wil! de koningswacht sluit hecht       │
+│ De poort, en vader staen de sleutels  s nachts bevolen.    │
+│ (95) Ik ongelukkige, beminnende in  t verholen,            │
+│ Vrees hem alleen, en hy alleen keert my door  t slot.      │
+│ Och waer ik vaderloos! elk is zijn eigen godt,             │
+│ En smeet zijn heil, of blijft van het geluk versteeken.    │
+│ Fortuin verwaereloost de sufsters, en haer smeeken.        │
+│ (100) Indien een andre van dees liefde ontsteeken waer,    │
+│ Zy zette met een lust de zorgen, het gevaer,               │
+│ En wat de minne keert, ter zijde, en uit haere oogen:      │
+│ En hoe zoude iemant meer dan ik hierin vermogen?           │
+│ Ik durf door vier en zwaert heenstreven trots en koen:     │
+│ (105) En noch heeft niemant vier en zwaert hiertoe van     │
+│ doen.                                                      │
+│ Heer vaders purpren haer is my alleen van noode.           │
+│ Dit schatte ik boven gout. dit haer zal my, te bloode,     │
+│ Aen zege helpen, en het wenschen van mijn hart.            │
+│ Zoo spreektze, en midlerwijl bedekt de voornacht, zwart    │
+│ (110) En bruin van pennen, d aerde, en voedt               │
+│ bekommeringen,                                             │
+│ Ook stoutheit, onbeschroomt om uit den bant te springen    │
+│ By duister. al wat leeft, van dagelijx gewoel              │
+│ En zorgen afgemat, lagh stil, gerust en koel               │
+│ In zijnen eersten slaep verzoopen. zy treet vaerdigh       │
+│ (115) Naer vaders kamer. ô aertsgruwel, vloekens waerdigh! │
+│ De dochter, midlerwijl de min het hart bevangt,            │
+│ Berooft den vader  t haer, daer  t gansche rijk aen hangt, │
+│ En schendigh zulk een roof te lasterlijk bekoomen,         │
+│ Gaet strijken met dien buit ter poorte uit zonder          │
+│ schroomen,                                                 │
+│ (120) Door  s vyants leger heen [zoo vast betroude zy      │
+│ Op haer verdienste] en komt vol moeds, ten leste by        │
+│ Den koning, die vast beeft, als zy hem dus bejegent:       │
+│ Ik Scille, Nizus bloet, bestelle u, rijk gezegent,         │
+│ [p. 231]                                                   │
+│ [De min gebietme dit] hiermé mijn vaderlant,               │
+│ (125) En vaderlijke stadt. ik eische loon noch pant        │
+│ Dan u alleen. aenvaert dit haer, een pant van trouwe.      │
+│ Geloof ik levere u geensins met angst en rouwe             │
+│ Heer vaders haer, maer zelf zijn leven en zijn hooft,      │
+│ Met eenen schonkze hem  t geschenk, te schelmsch gerooft.  │
+│ (130) De koning Minos deist te rugge, en slaet bezweeken   │
+│ Om zulk een gruwel, en begint aldus te spreeken:           │
+│ O schennis van onze eeu! het hemelsche besluit             │
+│ Drijve u, te water en te lant, ter werrelt uit.            │
+│ Waerachtigh ik wil niet gedoogen dat mijn eilant           │
+│ (135) En errefrijk, de wiegh van Jupiter,  s volx heilant, │
+│ Van zulk een aertsgedroght besmet werde en betreên.        │
+│ Zoo sprak hy, en gelijk een wetheer van de zeên,           │
+│ En van rechtvaerdigheit, den vyant, nu verwonnen,          │
+│ De wetten stellende, beval het ree begonnen                │
+│ (140) Beleg te staeken, en de maghtige oorloghsvloot       │
+│ t Ontmaeren, en maetroos al  t vaertuigh kleen en groot    │
+│ Te rug te roeien. Scille aenziende hoe de kielen           │
+│ Ter zee in streven, als zy aen de riemen vielen,           │
+│ En hoe de koning haer dien schelmschen loon ontzeit,       │
+│ (145) Steekt op van gramschap, nu geen mededoogenheit      │
+│ Zijn hart vermorwde, en haer gebeden ydel waren.           │
+│ Zy rukt het haer uit, strekt de handen op de baren,        │
+│ En roept: ontvlugtge een, die zoo veel aen u verdient?     │
+│ O gy van my bemint, ook boven vader, vrient,               │
+│ (150) En eigen vaderlant! ô wreedaert gaetge veegen,       │
+│ Die door ons schelmstuk en verdiensten raekte aen zegen!   │
+│ En raekt u mijn schenkaedje en liefde niet? ô helt,        │
+│ Op wien ik al mijn hoop en zinnen had gestelt?             │
+│ Want waer zal ikme nu, van u verlaeten, keeren?            │
+│ (155) Naer  t vaderlant? dat ziet den vyant triomfeeren,   │
+│ En legt verwonnen: en genomen zoo  t noch stont,           │
+│ Durf ik mijn vader wel gemoeten op dien gront,             │
+│ [p. 232]                                                   │
+│ Zoo snoot by my verraên? het staet voor my geslooten.      │
+│ De burgers haeten my, de kleenen en de grooten.            │
+│ (160) d Aengrenzende yst van zulk een voorbeelt, noch te   │
+│ raeu.                                                      │
+│ Nu valt de werrelt en gansch Krete my te naeu,             │
+│ Alleen om Kretes wil. verbietge ons dit uit toren;         │
+│ Zoo zijtge zeker uit Europe niet geboren,                  │
+│ Maer uwe moeder was  t ongastvry zantgewest,               │
+│ (165) Een wreede tigerin,  t Armeensche tigersnest,        │
+│ Charibdis, met den storm in  t zuiden aengedreven.         │
+│ Godt Jupiter was noit de vader van uw leven,               │
+│ Noch uwe moeder wert van eenen stier geschaekt.            │
+│  t Gerucht van uwen stamme is valsch in zwang geraekt.     │
+│ (170) Een wreede stier was  t die u teelde, en onder  t    │
+│ loeien                                                     │
+│ Zijn liefde nimmer zette op vaerzen, noch op koeien.       │
+│ O vader Nizus, koom en strafme: ik heb misdaen.            │
+│ Verheugh u dat ons stadt geschent legt en vergaen,         │
+│ Ter straff van ons, die nu ront uit bekennen moeten        │
+│ (175) Dat wy  t verdienden, en met recht dees misdaet      │
+│ boeten.                                                    │
+│ Dat hierom iemant, die verkort is, met zijn hant           │
+│ My, godelooze en een strafwaerde, help van kant.           │
+│ O overwinner door ons schelmstuk, loos besteeken,          │
+│ Waerom beschuldightge ons van schelmsche lasterstreeken?   │
+│ (180) Dit lasterstuk, begaen aen vader en mijn lant,       │
+│ Gebruik u zelf ten dienst. maer waerdigh waerze uw hant    │
+│ Te trouwen, die, gelijk een overspeelster, schendigh       │
+│ Den norssen stier bedroogh, te gruwzaem en elendigh,       │
+│ Door eene houte koey, en zwaer ging, los van tucht,        │
+│ (185) Van tweederley gestalte, een lasterlijke vrucht.     │
+│ Ondankbre, luistertge ook naer mijn mistroostigh kermen?   │
+│ Of gaen de winden, niet bewogen tot ontfarmen,             │
+│ Met mijne woorden en uw schepen recht door zee?            │
+│ Het isme nu niet vreemt dat een Pasifaë                    │
+│ (190) Meer trek had tot den stier dan t uwaert, die veel   │
+│ forsser                                                    │
+│ Van aert waert dan een stier, en ongelijk veel norsser.    │
+│ [p. 233]                                                   │
+│ Het lustme elendige te spoeden, en ik hoor                 │
+│ De baren, in de zee gescheurt, op  t waterspoor            │
+│ Vast ruisschen, en het lant schijnt snel te rug te deizen  │
+│ (195) Met my. ô Minos, die niet omziet onder  t reizen     │
+│ Naer mijn verdiensten, en de trou slaet in den wint,       │
+│ Zult niets uitrechten.  k zal, uws ondanx, u gezwint       │
+│ Navolgen in het zogh, en aen den achtersteven              │
+│ Vast hangende, over zee gesleept, door  t water streven.   │
+│ (200) Zoo spreektze nauwelijx of springt van boven neêr    │
+│ In  t water, dat het schuimt, en volght de vloot in  t     │
+│ meer.                                                      │
+│ De liefde geeftze kracht. zy hangt, vervoert van minne,    │
+│ Aen  t groot Kretenzer schip, gelijk een gezellinne        │
+│ Des aftoghts, bits benijt. de vader ziet haer vlugt,       │
+│ (205) En ree verandert, als een sperwer in de lucht,       │
+│ Pooght met den krommen bek haer van het schip te rukken,   │
+│ Waeraen zy vast hing, die bevreest voor  s vogels nukken,  │
+│ Het koningsschip verlaet,  t welk door de golven drijft;   │
+│ En  t schijnt datze in de lucht op  t water hangen blijft. │
+│ (210) Zy schijnt een pluim. de pluim, in  t vogelkijn      │
+│ herboren,                                                  │
+│ Heet leeurik, naer de lok den vader afgeschoren.           │
+│     Als Minos nu belant in Kreten, en met een              │
+│ Zijn maght en oorloghsvolk ten schepe is uitgetreên,       │
+│ Betaelt hy Jupiter belofte en offerhanden                  │
+│ (215) Van hondert stieren, hangt den roof rondom de wanden │
+│ En pijlers van het hof. de stam was midlerwijl             │
+│ Geschent door  t overspel, ook tegens wet en stijl         │
+│ Begaen met een gedroght van tweederley natuuren,           │
+│ Waer van Pasifaë gelagh, den nagebuuren                    │
+│ (220) Nu kundigh. Minos zoekt dees vuile lastersmet,       │
+│ En snoode bloetschande, af te keeren van zijn bedt,        │
+│ En  t gruwzaem hofgedroght ter zijde in d afgeschooten     │
+│ Behuizing doolhofswijs te houden opgeslooten.              │
+│ Vernuftige Dedael, een bouheer zonder ga,                  │
+│ (225) Aenvaerde  t werk. men kon in  t gaslaen voor en na  │
+│ [p. 234]                                                   │
+│ Geen oogh, hoe scherp men zagh, op eenigh teken houwen.    │
+│ De paden kringkelen in boghten en in vouwen,               │
+│ Misleiden  s gangers oogh: aleveneens gelijk               │
+│ De stroom Meander door het Frigiaensche rijk               │
+│ (230) Loopt speelen met zijn kil, dan op dan nedervloeien, │
+│ Zich zelf bejegenen, dan naer den oorsprong spoeien,       │
+│ Dan weder zeewaert in een wijt en ruimer velt,             │
+│ En onder  t wentlen zich geduurigh werk bestelt.           │
+│ [...]                                                      │
+└────────────────────────────────────────────────────────────┘
+
+
+                            Continue
+
+                             SCILLA,
+
+
+                           TREURSPEL.
+
+                              DOOR
+
+                           L. ROTGANS.
+
+                     [Vignet: In hoc signo].
+
+                          t AMSTERDAM,
+                      _____________________
+
+                       By FRANÇOIS HALMA,
+
+                      Boekverkoper; MDCCIX.
+
+                         MET PRIVILEGIE.
+
+                            Continue
+
+
+                            OPDRAGT
+
+                            AAN DEN
+                      WELEDELEN ACHTBAREN
+                              HEER
+
+                           JAN ELIAS
+
+                          HUYDEKOPER,
+
+                      HEER VAN MAARSEVEEN,
+                         NEERDYK, enz.
+
+                     MEDEPRESIDENT SCHEPEN
+                      DER STADT AMSTELDAM,
+                         enz. enz. enz.
+
+           Weledele achtbaare Heer en hooggëerde Neef
+
+UW WelEd^s. ongeveinsde vrientschap en gunstige gedachten,
+omtrent myn persoon in verscheide voorvallen gebleeken, hebben my
+aangemoedigt om Uw WelEd^s. met veel eerbiedigheit tot
+Beschermheer dezer toneelpoëzye te verzoeken, op dat zy onder Uw
+WelEd^s. vleugelen de stormen van haare benyders mogte
+ontschuilen.
+      En wien kan ik deze stoffe, waar in de deugdt na veele
+vervolgingen triomfeert, en het quaadt ten spiegel van anderen
+gestraft wordt, beter opdraagen, dan Uw WelEd:, die, onder eene
+algemeene toejuichinge met een onbevlekt gewisse, de
+gerechtigheit in de Amsterdamsche vierschaare hanthaaft?
+      Uw WelEd^s. ongemeene hoedanigheden zouden hier wel eene
+ruimer uitbreidinge vereischen, maar wetende dat Uw WelEd^s.
+aangebore zedigheit alle loftuitingen veroordeelt, zal ik my hier
+niet verder in uitdrukken; maar alleen zeggen, dat Uw WelEd^s.
+uit hoogloffelyke Ouderen, oprechte Vaderen des vaderlandts (wier
+verdiensten noch versch in de gemoederen der ingezetenen geprent
+staan) gesprooten, de wereldt blyken geeft, dat hunne deugden
+niet versterven, maar in eenen nakomeling, zyne beroemde geboorte
+in alles waardig, herleeven.
+      Ik zal my niet verstouten Uw WelEd^s. hoogwigtige
+bezigheden, door eenen langen opdragt, af te breeken, maar
+eindigende verzoeken dat Uw WelEd: my de eer gelieft te vergunnen
+dat ik my met veel eerbiedigheit mag noemen
+
+                               WELED. ACHTB. HEER
+
+                                    Uw Weleds. gehoorsaamste
+                                         en verpligtste dienaar.
+
+                                                   L. ROTGANS.
+
+                            Continue
+
+                         VOORREDE.
+
+DE latynsche dichter Publius Ovidius Nazo, beschryft in het boek
+zyner Herscheppinge, dat Minos, koning van Krete, om den moordt
+van zynen zoone Androgeos, te wreeken, den Athenienzeren en
+andere medepligtigen den oorlog aandeede; en dat hy in het beleg
+van Alkathoë door Scilla, dochter des konings Nizus, verscheide
+maalen van de statswallen by stilstant van wapenen gezien,
+zoodanig van haar bemint wierdt, dat zy, om haar oogmerk te
+bereiken, zich niet ontzag het purper haartje, dat haar vader op
+het hoofdt droeg, en daar het heil en welvaren van het gansche
+ryk van afhing, by nacht af te snyden, en dezen roof den
+belegeraar, als een blyk van liefde, aan te bieden: gelyk de
+dichter aldus zingt:
+
+                    Thalamos taciturna paternos
+Intrat, &, (heu facinus) fatali nata parentem
+Crine suum spoliat, praedaque potita nefanda
+Fert secum spolium sceleris, progressaque porta
+Per medios hostes (meriti fiducia tanta est)
+Pervenit ad regem.
+
+Maar de troulooze dochter vondt zich bedroogen, toen de koning in
+plaats van haar gunstig te ontfangen, in de volgende vloeken
+uitborst:
+
+Dii te summoveant, ô nostri infamia saecli,
+Orbe suo, tellusque tibi, pontusque negetur.
+Certe ego non patiar Jovis incunabula Creten,
+Qui meus est orbis, tantum contingere monstrum.
+
+Dit verdichtzel hebbe ik voor myne hooftstoffe verkooren: maar
+veele andere omstandigheden zyn, om dit treurspel werkzaam en
+aangenaam in de oogen der aanschouweren te maaken, naar het
+voorbeeldt der fransche Toneeldichteren, van my zelf uitgevonden,
+en daar by gevoegt.
+    Om deze fabel nu schyn van waarheit by te zetten, heb ik dat
+purper haartje van Nizus, als de behoudenisse van  t ryk
+verworpen, maar my bedient van zeker Schildt, waar op het beeldt
+van Mars gegraveert stondt: het welk met alle omzigtigheden in de
+hofkapelle van Nizus bewaart, en van zyne onderdaanen met veele
+plegtigheden als de Beschermgodt van het gansche ryk verheerlykt
+en geviert wierdt.
+    Deze bygelovigheit der Afgodische Heidenen is zoo gemeen en
+bekent, dat ik den kundigen lezer tot bewys met geene voorbeelden
+behoeve op te houden.
+    Twee hooftpersonadien hebbe ik hier by gevoegt: te weten
+Ismene, die ik als een twede dochter van Nizus; en Fokus, zoon
+van Eakus, koning van Enopië, dien ik als haaren minnaar ten
+toneel voere.
+    Dezen Eakus zocht Minos als hulpgenoot in den oorlog in te
+wikkelen, doch te vergeefs; want hy koos in tegendeel als
+bontgenoot de zyde der anderen; en daarom hebbe ik met meer
+vryheidt zynen zoon in dit treurspel mogen gebruiken.
+    De liefde tusschen deze twee doorluchtige personadien, door
+my verdicht, verwekt byzondere hartstogten, want ik stelle den
+overwinnaar Minos, die Scilla veracht, als medeminnaar van Fokus.
+    Verscheide zaaken, die tot waarschynlykheit dienen, als
+hoedanig Scilla het Schildt gerooft heeft, en uit de stadt is
+gekomen; hoe de priester, na het missen van het heiligdom, oproer
+onder de burgers stichtte, en andere, zyn ook van myne
+uitvindinge.
+    Eenigen, dien de vryheden van het toneel niet genoegzaam
+bekent zyn, zullen mogelyk deze byvoegzels veroordeelen: maar ik
+zegge, indien ik een waare geschiedenis behandelde, dat ik die in
+haar geheel zoude laaten; doch als men een verdichtzel, met
+zedelessen vermengt, slechts behagelyk in de oogen der
+aanschouweren, en waarschynlyk, volgens de toneelwetten, te
+voorschyn brengt, is deze uitweidinge, naar myn oordeel,
+geoorlooft. Ook zal ik op die berispinge, indien myn arbeidt den
+toneelkundigen eenigsins voldoet, en ten voordeele der
+Amsterdamsche Godtshuizen mag gedyen, weinig acht geeven.
+
+                          Continue
+
+                        PRIVILEGIE.
+
+
+DE Staten van Hollandt ende Westvrieslandt, Doen te weten. Alsoo
+Ons vertoond is by Lucas Rotgans, woonende tot Utrecht, hoe dat
+hy geerne Wilhem de derde Koning van Groot-Brittanien, door hem
+in Heldendicht beschreven, en in acht Boeken verdeelt, midsgaders
+zyne verdere dichtkundige Werken met den druk zoude gemeen
+maaken, ende onder zyne dagelykse toezigt en gedurige nalésing
+tot Utrecht laten drukken; Dan alzoo hy niet sonder reden bedugt
+was, dat sommige baetzuchtige menschen, na dat hy veel tyds en
+arbeyds daar toe zoude hebben besteedt, en grote onkosten tot het
+drukken van  t selve gedaan, sich mogten onderstaan het voorsz.
+Werk in  t geheel of ten deele in Onsen Lande van Holland na te
+drukken, en dikwils by faute van naeukeurige toezigt, en
+opmerkinge, niet alleen desselfs luyster te beneemen, maar ook
+zelfs aan de dichtkunde, en aan de reputatie van den Auteur te
+kort te doen; zoo vind de zelve zig genootsaakt om zulks voor te
+komen, zig te addresseeren aan Ons, en gehoorzaamst te verzoeken,
+dat Wy uyt Onze Souveraine macht en authoriteit, hem geliefden te
+vergunnen, gelyk meermalen in diergelijke voorvallen gebeurt was,
+Ons consent en Octroy, om het voorsz. Werk Wilhem de derde,
+Koning van Groot Britannien &c. midsgaders alle zyne dichtkundige
+Werken te mogen laten drukken, daar hy het goet zoude vinden,
+voor den tyd van vytfien eerstkomende Jaren, zonder dat het
+binnen dien tyd aan Onse ingezetenen vry zoude staan het zelve
+Werk, of eenige derzelve na te drukken, of elders nagedrukt in
+Onzen Lande te brengen, uyt te geven, of te verkoopen, onder
+zoodanige verbeurte, als wy zouden gelieven te statueren en
+ordonneeren. ZOO IST, Dat Wy de zake ende  t verzoek voorsz.
+overgemerkt hebbende, ende genegen wezende ter bede van den
+suppliant, uit Onze rechte wetenschap, Souveraine magt ende
+authoriteyt, den selven suppliant geconsenteert, geaccordeert,
+ende geoctroyeert hebben, consenteren, accordeeren, ende
+octroyeren midsdesen, dat hy gedurende den tyd van vyftien eerst
+agtereenvolgende jaren het voorsz. Boek, genaamt Wilhem de derde,
+Koning van Groot Britannien &c. midsgaders alle zyne digtkundige
+Werken binnen de voorsz. Onsen Lande alleen zal mogen drukken,
+doen drukken, uytgeven ende verkopen: verbiedende daarom allen
+ende een iegelyken het zelve Boek in  t geheel ofte ten deele
+naer te drukken, ofte elders nagedrukt binnen den zelven Onsen
+Lande te brengen, uit te geeven ofte te verkopen, op verbeurte
+van alle naergedrukte, ingebragte, ofte verkogte Exemplaren, ende
+een boete van driehondert guldens daarenboven te verbeuren, te
+appliceren een derdepart voor den Officier die de calange doen
+zal, een derdepart voor den Armen daar het casus voorvallen zal,
+ende het resteerende derdepart voor den suppliant. Alles in dien
+verstande, dat Wy den suppliant met Onsen Octroye alleen
+gratificeren tot verhoedinge van zyne schade door het naardrukken
+van het voorsz. boek, daar door in genigen deele verstaan den
+inhoude van dien te authoriseren, ofte te advoueren, ende veel
+min het zelve onder Onse Protectie ende bescherminge eenig
+meerder credit, aansien ofte reputatie te geven, nemaar den
+suppliant in cas daarinne iets onbehoorlyks soude influeren, alle
+het zelve tot zynen laste zal gehouden weesen te verantwoorden,
+tot dien eynde wel expresselyk begeerende, dat by aldien hy dezen
+Onsen Octroye voor het werk zal willen stellen, daar van geen
+geabbrevieerde ofte gecontraheerde mentie sal mogen maken, nemaar
+gehouden zal weezen het zelve Octroy in  t geheel zonder eenige
+Omissie daar voor te drukken, ofte te doen drukken, ende dat hy
+gehouden zal zyn een exemplaar van het voorsz. Boek gebonden ende
+wel geconditioneert te brengen in de Bibliotheecq van Onse
+Universiteyt tot Leyden, ende daar van behoorlyk te doen blyken:
+alles op poene van het effect van dien te verliesen; Ende ten
+einde de Suppliant desen Onsen consente ende Octroye moge
+genieten als naar behooren, lasten Wy allen ende een iegelyken
+die  t aangaan magh, dat zy den Suppliant van den inhoude van
+desen doen, laten ende gedogen, rustelyk, vrédelyk ende
+volkomentlyk genieten ende gebruiken, cesserende alle belet ter
+contrarie. Gedaan in den Hage onder Onzen grooten Zegele hier aan
+doen hangen den XXXj^en July in  t Jaar Ons Heeren ende
+Saligmakers duysent ses hondert sevenentnegentigh.
+
+A. HEINSIUS.
+
+                          Ter Ordonnantie van de Staten
+
+                                        SIMON VAN BEAUMONT.
+______________________________________________
+
+
+    Lucas Rotgans heeft het recht van deeze privilegie, tot het
+drukken van zyn Treurspel Scilla, overgedraagen aan François
+Halma, nu Boekverkoper te Amsterdam.
+
+
+                          Continue
+
+        VERTOONERS
+
+MINOS, Koning van Krete.
+NIZUS, Koning van Megare.
+ISMENE, & SCILLA, Dochters van Nizus.
+FOKUS, Zoon van Eakus, koning van Enopië, minnaar van Ismene.
+MENTOR, Onderveltheer en vertrouling van Minos.
+DORIZE, Vertroude van Scilla.
+ARSINOË, Vertroude van Ismene.
+AGÉNOR, Hooftman der lyfwacht van Minos.
+LYFWACHT.
+
+   Het Toneel verbeeldt de tent van Minos voor
+                het belegert Alkathoë.
+
+
+                          Continue
+
+SCILLA.
+
+TREURSPEL.
+
+______________
+
+
+EERSTE BEDRYF.
+
+EERSTE TONEEL.
+SCILLA, MINOS.
+
+SCILLA.
+JA, Minos, aan  t geschenk, dat ik u heb gegeeven,
+En uit de kerk geschaakt, hangt Nizus kroon en leven.
+ t Is haast een jaar geleên dat gy hier zyt gelandt,
+En ik uw vaanen voor de muuren zag geplant;
+(5) Maar hebt gy wel een voet gewonnen met den degen,
+Of eenig voordeel op Alkathoë gekreegen?
+Wy hebben reis op reis uw stormen doorgestaan,
+Uw helden van den wal gedreeven onder  t slaan;
+En gy hadt vruchteloos den krygstogt ondernomen,
+(10) Was ik in dit beleg u niet te hulp gekomen.
+ t Gewyde pandt, myn heer, dat ik u heb gebragt,
+Wierdt lang als heilig by den vorst en  t volk geacht.
+ t Orakel eischte voor een langen reeks van jaaren,
+(15) Dat Nizus zorg dit Schildt naauwkeurig most bewaaren,
+Een Schildt door Mavors beeldt verheerlykt. hoor, ô heldt,
+Wat ons voordezen door de godspraak is gemeldt.
+
+Bewaak dit heiligdom, ô vorst. gy onderzaaten
+        Bewierookt Mavors beeldt; daar in bestaat alleen
+De rust en zekerheit van uw gebiedt en staaten,
+        (20) Het heil der grooten en de zegen van  t gemeen.
+
+Wie in Megare leeft wierdt van zyn kintsche dagen
+Die stem in  t hart gedrukt. wy vreesden voor geen laagen,
+Noch schroomden, door dit Schildt verdedigt, voor geweldt.
+Men hadt van jaar tot jaar een vierdag ingestelt,
+(25) Waar in al d edelliên en burgers, mans en vrouwen
+Te voorschyn quamen, om een offerfeest te houwen,
+En voor den tempel, daar dat heiligdom van  t ryk
+Vertoont wierdt,  s hemels gunst te looven. blyk op blyk
+Gaf ieder van zyn pligt en kerkdienst voor d altaaren,
+(30) Daar hondert stieren, by  t gewoel der wichelaaren,
+Om  t offer loeiden voor de byl in  t heilig stof.
+Na deze plegtigheit wierdt in de zaal van  t hof
+Een offerdisch gespreidt voor edelliên en grooten,
+En by de poort op  t veldt voor minder lantgenooten.
+(35) Zoo wierdt van jaar tot jaar dat groote feest geviert,
+De tempel, markt en straat met groente en loof versiert.
+Ik zelf heb menigmaal  t gewyde vier ontstoken,
+Den wierook toebereidt, en omgezwaait by  t smooken,
+En als een priesterin, ten dienst der offerhandt,
+(40) Het nootlot nagespoort in  t lillende ingewandt.
+ k Heb hondertwerf dien Godt, met neêrgeboge leden,
+In vrede of oorlogstydt om Nizus heil gebeden:
+Vooral in dit beleg heeft hy my menigmaal
+Zyn zegen toegewenkt by  t klinken van uw staal.
+(45) Hoe zal de tempelier nu storm en onweêr kraajen,
+En onder  t weiflent volk zyn zaadt van oproer zaajen!
+Hebt gy al iets gehoort?
+
+MINOS.
+                                      Gy waart my eerst verdacht,
+Toen gy voor my verscheen in  t midden van den nacht:
+Doch nu my door gevolg de waarheit is gebleeken,
+(50) Zal ik u van de zaak met grooter vryheit spreeken.
+Ik zag in  t krieken van den dag de witte vaan,
+Omvlochten met olyf, op Nizus muuren staan.
+Ik heb twee gyzelaars gekreegen uit zyn wallen,
+De grootsten uit uw volk, die met hun welgevallen
+(55) En ongedwongen naar myn leger zyn gegaan:
+Zy bieden met de stadt my kroon en septer aan.
+De vesting staat voor my en  t gansche heir ontslooten:
+Dies zonde ik een uit myn getrouste togtgenooten,
+Verzelschapt met een troep soldaaten, derwaarts heen.
+(60) Al  t volk is, als ik hoore, ontroert en op de been,
+En tegens  t gansche hof met gramschap ingenomen.
+Ik wacht myn legerhoofdt, hy zal straks wederkomen.
+Maar gy, mevrouw, die door een dienst van dat gewigt,
+En ongehoorde zaak, een vyandt hebt verpligt,
+(65) Neem my niet qualyk af, dat ik uw naam moet vraagen,
+En wat u heeft geport om dit gevaar te waagen,
+En hoe gy  t heilig Schildt geschaakt hebt uit de kerk.
+
+SCILLA.
+Weet dan, ô brave vorst, dat ik dit groote werk...
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+MINOS, SCILLA, DORIZE, AGÉNOR.
+
+AGÉNOR.
+Myn heer, een man van staat, uit Nizus vest geweeken,
+(70) Zoekt u om redenen van hoog belang te spreeken.
+Hy brengt deze eedle vrou in  t leger uit zyn hof.
+
+MINOS.
+Ik volge u voort. mevrou, ik ga met uw verlof.
+ k Zal by gelegenheit u nader onderhouwen.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+SCILLA, DORIZE.
+
+SCILLA.
+Dorize!
+
+DORIZE.
+                Goôn! prinses, moet ik u hier aanschouwen!
+(75) Men heeft den ganschen dag in dien verbaasden staat
+Door  t hof naar u gezocht, en op de markt en straat
+Den burger ondervraagt, maar niets van u vernomen.
+
+SCILLA.
+Ik zal  t u melden. maar hoe zyt gy hier gekomen?
+Wat brengt gy uit de stadt en vaders hof?
+
+DORIZE
+                                                                  Daar blaakt
+(80) Een vier van oproer nu ons Heilschildt is geschaakt.
+Al wat my wierdt bericht zal ik aan u verhaalen.
+Zoodra de dageraat verrees met morgenstraalen,
+Ontstondt er door de stadt een schielyk moortgerucht.
+De koning met zyn stoet ontwaakte, en was beducht
+(85) Of  t vyantlyke heir de poorten en de wallen,
+Begunstigt van den nacht, met storm hadt overvallen.
+De dappre Fokus, die de ronde eerst hadt gedaan,
+Vloog naar de vest, en zag het hoofdt der priestren staan
+In  t midden van den drom der trekkende oorlogsknaapen,
+(90) En burgren, die de wacht verpoosden, en in  t wapen
+De post bezetten, die hun zorg was toebetrout.
+Hy scheurt zyn offerkleedt. hy stampvoet, en aanschout,
+Verbaast op dit gezigt, den hemel, onder  t zuchten.
+Op, schreeut hy, burgers, op soldaaten, laat ons vluchten.
+(95) Verwerpt het* krygsgeweer.  t loopt met Alkathoë,
+De koninklyke vest, ten ende. wee, ô wee!
+Men heeft ons Mavors Schildt, de ziel van  t ryk, ontdraagen,
+En van den wandt gelicht. nu blyken Minos laagen.
+Hy heeft gewis door list dit heiligdom gerooft.
+(100) Ach! myn altaargenoot, wat hangt u boven  t hoofdt!
+Indien gy vechten wilt, wat kan dat opzet baaten?
+De Goden hebben ons door dat geval verlaaten.
+Hy brout zijn ondergang, verdoolde burgery,
+Die in hun toornigheit den sabel gordt op zy.
+(105) Wat jammer, wat elende en ramp is u beschooren,
+Indien de stadt door storm in  t stryden gaat verloren,
+En koning Minos dringt verwinnaar in de poort,
+Omsingelt van zijn stoet, verhit op roof en moordt!
+Dan zal geen zuigeling, gedrukt in  s moeders armen,
+(110) Den wreeden kinderbeul beweegen door zyn kermen,
+Maar smooren in zyn bloet, terwyl de voedster beeft,
+En, vallende op de vrucht, met haar den dootsnik geeft.
+Ik zie den dwingelandt uw huis door  t vier verteeren,
+Uw dochters voor uw oog op  t smokent puin schoffeeren,
+(115) De Moordt holt langs de stadt. geen tempel, geen altaar
+Verstrekt den vluchteling een vryburg in  t gevaar.
+Verhoedt dit ongeval, en sluit de poorten open.
+Hier zwygt de priester: en d ontroerde burgers loopen
+Vol wanhoop langs de vest. het dondert in de lucht
+(120) Tot driemaal achtereen. elk schrikt, en neemt de vlucht,
+En werpt de wapens neêr. maar Fokus tracht dit muiten,
+En schadelyk gevolg in zyn begin te stuiten,
+En elk door reden eerst te brengen tot zyn pligt,
+En dan door dreigement; maar hy heeft niets verricht.
+(125) Hy wordt van  t woedent volk al vloekende overvallen,
+En, schoon hy weêrstant biedt, ontwapent op de wallen,
+En naar  t paleis gesleept. uw vaders lyfwacht keert,
+Maar flaau, den aanval, en wordt schielyk overheert.
+Met zulk een stoet verschynt de prins voor Nizus oogen.
+(130) Door dat veracht onthaal wordt d oude vorst bewoogen.
+De schoone Ismene ziet haar minnaar in dien staat,
+En valt hem om den hals met een verbaast gelaat.
+Maar  t opgehitste graauw, vervreemt van mededogen,
+Beschimpt de ryksprinses, en  t koningklyk vermogen,
+(135) Men houdt al  t hofgezin gegyzelt in de zaal,
+Met dubble wacht bezet. wie schrikt niet voor  t verhaal!
+Zoo vliegt men om de poort der vesting op te sluiten,
+Daar Minos oorlogsvolk, alreê bewust van  t muiten,
+Op  t waajen van de vaan, met groene olyf bekleedt,
+(140) Vast in slagorde stondt. de koning staat gereet,
+Om met zyn gansche huis, uw zuster en haar minnaar
+In  t heir te komen, door  t bevel van zyn verwinnaar.
+Myn broeder, die zyn komst aan Minos maakt bekent,
+Heeft my voor af, prinses, geleidt naar deze tent,
+(145) Om  t woedent volk t ontgaan. hoe zyt gy hier gekomen?
+
+SCILLA.
+Wie heeft het Schildt gerooft? hebt gy dat niet vernomen?
+
+DORIZE.
+Neen.
+
+SCILLA.
+            Maar gy kent haar wel, Dorize.
+
+DORIZE.
+                                                        Hoe, mevrou,
+Zou ik haar kennen?
+
+SCILLA.
+                                    Ja.
+
+DORIZE.
+                                        Verdenkt gy zoo myn trou?
+En zou ik deze zaak den vorst niet openbaaren?
+
+SCILLA.
+(150) Wel, weet gy  t niet? hoor toe: ik zal het u verklaaren.
+Zy staat voor uw gezigt. ik heb dat stuk bestaan.
+
+DORIZE.
+Wat hoor ik! hemel! ach! hebt gy uw landt verraân!
+Goôn! wat heeft uw gemoedt tot dat besluit gedreeven?
+Wien hebt gy  t heilig pandt, daar  t ryk aan hing gegeeven?
+
+SCILLA.
+(155) Het is in Minos magt. maar eer ik verder ga,
+Zoo weet dat ik bemin, Dorize. ja, ô ja,
+Ik heb....
+
+DORIZE.
+              Hoe, gy bemint? en wien?
+
+SCILLA.
+                                                    Dien grooten koning.
+
+DORIZE.
+Hoe kan u deze min verstrekken tot verschoning
+Van zulk een euveldaadt?
+
+SCILLA.
+                                    Myn liefde is wel gegrondt:
+(160) Ik zoek door  t huwelyk een eeuwig vrêverbondt
+Met Minos en de kroon van vader op te rechten.
+Ik hoop myn bruiloftfeest zal dit krakkeel beslechten.
+Elk deelt in  t krygsgevaar. indien een wrede vuist,
+In  t stormen op den wal, van  s konings bloet begruist,
+(165) Ons d overwinning schonk, ten koste van zyn leven,
+Dan zou die zege my gewis den dootsteek geeven.
+Waar toe meer bloet gestort, en, heet op moordt en wraak,
+In  t oorlogsperk gewoedt?
+
+DORIZE.
+                                            Hoe hebt gy deze zaak
+Voor my verzweegen, my, die gy hadt uitverkoren,
+(170) Om uw geheimen, als vertroude, steets te hooren?
+
+SCILLA.
+Ik wist wel dat gy zoudt myn oogmerk wederstaan.
+
+DORIZE.
+Dan hadde ik maar myn pligt, gelyk  t betaamt, gedaan.
+
+SCILLA.
+Kent gy de liefde niet, Dorize, en haar vermogen?
+Myn staat eischt geen verwyt, maar eer uw mededogen.
+
+DORIZE.
+(175) Maar is de koning niet verbonden door de trou?
+
+SCILLA.
+ t Is waar, Pasifaë was eer zijn waarde vrou,
+Maar heeft zyn koets bevlekt door haar oneerbaar leven,
+En hy om overspel haar uit zyn gunst verdreeven.
+
+DORIZE.
+En wanneer wierdt uw hart die minnewondt gewaar?
+
+SCILLA.
+(180) Kent gy den toren niet op  t hooge bolwerk, daar
+De klanken, als men zegt, van Febus lier gebleeven,
+In  t kloppen op den muur, een zoeten nagalm geeven?
+Hoe menigmaal hebt gy, eer Minos was gelandt,
+Uw oor met my gestreelt, door  t klinken van den wandt:
+(185) Hoe dikmaal hebt gy daar met my den tydt gesleeten
+Ook in dit lang beleg: of is u dat vergeeten?
+By stilstant heb ik daar veel uuren doorgebragt,
+En steets den toestant der Kretenzer oorlogsmagt
+Naaukeurig aangemerkt. hier zag ik Minos draaven
+(190) Op  t moedig oorlogsros aan  t hoofdt van hondert braaven.
+Ik heb zyn wapenschou, den handel van  t geweer,
+En d oefening in  t veldt, by  t drillen van zyn speer,
+Met yver aangezien. ik zag de veders zwieren
+Om zyn gekamden helm voor  t oog der krygsbanieren.
+(195) Hoe vaardig schoot zyn vuist, volleert en afgerecht,
+Den werpschicht op den wal in  t hevigst van  t gevecht!
+Zag ik hem zonder helm langs zyne tenten treeden,
+Dan wierdt myn hart geraakt door zyn bekoorlykheden.
+In  t kort, ik keerde van den toren reis op reis,
+(200) Verslingert op den heldt, al zuchtende in  t paleis.
+Maar, ach! hoe zocht ik my door reden t overwinnen!
+Hoe heb ik deze drift veroordeelt in myn zinnen!
+Maar vruchteloos. helaas! de hartstogt, die myn wil
+Zoo krachtig ging te keer, bleef meester in  t geschil.
+(205) ô Zelfstrydt, die geen rust vergunde aan myn gedachten,
+Gy, die myn koets ontroerde in slaapelooze nachten,
+(Dat tuige  t zachte dons, doorweekt met traan op traan)
+Wat heb ik stormen door uw perssing uitgestaan!
+Wat heb ik om dien heldt, Dorize, veel geleden!
+(210) Dies schroomde ik in dien staat gevaar noch zwarigheden.
+
+DORIZE.
+Maar door wat middel hebt gy  t heilig pandt gerooft?
+
+SCILLA.
+De Min, vernuftig in haar werking, dient ons hoofdt
+Met hondert vonden, om  t gewenschte wit te raaken.
+Ik kon de hofkapel, gelyk gy weet, genaaken
+(215) Langs d oude gallery, van binnen door de poort
+Die in myn slaapzaal staat, en, van geen wacht gestoort,
+Die voor het groot portaal de ronde doet van buiten,
+Met waschlicht in de handt de binnedeur ontsluiten.
+Gy weet, myn vader gaf de sleutels in myn magt,
+(220) Doordien ik was gewoon, na  t scheiden van den nacht,
+In  t krieken van den dag myn tempeldienst te pleegen.
+
+DORIZE.
+Die vroomheit staat hem dier, en kost hem  s hemels zegen.
+
+SCILLA.
+Ei, smaal niet op myn deugdt: en heb ik eens gedwaalt,
+De Min heeft my van  t spoor al vleiende afgehaalt.
+
+DORIZE.
+(225) Hoe quaamt gy uit de stadt by nacht?
+
+SCILLA.
+                                                                Ik hadt twee
+slaaven,
+(Wier vryheit ik wel eer verwurven heb,) door gaaven
+En uit erkentenis, in myn belang gebragt.
+Daar loopt een ruime gang beneden naar de gracht,
+Waar in men langs een trap in  t hof kan nederdaalen;
+(230) d Een vrygemaakte wacht, opdat ik niet zou dwaalen,
+My by den ingang met een fakkel, en geleidt
+My naar de gracht, daar ons zyn metgezel verbeidt.
+Hier lag de hofgalei, die wy in vrededagen
+Gebruikten in de plaats van vaders stasiwagen;
+(235) Waar in wy menigmaal, van slaaven voortgeroeit,
+Heen stooven langs  t kanaal dat in de zeegolf vloeit:
+Daar stap ik vrolyk in met myne hulpgenooten;
+Die zonder veel gerucht de kiel door  t water stooten.
+Zoo voert ons die galei in zekerheit aan landt.
+(240) De leitsliên brengen my door  t leger handt aan handt,
+Begunstigt van den nacht, terwyl de mannen slaapen,
+Aan Minos groote tent. de lyfwacht, die in  t wapen
+Den ingang trou bewaakt, gebiedt ons stil te staan.
+Een ander dient terstont myn komst den koning aan.
+(245) Zoo stap ik, met het Schildt geladen in myn armen,
+Door tentwacht en staffier, die Minos lyf beschermen,
+In dit vertrek, en schenk den vorst ons heiligdom.
+
+DORIZE.
+Ik sta door uw verhaal als sprakeloos en stom:
+Maar mag ik ongeveinst myn hart aan u ontdekken,
+(250) Deze onderneming zal u nooit tot voordeel strekken,
+Gy hebt te veel gewaagt. bedenk, prinses, ik zal...
+
+SCILLA
+Neen, zwyg. de stoute wordt begunstigt van  t geval,
+Terwyl de suffer van zyn oogmerk blyft versteeken.
+De vruchten, die de tydt door arbeidt weet te queeken,
+(255) Verkrygen zoeter smaak, dan die ons by geluk
+Slechts druipen in den mondt. dit is een meesterstuk,
+Dat my veel zekerheit belooft na veel gevaaren.
+Een zeeman, lang geschokt, geslingert op de baaren,
+Die door zyn wakkerheit den storm braveert op zee,
+(260) Trekt voordeel uit zyn vlyt aan een gewenschte ree.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+MINOS, SCILLA, DORIZE, MENTOR,
+AGÉNOR.
+
+MINOS
+MEvrou, ik moet den vorst, die nadert, hier verbeiden.
+Agénor zal u weêr naar uw vertrek geleiden.
+Ook heb ik met dien heer te spreeken.
+
+SCILLA.
+                                                    Wel, wy gaan.
+Maar denk, wat ik voor u, ô Minos! heb gedaan.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+MINOS. MENTOR.
+
+MENTOR.
+(265) ZOo lacht de zege ons toe. zoo pronken uwe vaanen
+En standers, in  t gezigt van Nizus onderdaanen,
+Op zyn verheve vest: elk viel den koning af.
+Soldaat en burger knielde en kuste uw legerstaf:
+Zy gaven zwaardt en speer vrywillig in myn handen,
+(270) En zwoeren hulde en trou aan u, die deze landen
+Voortaan gebieden zult, als wettig vorst en heer.
+Zoo breidtge uw ryksgrens uit. zoo zal uw krygsgeweer,
+Begunstigt van de Goôn, door al de wereldt blinken.
+Door uw verheffing zal uw vyandts hoogmoedt zinken.
+(275) Gy hebt d Atheensche kroon voor eerst de wet gestelt,
+Gedwongen om  t verbondt te tekenen in  t veldt.
+Nu hebt gy, om uw roem en luister te vergrooten,
+Uw vyandt van den troon, dien gy beklimt, gestooten,
+En in een dag of min dit groot krakkeel beslecht,
+(280) En  t Alkatheesch gezag aan uw gebiedt gehecht.
+Het woest Megare ziet uw oorlogstoortsen rooken,
+Door  t vier van wraakzucht in uw dappre vuist ontstoken.
+Hoe zal  t Kretenzer volk in dien verheven staat
+U groeten, als gy keert in  t blinkent feestgewaadt!
+(285) Hoe zal uw hofgezin met blyde zegezangen
+Al juichende uwe vloot aan onze kust ontfangen!
+Uw bouheer Dedalus, de wereldt door vermaardt,
+Zal op uw buitenhof, ter eere van uw zwaardt,
+Een hooge zegeboog uit prachtig marmer houwen:
+(290) Dan zal de vreemdeling uw krygstriomf aanschouwen,
+Als gy op  t oorlogsros verheven zit ten toon,
+Verheerlykt met den staf en groene lauwerkroon;
+Daar duizent vyanden, geketent aan uw voeten,
+U, als hun opperheer en overwinnaar, groeten.
+
+MINOS.
+(295)  k Heb die verwinning niet bevochten door myn staal.
+De bystant van een vrou verwekt die zegepraal.
+Die zege, Mentor, maakt my schaamroot en verlegen,
+Doordien ik van een vrou dat voordeel heb verkregen:
+Zy zet myn grooten naam meer schande als luister by:
+(300) Verhef haar niet te hoog door uwe vleiery.
+Die laffe loftrompet, die veelen zou bekooren,
+Klinkt, als een valsche toon, gansch walglyk in myne ooren.
+Gy spreekt, als hoveling: ik hoore u, als een heldt,
+Wiens edelmoedigheit in  t bloedig oorlogsveldt,
+(305) Met een gelyke kans, zyn vyandt wil bespringen:
+Dan voegt het na den strydt door  t heir triomf te zingen.
+De lauren munten uit, gevlochten om ons haar,
+Maar voor de vuist geplukt in  t grootste lyfgevaar.
+Nu worde ik van een vrou, en door verraadt, verheven.
+
+MENTOR.
+(310) Kent gy haar niet, die u dat Heilschildt heeft gegeeven?
+En is u niet bewust, waarom zy  t landt verriedt?
+
+MINOS.
+Ik zag haar nooit voorheen; en  t ander weet ik niet.
+ k Zal by gelegenheit die zaaken wel ontdekken.
+Maar ik bespeur iets groots, iets heerlyks uit de trekken
+(315) Van  t wezen: ik geloof, zy is van hoogen staat.
+De glans der majesteit vertoont zich in  t gelaat.
+
+MENTOR.
+Haar huis is licht gehoont, van eere en staat versteeken;
+En mooglyk zoektze dit aan Nizus hof te wreeken.
+Een hooggebore ziel, beledigt, vlamt op wraak.
+(320) Heeft dit geen schyn, myn heer?
+
+MINOS.
+                                                        Ik suf in deze zaak.
+
+MENTOR.
+Of zou  t wel liefde zyn, waar door zy wordt gedreeven?
+Die hartstogt werkt met kracht, ontziet gevaar noch leven.
+
+MINOS.
+Maar hoe hebt gy de stadt verzekert door myn magt?
+
+MENTOR.
+ k Heb vyftig vaanen in Alkathoë gebragt,
+(325) En toren en kasteel bezet met dappre mannen.
+Men heeft de ketens op de groote markt gespannen,
+Waar langs de hooftwacht trok naar  t wachthuis, om, indien
+Het graauw aan  t muiten sloeg, het tegenstant te biên,
+En door die ketenen den toegang af te sluiten.
+(330) Elk toont zich welgemoedt, en zal den oploop stuiten.
+Ik heb de woningen der burgren onderzocht,
+Ontwapent, en  t geweer in  t wapenhuis gebrogt;
+Dat laat ik door een wacht der braafste legerschaaren,
+En hopliên meest bekent, naar krygsgebruik, bewaaren.
+(335) Ik heb  t gevaar gekeert door myn voorzigtigheit,
+En Nizus aanhang in verzekering geleidt:
+De priesters hadden my die huizen aangeweezen:
+Zy pleiten voor uw zaak: dies hebt gy niet te vreezen:
+Zy woelen onder  t volk, dat hun naar d oogen ziet,
+(340) En op hun wenken draaft: zy schildren uw gebiedt
+Als heilig, en om hoog zelfs van de Goôn beschoren,
+Maar vloeken Nizus hof, als oorzaak van hun toren.
+
+MINOS.
+Dat volk draait als de windt, en eert d opgaande zon:
+En schoon ik hun gemoedt door Nizus onheil won;
+(345) Ik kan my op die gunst, als veilig, niet vertrouwen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+SESDE TONEEL.
+MINOS, MENTOR, AGÉNOR.
+
+AGÉNOR.
+IK zie den koning met een sleep van hoofsche vrouwen
+En edelliên van ver genaaken met uw wacht.
+Het gansche leger vliegt hem tegen. ieder tracht
+Hem uit nieuwsgierigheit t aanschouwen voor uw tenten.
+(350)  t Gejuich der helden klinkt door alle uw regementen.
+Ook krielt het in de stadt van krygsvolk op den wal.
+De torens staan bedekt met menschen overal,
+De tempels zwart van volk. het woelt aan alle kanten.
+
+MINOS.
+Ga, tree hem te gemoet met vyftig lyftrouwanten.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE TONEEL.
+MINOS, MENTOR.
+
+MINOS.
+(355) HEbt gy in Nizus hof den stoet der edelliên,
+De grooten van zyn ryk en vrouwen niet gezien?
+
+MENTOR.
+Ik vondt hem in de zaal, daar elk, met hem bewoogen,
+Den diepen rou van  t hart vertoonde door zyne oogen.
+In  t midden van dien sleep zat aan zyn rechte handt
+(360) Een jonge en eedle maagdt, de luister van zyn landt,
+Een schoonheit, zoo volmaakt en vol bekoorlykheden,
+Vermengt met majesteit en hoffelyke zeden,
+Als ik in eenig oordt der wereldt immer zag:
+Haar moedt, niet eens verzet door zulk een fellen slag,
+(365) Braveerde  t noodlot zelf in  t midden van haar plaagen.
+Gelyk een ryzende eik den storm en dondervlaagen
+Na heldren zonneschyn op zyne wortels tart:
+Zoo stondt een fiere deugdt, gewortelt in haar hart,
+Onwrikbaar in den storm van zoo veel zwarigheden.
+(370) Zy troostte  t gansche hof des konings door de reden.
+Haar welbespraakte tong, die  t keurigst oor bekoort,
+Bragt, met een zoeten toon, een schat van wysheit voort.
+
+MINOS.
+ t Gerucht van haare deugdt en schoonheit, waardt te looven
+Klonk uit Alkathoë door aller vorsten hoven.
+(375) Ik ken haar door de faam. Ismene, zoo vermaardt,
+Was, schoon ik haar nooit zag, voor lang myne achting waardt.
+Ik haak om haar te zien.
+
+MENTOR.
+                                          Zy zal u licht behaagen.
+Haar schoonheit....
+
+MINOS.
+                    Neen, ik sluit myn hart voor minnevlaagen.
+De wraakzucht dreef my hier; en sleep myn krygsgeweer:
+(380) Geen liefde keert die drift.
+
+MENTOR.
+                                                    Spreek niet te stout, myn
+heer.
+
+MINOS.
+Dit zy genoeg. ga, zeg aan  t hoofdt der wichelaaren,
+Dat ik een offerhandt zal slachten op d altaaren.
+Ik wil aan Nizus huis my wreeken van den hoon,
+En  t bloet verzoenen van Androgeos, myn zoon.
+
+                Einde van het eerste Bedryf.
+
+
+                          Continue
+
+TWEDE BEDRYF.
+
+EERSTE TONEEL.
+ISMENE, ARSINOË, MENTOR.
+
+MENTOR.
+(385) GY kunt in dit vertrek, prinses, myn heer verbeiden.
+Ik zal uw vader naar een andre plaats geleiden.
+Dit heeft myn koning my geboden, die hem wacht.
+Ik volg myn last. de staat, waar in gy zyt gebragt
+Door  t nootlot, eischt geduldt. vertroost u met de Goden.
+
+ISMENE.
+(390) Ik heb die lessen van een vyandt niet van noden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+ISMENE, ARSINOË.
+
+ARSINOË.
+Bestraf hem niet, hy schynt bewogen met ons wee.
+
+ISMENE.
+Ik houde een vyandts troost verdacht, Arsinoë.
+Die heuschheit is geveinst.  t gemaakte mededogen,
+Dat meest uit schimplust spruit, staat walglyk in myne oogen.
+    (395) Nu gaat Alkathoë te grondt door muitery.
+Zoo stort de hooftzuil in van Nizus heerschappy.
+ô Goude staf! ô kroon, die, met uw valsche straalen,
+Der vorsten oog verblindt in opgepronkte zaalen;
+Bedriegelyke zon! ô schynbeeldt van  t gezag!
+(400) Hoe schielyk daalt uw glans op  t schoonste van den dag!
+ô Speeltuig van  t geval! vergankelyke gaaven!
+Die uw bezitters maakt van koningen tot slaaven;
+Gy, die de zinnen boeit, en in uw strik verwart,
+Verleidende ydelheit, ik wraake u in myn hart!
+(405) Hy, die noch gistren zat verheven op zyn zetel,
+Valt heden in de magt eens vyandts, die vermetel
+Hem dreigt met slaverny: dies noeme ik in myn druk
+De wisselvalligheit een schaduw van  t geluk.
+Ondankbre landgenoot! lafhartige soldaaten!
+(410) Die trouweloos de zy des konings hebt verlaaten,
+Die hem en  t gansche hof den tempelroof verweet,
+Verbreekt gy dus uw woordt en diergestaafden eedt?
+Zocht hy der Goden vloek op zynen hals te laaden?
+Zou hy zyn eige kroon, zyn huis, zich zelf verraaden?
+(415) Waar meê verbloemt gy dit, verdoolde burgery,
+Dat gy uw vorst verdenkt in uwe razerny?
+Maar gy, ô tempeliers! vervreemt van mededogen,
+De goutzucht heeft op u, ô huichelaars! vermogen;
+Gy hebt dit heiligdom gedraagen uit de stadt,
+(420) En Minos aangeboôn, betovert door zyn schat:
+Vergeldt gy zoo den dienst eens konings, die voordezen
+U zoo veel gunsten, als een vader, heeft beweezen!
+Hoe stak zyn vroomheit uit by d opperheerschappy!
+Gerechtigheit zat op den rykstroon aan zyn zy:
+(425) Hy wou haar evenaar nooit lichten noch bezwaaren:
+Dies vlochtze een krans van eere om zyne gryze haaren.
+Hy strafte nimmer quaadt, door wraakzucht aangeprest,
+Maar volgens billikheit, en voor  t gemeene best.
+Hoe heeft hy zyn verbondt, in hachelyke tyden
+(430) Met vriendt of bontgenoot geslooten onder  t stryden,
+Bezegelt met het merk van zyn stantvastigheit!
+De luister van zyn deugdt, de wereldt door verbreidt,
+Blonk als de middagzon in  t oog der nagebuuren.
+Nu hebt gy dezen heldt, ô burgers, uit uw muuren,
+(435) Geschantvlekt en gehoont, verdreeven in  t gezigt
+Van Minos legertent. Arsinoë, zoo zwicht
+De reden voor geweldt.
+
+ARSINOË.
+                                Het Oproer stopt zyne ooren,
+En weigert om  t bewys der onschuldt aan te hooren.
+Maar gy verdenkt, mevrou, den priesterlyken staat:
+(440) Beticht die mannen niet met zulk een gruwzaam quaadt.
+Gy zoudt hunne achtbaarheit door dat vermoeden krenken.
+
+ISMENE.
+De zaak is twyfelbaar. wat zal, wat kan ik denken?
+Zy hebben  t weiflent volk tot muiten opgemaakt,
+De vlam ontstoken, die zoo vinnig woedt en blaakt.
+
+ARSINOË.
+(445) Toen d opperpriester, die in  t heiligdom mogt treden,
+Alleen, en zonder meer gevolg van minder leden,
+In  t krieken van den dag, naar onze tempelwet,
+Zyn voeten in  t portaal der hofkerk hadt gezet,
+Zag hy  t geheiligt Schildt niet boven  t altaar hangen;
+(450) Was  t wonder, dat hy wierdt van schrik en angst bevangen?
+Hy vloog al beevende, met een verbleekt gelaat,
+Al hygende in den drang der burgren op de straat.
+Heeft toen zyn klagt gewerkt op  t hart der lantgenooten;
+ t Is uit ontsteltenis, en niet uit arg, gesprooten.
+
+ISMENE.
+Dat zy zoo  t wil. hebt gy van Scilla niets gehoort?
+Zy zal in  t oproer zyn mishandelt en vermoordt.
+Moet ik myn zuster noch in dezen staat beklaagen,
+Haar doodt beschreien in onze algemeene plaagen?
+Een zuster, my zoo waardt als d appel van myn oog,
+(460) Myn hart- en bloetvriendin! ô Goden, die omhoog
+Haar schuilplaats weet, ontdekt aan my de dode leden;
+Dat ik haar schim voldoe door offerplegtigheden,
+Het koude lyf by  t vier op myne schoudren breng ,
+De lykasch draage in  t graf, en met myn traanen meng .
+
+ARSINOË.
+(465) Wy hebben lang den tijdt, gelijk gy weet, gesleeten
+Met zoeken; maar vergeefs. Dorize, nat bekreeten,
+Heeft neffens my gedraaft de straaten op en neêr,
+Ook met ons lyfgevaar.
+
+ISMENE.
+                                    Helaas! zy leeft niet meer.
+Ik ken haar moedig hart. zy zocht gewis dit muiten,
+(470) Door kinderpligt gewekt, met haar gezag te stuiten.
+Zy wierdt weleer van  t volk bemint en hoog geacht.
+Nu heeft de moordersklaauw haar deerlyk omgebragt.
+
+ARSINOË.
+Hou moedt. ik hoop zy zal voor uw gezigt verschynen,
+En uwe zorg en vrees door haare komst verdwynen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+MINOS, ISMENE, ARSINOË, MENTOR.
+
+MINOS.
+(475) Mevrou, gedoog dat ik u groete in deze tent.
+ t Geluk heeft ongenoodt zich aan myn zy gewendt.
+Een onverwacht geval heeft door uw nederlaagen
+En burgerlyken twist dit ryk ons opgedraagen.
+ k Geniet een dubble gunst van  t lot. ik triomfeer,
+(480) En zonder heldenbloet te plengen door myn speer.
+Noch ben ik by die gunst verpligt aan  s hemels zegen,
+Dat ik Ismene door dat toeval heb verkreegen:
+Want door uw schoonheit, die de gansche wereldt viert,
+Wordt myne lauwerkroon verheerlykt en versiert.
+
+ISMENE.
+(485) Gy quetst myne ooren, door uw krygstriomf te noemen,
+En op myn schoonheit, by die zege, hoog te roemen:
+Want zoo zy uw triomf, ô Minos, evenaart,
+Dan is zy dezen lof, dien gy haar geeft, niet waardt.
+Vaarwel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+MINOS, MENTOR.
+
+MENTOR.
+              DAt antwoordt, uit een vluggen geest gesprooten,
+(490) Heeft uw beleeft onthaal terstont voor  t hoofdt gestooten.
+Haar fierheit, door geen ramp noch tegenspoedt bepaalt,
+Heb ik u dezen dag naar  t leven afgemaalt.
+
+MINOS.
+Die fierheit is een blyk van haar geduldig lyden.
+Gelyk de dwaazen zich in voorspoedt hoog verblyden,
+(495) En uitgelaten zich verheffen in  t geluk,
+Zoo bukt een wyze ziel gematigt onder  t juk.
+
+MENTOR.
+Haar hovaardy verkleent uw zege boven maaten.
+
+MINOS.
+Zy vonnist als  t behoort. zou ik haar daarom haaten?
+Neen zy verzaakt geensins de deugden van haar stam.
+
+MENTOR.
+(500) Ik vrees, gy zult eerlang u zengen aan die vlam.
+
+MINOS.
+Laat ons die redenen, die my verveelen, staaken.
+Maar zal myn wichelaar het offer vaardig maaken?
+Androgeos schreeuwt wraak in  t vaderlyk gemoedt.
+Ik zie de bleeke schim, bepurpert met zyn bloet,
+(505) Gedurig voor myn oog, terwyl de wonden gaapen.
+Hy komt my nacht op nacht ontrusten onder  t slaapen.
+ k Zal, door zyn vyandts bloet te wyden aan de Goôn,
+Zyn asch verzoenen, eer ik treede op Nizus troon.
+
+MENTOR.
+De priesters zullen uw bevelen straks voltrekken.
+(510) Maar wie zal d offerhande op  t wraakaltaar verstrekken?
+
+MINOS.
+Een man uit Nizus hof van hoogen staat en eer.
+Hebt gy gezegt, dat ik hem wacht?
+
+MENTOR.
+                                                  Hy komt, myn heer.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+MINOS, NIZUS, FOKUS, MENTOR,
+AGÉNOR, LYFWACHT.
+
+MINOS.
+Ik heb u eindelyk, ô vorst, door  s hemels zegen,
+Na zulk een lang beleg, in myne magt gekregen.
+(515) De reden van den kryg is u genoeg bewust.
+Een opgedronge wraak voerde ons aan deze kust.
+Een vader kan niet licht een kindermoordt vergeeten.
+ t Gerucht heeft overal dien gruwel uitgekreeten,
+En zoo veel vorsten, om een zaak van dat gewigt,
+(520) Met wapens in de vuist, aan myn belang verpligt.
+Anafe en  t laag Mikoon versterkten myne vaanen;
+En Paros volgde my met strydbaare onderdaanen,
+Serifon, en Cimool, door krytgebergt vermaardt,
+Verbonden zich met eede aan myn rechtvaardig zwaardt.
+(525) Zoo trok ik met gevolg van vrienden en gebuuren,
+En plantte voor Athene en Egeus hooge muuren
+Myn purpre wraakbanier: want Egeus lantgenoot
+Hadt met uw hoveling Androgeos gedoodt.
+De roem van zyne jeugdt, zelfs in uw ryk verheven,
+(530) Stondt in  t Olimpisch stof verheerlykt en beschreeven:
+Daar hadt hy reis op reis den worstelprys behaalt,
+En door zyn vaardigheit in  t perk gezegepraalt.
+Dit kon uw adel noch  t Atheensche hof gedoogen;
+Tot eindelyk de nydt, zoo krachtig van vermogen,
+(535) Door een verraders dolk den heldt heeft omgebragt:
+En gy, ô vorsten, hebt die moorders niet geslacht,
+Maar  t gastvry recht gehoont. dies most ik, als een vader,
+U straffen door myn zwaardt, in plaats van dien verrader,
+Of zoo veel schelmen, die meêdeelden in dat feit.
+(540) Nu heb ik voor Atheen den eersten grondt geleit
+Van myn gerechte wraak, die niemant zal verschoonen.
+De koning is verpligt my zeven jonge zoonen,
+En zoo veel dochters toe te zenden jaar op jaar,
+Tot spys van  t monster dat ik in myn ryk bewaar.
+(545) By loting zullen zy vertrekken naar myn stranden.
+Myn bouheer, Dedalus, vermaardt door alle landen,
+Die, vluchtende uit zyn hof, by my zyn vryheit zocht,
+Maakt vast een doolhof by de poort voor dit gedrogt.
+Dat sloot ik met Athene; en wat ik heb beschoren
+(550) Voor u, of voor uw hof, zult gy noch heden hooren.
+
+NIZUS.
+Ach! Egeus heeft uw handt dat gruwzaam moortverbondt
+Getekent voor uw wal daar Minos leger stondt?
+En most uw pen, ô ramp! dat bloedig opzet styven?
+Maar heeftze niet gedwaalt in  t vonnis t onderschryven
+(555) Van deze onnoosle jeugdt, en hondertmaal gemist?
+Wordt dus Androgeos gewroken, en de twist
+Door moordt op moordt beslecht? doorluchte nagebuuren,
+Hoe zal de weegalm zich verheffen uit uw muuren,
+Wanneer die tol verschynt!
+
+FOKUS.
+                                            Kon Thezeus, zoo vermaardt
+(560) Door  t onderbrengen van gedrogten door zyn zwaardt,
+Wiens moedt en dapperheit de wereldt is gebleeken,
+Aan dat vervloekt verbondt gerust zyn zegel steeken!
+Gy hebt gansch Marathon, ô heldt, van roof bevrydt,
+Den stier in  t bloet versmoort en aan Diaan gewydt.
+(565) Het everzwyn, gewoon den akkerman te plaagen,
+Legt voor Korinthe door uw dappre vuist verslaagen.
+Gy hebt den rover door uw sabel neêrgevelt,
+En Epidaurus volk gerukt uit zyn geweldt.
+Megare wierdt bevrydt van Sciron door uw degen:
+(570) Daar zingt de reiziger uw daaden langs de wegen.
+Door u wierdt Cercion, ja Scinis, die zo wreedt
+Den pynboom in het woudt met lyken heeft bekleedt,
+Manhaftig afgemaakt: en moet gy nu gehengen,
+Dat een vervloekt gedrogt uw burgers om zal brengen?
+(575) Maar hoe! waar dwaale ik heen? dit vonnis, brave heldt,
+Is in uw afzyn voor uw vaders muur gevelt,
+En in de vierschaar van de wraakzucht uitgesproken.
+Gy zult, wanneer gy keert, dat hofgedrogt bestooken
+Met uw gevreesden arm, daar  t in zyn moorthol woedt;
+(580) Eer  t zich te barste zwelgt in Egeus burgerbloet.
+Myn vriendt en bontgenoot, keer van uw heldentogten,
+Gy hebt al eer genoeg van oordt tot oordt bevochten.
+
+NIZUS.
+Ik heb uw redenen met aandacht aangehoort:
+Maar dat gy my beticht, ô Minos, met een moordt,
+(585) Aan uw * Androgeos begaan, heeft my verdrooten.
+Hoe is dit feit verricht? wie heeft uw zoon doorstooten?
+Of waar is  t gastvry recht bevlekt door  t moortgeweer?
+Was  t in Alkathoë, of Attika, myn heer?
+
+MINOS.
+In Attika; maar door uw grooten of hun zoonen:
+(590) En gy dorst in uw hof dien gruwel noch verschoonen.
+
+NIZUS.
+De schennis was my niet gebleeken naar den eisch:
+Ik heb haar onderzocht, maar doolde reis op reis.
+
+MINOS.
+Gy hebt geen recht gepleegt, maar wierdt door gunst bewoogen.
+Gy zaagt niet. neen. gy hieldt de vingers voor uwe oogen.
+
+NIZUS.
+(595) Schoon gy myn deugden door uw lastertaal veracht,
+Ik houde een rein gemoedt, en heb myn pligt betracht.
+
+MINOS.
+Waar zyn ze, die men hieldt verdacht, in  t endt gebleeven?
+
+NIZUS.
+Een schielyk overval heeft hun berooft van  t leven.
+Gy kunt u wreeken aan de lykasch, zoo  t u lust.*
+
+MINOS.
+(600) Door zulke vonden wierde ik nooit in slaap gesust.
+ k Zal  t op geen dooden maar op levenden verhaalen.
+Gy zyt in myn gewelt. ik kan dien trots bepaalen.
+
+NIZUS.
+ t Is waar, het nootlot heeft ons in uw handt gebragt.
+Ons leven en de doodt staan heden in uw magt.
+(605) Gy kunt uw zoon op my of op myn kindren wreeken.
+Maar dat wy schuldig zyn, is nimmer u gebleeken:
+Ik wil myn onschuldt niet betuigen, om dat ik,
+Gelyk een blode, voor uw dreigementen schrik.
+Veroordeel  t lyf: ik zal uw vonnis onderschryven:
+(610) Maar tracht de zuivre ziel geen schantvlek aan te vryven.
+Gy hebt veel vorsten, als gy zegt, in deze zaak,
+Door uw rechtvaardig staal, verbonden tot de wraak:
+Maar hoe veel hoven hebt gy weêr aan andre kanten
+Vergeefs gevryt door uw verzoekschrift en gezanten?
+(615)  k Zwyg van Oliaros, Didime, en Pepareet,
+En andre, die u volk ontzeiden, als gy weet:
+Alleen Enopië zal my bewyzen geeven,
+Daar koning Eakus ten rykstroon zit verheven,
+Hoe gy vergeefs zyn hulp verzocht in dit geval:
+(620) Die vroome vorst, wiens naam oneindig leeven zal,
+Die zoo rechtvaardig heerscht in oorlog en in vrede,
+Bleef doof voor uw verdichtte en ongegronde rede:
+Hy wist wel dat uw zoon gedoodt was in  t geschil;
+Maar tegens Egeus last, en zonder Nizus wil;
+(625) Ja dat elk, in zyn hart ontroert door  t vinnig moorden,
+Als rechter  t feit vervolgde in zyn gebiedt en oorden.
+
+MINOS.
+Maar waarom niet gestraft, gelyk ik heb gezegt?
+
+NIZUS.
+Men heeftze menigmaal gedagvaart voor  t gerecht:
+Zy bleeven by hun stuk stantvastig in  t ontkennen.
+
+MINOS.
+(630) Zoo mag men  t gastvry recht uit nydt met moorden schennen,
+En blyven ongedoemt door zyn hartnekkigheit?
+
+NIZUS.
+My walgt die woordentwist. ik heb genoeg gepleit;
+En wacht kloekmoedig af wat my zal overkomen.
+Hebt gy tot ons bederf myn vesten ingenomen,
+(635) Myn levensrampen gaan met lydtzaamheit gepaart.
+ t Geluk stemt zelden met de reden, maar verklaart
+Zich meest ten voordeel van onwaarde gunstgenooten.
+Het voert u op den troon, daar  t my heeft afgestooten.
+Maar niets bekragtigt meer de werking van  t geduldt,
+(640) Dan een gerust gemoedt en lyden zonder schuldt.
+
+FOKUS.
+Gy hebt myn hart geraakt, ô Nizus, door de reden.
+Hoe dwaas hebt gy  t gezag van dezen heldt vertreden,
+Verblinde burgery! ach! ongelukkig landt,
+Hoe braaf heb ik uw recht verdedigt door myn handt!
+(645) Hoe menigmaal heb ik, by  t hevig overvallen,
+De ladders met myn vuist geslingert van de wallen,
+Den stormeling by  t haar getrokken in de vest,
+ t Schoorvoetent oorlogsvolk gemoedigt en geprest,
+Myn vyandt voor de poort gedwongen om te wyken,
+(650) En Minos legerplaats bezaait met doode lyken!
+Hoe heb ik om den muur gezwurven in den nacht;
+En storm en hagel op myn harnas afgewacht,
+Of op myn beukelaar, omringt van oorlogsknaapen,
+Vermoeit en afgeslooft, in  t bloedig stof geslaapen!
+(655) ô Hemel, die myn kracht verdubbelde onder  t slaan,
+Gy zyt getuige wat myn sabel heeft gedaan,
+En hoe ik voor de zaak van Nizus heb gestreden:
+Nu wordt zijn recht verdrukt, door  t wufte graauw vertreden.
+Ja, Minos, schoon uw hart alree van hoogmoedt zwelt,
+(660) Verraadt heeft u gedient: nooit hadt uw krygsgeweldt,
+Versterkt, gelyk gy roemt, met vreemde veltstandaarden,
+En buitelantsche magt, by  t schitteren der zwaarden,
+In  t stryden voor de vuist, getriomfeert in  t veldt.
+
+MINOS.
+Ik pryze uw dapperheit, en eere u, als een heldt,
+(665) Die dezen lof verdient door  t zwaajen van zyn degen:
+Maar dat ik door verraadt dit voordeel heb verkreegen,
+Ontken ik: want ik heb uw volk niet omgekocht,
+Maar steets myn glori door de wapenen gezocht.
+Men heeft voor my de poort, doch ongevraagt, ontslooten.
+
+FOKUS.
+(670) Dit oproer is alleen uit tempelroof gesprooten.
+De burgerlyke trou voor Nizus ryksgezag
+Is in dit lang beleg gebleeken dag op dag.
+Onze eige krygsmagt en de hulptroep der gebuuren
+Heeft lang met bloet den eedt bezegelt op de muuren.
+(675) Elk draafde op myn bevel en wenken in den strydt.
+Maar toen ons  t heilig Schildt, voor  t offervier gewydt,
+En jaar op jaar geviert met hondert plegtigheden,
+Ontvreemt was, wierden wy van  t muitent volk bestreden.
+Het opgehitste graauw schoof ongegrondt en valsch
+(680) Het gansche hofgezin dien gruwel op den hals.
+Hier holp geen dreigement, geen reden, geen verschooning,
+Noch opperheerschappy. de tempelier wierdt koning,
+En voerde  t hooftgezag op  t burgerlyk gemoedt.
+
+NIZUS.
+Men heeft myn staf gehoont, vertreeden met den voet.
+(685) Een uitgelaaten hoop drong in myn hof van buiten.
+De zaal verstrekte my een kerker onder  t muiten.
+Myn lyfwacht, die zoo trou de hofpoort hadt bewaakt
+Wierdt in dat oproer voor myne oogen afgemaakt.
+d Een hadt alreê verwoedt den moortpriem opgeheven,
+(690) Om my den doodsteek in myn dochters arm te geeven.
+Een ander muiteling, verbastert van zyn pligt,
+Spoog onder dat gewoel my vloekende in  t gezigt.
+Een ander wou zich op myn schat en rykdom wreeken,
+En dreigde met zyn toorts  t paleis in brandt te steeken.
+(695) De plonderaar drong door, en staaroogde op den buit,
+En vloog, geladen met myn pracht, de hofpoort uit.
+Dit is ons dezen dag, ô Minos, wedervaren.
+
+MINOS.
+Maar wien verdenkt gy?
+
+NIZUS.
+                               t Hoofdt der priesterlyke schaaren
+Hadde ik den ingang in myn hofkapel betrout,
+(700) En zonder meer gevolg. gy kent de kracht van  t gout.
+
+MINOS.
+Beticht dien priester niet, gy zyt hier in bedrogen.
+Maar  t Schilt, daar gy van spreekt, heb ik in myn vermogen.
+Men heeft dat heiligdom in myne tent gebragt;
+En zonder dat ik op dat middel heb gedacht.
+(705) Ik zweer u Nizus by de magt van onze Goden,
+By hunne altaaren, hunne orakels en geboden,
+Dat ik onschuldig ben in dezen tempelroof.
+
+NIZUS.
+Uw openhartigheit eischt dat ik u geloof.
+Maar kent gy hem, van wien gy  t Heilschildt hebt ontfangen?
+
+MINOS.
+(710) Neen, prins, maar d oorzaak van uw ramp houde ik gevangen.
+Die kan ik u aanstonts vertoonen, zoo  t u lust.
+
+NIZUS.
+Wel aan.
+
+MINOS.
+Minos luistert Agénor iets in  t oor die daar op naar binnen gaat.
+                Gy zult haar zien.
+
+NIZUS.
+                                        Dit stelt mijn hart gerust.
+Laat my in dezen staat noch eene beê verwerven,
+Dan zal ik, welvoldaan, voor myne muuren sterven.
+(715) Gy weet, waar toe de wraak my door dien roof verpligt.
+Vergun my, dat ik hem doorstoote in uw gezigt.
+
+FOKUS.
+Bevlek uw handen niet. laat my de gunst genieten,
+Dat ik  t meinedig bloet, ô Minos, mag vergieten.
+Die gunst verwacht ik van uw edelmoedigheit:
+(720) Zy stemt in myn verzoek, en vloekt dit eerloos feit.
+Laat dan een offer voor Androgeos bereiden,
+En my voor  t oog van  t heir naar  t wraakaltaar geleiden:
+Daar zal ik d offerbyl noch kussen, en vol moedt
+De doodbus van uw zoon verzoenen door myn bloet.
+
+MENTOR.
+(725) Zy nadert.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZESDE TONEEL.
+MINOS, NIZUS, FOKUS, SCILLA, DORIZE,
+MENTOR, AGÉNOR, Lyfwacht.
+
+NIZUS, Scilla ziende.
+                        Ach! ik schrik!
+
+FOKUS, Scilla ziende.
+                                        Waar voert ons  t nootlot heene!
+
+NIZUS.
+Myn dochter, groote Goôn!
+
+FOKUS.
+                                          De zuster van Ismene!
+
+MINOS, tegen  t gevolg
+Laat ons alleen. geleidt de vorsten naar  t vertrek.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE TONEEL.
+MINOS, SCILLA, DORIZE.
+
+MINOS.
+Ik sta verstomt, en schrik, daar ik uw naam ondek.
+Hebt gy Alkathoë verraaden en uw vader?
+
+SCILLA.
+(730) Gy treedt te rug, myn heer. neen, Minos, kom vry nader.
+Gy deisde niet, toen ik, door  t Godtgewyde pandt,
+U Nizus rykstaf schonk, en kroonde met myn handt.
+Of vreest gy, dat ik u de kroon weêr zoek t ontrukken?
+Ik tracht haar vaster op uw vorstlyk hoofdt te drukken.
+(735) Dies wyk niet voor een vrou, die u zoo dier verpligt.
+Ontstelt, nu gy my kent, myn byzyn uw gezigt?
+
+MINOS.
+Ik weet niet, of ik waake of droome in die vertoning.
+Wat wacht gy voor dien dienst? wat giften, wat beloning?
+Hadt ik aan u verdient, dat ik die gunst genoot?
+(740) Gy voert my op den troon, uw vader in zyn doodt.
+
+SCILLA.
+Kan ik de redenen, waar door ik wierdt bewoogen,
+Niet melden met myn mondt, zoo lees haar uit myne oogen.
+
+MINOS.
+Gy spreekt een duistre taal.
+
+SCILLA.
+                                        Gy ziet, maar houdt u blindt.*
+
+MINOS.
+Ik vat uw mening niet.
+
+SCILLA.
+                                Hebt gy dan nooit bemint?
+
+MINOS.
+(745) Gy mint my dan?
+
+SCILLA.
+                                Helaas! kan ik my klaarder uiten?
+Gy vergt my woorden, die door maagdeschaamte stuiten
+Op myne ontroerde tong; daar gy in dezen staat
+ t Geheim van myne ziel ontdekt uit myn gelaat.
+Zult gy nu dankbaar zijn? zal ik myn loon verwachten?
+(750) Erken den dienst, en schenk...
+
+MINOS.
+                                        Ik zal myn pligt betrachten:
+En mogelyk zult gy aanschouwen dezen dag,
+Prinses, hoe veel de min op myn gemoedt vermag.
+Vaar wel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ACHTSTE TONEEL.
+SCILLA, DORIZE.
+
+SCILLA.
+        Wat zal ik van dat duister antwoordt denken?
+
+DORIZE.
+Ach! die verklaring zal uw eer en aanzien krenken,
+(755) Zoo Minos u veracht. wat hebt gy uitgevoert?
+
+SCILLA.
+Myn hart, Dorize, door zyn koel onthaal ontroert,
+Voorzegt zyn weigering. die trotse zal my hoonen,
+En tegens myne min zich zelf afkeerig toonen.
+Getrouwe, geef my raadt.
+
+DORIZE.
+                                        Ik weet geen raadt, mevrou.
+(760) Ik ben zelf hopeloos, en deele in uwen rou.
+Men spreekt van offeren. ik vrees voor zwarigheden.
+
+SCILLA.
+ô Goden! wordt gy ooit bewoogen door gebeden,
+Ziet neder uit uw troon, verlost my van myn smart
+Door een gewenschte doodt, of schenkt my Minos hart.
+
+                        Einde van het twede bedryf.
+
+
+                          Continue
+
+DERDE BEDRYF.
+
+EERSTE TONEEL.
+MINOS, MENTOR.
+
+MENTOR.
+(765) Heeft Scilla, met de kroon, haar hart u opgedraagen?
+En kan u deze gift in uw triomf behaagen?
+Zult gy haar op de vloot meêvoeren over Zee,
+En kroonen in de plaats van uw Pasifaë?
+
+MINOS.
+Ik haar beminnen? neen. hoe doolen uw gedachten!
+(770) Kunt gy die lafheit van myn groote ziel verwachten?
+Zy zet my wel een kroon door minnedrift op  t hoofdt,
+Maar  t is een kroon, daar zy haar vader van berooft.
+De baatzucht heeft op  t hart der vorsten wel vermogen:
+ t Verraadt schynt, om  t genot, bekoorlyk in onze oogen:
+(775) Maar die, op hoop van gunst, dat schandig stuk begaat,
+Wordt van een eedle ziel gelastert en versmaadt.
+ t Gebiedt van Nizus kan myn heerschlust wel bekooren;
+Maar Scilla, die my kroont, heb ik myn haat gezworen.
+ k Min echter, Mentor, en een aangenaame brandt
+(780) Verspreidt haar vonken door uw konings ingewandt.
+De schoone, die ik tracht als gemalin t ontfangen,
+Houdt, daar ik in mijn tent haar kerker, my gevangen.
+Ik wordt, gedreeven door een tomelooze min,
+Terwyl ik triomfeer, de slaaf van myn slavin.
+(785) Zy is uit eenen stam met Scilla voortgesprooten,
+Maar heeft haar vaders val, als Scilla, nooit beslooten.
+Haar ziel, zoo zuiver als haar onbevlekt gelaat,
+Wierdt nooit door wulpse min bezoedelt met verraadt.
+In  t kort, Ismene, die den rykstroon moet betreeden,
+(790) Als Nizus outste spruit, van ieder aangebeden
+Om haar volmaaktheit, wordt verheerlykt in myn hart.
+Ontrouwe Scilla, gy veroorzaakt my die smart:
+ k Heb die prinses door u in myne magt gekreegen.
+
+MENTOR.
+Ik* heb die min voorzegt; maar ben met u verlegen.
+
+MINOS.
+(795) Zy is alreê verlooft, gelyk  t gerucht ons meldt.
+
+MENTOR.
+Zy heeft een minnaar, maar hy is in uw geweldt.
+De krygsheldt, die zoo braaf Alkathoë verweerde,
+En steets uw stormbanier van zyne muuren keerde,
+Heeft haar door dienst op dienst tot wedermin verpligt.
+(800) Die hinderpaal, myn heer, van zulk een groot gewigt,
+Maakt my als hopeloos, en zal uw oogmerk stuiten.
+
+MINOS.
+Uw vrees is wel gegrondt.
+
+MENTOR.
+                                          Wat zult gy dan besluiten,
+Indien zy Fokus blyft getrou, en u veracht?
+Of gy most tegens haar u dienen van uw magt.
+
+MINOS.
+(805) De dwang is hatelyk in hooggebore zielen.
+De Goden zelfs, waar voor wy menschen nederknielen,
+Gebieden ons omhoog de vryheit van  t gemoedt.
+
+MENTOR.
+Wat raadt dan voor uw min? wat middel keurt gy goedt?
+
+MINOS.
+ k Zal haar stantvastigheit beproeven door myn smeeken:
+(810) Maar is  t versteende hart door vleien niet te breeken:
+Dan zal myn gramschap, door de min gewekt, in  t endt
+Uitbarsten, Mentor, met een doodlyk dreigement.
+Myn Lyfwacht!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+MINOS, MENTOR, AGÉNOR, LYFWACHT.
+
+MINOS.
+                          Haal terstont Ismene voor myne oogen.
+Maar zeg haar, dat ik door haar rampen ben bewoogen.
+(815) Dat ik haar trooster wil verstrekken in  t verdriet.
+Datze onbeschroomt verschyne.
+
+AGÉNOR.
+                                                Ik doe dat gy gebiedt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+MINOS, MENTOR.
+
+MINOS.
+Ach! Mentor, mogt ik haar beweegen door myn klagten!
+ô Hemelgoden, die myn lyden kunt verzachten,
+Gy, die het minnevier door uw vermogen voedt,
+(820) Ontsteekt haar hart, of dooft de vlam in myn gemoedt!
+En gy, myn zuchten, die getuigen zult verstrekken
+Der minnewonden, die myn spraaklit zal ontdekken,
+Verlaat uw kerker, barst ten bangen boezem uit,
+En helpt my, zoo de stem op Minos lippen stuit.
+(825) Aanschou, getrouwe vriendt, uw koning, door  t bezwaren
+Geslingert, als een kiel door  t bruischen van de baaren;
+Terwyl de stormwind loeit, en dreigt in zulk een noodt
+Den Zeeman, die vast beeft, met een gewisse doodt.
+Myn liefde, een schip gelyk, zal vrees ik, nimmer landen,
+(830) Maar op een klip vergaan of bank van wanhoop stranden.
+
+MENTOR.
+De vrees geeft aan de vrucht van  t oogmerk meer vermaak.
+
+MINOS.
+Maar zy voorzegt ons meest den uitslag van de zaak.
+Zy blyft my by: ik kan haar werking niet bepaalen.
+
+MENTOR.
+Veel schooner blinkt de zon van voorspoedt met haar straalen,
+(835) Wanneer zij dringt door damp van hinderpaalen heen.
+Maar, prins, Ismene komt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+MINOS, ISMENE, ARSINOE, MENTOR,
+AGÉNOR.
+
+MINOS tegen  t gevolg
+                                      Men laate ons hier alleen.
+Prinses, ik hoop, dat gy myn vryheit zult verschoonen.
+Ik heb u hier by my ontboden, om te toonen
+Dat ik uw ramp beklaage, en deele in uw verdriet.
+(840)  t Is waar, de tekens van uw vaders ryksgebiedt,
+Zyn staf en tullebandt zyn my door Scillaas laagen
+(Een misdaadt, die myn hart moet vloeken) opgedraagen.
+Zy boodt my dat geschenk van zelf vrywillig aan.
+Myn voordeel wilde niet dat ik dat af zou slaan.
+(845) Dat eigen voordeel, als gy weet, kan elk bekooren.
+De zucht tot hoogheit is den menschen aangeboren.
+Begeerte, indien zy  t wit, waar op zy doelt, ontmoet,
+Keurt alle middelen, die zy gebruikt, voor goedt.
+Het lot heeft door uw val, ô schoone, my verheven.
+(850)  k Beroove u van een kroon, maar kanze u wedergeeven.
+Ja schoon gy schynt ontbloot van vaders heerschappy,
+Ontfang de kroon en staf van Nizus weêr van my.
+
+ISMENE.
+Ik kan uw mening uit uw woorden niet begrypen.
+De wraakzucht dwong uw vuist om  t oorlogsstaal te slypen.
+(855) Gy hebt uw vaanen voor Alkathoë geplant,
+De schichten op den muur geworpen met uw handt,
+En ons na lang beleg, ontbloot van  s hemels zegen,
+Door zusters tempelroof, in uw geweldt gekreegen:
+En gy verwareloost de vrucht dier zegepraal.
+(860) Waar toe der helden bloet vergooten door uw staal,
+En zoo veel maanden tydts, met afgematte leden,
+Door slag op slag verzwakt, voor uw belang gestreden;
+Indien de krygstriomf u zoo mishaagt, dat gy
+Uw overwinning en de kroon weêr schenkt aan my?
+
+MINOS.
+(865) Die zege zal my nooit behaagen, maar verveelen,
+Indien het my mislukt, haar vrucht met u te deelen.
+Ik ben verwinnaar, maar ik leg myn krygsgeweer,
+Als overwonnen, voor de schoone Ismene neêr.
+Gy hebt van myn gemoedt de zege wechgedraagen.
+
+ISMENE.
+(870) Ach! wat ontdekt gy my! kan ik uw oog behaagen?
+Hebt gy geen echtgenoot? denk Minos aan uw trou.
+
+MINOS.
+Ik hadt Pasifaë verkooren tot myn vrou;
+Maar mag die snode nu met recht een scheibrief geeven:
+Zy heeft myn bedt bevlekt door haar oneerbaar leven,
+(875) En schriklyk overspel, de wereldt door berucht:
+Dat tuigt gansch Kretelandt, en die vervloekte vrucht,
+Het monster, dat ik in myn ryk houde opgeslooten.
+Schenk my uw hart. ik heb d onkuische lang verstooten.
+
+ISMENE.
+Gy eischt een gift van my, die my niet toebehoort.
+(880) De zaak is u bekent. prins Fokus heeft myn woordt.
+Zou ik meineedig zyn? zou ik myn trou verzaaken?
+Bedenk wat gy my vergt: gy zoudt myn handel wraaken:
+Ik merk, gy toetst myn deugdt: maar myn stantvastigheit
+Maakt my uw achting waardt. vergunme, dat ik pleit
+(885) Eerst voor een gemalin, die gy hebt uitverkooren,
+En dan voor hem, dien ik getrouheit heb gezworen.
+Herroep uw liefde, prins, omhels uw koningin,
+En sta my toe, dat ik myn bruidegom bemin.
+
+MINOS.
+Hoe, meent gy, dat ik tracht den grondt van uw gepeinzen
+(890) Te peilen, door een vondt van my verliefdt te veinzen?
+Myn zuchten dienen, als getuigen van myn smart.
+Myn oog ontdekt u zelf den toestant van myn hart:
+Ei volg my, daar ik keer, bekranst met krygslaurieren:
+Gy zult myn zegekoets by  t juichent volk versieren;
+(895) Doch niet als een slavin, van eere en staat berooft,
+Met ketens om den arm, maar met de kroon op  t hoofdt.
+
+ISMENE.
+ k Wil liever ongekroont met mynen bruigom leeven,
+Dan dat ik, door uw min tot koningin verheven,
+Om myn geschonde trou verlaaten van de Goôn,
+(900) Gegeesselt van myn hart, zou quynen op den troon.
+
+MINOS.
+Neen, voeg uw hart naar  t lot. verheerlyk uwe landen.
+Verzeker Nizus heil door onze bruiloftsbanden.
+Behou een vader, u zoo waardt, en al uw bloet;
+Zoo quyt gy door een proef van vroomheit uw gemoedt.
+(905) De Goden hebben u door my wat groots beschoren.
+Verkies, omhels een vorst, uit Jupiter geboren.
+De schoone Europe, door de wereldt zoo vermaardt,
+Heeft my, van hem bevrucht, in Kretelandt gebaart.
+
+ISMENE.
+De prins, dien ik verkoos, is uit de rechte loten
+(910) Van dien doorluchten stam, zoo wel als gy, gesprooten:
+Egine,  t pronkjuweel van  t vrouwelyk geslacht,
+Heeft, als de wereldt weet, zyn vader voortgebragt.
+Ik zwoer dien heldt myn trou, en zal hem nooit verlaaten.
+Om dat ik hem bemin, rnoet ik u doodlyk haaten.
+(915) Verg myn stantvastigheit niet meer. laat my alleen,
+Dat ik de rampen van myn vorstlyk huis beween.
+
+MINOS.
+Neen, spaar die traanen vry. laat my myn klagten uiten,
+Indien uw weigering volhardt myn hoop te stuiten.
+De hooftzuil van uw huis, door myn triomf gevelt,
+(920) Wordt in uw zegepraal door onze trou herstelt.
+
+ISMENE.
+Ik wraak die zege meer dan onze nederlaagen.
+Dat ik uw hart verwon, kan my alleen mishaagen.
+Herroep uw vyantschap; ik streel haar in myn zin:
+Maar niets verveelt my meer in  t onheil dan uw min.
+
+MINOS.
+(925) Hoe kan u voor myn gunst myn vyantschap bekooren?
+Zy schenkt uw hoofdt een kroon. wat wacht gy van myn toren?
+
+ISMENE.
+Die gunst vervolgt myn keur en vryheit van  t gemoedt:
+Zy rooft door haar geschenk myn allerhoogste goedt.
+
+MINOS.
+Ik voel myn gramschap door uw weigering ontsteeken.
+(930) Bedenk u wel: gy hoort een overwinnaar smeeken.
+Kryg mededogen, of beproef wat ik vermag.
+ k Zal om Androgeos te wreeken, dezen dag
+Een offer slachten naar myn vaderlyke zeden:
+De toestel wordt bereidt met alle plegtigheden.
+(935) Zoo gy hartnekkig blyft, zult gy uw vader, of
+Uw minnaar voor de byl zien knielen in het stof.
+Maar  t staat aan u, wien gy behouden wilt in  t leven.
+Den ander zal uw mondt, als rechter, vonnis geeven.
+Dit wil ik, en nog meer; want die de doodt ontgaat,
+(940) Zal met u myn triomf geleiden langs de straat,
+Geketent aan myn as. wordt gy noch niet bewoogen?
+Welaan, zy zullen straks verschynen voor uwe oogen.
+Gy moet een van hun twee verwyzen. kies mevrou,
+Of spaar hen beide,  t staat aan u, door onze trou.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+ISMENE, alleen
+
+(945) ô Hemel kan uw oog die gruwelen aanschouwen?
+Moet ik een vader, om een minnaar te behouwen,
+Ten offer doemen, of om hem myn mingenoot,
+Door zulk een wreedt bevel, verwyzen tot de doodt?
+Waar heen ontroerde ziel? zoudt gy natuur verzaaken,
+(950) En aan een vadermoordt u zelve schuldig maaken,
+Of doen de liefde door uw offerkeur geweldt?
+Neen, sterf, Ismene, sterf, eer gy dat vonnis velt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+SESDE TONEEL.
+ISMENE, ARSINOË.
+
+ISMENE.
+Ach! myne Arsinoë, getrouwe, help my klaagen.
+
+ARSINOË.
+Wie zou niet zuchten om onze algemeene plaagen?
+(955) Men hoort door Minos heir een vrolyk feestgeschal.
+Hy plant zyn zegevaan op koning Nizus wal.
+Zyn vlaggen waajen van de kerk- en torentranssen.
+Zyn helden gaan ten rei, gekroont met lauwerkranssen.
+ t Kretenzer oorlogsvolk verrykt zich met den schat
+(960) Van  t vorstelyk paleis, en plondert in de stadt;
+Ja rooft al  t heiligdom uit onze tempelzaalen,
+ t Gewyde koorgewaadt, de blinkende offerschaalen,
+En wierookvaten en altaaren, zwaar van goudt.
+Al dat den disch versiert, wanneer men hoogtydt houdt,
+(965) Bekoort den plonderlust der woedende soldaaten:
+Zy zingen Minos lof en zege langs de straaten.
+Hier buiten woelt en draaft de priester voor de tent,
+Daar  t offer wordt bereit.
+
+ISMENE.
+                                        Die zaak is my bekent.
+Dat offer, groote Goon! dat offer raakt my nader,
+(970) Dan gy, Arsinoë...
+
+ARSINOË.
+                                  Prinses, ik zie uw vader.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE TONEEL.
+NIZUS, ISMENE, FOKUS, ARSINOË.
+
+ISMENE.
+Ter quader uur, helaas! zie ik u wederom,
+Myn vader; ach! wat ramp! wat ramp! myn bruidegom!
+
+NIZUS.
+Myn dochter, troost u in d elenden, die ons drukken.
+
+ISMENE.
+Gy zyt noch onbewust van alle onze ongelukken.
+
+FOKUS.
+(975) Myn waarde, neem geduldt. de hemel keurt dit goedt.
+
+ISMENE.
+Is u bekent, myn heer, hoe fel ons nootlot woedt?
+
+NIZUS.
+Wy zyn in  s vyandts magt. myn stadt is ingenomen.
+Wat weet gy?
+
+ISMENE.
+                    Noch een ramp, die ons zal overkomen.
+
+NIZUS.
+Is  t niet genoeg? ik ben ontbloot van staf en kroon.
+
+FOKUS.
+(980) Wat wil de vyandt meer?
+
+ISMENE.
+                                              Hy mint my.
+
+FOKUS.
+                                                                  Groote Goôn!
+
+ISMENE.
+En noch ontbreekt er iets, dat ik aan u moet melden.
+Hy wil een van u beide opoffren.
+
+FOKUS.
+                                                  Wien zal  t gelden?
+
+ISMENE.
+Ik zelf moet een van u verwyzen tot de doodt,
+Zoo ik my niet aan hem verbinde als echtgenoot.
+
+FOKUS.
+(985) Wat straf zal hy voor hem, die  t leven houdt, bereiden?
+
+ISMENE.
+Die moet met my geboeit zyn stasikoets geleiden.
+
+NIZUS.
+Wel staat de keur aan u, myn waarde dochter, kom,
+Verwys uw vader vry, maar spaar uw bruidegom.
+Laat my, als  t offer, voor uw trouwe liefde slachten.
+(990) Leeft beide en hoopt: wie weet, wat lot u staat te wachten.
+
+FOKUS.
+Hoe zou ik leeven, om, met ketenen belaân,
+Aan myn verwinnaars as in zyn triomf te gaan?
+Zou ik by  t feestgewoel door Minos zegeboogen
+Ismene, als krygsslavin, zien treeden voor myne oogen,
+(995) En onder  t juichent volk, bekleedt met feestgewaadt,
+Haar traanen aan myn zy zien vloejen langs de straat?
+Neen stryk het vonnis van myn doodt: bepaal myn lyden,
+En laat uw keur myn oog van dat gezigt bevryden.
+
+ISMENE.
+Hoe wilt gy knielen, prins, voor Minos wraakaltaar,
+(1000) En, met den offerbandt gevlochten om uw haar,
+Uw hoofdt op myne keur aan  s priesters slachtmes bieden,
+Om al de rampen van uw minnares t ontvlieden?
+Is dit beminnen, daar gy in den hoogsten noodt
+Uw bruidt lafhartig wilt verlaaten door de doodt?
+(1005) Of hebt gy my alleen uit staatzucht aangebeden,
+Om na myn vaders doodt door my ten troon te treeden?
+En schonk de glans der kroon en opperheerschappy
+Al die bekoorlykheên, die gy zoo roemde, aan my?
+
+FOKUS.
+Waar wordt gy heen gevoert, prinses, door uw gedachten?
+(1010) Zou ik een kroon meer dan uw deugdt en schoonheit achten?
+Verdenk myn liefde niet van die lafhartigheit.
+Die deugdt, die schoonheit, die alom haar glans verspreidt,
+Dat onbevlekt juweel kan my alleen behaagen.
+Ik heb aan u myn trou in voorspoedt opgedraagen.
+(1015) Myn liefde wankelt niet. ô neen! geen tegenspoedt
+Verzet die zuivre drift in myn oprecht gemoedt.
+Maar overweeg  t besluit van myne doodt wat nader:
+Ik leef voor u, maar  k sterf, Ismene, voor uw vader.
+
+ISMENE.
+Wel, zoo gy voor my leeft, en ik u noch behaag:
+(1020) Zoo geef daar blyken van in deze nederlaag.
+Leef, om door reden  t vier in Minos borst te dooven;
+Of anders leef, om myn stantvastigheit te looven.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ACHTSTE TONEEL.
+NIZUS, SCILLA, ISMENE, FOKUS,
+DORIZE, ARSINOË.
+
+SCILLA. tegen Dorize
+Ik zie myn vader; laat ons keeren.
+
+NIZUS.
+                                                Neen, hou stant,
+Ontaarde dochter, die uw eigen vaderlandt,
+(1025) Uw vader, zuster en haar minnaar, door uw daaden,
+(Wie weet daar d oorzaak van?) zoo trouloos hebt verraaden.
+Heb ik u voortgebragt, ô schantvlek van myn kroon!
+Heb ik u  t levenslicht geschonken naast de Goôn,
+Om voor de gunst, die gy onwaardig hebt genooten,
+(1030) Uw vader van den troon en in zyn graf te stooten?
+Want Minos, die de wraak heeft in zyn hart geprent,
+Verwacht my buiten, om te slachten voor zyn tent:
+Daar hebt gy  t lykhout by myn leven al ontstooken.
+Maar beef, wanneer myn schim zal om uw nachtkoets spooken,
+(1035) En toonen in de wondt, tot schrik van uw gemoedt,
+Het vonnis van uw straf getekent met myn bloet.
+Dat bloet, dat ik wel eer zoo moedig, onder  t blaaken
+Der oorlogstoorts, vergoot, om u beroemt te maaken;
+Waar door ik uwe rust verzekerde en myn troon;
+(1040) Wordt door uw handt geplengt, tot zoen van Minos zoon.
+Vergaâr dat dierbaar bloet, als  t vloeit by gansche straalen
+Uit myn gekurven hals, in  s priesters offerschaalen:
+Drink dat voor nektar in: ja, boet uw moortlust vry,
+Verkoel daar door den gloedt van uwe razerny.
+(1045) Maar neen, myn yver dwaalt. gebruik die zuivre plassen,
+Rampzalig schepsel, om uw schantvlek af te wasschen:
+Zy bleeven zonder smet, tot roem van myn geslacht;
+Maar uw geboorte heeft hun smetten voortgebragt.
+Gy hebt de stof onteert waar uit gy zyt gesprooten.
+(1050) Ik daage u voor  t gerecht. de vierschaar wordt ontslooten,
+Waar in Gerechtigheit geblindt de weegschaal houdt:
+Zy weegt uw misdaadt naar de rampen die zy brout.
+Geveinsde vroomheit heb ik onbedacht verheven,
+En  t heiligdom betrout met myn gebiedt en leven.
+(1055) Gy hebt myn oog verblindt, dat nu zyn doling ziet:
+Maar uw vermomde deugdt bedriegt de Goden niet.
+Die Goden waakten voor myn Koningklyke staaten,
+Zoo lang  t geheiligt Schildt, van al myne onderzaaten
+Geviert, verheerlykt, in den tempel wierdt bewaart.
+(1060) Geen oproer, geen geweldt, noch Minos oorlogszwaardt
+Hadt ons gedwongen om de vesting op te geeven,
+Waart gy, ondankbaar kindt, uw landt getrou gebleeven.
+Al  t volk, gehoorzaam aan myn tucht en oorlogswet,
+Stondt pal by  t klinken der Kretenzer stormtrompet.
+(1065) De hemel vocht met ons, begunstigde myn degen,
+En kroonde reis op reis den uitval met zyn zegen.
+Nu wordt myn ryk verwoest. nu stort myn zetel in;
+Dien gy de zuil ontrukt, bedekte vyandin.
+Hoe teêr beminde ik u, zelfs van uw kintsche dagen!
+(1070) Ach! Scilla was my waardt, myn lust, myn welbehagen,
+De hoop, de troost, de vreugdt van mynen ouden tydt.
+Hoe heb ik u omhelst, wanneer ik trok ten strydt,
+En zuchtende afscheit nam! hoe wierdt myn hart bewoogen,
+Als ik de traanen maar zag vloejen uit uwe oogen!
+(1075) Hoe heb ik u getroost, toen  t noodlot al te straf
+Myn waarde bedtgenoot, uw moeder, voerde in  t graf!
+Ik, die zelf troostloos was, most in die zwarigheden,
+Tot lichting van uw smart, myn troost aan u besteden.
+Ik droogde al beevende u de traanen van  t gezigt:
+(1080) Vergeldt gy zoo myn zorg? is dit uw kinderpligt?
+Nu treede ik naar myn doodt: maar meldt aan ons de reden,
+Eer ik myne oogen sluit, van uwe trouloosheden.
+
+SCILLA.
+Ik val voor u te voet, en ik beken myn schuldt.
+
+NIZUS.
+Rys op. ontdek my voor myn uitvaart....
+
+SCILLA.
+                                                    Neen gy zult
+(1085) Nooit voor Androgeos door priestershanden sterven.
+Ik vlieg naar Minos, om genade te verwerven.
+
+NIZUS.
+Hou stant. wat spreekt gy van genade, oneedle ziel?
+ k Ontga veel smaadt en hoon, als ik voor  t altaar kniel.
+Of wilt gy met uw handt, in  t midden van myn plaagen,
+(1090) My kluisteren als slaaf, aan Minos zegewagen?
+En zal ik in dien staat, door uw verradery,
+Uw zuster met haar heldt zien treeden aan myn zy?
+
+SCILLA.
+Ik hoop myn huwelyk zal dat besluit beletten,
+Als Minos my de kroon van Krete op  t hoofdt zal zetten,
+(1095) En u herstellen in uw vorstelyken staat.
+
+NIZUS.
+Zoo mint gy hem?
+
+SCILLA.
+                            De min berokkende u dat quaadt.
+
+NIZUS.
+Waar tracht gy naar? gy hebt geen gunst van hem te wachten.
+Ismene staat te diep geprent in zyn gedachten.
+
+SCILLA.
+Ach! wat ontdekt gy my ! herroep dat woordt, myn heer!
+(1100) Help! help, Dorize! ik sterf.
+
+NIZUS.
+                                                      ô Dochter zonder eer!
+Wat helsche razerny heeft uw verstandt verduistert,
+Dat gy den roem van uw doorluchtig huis ontluistert,
+Dat gy een vyandt, die, door dolle wraak verblindt,
+Dus onrechtvaardig woedt, tot uw bederf bemint?
+
+SCILLA.
+(1105) Wierdt Minos borst, prinses, door uw gezigt ontstoken,
+Zoo ben ik hopeloos, en gy, gy zyt gewroken.
+Heb ik u  t heiligdom, de ziel van  t ryk, ontrooft,
+Uw schoonheit rooft my  t hart, dat ik my hadt belooft.
+Gy triomfeert door my, en boeit uw overwinnaar,
+(1110) En krygt van myne handt een koning tot uw minnaar,
+Een koning, my zoo waardt....
+
+ISMENE.
+                                              Een monster, dat ik haat,
+Wiens tomelooze drift naar  t hoofdt van Fokus staat:
+Of die myn vader wil berooven van zyn leven.
+Dien minnaar heeft uw roof, ontzinde, aan my gegeeven.
+
+SCILLA.
+(1115) Schoon ik uw onschuldt zie, noch blyft gy my verdacht.
+Hadt hy u nooit geëert, hy hadt my nooit veracht,
+Maar op den troon van  t ryk als koningin verheven.
+Myn hart, zoo krachtig door de minnenydt gedreeven,
+Verzaakt natuur, en haat ja vloekt u, omdat gy
+(1120) Hem, die myn vryheit rooft, houdt onder uw voogdy.
+ k Zal op uw schoonheit, my zoo dodelyk, verbolgen,
+Als medeminnares, u, waar gy gaat, vervolgen.
+Ja schoon gy Minos vlam veroordeelt in uw hart,
+Gy blyft myn vyandin en oorzaak van myn smart.
+(1125) De minnenydt ontrust noch verder myn gedachten,
+En spelt een zwarigheit, die my noch staat te wachten.
+De schoonheit van myn heldt, zyn aangenaam gezigt
+Mogt eindelyk uw hart doen wanklen in zyn pligt,
+En d eerste minnevlam verbannen uit uw zinnen,
+(1130) Om in uw bruigoms plaats zyn vyandt te beminnen:
+Maar beef, indien ik ooit die schennis wordt gewaar:
+Breng nooit myn liefde door uw ontrou in gevaar:
+Want nu de deugdt voor myn getergde drift moet zwichten,
+Zoudt gy bespeuren wat myn wanhoop kan verrichten.
+
+ISMENE.
+(1135) Ontzinde minnares, waar van verdenkt gy my?
+Hoe schantvlekt gy myn trou in uwe razerny!
+Zou ik myn bruidegom om een tiran verlaaten?
+Gy hebt hem vaders staf en koninklyke staaten
+Door tempelschennis met uw huwlyk aangeboôn.
+(1140) Uw dienst verdient zyn trou. betree met hem den troon
+Ik zal in slechten staat gerust met Fokus dwaalen,
+Door u verstooten uit myn vaderlyke paalen.
+d Ontkroonde koning zal ons volgen over zee;
+Tot ons de hemel voere aan eene uitheemsche ree.
+
+FOKUS.
+(1145) Ik zou u naar myn hof geleiden door de baaren,
+Indien ons dat geluk, prinses, mogt wedervaaren.
+Maar neen, de dwingelandt, bekoort door uw gelaat
+Zal ons die vryheit niet vergunnen in dien staat:
+Zyn boezem is te fel in minnevier ontsteeken:
+(1150) Hy wil zich door myn doodt van uwe weigring wreeken.
+Maar  k zou my welgetroost begeeven naar  t altaar;
+Mogt ik al stervende u  t geweldt van dien barbaar
+Ontrukken, en door bloet zyn helsche vlam verkoelen.
+Maar gy, ô Scilla, zult der Goden straf gevoelen:
+(1155) Gy maakt ons alle drie rampzalig: wacht de wraak.
+De hemel stemt uw val, en hanthaaft onze zaak.
+
+SCILLA.
+Uw dreigen kan de ziel van Scilla niet versaagen:
+Zy staat gelyk een rots, en zwicht voor geene plaagen.
+Indien myn liefde maar  t gewenschte wit beschiet,
+(1160) Eer ik den Minnegodt, die my alleen gebiedt.
+                                                          zy gaat wech.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+NEGENDE TONEEL.
+NIZUS, ISMENE, FOKUS, ARSINOË.
+
+NIZUS.
+Onzalig schepsel, dat, van eere en deugdt verbastert,
+Door een vervloekte min vervoert, de Goden lastert,
+Hebt gy die gruwelen uit vaders mondt gehoort?
+Hoe zocht ik haar de deugdt, wiens schoonheit my bekoort,
+(1165) Als op een tafereel naar  t leven af te maalen,
+Op dat zy, door den glans dier goddelyke straalen
+Gelicht, in zekerheit zou streeven langs die baan!
+Ik heb haar op dien weg als leitsman voorgegaan:
+Maar die verdoolde maagdt heeft Nizus les vergeeten.
+(1170) De Goden weeten best hoe ik my heb gequeeten.
+Ismene stem myn doodt; gedoog dat ik vertrek....
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TIENDE TONEEL.
+NIZUS, ISMENE, FOKUS, ARSINOË,
+AGÉNOR, LYFWACHT.
+
+AGÉNOR.
+Verschoont my, vorsten, zoo k u stoore in uw gesprek.
+ k Moet elk, door Minos last, naar zyn vertrek geleiden.
+
+NIZUS.
+Wel aan.
+
+FOKUS.
+              Vaar wel, mevrou, wy zullen eeuwig scheiden.
+(1175) Vaar wel, myn heer, ik zal u redden uit den noodt.
+
+ISMENE.
+Wij scheiden niet. ik volg myn minnaar in de doodt.
+
+                    Einde van het derde Bedryf
+
+
+                          Continue
+
+VIERDE BEDRYF.
+
+EERSTE TONEEL.
+MINOS, MENTOR.
+
+MENTOR.
+Zoo wordt Ismene door uw klagten niet bewoogen?
+En heeft de glans der kroon op haar geen meer vermogen,
+Dat haare afkerigheit uw trouwe liefde ontvlucht?
+
+MINOS.
+(1180) Zy haat my, Mentor; en die haat, een eedle vrucht,
+Uit haar stantvastigheit gesprooten, dwingt myn zinnen,
+In weerwil van my zelf, die trotse meer te minnen.
+Haar fiere weigering, schoon zy my hoont en smart,
+Wordt, als een proef der trou, verheerlykt in myn hart.
+(1185) Ik eer haar deugden, die myn liefde voetzel geeven,
+Schoon zy myn oogmerk door haar werking wederstreeven.
+Myn medeminnaar, juich, verheug u in myn druk,
+Want in uw ongeluk ontmoet u  t grootst geluk.
+Door my is u de trou der minnares gebleeken.
+(1190) Een hopelooze vlam, in myn gemoedt ontsteeken,
+Verzekert u van haar. zy kiest de slaverny,
+Alleen om uwe min, voor Minos heerschappy.
+Ik wordt bezitter van myn vyandts kroon en staaten.
+Ik ben verwinnaar: maar wat kan my  t voordeel baaten,
+(1195) Nu ik my weder voel gewikkelt in een strydt,
+Daar ik my zelf verlies, en raak myn vryheit quyt?
+Twee zusters heeft het lot gebragt in myn vermogen:
+Ik zie haar een voor een maar met verschillende oogen.
+Een dubble hartstogt prangt myn ziel in dezen staat.
+(1200) Ik haat haar die my mint. ik min haar die my haat.
+Ach! Mentor, help uw vorst.
+
+MENTOR.
+                                                Gy most uw magt gebruiken.
+Haar trots zal eindelyk voor uw vermogen duiken.
+Gy hoont u door  t gevlei. Ismene is uw slavin.
+
+MINOS.
+Wat zoetheit, wat vermaak geeft een gedwonge min?
+(1205) Ook kan geen dreigement een groote ziel versaagen:
+Bestorm haar met geweldt; zy volgt haar welbehagen:
+Een fiere moedt versterkt haar opzet in den noodt.
+Zy blyft by haar besluit, of troost zich eer de doodt.
+Dies zal uw raadt geensins....
+
+MENTOR.
+                                                      Zie, Scilla komt ons
+nader.
+
+MINOS.
+(1210) d Ontrouwe! dit bezoek verveelt my. zeg haar vader
+Dat ik hem hier verwacht, en om byzondre reên.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+MINOS, SCILLA, DORIZE.
+
+SCILLA, tegen Dorize
+IK zie den koning. ga. dat ik hem spreeke alleen.
+Gedoog, myn heer, dat ik, om myn verdriet te stuiten,
+In vryheit u den grondt myns boezems mag ontsluiten.
+(1215) Gy weet in welk een staat wy heden zyn gebragt.
+Gy zyt door my, tot hoon van ons aalout geslacht,
+Als koning op den troon van dit gewest verheven.
+Ik heb u Nizus staf zelf door myn handt gegeeven:
+Den staf, dienge u vergeefs beloofde van uw staal.
+(1220) Myn hulp baande u den weg tot deze zegepraal.
+Uw heerschlust heeft door my  t gewenschte wit beschooten.
+Hebt gy ooit grooter gunst van een vriendin genooten?
+Ja, Minos, overweeg; ik heb een werk gedaan
+Voor u, dat nooit een vrou ter wereldt dorst bestaan.
+(1225) Ik heb om u myn landt, myn bloet, my zelf verraaden,
+Den vaderlyken vloek op mynen hals gelaaden,
+De zoete min ontrust van Fokus en Ismeen.
+ k Wierde ontrou, maar om u getrou te zyn alleen.
+Betoon nu dat gy zyt uit vorstlyk bloet gesprooten.
+(1230) Erkentenis van dienst moet uwen roem vergrooten.
+Haar eisch ik van uw handt, myn heer, in dit geval.
+Die deugdt verheerlykt elk, maar vorsten boven al.
+
+MINOS.
+Ik heb my in dien pligt, waar van gy spreekt, gequeeten
+Gelyk  t betaamt, en nooit genooten dienst vergeeten.
+(1235) d Ontdankbaarheit, een pest, een monster, zoo veracht,
+Heeft nooit in myn gemoedt haar vruchten voortgebragt.
+Myn vader heeft myn jeugdt die regels voorgeschreeven.
+Ik heb zyn les betracht in myn doorluchtig leven.
+Maar wat vereischt een zaak, daar gy zoo hoog op roemt?
+(1240) Een misdaadt, die gy met den naam van dienst verbloemt,
+Een schelmstuk, zou u dat myn achting waardig maaken?
+ô Neen! dan most ik eerst myn oude deugdt verzaaken.
+Uw onbeschaamde tong, vol buitensporigheit,
+Veroordeelt zelf de zaak, die zy zoo dwaas bepleit:
+(1245) En gy wilt uit myn mondt een gunstig vonnis hooren.
+Hoe tracht gy door een beeldt myne oogen te bekooren,
+Dat gy zoo hatelyk, met een bevlekt penseel,
+Mismaakt hebt afgemaalt? ik schrik voor dat tafreel.
+Uw aanspraak, waar door gy myn liefde zoekt te winnen,
+(1250) Maakt u meer schuldig en verfoeilyk in myn zinnen.
+Gy diende u van den vloek uws vaders, als gy zegt,
+Verriedt uw landt, u zelve, uw zuster en haar echt,
+Of deze middelen een konings hart bekoorden,
+Dien gy daar door verpligt. zoo luiden uwe woorden.
+
+SCILLA.
+(1255) Hoe wordt myn woordt en daadt geschantvlekt in uw zin!
+Maar eer gy verder gaat: zoo denk, dat ik bemin.
+Die hartstogt heeft op ons, ô Minos, groot vermogen,
+En schildert nooit het quaadt zoo haatlyk in onze oogen.
+Verschoon een misdaadt, die de liefde my gebiedt.
+(1260) Gy hebt uw deel aan  t feit doordien  t om u geschiedt.
+Ik heb het zaadt verspreidt. gy zult de vruchten maajen.
+
+MINOS.
+Oneedle ziel, gy zoekt my vruchteloos te paajen.
+Ik voel in tegendeel dat gy myn gramschap tergt.
+Heb ik u immer  t feit, daar ik in deel, gevergt?
+(1265) Zocht ik in  t oorlog hulp van uwe trouloosheden?
+Doch nu my  t noodlot dient, omhelze ik, en met reden,
+Het voordeel, dat zich voegt al zwygende aan myn zy.
+Ga, streel een laffer ziel. my walgt uw vleiery.
+
+SCILLA.
+Ondankbre gunstgenoot, laat af van meer te veinzen.
+(1270) Myn minnenydt ontdekt den grondt van uw gepeinzen.
+Uw yver voor de deugdt, noch myn verfoeibaar feit
+Zyn d oorzaak ooit geweest van uw afkeerigheit.
+Myn zusters schoonheit houdt uw zinnen opgetoogen:
+Haar wezen maakt myn daadt zoo gruwzaam in uwe oogen.
+(1275) Verachter van een vrou, die zich aan u verbindt,
+Die u zoo hoog verheft, die u zoo teer bemint,
+Hebt gy voor een vriendin een vyandin verkooren?
+Zy heeft u ramp op ramp en uw bederf gezworen;
+Daar ik u heil op heil toewensche in myn gemoedt,
+(1280) En uw behoudenis zou koopen met myn bloet:
+Daar ik vrywillig myn verliefde ziel zou braaken,
+Indien ik door myn doodt u konde onsterflyk maaken.
+Heeft ooit Ismene als ik, ondankbre, u dienst gedaan?
+
+MINOS.
+Heeft zy haar vaderlandt, als Scilla doet, verraân?
+
+SCILLA.
+(1285) Heeft zy u tot den troon een heirbaan opgeslooten?
+
+MINOS.
+Hadt zy haar vader van dien troon eerst afgestooten?
+
+SCILLA.
+Heeft zy om uwe min gezucht, gequynt, getreurt?
+
+MINOS.
+Nooit heb ik grooter liefde in iemants hart bespeurt.
+
+SCILLA.
+Zy mint u dan?
+
+MINOS.
+                        Gy dwaalt. zy mint haar uitverkoren
+(1290) Zoo trou, dat ik haar deugdt moet roemen in myn toren.
+Wordt vry van minnares myn grootste vyandin;
+Gy zyt gewroken door myn hoopelooze min.
+Beklaag my dan, doordien....
+
+SCILLA.
+                                                Hoe zou ik u beklaagen,
+Verachter van myn trou? ik wensche u duizent plaagen.
+(1295)  t Berout my niet, dat ik myn vaderlandt verriedt;
+Nu ik u stof verschaf van quelling en verdriet.
+Quyn eeuwig aan de min. verdrink in uwe traanen.
+Zoo moet de wanhoop u den weg naar  t lykhout baanen.
+Zoo moet uw lykasch by  t misbaar en rougeluit
+(1300) Van  t altaar stuiven, eer de doodbus haar besluit.
+Maar hoe! waar vliegt gy heen, wraakzuchtige gedachten?
+Neen, Minos leef, laat my voor uwe gramschap slachten.
+Ik eisch maar eene gunst tot heling van myn smart.
+Ontbloot uw staal. doorstoot uw beeldt in Scillaas hart.
+(1305) Laat my die waarde handt berooven van het leven,
+Die gy my weigert om als bruidegom te geeven.
+Waar wacht gy na? wel aan....
+                            Zy grypt naar den Sabel van Minos.
+
+MINOS.
+                                                Laat los
+
+SCILLA.
+                                                          Weêrhoudt gy my,
+Rampzalig voorwerp van myn woede en razerny!
+Zoekt gy myn levensdraadt, ô wreede, noch te rekken,
+(1310) Om duizent rampen by myn lyden te verwekken?
+
+MINOS.
+Uw vader nadert ons. uw byzyn mogt zyn rou
+Vermeerdren, en zyn hart ontroeren. ga mevrou.
+
+SCILLA.
+Wel aan, ik ga, tiran: en gy, blyf onbewoogen;
+Maar beef, wanneer ik weêr verschyne voor uwe oogen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+MINOS, NIZUS, MENTOR.
+
+MINOS.
+(1315) Gy kunt my naderen, en zonder schroom, myn heer.
+
+NIZUS.
+Ik schroomde nooit in  t veldt by  t blinken van  t geweer.
+Ik vrees geen menschen, maar de gramschap van de Goden.
+Nooit werkt de vrees op  t hart van braven, maar van bloden.
+Myn lyf staat in uw magt: maar schoon ik nederkniel,
+(1320) Als een gevangen vorst, ik houde een vrye ziel.
+Hak vry myn leden met uw zwaardt in hondert stukken;
+Dit hart, zyn lot getroost, zult gy nooit onderdrukken.
+
+MINOS.
+Ik eer die fiere deugdt; en d edelmoedigheit,
+Die uit uw oog haar glans voor myn gezigt verspreidt,
+(1325) Maakt u myn achting waardt. gy zyt myn krygsgevangen.
+Gy gaaft eerst wetten, die gy heden moet ontfangen.
+Maar waar toe dit verhaal? hoe dra de kans verkeert,
+Heeft u d ervarentheit noch dezen dag geleert.
+Ik zal my tegens u niet dienen van myn voordeel.
+(1330)  k Omhelze u als myn vriendt. nu stel ik aan uw oordeel,
+Of dit bewys van gunst, in zulk een tegenspoedt,
+Geen wedergunst vereischt van een verpligt gemoed?
+Gy zult in uw gebiedt voortaan als koning leeven,
+Indienge uw dochter my tot gemalin wilt geeven?
+
+NIZUS.
+(1335) Wie? Scilla?
+
+MINOS.
+                          Die verdient, in plaats van min, myn haat.
+Ik vloek de ziel, die zich bezoedelt met verraadt.
+Geef my gehoor: ik zal u nader onderrechten:
+Ismene kan voor ons den bandt van vrientschap vlechten,
+ t Verbondt bezegelen, dat ik in eeuwigheidt
+(1340) Met u zal houden tot de doodt ons beide scheidt.
+
+NIZUS.
+Gy wilt, dat ik Ismene aan u tot bruidt zal schenken.
+Behoort my deze gift? en zal  t myn eer niet krenken,
+Dat ik een ander zou vervreemden van zyn goedt?
+De zoon van Eakus, by my als opgevoedt,
+(1345) Myn vriendt en bontgenoot, die, door zyn heldendegen,
+By d algemeene gunst, veel glori heeft verkreegen,
+En in dit zwaar beleg myn vesten voorgestaan;
+De hooftzuil van myn hof, in vrede of krygsorkaan,
+Verdiende lang de bruidt door zyn beroemde daaden.
+(1350) Ismene kroonde steets zyn kruin met lauwerbladen,
+Als hy, na  t stuiten van uw stormen, reis op reis
+Verwinnaar keerde van den muurtrans in  t paleis.
+Ik heb dit huwelyk voor alle Goôn bezworen.
+Wat hadde ik in dien staat te wachten van hun toren,
+(1355) Als hun getergde wraak, tot myne straf gereedt,
+My daagde voor  t gerecht, om myn verbroken eedt?
+Ik hadt haar lang vergunt voor  t heilig vier te paaren:
+Maar om dit zwaar beleg, gemengt met krygsgevaaren,
+Heb ik die plegtigheit, ô Minos, uitgestelt.
+(1360) En zou ik nu, bekoort door uw belofte, een heldt,
+Dien ik zoo hoog waardeer, van haar bezit versteeken,
+En trouweloos myn woordt, dat vaste zegel, breeken?
+Hou zou vorst Eakus en Egeus en Atheen,
+Om zulk een laffe daadt, my vloeken! neen, ô neen!
+(1365) Myn nagebuuren en doorluchte bontgenooten,
+Die schennis zal my nooit uit uwe vrientschap stooten.
+ k Zweer, dat op zulk een wys geen septer my bekoort.
+ k Blyf liever zonder kroon, dan koning zonder woordt.
+Schoon ieder my verliet, noch zal de deugdt nooit scheiden,
+(1370) Maar by den dootsleep my naar  t lykaltaar geleiden,
+En d Edelmoedigheit, die my veel aanzien gaf,
+In weêrwil van de doodt, steets zwerven om myn graf.
+
+MINOS.
+Hoe zyt gy zoo verblindt, myn heer, ontsluit uwe oogen,
+Besef uw onmagt eens, daar tegens myn vermogen.
+(1375) Wanneer ons  t ongeluk vervolgt en overheert,
+Dan kiest men uit het quaadt een dat ons  t minste deert.
+Hebt gy aan Fokus, als gy zegt, uw woordt gegeeven?
+Toen waart gy noch in staat, aan  t roer van  t ryk verheven:
+Doch nu gy door  t geval die plaats niet meer bekleedt,
+(1380) Wordt gy door tegenspoedt ontslaagen van den eedt.
+Indien uw vriendt uw heil waardeert, hy zal zich voegen
+Naar  t noodlot: uw geluk zal hem alleen vernoegen.
+Ontfang den septer dan. beheersch den lantgenoot.
+Ismene zal door  t heir my volgen naar de vloot.
+(1385) Maar hoe! gy treedt te rug. noch eens bedenk u nader.
+Ik handele u als slaaf, of eere u als myn vader.
+
+NIZUS.
+De slaverny, een vrucht myns noodlots, acht ik meer
+Dan een verachten naam van meester zonder eer.
+Heb ik den staf van  t ryk eens door verraadt verlooren;
+(1390) Hy kan my, door verraadt herkreegen, niet bekooren.
+Ook strekt my deze gift tot quelling en verdriet,
+Om dat ik hem van u, dien ik zoo haat, geniet.
+En of prins Fokus, om  t herwinnen van myn staaten,
+Zyn uitverkore bruidt, myn dochter, zal verlaaten,
+(1395) Kunt gy beproeven.
+
+MINOS.
+                                        Wel. wy zullen  t zien. ga heen,
+Gy Mentor, keer terstont met Fokus en Ismeen.
+                                                        Mentor gaat binnen.
+
+NIZUS.
+ô Hemel! die voorheen, in wederwaardigheden
+Uw ooren leende aan al myn zuchten en gebeden;
+Gy, die zoo menigmaal, met een goetgunstig oog,
+(1400) Den rook van myn altaar zaagt ryzen naar om hoog,
+Versterk Ismenes hart: laat zy haar roem vergrooten,
+Door  t voorbeeldt dat zy geeft aan al haar tytgenoten
+Van een stantvaste trou, zoo groot als immer mensch
+In vroeger eeuwen zag: dit is myn bede en wensch.
+(1405) En gy, ô heldt! die haar tot bruidt hebt uitverkooren,
+ô Fokus! dien ik lang myn vrientschap heb gezworen,
+Die my verpligtte door uw dienst en krygsbeleit,
+Kom: neem de leste proef van haar stantvastigheit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+MINOS, NIZUS, ISMENE, FOKUS, ARSINOË,
+MENTOR, AGÉNOR, LYFWACHT.
+
+MINOS.
+Hebt gy de keur gedaan, mevrou? de priesters wachten
+(1410) Naar  t offer dat ik voor Androgeos moet slachten.
+Of wilt gy, met een woordt, my kiezen tot gemaal;
+Dan zal een witte stier, door  t priesterlyke staal
+In hunne plaats gekeelt, myn wraakaltaar bekleeden.
+
+ISMENE.
+Neen, slacht vry menschenvleesch naar uw gewoonte en zeden.
+(1415) Wreek, wreek uw zoon, en dank het Godendom, dat u,
+Door eereloos verraadt, waar voor ik schrik en gruw,
+Op Nizus troon verhief: maar laat my  t offer strekken.
+Ik zoek hier toe, tiran, uw gramschap op te wekken.
+Zou ik een van hun twee verwyzen tot de doodt,
+(1420) Of u verkiezen, dien ik vloek, tot echtgenoot?
+Zou ik myn levenslot met u, myn vyandt, deelen,
+En een verwoester, voor een ryksbeschermer, streelen?
+Zou ik een dwingelandt geleiden naar zyn hof,
+En rusten in zyn arm, begruist van bloet en stof?
+(1425) Daar weet Athene en gansch Megare van te spreeken.
+
+MINOS.
+De vader was verpligt een kindermoordt te wreeken.
+
+ISMENE.
+Maar wat heeft u de zoon van Eakus misdaan?
+Heeft hy naar  t leven van Androgeos gestaan?
+Is deze moordt uit hem of uit zyn hof gesprooten?
+(1430) Dat bloet wierdt door Athene en onze jeugdt vergooten.
+
+MINOS.
+Bedenk u wel: gy dwaalt, als gy voor Fokus pleit:
+Hy maakt door uwe trou zich schuldig aan dat feit.
+
+ISMENE.
+Zyn zy misdadigen, die naar myn huwlyk trachten,
+Zoo moet gy boven al u zelf misdadig achten.
+(1435) Voelt gy niet, dat uw zoon die sporelooze min,
+Die hem zyn wraak betwist, veroordeelt in uw zin?
+Neen. wreek hem. ik zal my vrywillig overgeeven;
+Mag maar myn bruidegom en vroome vader leeven.
+
+MINOS.
+Gy vergt myn gunst....
+
+ISMENE.
+                                  Die gunst verstrekt myn grootste plaag.
+(1440)  k Verfoei my zelf, tiran, om dat ik u behaag.
+Ik vloek de gaaven, die natuur my heeft geschonken,
+Om dat ze uw ingewandt, tot myn bederf, ontvonken.
+Kom, breng my naar de plaats, daar  t offer wordt bereidt.
+
+MINOS.
+Hou my niet langer op in deze onzekerheit.
+(1445) Uw tegenstribbeling doet my  t geduldt verliezen.
+Ik zeg noch eens, verkies, of ik meen zelf te kiezen.
+
+NIZUS.
+Myn dochter, stem myn doodt: kom, neem een kort besluit.
+
+FOKUS.
+Neen, spaar den ouden heldt, en spreek myn vonnis uit.
+
+NIZUS.
+Zou Minos wichelaar u slachten voor myne oogen,
+(1450) Myn uitverkoren vriendt? dat zal ik nooit gedoogen.
+
+FOKUS.
+Ik sterf vol roem, indien ik sterf voor u, myn heer.
+Myn waarde, kom, vergun uw bruidegom deze eer.
+
+ISMENE.
+Ach! Fokus, ach! wat eischt uw wanhoop van Ismene?
+Wie zag ooit minnares en moorderes met eene?
+(1455) Heeft uw oprechte liefde, en dienst op dienst verdient,
+Dat ik, als vyandin, myn allerwaartsten vriendt
+Ter doodt zou doemen? gy, door myne min gedreeven,
+Hebt, op myn vaders woordt, u naar ons hof begeeven.
+Hoe zou de koning, die in  t ryk een dochter wacht,
+(1460) My vloeken, als myn keur zyn zoon had omgebragt.
+Verwacht gy dezen loon voor uwe dapperheden?
+Gy hebt zoo braaf voor  t recht van Nizus kroon gestreeden,
+Die Minos door verraadt lafhartig heeft gerooft.
+Ik dacht een lauwerkrans te vlechten om uw hoofdt:
+(1465) En zou ik in de plaats met myn besturve handen
+Uw kruin bekleeden, als gy knielt, met offerbanden?
+Ik dacht een zegezang, verheerlykt door uw lof,
+By  t klinken van de luit, te zingen in ons hof:
+En zou ik by den sleep der priesterlyke reien,
+(1470) Den lyktoon volgen, en myn heldt ter slachtbank leien?
+Neen leef, beminde prins, bescherm uw vaders kroon,
+Die Minos heeft gedreigt. laat Eakus zyn zoon,
+Met broeder Telamon en Peleus, blyde ontmoeten:
+Ik zal in uwe plaats de doodt, myn toevlucht groeten:
+(1475) Maar sluit, eer gy vertrekt, myne oogen voor  t altaar,
+En vier myn uitvaart met uw traanen jaar op jaar.
+    En gy, doorluchte vorst, uit wien ik ben gesprooten,
+Van wien ik gunst op gunst onwaardig heb genooten,
+Wiens weldaadt noch zoo versch in myn gedachten staat,
+(1480) Meent gy dat my de deugdt met ons geluk verlaat?
+Kunt ge een dochter, u zoo waardt, een misdaad vergen;
+Een misdaadt, die geen oordt der wereldt zou verbergen?
+Of wilt gy, dat men zegt, tot hoon van ons geslacht?
+De koning Nizus heeft twee dochters voortgebragt:
+(1485) Maar elks geboorte stondt hem dier; elk heeft misdreven:
+d Een stiet hem van den troon, de twede nam hem  t leven.
+Hebt gy my ooit bemint, zoo hou my buiten schuldt.
+
+MINOS.
+Voor  t lest. besluit, en terg niet langer myn geduldt.
+
+NIZUS.
+Uw wreetheit, Minos, is de wereldt lang gebleeken.
+(1490)  t Verbondt geslooten met Athene is  t waare teken
+Van uw bloetdorstig hart. Atheensche moeders, ach!
+Wat hangt u boven  t hoofdt? ô dodelyk verdrag!
+Gy zocht een kindermoordt, gelyk gy zegt, te wreeken;
+Maar hoe veel kindren zal uw wrok naar  t harte steeken!
+(1495) Hier zal d onnozelheit door uw verbondt vergaan,
+En  t schelmstuk boeten, dat een ander heeft gedaan.
+Geleidt uw zoonen nu, o vrouwen, naar de stranden:
+Zy zullen, tot uw ramp, in  t Kreetsche moorthol landen.
+Ik zie, hoe  t monster, daar de wereldt van gewaagt,
+(1500) Hun vleesch in  t lichaam schrokt en aan  t gebeente knaagt:
+Zyn tanden knarssen op de spierelooze schonken.
+Vergader  t overschot, ô Minos, drink u dronken
+In dat onschuldig bloedt op uw verheven troon.
+Paai zoo de lykasch van Androgeos, uw zoon.
+
+FOKUS.
+(1505) Vaar voort. gy moet uw wraak een ruimer teugel geeven.
+Bezwaar den tol, dien gy Atheen hebt voorgeschreeven.
+Verhef de wreetheit op den troon in uw gebiedt.
+Der jongelingen bloedt verzaadt uw moordtlust niet.
+Laat ook de vaders, met hunne uitgeteerde vrouwen,
+Het kroost geleiden, om dat treurspel aan te schouwen.
+Laat zy, by  t klinken van uw dertel hofgerucht,
+Voor  t monster knielen op de beendren van haar vrucht.
+Dan zal Pasifaë, bestuwt van maagdeschaaren,
+Dit moortfeest heiligen en vieren met haar snaaren,
+En, juichende op  t gekerm, in Dedaals doolhof treên,
+En danssen handt aan handt by  t moederlyk geween.
+Voer ook een ryk getal uit Nizus onderdaanen
+Als deelgenooten meê van zoo veel leet en traanen.
+Maar denk vry, dat Jupyn, dien gy als vader groet,
+(1520) Zal eischen van uw handt al  t ingezwolgen bloet.
+
+MINOS.
+Gy hebt myn gramschap door uw lastertaal ontstoken.
+Best wordt myn zoon op u, en door uw doodt, gewroken.
+Agenor, gryp hem aan, en sleep hem naar  t altaar.
+
+ISMENE.
+Ik zal dat opzet u beletten. sta, barbaar.
+
+MINOS. tegen Agenor.
+(1525) Laat af.
+
+ISMENE.
+                    Doorluchte prins, hoe zal ik u beschermen?
+ô Hemel! wordt gy niet bewoogen door myn kermen?
+Ziet neder, groote Goôn, terwyl Rechtvaardigheit
+Voor een vervolgde trou in uwe vierschaar pleit:
+Of heeft ons Scilla, daar al  t quaadt is uitgesprooten,
+(1530) Zoo wel uit uwe gunst als van den troon gestooten,
+Laat my alleen de smart gevoelen van de straf:
+Maar spaart myn minnaar, en hem, die my  t leven gaf.
+
+FOKUS.
+Weêrhou die redenen, prinses, die my verveelen.
+Ik moet in uw verdriet, als waare minnaar, deelen.
+(1535) Beny my niet, dat ik een dubble gunst verwerf:
+Dat ik leeve in uw hart, en voor myn koning sterf.
+
+NIZUS. tegen Minos
+Hoort gy dat groot besluit, en wordt gy niet bewoogen?
+Verbeeld eens een tafreel, ô Minos, voor uwe oogen:
+Waar in Stantvastigheit, gekleet als een Godin,
+(1540) In  t witte feestgewaadt, vereenigt met de Min,
+Voor  t altaar van de Deugdt eerbiedig legt geboogen:
+Aanschouw van ver  t Geweldt, vervreemt van mededogen,
+Haar yver stooren, daar zy  t heilig vier ontsteekt:
+Zie, hoe Gerechtigheit door  t dak der wolken breekt,
+(1545) Om met haar heilig zwaardt  t gedrogt den kop te klooven:
+Zoo zal de hemel, die uw wreetheit ziet van boven,
+En uw vervolging vloekt, tot zoen van onze zaak,
+Ten trots van uw geweldt, u treffen met de wraak.
+
+MINOS.
+Wat spreekt gy van gewelt? gy beide zyt myn slaaven.
+(1550) Ismene is myn slavin. gy moet zoo hoog niet draaven
+Met uw gedachten. neen. myn pligt is my bekent.
+
+NIZUS.
+ t Is waar, wy zyn in uw vermogen: maar gy schendt
+Myn ouden luister, door een koning slaaf te noemen.
+
+FOKUS.
+Deze opgeblazentheit zal al de wereldt doemen.
+(1555) Een edelmoedig heldt versiert zyn zegepraal,
+Maar door een draagzaam juk, en een beleeft onthaal.
+Hy, die voorzichtig is, zal zich niet hoog verheffen
+In zege; want bewust dat hem de slag kan treffen,
+Die zyn verwonneling ter neder heeft geveldt,
+(1560) Houdt hy zich laag by d aarde. ô Minos! uw geweldt,
+Aan  t hollen, zal zich zelf eerlang te barste rennen.
+Braveer den hemel met uw vlerk en lichte pennen,
+In smeltbaar wasch gedrukt, door uw verheve vlucht:
+Wy zien u haast, tiran, in  t steigren, uit de lucht
+(1565) In eenen jammerpoel elendig nederdaalen.
+De wraak, schoon langkzaam, zal u eindlyk achterhaalen.
+Verdrukker van de trou, vervolger van  t gemoedt,
+Kom, meng myn lykasch vry met Egeus burgerbloet.
+Verschoon myn leven niet. ik zal gewillig lyden.
+(1570) Of laat my voor de vuist het hofgedrogt bestryden,
+Dat, van uw vrou geteelt, in  t moorthol wordt bewaart.
+Ik zal d Atheensche jeugdt verlossen door myn zwaardt.
+
+MINOS.
+Wat zoekt gy reis op reis myn grootsheit te versaagen?
+Wat schildert gy de wraak der Goden en hun plaagen
+(1575) Gedurig voor myn oog? heeft iemant quaadt begaan;
+ t Is Scilla, die haar landt en vader heeft verraân:
+Laat zy dit boeten.
+
+ISMENE.
+                                Zy, tot uwe hulp genegen,
+Heeft ons door tempelroof ontbloot van  s hemels zegen:
+Maar heeft zy ooit de vlam begunstigt in uw hart,
+(1580) De minnedrift gevleit, die my zoo doodlyk smart?
+Zy zocht in tegendeel dat smeulent vier te smooren,
+My hatelyk in  t oog van u, haar uitverkoren,
+Te maaken, want de min wees haar dit middel aan:
+En daar door heeft zy my in ondienst dienst gedaan.
+
+MINOS.
+(1585) Het is genoeg. vertrekt. men breng hen uit myne oogen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+MINOS, MENTOR.
+
+MENTOR.
+Die trotze heeft den haat, te diep in  t hart gezoogen,
+Geen toren zag ik ooit in  t wezen van een vrou
+Zoo groot als deze.
+
+MINOS.
+                            Maar, zaagt gy wel grooter trou?
+Ik eer haar vloeken, die zich voor de liefde quyten,
+(1590) Die haar rechtvaardigen, en my myn schuldt verwyten.
+De gramschap maakt haar oog bekoorlyk in myn zin.
+Hoe zy my feller haat, hoe ik haar meer bemin.
+
+MENTOR.
+Myn heer, gy dient u zelf te dwingen door de reden.
+Gy, die weleer zoo braaf in  t harnas hebt gestreeden,
+(1595) En  t vyantlyk geweldt verstrooit door uw geweer,
+Ga nu de driften van een strydent hart te keer.
+
+MINOS.
+Ik wordt bevochten van de wraak en  t mededogen,
+Een gadelooze trou stelt my myn pligt voor oogen.
+Dan dwingt de liefde my te volgen haar geboôn.
+(1600) Wel aan....
+
+MENTOR.
+                          Wat zult gy doen?
+
+MINOS.
+                                          Raadtpleegen met de Goôn.
+
+                    Einde van het vierde Bedryf.
+
+
+                          Continue
+
+VYFDE BEDRYF.
+
+EERSTE TONEEL.
+SCILLA, DORIZE.
+
+DORIZE.
+Men heeft my niet misleidt, de legerpriesters wachten.
+Men zal uw vader of uw zusters minnaar slachten;
+Indien Ismene noch afkerig blyft, mevrou,
+En weigert Minos kroon t aanvaarden met zyn trou.
+
+SCILLA.
+(1605) Zou hy haar kroonen, en my als slavin onthaalen?
+Zou zy als koningin met kroon en septer praalen,
+En ik, met ketenen om mynen arm, tot loon
+Van myn getrouwen dienst, hem volgen? groote Goôn!
+Zyn liefde is my bekent.  t geheim van zyn gedachten
+(1610) Heeft hy my zelf ontdekt, Dorize: maar wy trachten
+Die dodelyke vlam te smooren in zyn bloet.
+Ik haat hem en ik vloek Ismene. myn gemoedt,
+Door zyne weigering in razerny ontsteeken,
+Tracht dien geleden hoon op hem en haar te wreeken.
+
+DORIZE.
+(1615) Zal  t my geoorlooft zyn, prinses, om in een zaak
+Van zulk een groot gewigt, die sporelooze wraak
+U af te raden, en dit quaadt te wederstreeven?
+Gy staat uw zuster als een vyandin naar  t leven.
+Herdenk de vrientschap van Ismene, die zoo teêr,
+(1620) Zoo trou, zoo minzaam, u begunstigde weleer.
+Errinner u haar deugdt en edelmoedigheden,
+In koning Nizus hof geviert en aangebeden.
+Hoe schynt de vroomheit uit haar vriendelyk gezigt!
+Hoe meenig onderdaan heeft zy door dienst verpligt!
+(1625) De trotse Hovaardy, een gunstgenoot der grooten,
+Wierdt nooit van haar gevleit, maar uit haar hart geslooten.
+Alleen de Needrigheit, haar gunst en achting waardt,
+Ging als een speelgenoote in  t hof met haar gepaart.
+Voeg hier haar schoonheit by, vermaardt door alle hoven....
+
+SCILLA.
+(1630) Hou op, Dorize, van haar gaaven meer te looven.
+Die deugdt, daar gy op roemt, die schoonheit zoo volmaakt,
+Heeft Minos hart, in spyt van myne min, geraakt.
+Haar gaaven maaken my verfoeilyk in zyne oogen:
+Dies wordt myn minnenydt, zoo krachtig van vermogen,
+(1635) Getergt en opgewekt door  t melden van haar lof.
+Gy wilt my stillen, maar gy geeft myn gramschap stof.
+
+DORIZE.
+Gaf zy wel ooit gehoor aan zyn verliefde klagten?
+
+SCILLA.
+Wat vraagt gy my? ken ik  t geheim van haar gedachten?
+Wie weet, wanneer zy door gewoonte Fokus vleit,
+(1640) Of  t hart haar niet bestraft, en voor den koning pleit.
+
+DORIZE.
+Hoe kan uw achterdocht Ismenes eer dus krenken?
+
+SCILLA.
+Wat wilt gy, dat ik in myn twyfeling zal denken?
+Maar ik vergeeve u licht dat gy my schuldig vindt:
+Zy kent geen minnenydt, die nimmer heeft bemint.
+(1645) Kon ik u recht den staat van myn gemoedt verklaaren,
+Gy zoudt myn onrust met uw medelyden paaren.
+Veroordeel niet te fel de drift, die my bestrydt,
+Maar mist myn achterdocht, scheldt my die doling quyt.
+Al stopt Ismene voor myn minnaars klagt haare ooren,
+(1650) Nochtans gaat al myn hoop door haar alleen verloren.
+Twee prinssen eeren haar, bekoort door haar gezigt:
+Maar heeft haar gunst wel een zoo dier als ik verpligt?
+Wat heb ik niet gedaan om Minos te behaagen?
+Myn vader wacht de doodt, of zal zyn zegewagen
+(1655) Geleiden langs de straat, zoo Fokus wordt geslacht:
+En all die rampen heeft myn liefde voortgebragt.
+Maar zoo myn zuster, om hen beide te behouwen,
+Besloot een vyandt, in haar bruigoms plaats, te trouwen,
+Zou ik dat huwelyk gedoogen? neen, myn handt
+(1660) Doorstoot uw vyandin. Dorize volg.
+
+DORIZE.
+                                                                  Hou stant.
+
+SCILLA.
+Gehoonde minnares, wat zult gy nu besluiten?
+Wat raadt, wat middel, om dit kankrent quaadt te stuiten?
+Geen hartstogt werkt zoo fel, als een verachtte min;
+Zy sluit de reden uit, en laat de wanhoop in.
+(1665) Kom, volg, Dorize,laat ons  t vaderlandt verlaaten,
+Daar my de koning vloekt, daar my de burgers haaten;
+Terwyl de zuigeling, die door myn schelmstuk lydt,
+Met traanen in  t gezigt, de schuldt aan my verwyt.
+Noch eens, Dorize, laat ons vluchten. maar wat plekken
+(1670) Der aarde zullen ooit myn gruwzaam quaadt bedekken?
+Wie zal niet waagen van myn schennis? wat gewest
+Zal my niet vloeken, als een dodelyke pest?
+Elk zal zyn lantstreek, daar ik nader, my verbieden.
+Maar schoon ik vlucht, kan ik een knaagent hart ontvlieden?
+(1675) Een felle wroeging, die myn smart van binnen voedt,
+Verstrekt my een beulin, en geesselt myn gemoedt:
+Haar werking heeft myn ziel tot wanhoop aangedreeven.
+Ik zal my aan haar magt vrywillig overgeeven.
+ô Wanhoop! die my kunt verlossen door de doodt,
+(1680) Gun dat ik u omhelze, als toevlucht in den noodt.
+Ach! waarde vader, heeft myn liefde uw ramp gebrouwen,
+Zocht ik een vyandt door uw ondergang te trouwen;
+En gy, Alkathoë, door myn verradery,
+Ten prooi geschonken van een moorders dwinglandy,
+(1685) Vergeeft, vergeeft my  t feit: ik zal uw onheil wreeken,
+Als ik uw vyandt zal in zyn triomf doorsteeken,
+En verven voor uw wal, waar in zyn krygsvolk woedt,
+De versche lauwerkroon met zyn ondankbaar bloet.
+Dan zal ik, juichende om uw wraak, myn lantgenooten,
+(1690) Den moortpriem keeren, en myn eige borst doorstooten:
+Maar laat ik u voldoen, door zulk een groot besluit,
+En veegt met bloet de smet van myne misdaadt uit.
+En gy, indien gy door myn uitvaart wordt bewoogen,
+Doe my den lesten dienst, Dorize, sluit myne oogen.
+
+DORIZE.
+(1695) Helaas! wat neemt gy voor in uwe woede? spaar
+U zelve, en hoop op  t lot. wie weet wat uitkomst... maar
+De koning komt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+MINOS, SCILLA, DORIZE, MENTOR.
+
+MINOS.
+                          Ik zal myn oogmerk u ontdekken,
+Prinses, gy moet terstont uit deze tent vertrekken.
+ t Verraadt, door u gepleegt aan vader Nizus kroon,
+(1700) Die misdaadt dreigt my met de gramschap van de Goôn,
+Zoo gy hier langer toeft: ik moet hun last volbrengen.
+Zy willen in myn tent uw toevlucht niet gehengen.
+Myn legerwichelaar, die op den uitslag wacht,
+Heeft my voor  t oog van  t heir dat hoog bevel gebracht,
+(1705) En alle harten door zyn Godtspraak ingenomen.
+Zy dreigen door geweldt myn weigring voor te komen.
+De priesterlyke tong, verheerlykt als een tolk
+Der Goden, werkt met kracht op  t ingewandt van  t volk.
+Dies hou my buiten schuldt.  t is niet in myn vermogen,
+(1710) In  t uiterste gevaar uw byzyn te gedoogen.
+
+SCILLA.
+De vondt, dien gy verdicht, verblindt myne oogen niet.
+Ik ken, ik ken dien Godt, die myn vertrek gebiedt.
+Maar, neen,  t is een Godin, om haar bevalligheden
+In  t koor van uw gemoedt geviert en aangebeden.
+(1715) Myn zuster....
+
+MINOS.
+                            Ja, die wordt verheerlykt in myn zin.
+Uw ondeugdt wekt myn haat, daar ik haar deugdt bemin.
+En dat ik ben gezint deze eedle deugdt te kroonen
+Door tekens van myn gunst, zal ik noch heden toonen.
+
+SCILLA.
+Verryk haar door de trou met uwe kroon en staf,
+(1720) In spyt des bruidegoms dien haar het nootlot gaf.
+Ga heen, ondankbre, laat uw bruiloftstoortsen rooken,
+Wanneer gy  t lykaltaar voor Fokus hebt ontstoken.
+Ga, vul de doodbus met zyn lykasch door uw handt,
+En op de zelve plaats daar  t huwlyksoffer brandt.
+(1725) Maar zyn ontrustte schim zal aan de Goden klaagen,
+En u met uwe bruidt voor hunne vierschaar daagen.
+Hoe zal de wraak, uw rust ontroeren! straf op straf
+Zal u vervolgen, en geleiden naar uw graf:
+Een straf, voor u en voor uw onderdaan beschooren.
+(1730) De Goden treffen zelfs de burgers in hun toren,
+Wanneer de koning zich bevlekt met euveldaân.
+Zoo moet uw ryk eerlang door lantkrakkeel vergaan,
+En burgerlyken twist. het bloet, door  t staal vergooten
+Moet bruischen, als een zee, langs uw verheve sloten,
+(1735) En stroomen in de zaal van  t hof, daar Dertelheit
+Den middagdisch stoffeert, en Weelde uw nachtkoets spreidt.
+Zoo moet de felle Moordt, ten afgrondt uitgelaaten,
+Een dodelyk toneel ontsluiten op uw straaten.
+Ik zie de bruid omhelst haar minnaar op den grondt:
+(1740) Zy luikt zyn stervent oog, en kust den bleeken mondt.
+De vrouwen vluchten van uw woedende onderdaanen,
+En laaven  t jeugdig kroost, in plaats van melk, met traanen.
+Zoo deelt de zuigeling, in dien bedroefden staat
+In d algemeene elende, en wordt gestraft om  t quaadt,
+(1745) Dat uit uw wellust sproot. het zaadt, uit u geboren,
+Uw dochters hebben zelfs u ramp op ramp gezworen;
+Zy zullen u eerlang verraaden, en uw ryk
+Veel onheil brouwen, my in gruwelen gelyk.
+Dit spel ik, en noch meer. ja, Minos, hoor my wenschen,
+(1750) Maar beef, ja beef, tiran, rampzaligste aller menschen!
+Myn vier is uitgedooft. myn liefde, in razerny
+Verandert, zet in  t hart myn wraakzucht krachten by.
+Niets woedde ooit feller, dan een haat, uit min gesprooten.
+Nu gy myn gunsten en verdiensten hebt verstooten;
+(1755) Zoo moet uw ryksgrens, by den nagebuur veracht,
+Van monsters krielen, als uw vrou heeft voortgebragt.
+ t Orakel stop zyn oor voor uwe wichelaaren.
+De ravens knarssen by den rook van uwe altaaren.
+Zoo strekke uw offerspys, daar gy uw feesten viert,
+(1760) Als walglyk aan de Goôn, een prooi voor  t roofgediert.
+Zoo moet een vier van wraak door alle uw steden blaaken,
+Uw hoftrans door  t geweldt der donderklooten kraaken
+En nederstorten, tot gy, door den val verplet,
+Den doodsnik uitblaast op uw koninklyk banket.
+(1765) Ik vloekte u meer, tiran, zoo  t stonde in myn vermogen.
+ k Bezwyk. Dorize, kom, en lei my uit zyne oogen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+MINOS, MENTOR.
+
+MENTOR.
+Wie schrikt niet, groote Goôn, die zulk een gruwel hoort!
+Een gruwel, die myn hart gelyk een schicht doorboort!
+ô Hemel! keer dien vloek, en kroon ons met uw zegen.
+
+MINOS.
+(1770) Maakt u de gramschap van een raazent mensch verlegen?*
+
+MENTOR.
+De vloek, gesprooten uit de driften van haar haat,
+Dreigt zelf den offerdienst, de hooftzuil van den Staat,
+De ziel van  t gansche ryk. wie kan dien hoon gedoogen?
+Een zaak, van dat gewigt, dient nader overwoogen.
+(1775) Men moet haar straffen.
+
+MINOS.
+                                            Neen. zy is genoeg gestraft.
+De schuldt, die haar vervolgt en steets ontrust, verschaft
+Haar overvloedt van stof, en zy bezwaart haar lyden.
+Geen grooter plaag, dan met een knaagent hart te stryden.
+Men vindt, van Goôn en mensch verlaaten, troost noch heul.
+(1780)  t Geweten, overtuigt van  t schelmstuk, strekt een beul,
+Die onophoudelyk kastydt met felle slagen.
+De lyfstraf maakt een eindt van  t leven; en de plaagen
+Verdwynen door de doodt: maar wroeging over  t quaadt
+Verwekt ontelbre doôn. zaagt gy niet in  t gelaat
+(1785) Van Scilla  t vonnis van een strenge straf geschreeven?
+Het opperste gerecht, waar voor wy menschen beeven,
+Heeft haar veroordeelt, en de wraak is op de been:
+En wilt gy, Mentor, dat ik haar verwyze ? neen.
+Ik moet my zelven eens beproeven, en de hoeken
+(1790) Van myn misdadig hart, als rechter onderzoeken.
+Gy weet, hoe  t nootlot door  t orakel heeft gespelt,
+Dat my de lotbus in het onderaartsche veldt
+Te beurt zal vallen, om der stervelingen zielen,
+Die voor den rechterstoel eerbiedig nederknielen,
+(1795) Te vonnissen, naar  t goedt of quaadt door haar begaan.
+Zal daar het schuldig volk voor myne vierschaar staan;
+En ben ik niet verpligt  t bewint dier groote zaaken,
+Door een oprecht gedrag en deugdt my waardt te maaken?
+Zal ik misdadigen tot straffe en helsche pyn
+(1800) Verwyzen voor  t gerecht, en zelf misdadig zyn?
+ t Is waar, ik heb den staf van Nizus wel gekreegen,
+Maar door een snoodt verraadt, en niet door  s hemels zegen.
+De Goden dulden  t quaadt, maar hun rechtvaardigheit
+Wordt nimmer aangemerkt als oorzaak van het feit.
+(1805) Wie weet, of  t voordeel, dat myn heerschlust kan bekooren,
+Niet is gesprooten uit een werking van hun toren.
+Want overweeg met my de zaak, gelyk  t behoort.
+Aanschou een dochter, door een wulpse min bekoort,
+Natuur en kinderpligt en trou en eer verzaaken,
+(1810) En  t godtgewyde Schildt uit vaders tempel schaaken,
+En my de ziel van  t ryk, den zegen van den Staat
+Aanbieden in myn tent. die tempelroof, dat quaadt,
+Dat helsche lasterstuk, met woorden niet te noemen,
+Waar van de wereldt gruwt, dat al de Goden doemen,
+(1815) Ontsluit de vesting, daar zich  t volk voor my verklaart.
+Maar dit is  t minste noch van  t geen my heeft bezwaart.
+
+MENTOR.
+Kunt gy de liefde tot Ismene in uwe zinnen
+Noch niet bedwingen, en dien hartstogt overwinnen?
+Hebt gy, gelyk  t behoort, u zelf geweldt gedaan?
+
+MINOS.
+(1820) Ik heb dat doodlyk vier wel tienmaal wederstaan;
+Myn drift beschuldigt en veroordeelt. myn geweten
+Heeft zich in dezen strydt, gelyk  t betaamt, gequeeten.
+Maar telkens quam de min, door reden neêrgevelt,
+In  t hart weêr boven, en ontworstelde  t geweldt.
+
+MENTOR.
+(1825) Zyt gy noch meester door uw tegenstant gebleeven?
+Of mostge u weder aan die driften overgeeven?
+Verklaar u nader vorst.
+
+MINOS.
+                                        Myn edelmoedigheit
+Heeft tegens deze min met grooten ernst gepleit,
+En myn geweten heeft het vonnis uitgesproken.
+(1830) Gy, die dit heilig vier hebt in myn borst ontstoken,
+Gy, die myn togten hebt beteugelt, groote Goôn,
+Gy schenkt my door uw gunst een perel aan myn kroon.
+Ik moet myn dankbaarheit voor zulk een weldaadt uiten.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+MINOS, MENTOR, AGÉNOR.
+
+AGÉNOR.
+Myn heer, de priester wacht met ongedult hier buiten.
+(1835) Het altaar staat gereet, en al de plegtigheit
+Is lang voor uwe tent in  t oog van  t heir bereidt.
+Men wacht naar  t offer om dit groote feest te vieren.
+Hebt gy de keur gedaan?
+
+MINOS.
+                                        Laat tweepaar jonge stieren,
+Maar nooit door  t juk geprangt, te voorschyn brengen, om
+(1840) Te slachten. haal Ismene en haaren bruidegom
+En vader aanstonts hier.
+
+AGÉNOR.
+                                         k Gehoorzaam uw begeren.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+MINOS, MENTOR.
+
+MINOS.
+Ja, Mentor, ik heb my verwonnen, en wy keeren
+Ons tot de deugdt. gy zult aanschouwen dezen dag
+Hoe veel de reedlykheit op myn gemoedt vermag.
+(l845) Zou ik zoo groot een trou, als ooit myne oogen zagen,
+Vervolgen met geweldt, en door myn driften plaagen?
+Myn hart, doorluchtig paar, tot uwe hulp bereidt,
+Schenkt aan uw min de vrucht van haar stantvastigheit.
+
+MENTOR.
+Zoo triomfeert gy, door u zelf te wederstreeven.
+(1850) Uw edelmoedigheit, in  t hart van  t volk geschreeven,
+Zal eeuwig uwen roem verheffen, en de faam
+Zich steets vermoejen door  t verbreiden van uw naam.
+Het purper troongewaadt, de glans der kroonjuweelen,
+Eertekens van  t gebiedt, die  t hart door d oogen streelen,
+(1855) Staan doof en duister by de straalen van de deugdt.
+Uw groot besluit, myn heer, verwekt my groote vreugdt.
+
+MINOS.
+Verhef myn luister vry. ik heb door  s hemels zegen
+Deze overwinning, maar met zweet en angst, verkreegen
+
+MENTOR.
+Hoe feller tegenstant, wanneer men met het staal
+(1860) Om eer in  t vechtperk strydt, hoe grooter zegepraal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZESDE TONEEL.
+MINOS, NIZUS, ISMENE, FOKUS, MENTOR,
+ARSINOË, AGÉNOR, LYFWACHT.
+
+MINOS.
+Gedoog, prinses, terwyl de priesters ons verbeiden,
+Dat ik u met myn handt naar  t altaar mag geleiden.
+
+ISMENE.
+ô Blyde bootschap! ô bekorelyke doodt!
+Myn hoop! myn toeverlaat! ik groete u in den noodt!
+(1865) Vaarwel, myn vader, leef, en heb ik iets misdreeven,
+Scheldt my de misdaadt quyt, terwyl ik schei van  t leven.
+ k Omhelze u, brave vorst. en gy, myn bruidegom,
+Vaarwel, vaar eeuwig wel, ô heldt! nu Minos kom.
+
+FOKUS.
+Gy zult niet sterven, neen, ik zal dat opzet stuiten,
+
+MINOS.
+(1870) Bezadig u, myn heer. ik zal my klaarder uiten:
+Ik zoek Ismene als bruidt te leiden, daar ik haar
+Voor u....
+
+ISMENE.
+                Als bruidt! hou op.
+
+MINOS.
+                                            Gun dat ik my verklaar.
+Gy zult myn gunst, indien....
+
+ISMENE.
+                                                 k Wil van die gunst niet
+hooren.
+Zoudt gy my leiden, en uw trou myn hart bekooren?
+(1875) Zou ik u volgen, en myn waarden heldt verraân?
+Ik weet noch middelen om my van u t ontslaan.
+Hou moedt, doorluchte prins, dat zult gy nooit aanschouwen.
+Ik wacht de wreetste doodt, eer ik met hem zal trouwen.
+
+NIZUS.
+Ja, sterf, Ismene, sterf, eer gy zyn wil voldoet.
+
+ISMENE.
+(1880) Kom, wreek Androgeos, maar door Ismenes bloet.
+
+MINOS.
+Die drift van toornigheit, uit misverstandt gesprooten,
+Kan uw bekoorlykheên, voor myn gezigt vergrooten.
+Ik eer die gramschap, als een vrucht der waare trou:
+Maar denk niet, dat ik haar zal krenken: neen mevrou.
+(1885) Uw haastigheit maakt u, maar tegens recht, verbolgen.
+Ik zal u leiden, maar uw bruidegom zal volgen.
+Gy zult prins Fokus zelf ontfangen van myn handt,
+Voor  t oog van  t gansche heir, daar  t heilig offer brandt:
+En op die plaats, daar ik Androgeos wou wreeken,
+(1890) Zal ik voor uwe trou het echtaltaar ontsteeken.
+En gy, ô Nizus, zult dit ryk voortaan van my
+Te leen bezitten, en elk zal uw heerschappy,
+Door myn bevel, gelyk voor dezen oorlog eeren:
+En ik zal met myn vloot terstont naar Krete keeren.
+
+FOKUS.
+(1895) Wat onverwachte vreugdt ontmoet ons in den druk!
+
+NIZUS.
+Myn dochter, dat ik u begroete in dit geluk.
+
+ISMENE.
+De blyschap van myn hart verbiedt de tong te spreeken.
+
+NIZUS
+Uw edelmoedigheit, ô Minos, is gebleeken:
+Gy blyft in uw triomf ook meester van uw hart.
+
+ISMENE.
+(1900) Heb ik u ooit gehoont, door  t perssen van myn smart,
+Denk dat een minnares haar drift niet kan bepaalen.
+
+FOKUS.
+Door die verandering sal nooit myn krygsmoedt daalen.
+Heb ik dit ryk weleer, in  t nypen van den noodt,
+By  t blinken van het staal, in  t aanzien van de doodt,
+(1905) Door myn geweer geredt, en in verscheide slagen,
+Ten dienst van Nizus staf, de zege wechgedraagen;
+Nu gesp ik  t zwaardt op zy, voor uwe zaak, myn heer.
+Ik zal my in den strydt opoffren aan uw eer,
+En quyten, als ik my voordezen heb gequeeten.
+
+ARSINOË.
+(1910) Dorize nadert ons, bedrukt en nat bekreeten.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE EN LESTE TONEEL.
+MINOS, NIZUS, ISMENE, FOKUS, MEN-
+TOR, DORIZE, ARSINOË, AGÉNOR,
+LYFWACHT.
+
+NIZUS.
+WAt deert u, dat gy keert in dien bedroefden staat?
+
+DORIZE.
+Leest gy de reden niet uit myn ontstelt gelaat?
+ô Ramp!
+
+NIZUS.
+              Vaar voort, Dorize.
+
+DORIZE.
+                                            Ik kan my niet verklaaren.
+Ach! Scilla....
+
+ISMENE.
+                      Groote Goôn! wat zal ons wedervaaren!
+
+DORIZE.
+(1915) Zy leeft niet meer.
+
+ISMENE.
+                                  Helaas!
+
+MINOS.
+                                              Verhaal haar doodt.
+
+FOKUS.
+                                                                          Vaar
+voort.
+
+DORIZE.
+Zy heeft zich voor myn oog zoo derelyk vermoordt.
+
+FOKUS.
+ô Gruwelyk besluit!
+
+MINOS.
+                              Verhaal d omstandigheden.
+
+DORIZE.
+Gy zaagt haar uit uw tent, myn heer, vol wanhoop treeden.
+Haar vloeken toonden u de driften van haar hart.
+(1920) Kom, sprakze, kom, Dorize, en deel in Scillaas smart,
+Verlaat my niet; gy hebt my blyk van trou gegeeven.
+Kom laat ons nu voor  t lest langs dezen oever streeven:
+Hier hebt gy menigmaal voordezen handt aan handt
+Met my gewandelt eer myn vyandt was gelandt.
+(1925) Hier heb ik u  t geheim van myne ziel ontslooten,
+Maar in een anderen staat. nu leggen Minos vlooten
+Gereedt om hem naar  t ryk te voeren over zee:
+Hy keert, en laat my hier, maar voer myn schaduw mee;
+Zy zal om  t paviljoen, gelyk een nachtspook, waaren,
+(1930) En in den slaap zyn geest ontrusten op de baaren.
+Ach! was die ryksvloot, als getuige van myn schandt
+En tempelschennis, nooit verscheenen aan myn strandt!
+Ziet gy myn schelmstuk in de purpre watervaanen
+Niet levende afgebeeldt? barst uit, barst uit, myn traanen,
+(1935) En spoelt die schantvlek af. en gy, Alkathoë,
+Myn vaderlyke stadt, in oorlog en in vreê
+Van elk verheerlykt, smoor voor  t oog der nagebuuren
+Myn misdaadt onder  t puin van uw gesloopte muuren.
+En gy myn vader, dien ik eeuwig ben verpligt,
+(1940) Die my door  t voorbeeldt van uw leven hebt gesticht,
+(Ach! hadde ik u gevolgt!) vergeef myn trouloosheden.
+Zoo spreektze, en trekt gezwint een moortpriem uit haar kleeden,
+En drukt hem, eer ik  t merke, in  t hygende ingewandt.
+Zy zygt in mynen arm, en uit myn arm in  t zandt,
+(1945) Bevochtigt door haar bloet. ik schrik, en buig my neder
+Ter aarde, en gryp den pook: maar aanstonts ruktze weder
+Dat moorttuig uit myn handt, en kust het bloedig staal.
+ô Werktuig, zegt ze, van myn leste zegepraal,
+Ik hadde u uit de stadt tot noothulp meêgenomen,
+(1950) Onkundig wat my door myn min mogt overkomen:
+Nu hebt gy door myn handt  t gewenschte werk verricht.
+Hier zwygtze, en geeft den geest, en ik sluit haar gezigt.
+
+ISMENE.
+Myn zuster, ach! wat heeft uw razerny bedreeven?
+Gy roofde ons heiligdom, en na dien roof, u  t leven.*
+
+NIZUS.
+(1955) Schoon zy myn rampen heeft veroorzaakt door haar feit,
+Noch voel ik dat natuur van binnen voor haar pleit.
+
+MINOS.
+Verban die tederheit, myn heer, uit uw gedachten:
+Die zoo haar vaderlandt verraadt, verdient geen klagten.
+Kom, volg, wy zullen u geleiden naar den troon,
+(1960) Maar eerst dit huwelyk voltrekken voor de Goôn.
+
+            Einde van het vyfde en leste Bedryf
+
+
+
+                          Continue
+
+  • Scylla, heldinnenbrief door Joannes Meursius (1602)
+  • Ceneton
+  • Voorkeurenpagina Opleiding Nederlands
+

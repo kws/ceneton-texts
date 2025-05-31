@@ -1,0 +1,3568 @@
+[Dutch]
+
+A. Loosjes: De watergeuzen. 1790.
+Uitgegeven door Frida van Til te Groningen
+Red. dr. A.J.E. Harmsen, Universiteit Leiden.
+Ceneton05583 - EDBO
+In deze uitgave zijn evidente zetfouten gecorrigeerd en gemarkeerd met een
+asterisk.
+De varianten in de tweede druk (1796) zijn toegevoegd.
+
+                          Continue
+
+[fol. *1r]
+
+                             DE
+
+                        WATERGEUZEN,
+
+                        HELDENSPEL.
+
+                            DOOR
+
+                      A. LOOSJES, Pz.
+
+               [Vignet: Nationaale Schowburg]
+
+                        TE HAERLEM,
+
+                    bij A. LOOSJES, P.z.
+                         M.D.CCXC.*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *1v: blanco]
+[fol. *2r]
+
+                   VOORBERICHT.
+
+De gebeurtenis, die ten grondslage van dit spel strekt, is aan
+elken Nederlander te zeer bekend, dan dat ik daarover iets behoef
+te zeggen. Alleen moet ik erinneren, dat aan de Waarschijnlijkheid
+van het Tooneelspel de naauwkeurige geschiedkundige Waarheid
+eenigzins opgeofferd is. Van deeze vrijheid heb ik gebruik gemaakt,
+met die behoedzaamheid egter, welke ik meende verschuldigd te zijn
+aan het [fol. *2v] belang der geschiedenis. Eénheid van zaak, tijd
+en plaats heb ik zo naauwkeurig mij mogelijk in acht genomen, zelfs
+zou men kunnen aanmerken dat het geheele stuk slechts één
+aaneengeschakeld Bedrijf behelst  en juist is het mijn oogmerk
+geweest hiervan een proeve te neemen. Dewijl het egter, om
+verscheiden redenen, alles behalven waarschijnlijk is dat dit stuk
+op het eenige, daar toe geschikt, Tooneel in ons vaderland vertoond
+zal worden, heb ik, schoon ik met een bekwaam Componist over het
+Muzyk tot de gezangen tusschen de Bedrijven vereischt, in
+onderhandeling geweest ben, egter best geoordeeld, als nog die
+kosten te spaaren.  Terwijl ik genegen ben, in gevallen men dit
+stuk ten Tooneele mogt voeren, de daartoe vereischte Muzyk te
+laaten vervaardigen.
+[fol. *3r]
+    Schoon ik langen tijd aan de beschaaving en herziening van dit
+stuk besteed hebbe, wenschte ik nog verscheide plaatzen te hebben
+kunnen veranderen, maar het is elken dichtlievenden bekend, hoe het
+veel gemakkelijker valt zijne feilen duidelijk te zien, dan die
+over  t geheel te verbeteren.  Egter scheen het mij de aandacht van
+het algemeen niet gantsch onwaardig, anders zou ik het hebben t 
+huis gehouden.
+
+    Wat mijne gedachten over Vrijheid en Vaderland betreft, deeze
+heb ik als een ronde
+Hollander in dit stuk, waar het pas gaf, de ingevoerde persoonen in
+den mond gelegd en hun de taal van hunnen tijd en omstandigheden,
+zo veel althans mij mogelijk, doen spreeken. Ik voorzag wel dat
+[fol. *3v] er zo wel van mijne vrienden, als van hun die misschien
+min gunstig over mij denken, op deeze en geene plaatzen ten dien
+opzigte aanmerkingen vallen zullen, maar alles wat ik in hetzelve
+gesteld heb, is, mijns achtens, overeenkomstig met die gevoelens
+van waarheid en vrijheid, die eenen Ingezetenen van een vrij
+Gemeenebest voegen en die niemand kwaalijk kunnen geduid worden.
+
+Zo intusschen dit Stuk geheel mijne Landgenooten mogt mishaagen,
+dat mij leed zou doen, kan ik hun egter hiermede troosten dat ik
+hoogstwaarschijnlijk in lange met eenen arbeid van deezen aart hun
+niet lastig vallen zal, daar ik de moeilijkheid van deeze
+onderneeming te zeer heb gevoeld, dan dat ik eene soortgelijke,
+zonder de bemoedigende gedachten van [fol. *4r] door eene voorige
+mijne landgenooten ten minsten eenige aangenaame oogenblikken te
+hebben doen doorbrengen, ligtelijk zou hervatten.
+
+
+                                                    A. LOOSJES, P.Z.
+
+                    Haarlem,
+            1790. den 6 Mai.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. *4v]
+
+                    PERSOONEN.
+
+VAN DER MARCK, Heer van LUMEY,
+                Admiraal der Watergeuzen,
+WILLEM VAN BLOIS VAN TRESLONG,            } Bevelhebbers der Vloot.
+JACOB SIMONSZOON DE RYK,
+HEDDING.
+
+JOHAN OMAL, Kapitein.
+JAN VAN DUIVENVOORDE, Heer van WASSENAAR.
+JACOB HOOFT.
+┌─────────────────────────────────┬─┬──────────────────────┐
+│MARGARETHA DE RYK, Huisvrouw;    │}│van JACOB SIM. DE RYK.│
+│SIMON en AGATHA DE RYK, Kinderen,│ │                      │
+└─────────────────────────────────┴─┴──────────────────────┘
+MEVROUW TRESLONG, Moeder van Willem van Blois van Treslong.
+J.P. COPPELSTOK, Schipper.
+┌──────────────────┬─┬────────────┐
+│CORNINCK THONISSE,│}│Watergeuzen.│
+│JAN THYSSE,       │ │            │
+└──────────────────┴─┴────────────┘
+ROCHUS MEUWISZOON.
+EERSTE EN TWEEDE BURGER in het derde Bedrijf , zesde en zevende Tooneel.
+EEN MATROOS.
+De Maagd, verbeeldende de Kamer DE VREUGDEBLOEM.
+De Keizer der Kamer
+Kapiteins en Aanvoerders van de Watergeuzen.
+Watergeuzen, als Soldaaten en Matroozen gekleed.
+Twee Burgers, die Coppelstok in het tweede Bedrijf, tweede Tooneel vergezellen.
+Eenige Grijsaarts.
+Eenige Nonnen.
+Eenige Vrouwen en Kinderen.
+Rederijkers en gemaskerde persoonen, daarbij behoorende.
+
+
+                          Continue
+
+[p. 1]
+
+                        DE
+
+                   WATERGEUZEN.
+
+                   HELDENSPEL.
+          _____________________________
+
+                 EERSTE BEDRIJF.
+
+ Het Tooneel verbeeldt in dit en de volgende Be-
+   drijven, eene taamelijk uitgestrekte vlakte,
+     niet verre van de Noorderpoort der Stad
+      Briel, van waar men in  t verschiet de
+               Maas beschouwt (*).
+
+                 EERSTE TOONEEL.
+
+                            MARGARETHA.
+
+De schipper breekt zijn woord. Hij zou ons hier verbeiden,
+Om langs het beste pad ons na zijn schip te leiden.
+
+
+    (*) Aan den eenen kant heeft het lang verloop van
+tijd de naauw-
+keurige bepaaling van deze plaats eenigszins moeijelijk
+gemaakt, en aan
+
+[p. 2]
+                                  JACOB.
+
+ t Ligt hier ter linkerzij  mijn kind!  k zal derwaards gaan,
+Om van dat misverstand de reden te verstaan.
+(5) Vertoef hier met uw kroost.
+
+                            MARGARETHA.
+
+                                                  Ach, dat wij u verzellen...
+Ik vrees, indien ge alleen...
+
+                                  JACOB.
+
+                                          Laat af u zelf te kwellen;
+     k Ben nog door d ouderdom niet van  t gezigt beroofd.  
+En komt de schipper hier, gelijk hij hadt beloofd,
+Dan zullen wij elkaêr aan boord terstond hervinden.
+(10) Wat vreest ge?  Ik zal mij niets gevaarlijks onderwinden.
+
+
+den anderen kant zie ik geene reden, waarom men in de
+plaatzing van het Tooneel eene schroomvallige
+naauwkeurigheid
+zou willen in acht genomen hebben, waardoor de uitvoering
+nog
+moeijelijker gemaakt wierdt. Genoeg schijnt ons de boven
+gegeeven
+aanduiding. Alleen zij men  er op bedacht, zo men ooit
+het stuk
+ten tooneele voert, dat het geboomte bladerloos moet
+zijn, uit
+hoofde, dat de gebeurtenis in  t begin der maand April is
+voorgevallen.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      TWEEDE TOONEEL.
+
+                 AGATHA, MARGARETHA, SIMON.
+
+          Margaretha zet zich op eene bank neder.
+
+
+                                  SIMON.
+
+Gij zucht weêr, Moederlief! Terwijl gij treurig ziet.
+    Denk, Vader is gezond. Ik bid u, schrei toch niet.
+Ik hoorde u gist ren wel, toen hebt gij toch gezongen.
+
+                            MARGARETHA.
+
+Mijn Kind! Men zingt wel eens, schoon niet door vreugd gedrongen.
+
+                                AGATHA.
+
+(15) Ei, Moeder! Hef voor ons dat lied van gister aan.
+
+                            MARGARETHA.
+
+Welaan, mijn kroost,  er worde aan uwen wensch voldaan.
+ t Is pligt, om uwen wil mijn droefheid te weêrstreeven,
+ k Zal poogen door dien zang mijn boezem lugt te geeven.
+                            Zij zingt.
+        Blaas, lentewindje, blaas uw geur
+            (20) Door boschen, beemden, hoven.
+         t Ontluikend bloempje, frisch van kleur,
+            Heff vrolijk  t hoofd na boven.
+[p. 4]
+                 t Gevogelt juicht de lenten tegen,
+                    En zingt op blijde wijs:
+    (25) ,,Heel de aarde wordt, door  s Hemels zegen,
+                        ,,Een Paradijs. 
+            De gade , die haar weêrhelft derft,
+            Die als een balling ommezwerft,
+        Hoort niets dan winterstormen loeijen,
+            (30) Steeds buigt zij  t moedloos hoofd te neêr:
+        Daar traanen langs haar kaaken vloeijen,
+            Herhaalt zij, zuchtend, keer op keer:
+        ,,Voor mij heeft de aard geen lente meêr;
+            Jaa  t zaligst oord der waereld is
+(35)             Voor mij een donk re wildernis. 
+
+Nog keert de grijsaart niet, die ons zo trouw bemint,
+Steeds vaderlijken ernst met tederheid verbindt,
+En mij zo hulpeloos, daar  k uwen Vader derve,
+Alom ten gids verstrekt, waar  k in mijn rampspoed zwerve.
+(40) Mij, zijn bedrukte telg, vertroost hij niet alléén,
+Maar elk die, nevens mij, met eindeloos geween,
+Gemaal en kroost beschreit, wel Alva s woede ontdooken,
+Maar ver van huis en haard, van hulp en troost verstoken.
+[p. 5]
+Met traanen in het oog, maar die van eenen held,
+(45) Vaagt hij de traanen af,  t wanhoopig hart ontweld.
+De moeder van Treslong, die kloeke en braave vrouwe,
+Smoort mede in haar gemoed het diep gevoel van rouwe
+Om haar geliefden zoon, gevlucht als mijn de Ryk:
+Zij zijn elkaêr in ramp, in moed en deugd gelijk.
+(50) Nog gistren schoot de hoop een straal door al mijn traanen
+Op  s vaders moedig woord: Laat Vrijheidsheilzon taanen,
+Dat Spanje schatten gouds uit  s aardrijks afgrond delv ,
+Zoldaaten telle als zand:  t geweld verdelgt zichzelv .
+Jaa, sprak Mevrouw Treslong, eens vliegt het Recht te wapen;
+(55) En, schoon het jaaren lang op  t Wetboek scheen te slaapen,
+Dan zal  s Volks heilige eisch, versterkt door  s Hemels magt,
+Uitschitt ren voor  t Heelal, als blikzems in den nacht.
+                        Zij ziet Jacob Hooft.
+De grijsaart komt, bestraald door vrede en vergenoegen,
+Die d uchtendstond van  t heil der eeuwigheid vervroegen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 6]
+
+                       DERDE TOONEEL.
+
+             AGATHA, MARGARETHA, JACOB, SIMON.
+
+                                  JACOB.
+
+(60) Mijn Kind!  k Heb vruchteloos den schipper nagespoord,
+ k Doorzocht zijn vaartuig zelfs, doch vond geen mensch aan boord.
+Dus is  t ontwerp mislukt, om u aan de and re zijde
+Der Maas, door  t eerste schoon van  t lieflijkst jaargetijde,
+Te troosten in uw druk. Vergeefsch verbeidt ons Buis,
+(65) Die zijne zorg verpoost in  t vrolijk Maaslandssluis,
+Op zijn geliefdst verblijf, dat oord van zaligheden,
+Die hofsteê, waar zijn hart de vuurigste gebeden
+Voor  t heil des Vaderlands in stille ruste slaakt,
+Wijl  t bottend lenteschoon zijn hart gevoelig maakt
+(70) En hem  t bewijs vernieuwt van dat geducht vermogen,
+Dat over stof en geest, schoon voor verganglijke oogen
+Voor  t eindige begrip als met een kleed bedekt,
+Het richtsnoer van zijn wil en eeuwige orde trekt.
+Ach! Hadt de taal van Buis uwe ooren mogen streelen.
+
+                            MARGARETHA.
+
+(75) Wie, buiten mijn de Ryk, kan mijne hartwond heelen?
+[p. 7]
+Schoon  k u zelfs schreijend dank voor al uw tederheid,
+In dit mislukt ontwerp op nieuws ten toon gespreid,
+ k Blijf met dezelfde drift mijn ouden wensch bepeinzen.
+De vreemde maar,  k beken  t, heeft mij te rug doen deinzen.
+(80) Ik heb den togt gestaakt, zo vast bij mij bepaald,
+Maar mag het wuft gerucht, dat waar en valsch verhaalt,
+Mijn teedre huwelijksliefde in haare werking hind ren.
+Ach, ware ik scheep gegaan met u, met deeze kind ren,
+Had ik aan Englands ree mijn Echtgenoot gezocht...
+
+                                  JACOB.
+
+(85)  k Ontried, uit liefde en trouw, mijn Waarde! u deezen togt,
+Daar ik met reden ducht, hoe de uitslag ons zal leeren,
+Dat deeze losse maar in waarheid zal verkeeren.
+ t Kost Phlips slechts eenen wenk bij Albions Vorstin,
+En op denzelfden stond trekt zij haar gunsten in,
+(90) Alleen uit staatsbelang den Watergeus beweezen.
+Zins lang heb ik geleerd van Vorsten  t ergst te vreezen.
+Hoe kwijnt door hun geweld de Nederlandsche Staat.
+De onmooglijkheid alleen is  t perk van vorstenhaat,
+Door vleijerij verhit, door waan en dweepzucht heilig.
+(95)  k Acht voor den Watergeus geen kust der aarde veilig:
+Een arm, een vluchtend volk, dat recht en vrijheid zoekt,
+[p. 8]
+Met wapens in de vuist, is bij elk hof vervloekt.
+Verbeeld u, met uw kroost uit Nederland geweeken,
+Met mij, zo hoog bejaard, geland aan vreemde streeken;
+(100) Verbeeld u van der Marck en uwen Echtgenoot
+Van Englands ree verjaagd; geen zeil van heel de vloot
+Der Geuzen aan de kust der Britten naagebleeven!...
+Die mooglijkheid alleen doet uwen vader beeven.
+Doch zo  t gerucht weldraa naar uwen wensch verdwijnt,
+(105) Niets boeije ons dan aan  t oord, waar deugd en onschuld kwijnt,
+En onder  t dwangjuk zwoegt van snoode bloedplacaaten.
+Mijn grijsheid zal gerust dat Vaderland verlaaten...
+Dan zagt, ik hoor geluid.
+     Er wordt eenig krijgsgeluid gehoord  van verre
+        wordt een boot gezien  en op nog grooter af 
+                            stand eenige schepen.
+                                         t Is  t naedren van een boot.
+(115)  t Schijnt Krijgsvolk. In  t verschiet ontdekt mijn oog een Vloot.
+Margretha...
+
+                            MARGARETHA.
+
+                    Vader, ach! Ziet gij die vreemde leuzen?
+Bedriegt mijn oog zich?
+[p. 9]
+                                  JACOB.
+
+                                    Neen! Mijn kind!  t Zijn Watergeuzen.
+
+                  DE WATERGEUZEN in den boot.
+
+Lang leef de Watergeus!
+
+                            MARGARETHA.
+
+                                    Hebt gij dien kreet gehoord?
+
+                                  JACOB.
+
+Zie onzen schipper zelv . Hij staat aan  t rechterboord.
+
+                            MARGARETHA.
+
+(120) Ik zie hem... Vreugde en hoop doortintelt hart en aedren.
+
+                                  JACOB.
+
+Bepaal uw vreugd en hoop. Zie ons den schipper naedren.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIERDE TOONEEL.
+
+          AGATHA, MARGARETHA, SIMON, J.P. COPPEL-
+                        STOK, JACOB.
+
+                            J.P. COPPELSTOK.
+
+Vind ik u hier, mijn Heer! Een onverwacht geval,
+Waarvan de gantsche Briel weldraa gewaagen zal,
+Belette me op deez plaats, naar afspraak, u te wachten.
+(125)  t Schijnt me alles nog een droom. Verbijsterd van gedachten,
+[p. 10]
+Bepeins ik staag den last, dien  k op de vloot ontving,
+Terwijl ik sidd rend staar op deezen zegelring.
+
+                                  JACOB.
+
+    Ach! Meld mij, zo  t kan zijn, wat is u wedervaaren?
+
+                            MARGARETHA.
+
+Och, weet ge iets van de Ryk?
+
+                                  JACOB.
+
+                                                Wil deeze vraag nog spaaren.
+(130) Mijn Dochter! Dat uw geest zich niet te angstvallig kwell :
+Hoor, wat de schipper meldt.
+
+                            J.P. COPPELSTOK.
+
+                                            Schoon  t hooge krijgsbevel
+Mij steewaards drijft, nochthans zal  k u een zaak ontdekken,
+Die jaaren naa deez dag verwondering zal wekken,
+Om  t schijnen van de zon, die in dit jaargetij
+(135)  t Zeilaadje  t helderst bleekt, zette ik mijn zeilen bij,
+Terwijl  k naar afspraak u ter deezer uur verbeidde;
+Mijn oog, dat midd lerwijl langs stroom en oever weidde,
+Ziet voor den mond der Maas eene onbekende vloot.
+Ik kende geus noch vlag.   k Stap ijlings in mijn boot.
+(140) Ik moest van naderbij die vreemde vloot bekijken,
+En gunde mij geen tijd om fok of zeil te strijken.
+[p. 11]
+Ik roei met snellen slag langs Maaslands oever voort;
+ k Bereik weldraa de vloot.  Een schot seint mij aan boord.
+ k Gehoorzaam dat bevel. Bij  t scheepsboord opgeklommen,
+(145) Doet mij het vreemdst gezigt verbaazen en verstommen.
+ k Zie daar een grouwzaam volk, gehard door wind en weêr,
+Het ongehavend hair hangt over de oogen neêr,
+Half door den baard gegroeid. Op aller weezenstrekken
+Is ingekropte spijt en woeste drift te ontdekken;
+(150) Jaa de opslag van elks oog scheen mij een blikzemstraal;
+En dat afgrijslijk volk, mijn Heer! sprak onze taal.
+Nog rilde mij de schrik door mijne ontstelde leden,
+Toen ik een opperhoofd van  t schip zag nader treeden.
+Hij sprak: Ik ben Treslong, en wel bekend in Briel:
+(155) Eer Neêrland, eer die stad in Alva s handen viel,
+Hielp mijne vader zelfs aldaar de vierschaar spannen.
+ k Ben met  s Lands braafsten nu door dien tiran gebannen.
+Jaa allen, die ge aanschouwt, heeft zijne wrok gedoemd,
+Gij ziet de Geuzen hier, die Alva Muiters noemt.
+(160) Lumey is  t hoofd der vloot. Van Englands kust verdreeven,
+Beslooten wij met roem voor  t vaderland te sneeven,
+Of  t lang verdrukte volk, door onzen heldenmoed,
+Te ontrukken aan  t geweld, dat onverbidlijk woedt.
+[po, 12]
+Gaa, meld den Brielschen Raad, wat u hier is gebleeken,
+(165) Zeg, dat het hoofd der vloot twee burger wenscht te spreeken,
+Opdat de Brielsche vest zich nog bij tijds verdraag ,
+Eer zwaard en vuur den eisch der Geuzen onderschraag ,
+ k Zal u in veiligheid na d oever doen geleiden,
+En bij de Noorderpoort het burgerpaar verbeiden.
+(170) Hoe was dat oogenblik mijn beevend hart gesteld!
+Want schoon ik storm en zee durf tarten als een held,
+Nooit heeft de hoofsche kunst mijn zeemansbrein gesleepen.
+Ik bad, daar mij het hart door angst werdt toegeneepen,
+Wijl mij die vreemde last zo hoogstgevaarlijk scheen,
+(175) Verschooning  maar om niet.  In  t eind, daar noch gebeên,
+Noch klagten van dien last mijn hals ontheffen konden,
+Heb ik op naedren drang bij eede mij verbonden,
+Om aan den Brielschen raad der Geuzen eisch te doen.
+Treslong, die bovenal de burgers wil behoên,
+(180) Heeft mij zijn zegelring met deezen brief gegeeven,
+Door hem in allerijl op  t boord van  t schip geschreeven.
+Toon, sprak hij, deezen ring, indien de Brielsche Raad
+Ligt om uw vreemde maar of last in twijfel staat.
+Deez ring, die wapens voert, in ridderlijke dagen,
+(185) Het loon van moed en deugd, heeft  s vaders hand gedraagen;
+[p. 13]
+Hij is van overlang elk lid des raads bekend.
+Den brief, dien ik door u mijn dierbre moeder zend,
+Kan, zo  er bij den Raad nog aarzeling mogt blijven,
+De laatste schaduw zelv der twijfeling verdrijven.
+(190) Gaa heen dan, (en met een drukt hij mij stijf de hand)
+Staaf uw gezwooren eed. God redde  t vaderland.  
+En op dien zelfden stond is al mijn vrees vervloogen.
+Mijn hart brandt mij in  t lijf. Ziet gij niet in mijne oogen
+Een eedle vrijheidsmin, die kerker ducht noch dood...
+(195) Dan zagt, ik toef te lang... De zeilen van de vloot
+Vergrooten, wijl ik spreek, daar zij den oever naedren.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIJFDE TOONEEL.
+
+             AGATHA, MARGARETHA, JACOB, SIMON.
+
+                                  JACOB.
+
+Voltooi dit stout ontwerp, ô Godheid onzer vaedren!
+
+                            MARGARETHA.
+
+Geen woord van mijn de Ryk... mijn Vader, ach! geen woord.
+
+                                  JACOB.
+
+Mijn Kind! ik heb verrukt den schipper aangehoord.
+(200) Ei, stoor mijn vreugde niet door ijd le boezemklagten:
+[p. 14]
+Die vreugde maakt mij jong.  k Voel nieuwe leevenskragten.
+Aanbidlijk Albestuur! het uur is dan nabij,
+Waarop ge ons redden zult uit Alva s dwinglandij,
+Ons tegen vorstenhaat, en dweepzuchts drift beschermen;
+(205) Het uur is dan nabij, dat ik in beevende armen
+Mijn zoon, en wien niet al van  t vaderlijke bloed,
+Zal drukken aan mijn hart. Mijn dierbaar kind! schep moed.
+Kleinkindren, springt en juicht, het oogenblik komt nader,
+Dat gij in  t Vaderland uw lang gevluchten Vader
+(210) De handen kuschen zult...
+
+                                  SIMON.
+
+                                                  Wat zegt gij?  Zuster! hoor,
+Wat Grootevader zegt...
+
+                        AGATHA., aangedaan.
+
+                                      Ik zal...
+
+                                  JACOB.
+
+                                                Wat hebt gij voor?
+
+                                  AGATHA.
+
+Als Vader wederkomt, dan zal ik aan hem vraagen,
+Of hij nu bij ons blijft, en niet voor zo veel dagen
+Weêr uit de stad zal gaan, daar Moeder dan zo schreit.
+[p. 15]
+                                  JACOB.
+
+(215) Margaretha! hoor die taal der lieve onnozelheid.
+Gij zwijgt en weent...
+
+                            MARGARETHA.
+
+                                  Om u zal ik mijn angst beteug len.
+Hoe langzaam daagt de vloot. Gaf mij de liefde vleug len,
+Ik zweefde mijn de Ryk al juichend te gemoet...
+Maar kreunt zich huwelijksmin aan tegenwind of vloed...
+(220) Kom, dierbre Grijsaart, kom! wil mij nog eens verzellen.
+Ik zal mijn echtgenoot kloekmoedig tegensnellen.
+Begeeven we ons aan boord, vertrouw het roer aan mij.
+Mij dunkt, ik zie de Ryk reeds uit de heldenrij
+Toeschieten, daar zijn oog van verre mij ziet naedren.
+(225) Gij toeft: voldoe mijn wensch, toegeeflijkste aller vaedren!
+
+                                  JACOB.
+
+Of uitgelaaten blij, of neêrgedrukt door rouw,
+Betoont gij te aller uur uw teedre huwelijkstrouw;
+Doch in den wond ren loop van  t wisselvallig leeven
+Moet vaak de huwlijksmin de sterkste proeven geeven
+(230) Der trouwe en tederheid, waarmeê zij  t voorwerp mint,
+Als zij die tederheid van pas bedwingt, mijn Kind!
+Moet gij uw echtgenoot nog grooter smart doen lijden?
+[p. 16]
+Heeft niet zijn edel hart, dit uur, genoeg te strijden,
+Daar hij, om  t Vaderland, dat rookt van burgerbloed,
+(235) Zelfs tegen  t Vaderland de wapens voeren moet?
+Uw bijzijn zou gewis zijn heldenproef verzwaaren.
+
+                            MARGARETHA.
+
+Mijn vader, ach! Ik merk, gij ducht voor krijgsgevaaren.
+Helaas! zou dan de Ryk, naa zo veel leeds, misschien
+Alleen nog eens het land van zijne vaedren zien,
+(240) Om, eer hij mij omhelst, door  t krijgsgeweld te sneeven.
+Ach, laat ik hem voor  t minst den afscheidskusch nog geeven,
+Daar  t Spaansch gezind gebroed reeds op zijn leeven loert;
+Of is misschien de Ryk slechts na dit oord gevoerd,
+Om in den teedren arm van zijn Margreeth te sterven...
+(245) Zou dit het loon dan zijn voor zo veel angst en zwerven,
+Heeft daarom zijne zorg voor  t vrijheidsrecht gewaakt.
+
+                                  JACOB.
+
+    Mijn kind! betoom uw drift, mevrouw Treslong genaakt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 17]
+
+                       ZESDE TOONEEL.
+
+           AGATHA, MARGARETHA, Mevrouw TRESLONG,
+                       SIMON, JACOB.
+
+                        Mev. TRESLONG.
+
+Mijn vrienden! welk een maar ? Durf ik mijn oog vertrouwen?
+ô Jaa! Wij moogen dan der Geuzen vloot aanschouwen...
+(250) De Hemel zij gedankt; dat hij deez aanslag kroon .
+
+                                  JACOB.
+
+Ontving gij reeds den brief?
+
+                        Mev. TRESLONG.
+
+                                            Den brief van mijnen Zoon
+Ontving ik bij de poort, toen ik reeds herwaards snelde,
+Daar  t loopende gerucht de naedring mij vermeldde
+Van schepen, vreemd gevlagd, en magtig in getal.
+(255) Een deel der Burgerij vliegt driftig na den wal:
+Deez zwijgt van angst en spijt; die schreeuwt als uitgelaaten
+Van vreugde; een ander vloekt.  t Krioelt op markt en straaten
+Van een gemengden hoop.  t Raakt alles op de been,
+En ouderdom en jeugd. De Raad komt reeds bijéén.
+(260) Ik, om die vreemde maar ten huize ook uitgevloogen,
+[p. 18]
+Spoed mij na deezen oord, om hier met eigene oogen
+Te aanschouwen, wat  er zij van  t wonderbaar gerucht;
+En schipper Coppelstok behandigt mij ter vlucht
+Deez brief, vol kinderliefde en zorg.
+
+                                        Zij leest:
+
+                                                            Mijn dierb re
+Moeder!
+    (265) Der Watergeuzen vloot beslaat den mond der Maas.
+ t Is op den Briel gemunt. De Hemel strekke uw hoeder,
+    Zo  t ergste mogt geschiên. Al waar de Raad zo dwaas,
+Dat hij de poorten sloot, wij moeten egter binnen.
+    De Brit heeft ons verjaagd. Des staat ons opzet pal;
+(270) Wij moeten deezen dag, of sterven of verwinnen.
+    Verwijder, kan het zijn, u van den Noorderwal.
+Ik zal der Burg ren bloed en hunne goed ren spaaren,
+    Ten waar mij tegenstand tot strenge midd len dwong.
+Vaarwel. Nog eens ontschuil de dreigende gevaaren.
+    (275) Het zij ik leef of sneef, ik blijf uw Zoon
+                                                                         
+TRESLONG.
+
+Ik ried de Burgers, reeds ter stadpoort uitgetreên,
+Te wijken in de vest.
+
+                                  JACOB.
+
+                                    En egter gij alleen
+[p. 19]
+Begaaft u na dit oord.
+
+                            MARGARETHA.
+
+                                    Door tederheid gedreeven,
+Begeert ge als ik, Mevrouw! den wellust van uw leeven
+(280) Te omhelzen op de vloot.
+
+                        Mev. TRESLONG.
+
+                                                  Neen, waarde! ver van daar.
+ k Onttrek terstond mijn hoofd aan  t naedrend krijgsgevaar.
+Maar, wijl de Brielsche wal een aanval moet verduuren,
+En ook de dood mijn hoofd kan treffen in die muuren,
+Eer  t dapper Heldenkroost de wallen binnentrekt,
+(285) Wenschte ik de vloot te zien, die thans de Maas bedekt,
+De vloot, waarop mijn Zoon, om zijne deugd gebannen,
+Het Vaderland genaakt met zo veele eedle mannen,
+Die hoofsche vleijerij als beed laars scheldt en vloekt
+Door dreigtaal noch gevlei van  t snoodste Hof verkloekt,
+(290) Om van des dwinglands voet het schandlijk stof te lekken.
+Nu is mijn hart voldaan.  k Zal nu gerust vertrekken,
+Verwachtend welk een lot me in Brielles vest verbeidt,
+Gij weent, Mevrouw! Laat af.  t Past nu niet, dat gij schreit
+Uit vreeze voor uw Held. Dat Nederlandsche vrouwen
+(295) Met dankbaarheid en vreugd het glorieperk aanschouwen,
+[p. 20]
+Waar Zoon of Echtgenoot, ten koste van zijn bloed,
+Het dierbaar Vaderland zal redden door zijn moed.
+Mij, die u raaden durf, heeft wreeder lot bestreeden.
+Herdenk dat lot, Mevrouw! Hoe kort is  t nog geleeden,
+(300) Dat s Dwinglands wreekend zwaard, op Brussels moordschavot,
+Den broeder van Treslong barbaarsch voer door den strot.
+Zo heb ik eenen zoon voor  t Vrijheidsrecht zien sneeven;
+Naa  t doorstaan van dien slag doet mij geen onheil beeven.
+Verloor ik mijn Joän, door eene ontmenschte hand,
+(305) Ook Willem offer ik getroost aan  t Vaderland.
+
+                                  JACOB.
+
+Margretha! laat deez taal uw weiflend hart versterken.
+
+                        Mev. TRESLONG.
+
+Laat toch geen Spaanschgezinde een blijk van kommer merken.
+Verzel mij, dat mijn hoop uw zorg, uw angst verdrijv .
+
+                            MARGARETHA.
+
+Mevrouw! mijn Vader! ach! Vergunt mij dat ik blijv ...
+
+                                  JACOB.
+
+(310) Verban dat dwaas besluit, mijn waarde! uit uw gedachten,
+Of wenscht gij, dat de Ryk u voor zijn oog ziet slachten,
+Daar gij u onbedacht in  t midden waagt van  t vuur.
+[p. 21]
+                                  SIMON.
+
+Ach, moeder! waag u niet.
+
+                                  JACOB.
+
+                                          Margretha! dat Natuur
+En Reden deezen stond uw liefde paalen zetten.
+
+        Men hoort van verre trommelen en trompetten.
+
+(315) Hoor  t tromm len op de vloot en  t kraaken der trompetten.
+
+                            MARGARETHA.
+
+Welaan! Ik zal dan gaan, daar  t mij mijn plicht gebiedt.  
+Mijn dierbaar Echtgenoot! Schoon gij mij hoort noch ziet,
+Mijn hart zegt u vaarwel...
+
+                        Mev. TRESLONG.
+
+                                        Dat we ons  t gevaar ontrukken.
+De Hemel doe  t ontwerp der Vrijheidsmin gelukken.
+
+
+                          Continue
+
+[p. 22]
+
+                      TWEEDE BEDRIJF.
+
+     Zo ras Mevrouw Treslong, Jacob en Margaretha Hooft
+    vertrokken zijn, verdubbelt het krijgsmuzijk, en van
+    tijd tot tijd ontscheept zich eenig krijgsvolk. Dit
+        schikt zich eenigermaate in orde; en terwijl
+            van der Marck in eenen boot nadert,
+                           zingt
+
+                    EEN DER WATERGEUZEN.
+
+        (320) Daar komt Lumey, het Hoofd der Waalen.
+                            Zijn stoute blik,
+                            Des Dwinglands schrik,
+                        Schiet bliksemstraalen.
+            Hij zwoer, toen Egmonds Graaflijk bloed
+(325) Rookte op het hofschavot: ,, k Zal Spanjes euvelmoed,
+            Het plengen van dat dierbaar bloed,
+Met eene zee van bloed en traanen doen betaalen .
+
+                    EENIGE WATERGEUZEN.
+
+                Hij zwoer, enz.
+
+          Onder het landen van Willem van Treslong.
+[p. 23]
+                    EEN DER WATERGEUZEN.
+
+        Daar komt Treslong, van eedlen bloede.
+                    (330) Hij heft het oog
+                    Met vreugd om hoog,
+                En, blij te moede,
+        Vergeet hij  s Broeders wreeden dood.
+Aanschouwt de vest, waarin hij  t eerste licht genoot;
+        (335) Doch hij herdenkt zijns Broeders dood,
+Zijn vreugdeblok verdwijnt; zijn aanschijn gloeit van woede.
+
+                    EENIGE WATERGEUZEN.
+
+        Vergeet hij, enz.
+
+        Onder het landen van Jacob Simonszoon de Ryk.
+
+                    EEN DER WATERGEUZEN.
+
+        Daar komt de Ryk, juicht, Amstellaren!
+                            Die op de vloot
+                            (340) Dien stadsgenoot
+                        Volgt door de baaren.
+        Hij is de Held van Amsterdam
+Daar hij in steê der pen de kling in handen nam,
+        Zal hij den roem van Amsterdam
+(345) Tot  s aardrijks jongsten dag voor ondergang bewaaren.
+[p. 24]
+                    EENIGE WATERGEUZEN.
+
+        Hij is de held, enz.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      EERSTE TOONEEL.
+
+          TRESLONG, VAN DER MARCK, DE RYK, eenige
+       Hoofden der Vloot, en een aantal Watergeuzen,
+            als Soldaaten en Matroozen gekleed.
+
+
+                          VAN DER MARCK.
+
+Zijt welkom aan deez kust, ô Hoofden onzer Vloot!
+Zijt welkom, Heldenvolk, in deugd en rampspoed groot.
+Tot aan den bedelzak, tot aan het graf getrouwen!
+(350) Naa met een zwakke vloot de woeste zee te bouwen,
+Verstooten van heel de aard, betreên wij  s vijands strand,
+Voorheen uw eigendom, uw erf, uw vaderland;
+Thans  t graf van moed en deugd, het moordschavot der Vrijheid...
+    En egter... Vriendenschaar! een heldre lach van blijheid,
+(355) Van lang ontwende vreugd, blinkt op uw woest gelaat.
+ k Voel zelf, hoe fel het hart mij in den boezem slaat,
+ k Voel zelf, hoe vreugde en toorn mijn aangezigt doen gloeijen,
+En met een vreemden traan mijn ruwen baard besproeijen.
+Jaa,  k zwoer met dieren eed, toen Brussels hofschavot
+(360) Nog rookte van het bloed, gevloeid uit Egmonds strot,
+[p. 25]
+Dat ik uit wrok en rouw mijn baard zou laaten wassen,
+Tot dat ik Egmonds bloed mogt wreeken in de plassen
+Van  t Castiljaansche bloed: dat moord-, dat roofziek volk.
+Vonkt Alva s oog van vreugd, wanneer een dikke wolk
+(365) Van rook, uit martelvuur en ketterbloed gebooren,
+Zijn koopren aanschijn dekt, klinkt hem de maar in de ooren,
+Hoe Voorne ligt verwoest, de Brielle in puin en gloed,
+Dan sidder hij van schrik, en stamp met zijnen voet.
+ t Stampvoeten van zijn spijt zal Phlips in de ooren dreunen.
+(370) Die leer zich dan den wrok van  t Neêrlandsch volk bekreunen,
+Wiens vluchtend overschot, door eed le wraak verhit,
+Zijn erf vernielen zal, nu  t een tiran bezit.
+De Briel zal deezen nacht onze eerste wraak gevoelen,
+Daar we onzen heeten dorst in  t bloed der Spanjaards koelen.
+(375) Zo krijg der Geuzen bede op  s Konings boezem klem.
+
+                              TRESLONG.
+
+De schipper keert te rug. Twee Burgers volgen hem.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 26]
+
+                      TWEEDE TOONEEL.
+
+           TRESLONG, VAN DER MARCK, J.P. COPPEL-
+         STOK, DE RYK, twee Burgers, de Hoofden der
+                  Vloot en de Watergeuzen.
+
+                          J.P. COPPELSTOK.
+
+Mijn Heeren!  k Heb den Raad de vreemde maar doen hooren,
+En zogt hun tot verdrag op  t ernstigst aan te spooren,
+Maar elk verbleekt van schrik. De gantsche Raad der Stad
+(380) Ziet spraakeloos mij aan. Niet een van allen vat,
+Naa mijn bericht, het woord. Soms scheenen zich hun lippen
+Wel te oopnen, maar met één het woord hun weêr te ontglippen.
+De Burgers, voor de deur der Raadzaal t zaam vergaêrd,
+Begeeren, dat de Raad zich kort en rond verklaart,
+(385) Of hij den Watergeus twee burgers af zal zenden.
+Men stuift ter raadzaal in. De Geus ontscheept zijn benden
+Reeds bij de Noorderpoort, zo spreekt de Burgerij,
+Waartoe nu dit verwijl? Straks wordt aan elke zij 
+De veege stad bestormd: dan zal men vruchtloos bidden.
+(390) Bedaar, dus spreekend rees een grijsaart op, in  t midden
+Van d achtbren kring; Bedaar, hoon door geen onbescheid
+Een Raad, die zelf, verschrikt, in  t hart uw lot beschreit.
+[p. 27]
+Wij duchten, en met grond, den Geuzen iets te ontzeggen.
+De taal van vuur en zwaard valt moeilijk te weêrleggen.
+(395) Doch zo den Hertog ons hiernaa ten hove daagt,
+Ons eenmaal rekenschap der onderhand ling vraagt;
+Op wien zal dan de schuld, de straf toch nederdaalen?
+Waar? dan op  t hoofd des Raads. Vergeef ons dan dit draalen.
+Welaan! Gij, die ons dwingt, u zal de keuze staan.
+(400) Welk paar, uit deeze schaar van Burgers, biedt zich aan,
+Om tot behoud der stad in een gesprek te treeden
+Met van der Marck? Zijn naam jaagt huivring door uw leden.
+Biedt nog geen paar zich aan. Hoe? zwijgt gij, Burgerschaar?
+Druipt gij lafhartig door? Is dan geen enkel paar
+(405) Uit deezen gantschen hoop zo kloek van moed te vinden?
+Durft niemand uit deez stoet dien togt zich onderwinden?
+Wat dringt ge op ons dan aan. Toen riep ik luidkeels uit:
+Toeft, Burgers! Burgers! Toeft.  t Is tijd, dat gij besluit.
+Of  k moet den Brielschen wal een deerlijk lot voorspellen.
+(410)  k Bied mij vrijwillig aan, de Burgers te verzellen,
+Met wie de Watergeus zich ligt verdraagen wil.
+Nog houdt hij zich aan strand, nog houdt zijn heir zich stil,
+Maar tergt gij hem verdwaasd door een bespottend zwijgen,
+Dan zal zijn woede en wraak hoe langs hoe hooger stijgen.
+[p. 28]
+(415) Toen booden deeze twee, den Geuzen toegedaan,
+Maar angstig voor gevaar, zich eind lijk aarslend aan.
+
+                      VAN DER MARCK.
+
+Zo beeft de Lafheid steeds aan kist en kas geklonken,
+Waarin haar schat verroest, door weelde en voorspoed dronken.
+Ons, arm als bedelaars, geslingerd door ellend,
+(420) In jammeren gehard, is  t beeven onbekend.
+Lafhartig Bastaardkroost! durft gij deez schaar aanschouwen.
+Versmelt gij niet van angst. Slaat de oogen op de houwen
+Der zwaarden, afgestuit op kruin en bekkeneel.
+Gij slaat ze siddrend neêr. Verschrikt u dat tafreel?
+(425) Dit  s de uitgezogte bloem der stoute Watergeuzen.
+Trekt na de Noorderpoort, daar vindt ge  er zonder neuzen,
+Jaa die de lippen zelfs ten mond zijn afgesneên.
+Mij dunkt  er rilt een koorts door uwe ontstelde leên.
+Zulk een afzigtig volk rukte om deez wallen zamen.
+(430) En verre dat wij ons die wreede wonden schaamen,
+Wij achten ze onzen roem, aanschouwend met vermaak,
+Dat erfdeel onzer trouw, die prikkels onzer wraak;
+Doch  k heb reeds lang genoeg die vrouwen toegesproken.
+ k Voel bij dit paar mijn bloed in hart en aedren kooken.
+(435) Gij, schipper, zijt een man. Brengt gij deez eisch den Raad,
+[p. 29]
+En Brielles Burgerij in haar benaauwden staat.
+Lumey eischt, uit den naam van Willem van Oranje,
+Stadhouder van  s Lands Graaf, den Rijksmonarch van Spanje,
+Den Brielle op. Zeg den Raad, zeg alle Burgers aan,
+(440) Dat hun onze arm en moed van kluisters zal ontslaan.
+Hun van geweetensdwang en van geweldnaarijen
+Van Alva s ijz ren juk en Tienden Penning vrijen.
+Brengt gij ten spoedigste ons op deezen eisch bericht.
+
+                            J.P. COPPELSTOK.
+
+Schoon uw gestrenge toon tot zwijgen mij verpligt,
+(445) Vergun mij eenen stap tot Brielles heil te waagen;
+Vergunt mij, Heldenstoet! vier uuren tijds te vraagen,
+Opdat de Raad en  t Volk zich op dien eisch bedenk .
+
+                          VAN DER MARCK.
+
+Neen! Alva schenkt geen tijd, wanneer zijn norsche wenk
+Beveelt het dierbaar hoofd eens edelmans te vellen.
+
+                                TRESLONG.
+
+(450) Wenscht ge u aan dien barbaar, mijn Vriend! gelijk te stellen,
+Die met een staalen hart, vervreemd van menschlijkheid,
+Van helsche vreugde lacht, als wees of weduw schreit.
+Lumey! gij zijt wel stout en alle vrees te boven,
+Maar Alva s norsche toon...
+[p. 30]
+
+                          VAN DER MARCK.
+
+                                            Gij spreekt de taal der hoven,
+(455) Ik die van  t oorlogsveld.
+
+                              TRESLONG.
+
+                                                 k Spreek als een eerlijk man
+En zonder vleijerij. Lumey is geen tiran.
+En  k wil niet, dat die held, ons opperhoofd, dat schijne.
+Komt, vrienden, toomt zijn drift. Zijne eer is ook de mijne,
+Is uwe, is aller eer.  Verbidt met mij dien held.
+(460) Alleen drie uuren tijds zij de aanval uitgesteld,
+Dat in dit tijdperk Raad en Volk zich wijs beraaden.
+
+                                DE RYK.
+
+Spitsbroeders! Niet alleen bebloede heldendaaden
+Bevestigen den roem, doch ook die eedle moed,
+Die voor geen rampen beeft, maar gruwt van burgerbloed.
+(465) Bij weet, Lumey!  k Heb nooit ten hove school gelegen.
+
+                          VAN DER MARCK.
+
+De zagte koopmans aart bestuurt uw hart en degen.
+
+                    Tegen J.P. Coppelstok.
+
+Twee uuren tijds, niets meer, zij aan de Stad vergund;
+Dit  s  t laatste gunstbewijs, waarop gij hoopen kunt.
+En weigert men bij tijds de vesting op te geeven,
+[p. 31]
+(470) Dan zal geen Briellenaar den morgenstond beleeven.
+
+            TRESLONG, tegen J.P. Coppelstok.
+
+Bezorgdet gij den brief?
+
+                            J.P. COPPELSTOK.
+
+                                      Mijn Heer! uw lettergroet
+Gaf ik uw moeder zelfs, mij bij de poort ontmoet.
+
+                              TRESLONG.
+
+Hoe, bij de poort?
+
+                            J.P. COPPELSTOK.
+
+                            O jaa, veelligt door schrik gedreeven...
+
+                              TRESLONG.
+
+    Gaa, smeek haar uit mijn naam te zorgen voor haar leeven.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                       DERDE TOONEEL.
+
+              TRESLONG, VAN DER MARCK, DE RYK,
+            De Hoofden der Vloot en Watergeuzen.
+
+                      VAN DER MARCK.
+
+(475) Zo moet men  t basterdkroost, dat Alva s kluisters kuscht,
+Waarin de laatste vonk van eer is uitgebluscht,
+Doen sidd ren voor zijn stem.  Treslong! wat zal  t ons baaten,
+[p. 32]
+Al overheeren wij de nu verdrukte Staaten,
+(Dat fraai ontwerp, door u stijfzinnig aangekleefd)
+(480) Als ons de Landzaat-zelf verslaafd en laf weêrstreeft;
+Dit volk, laat mijne taal uw Hollandsch hart niet belgen,
+Is van zijn stam ontaart. Laat ons een volk verdelgen,
+Dat ketenen verdient, die  t zo geduldig draagt.
+U, Braaven, uit het land gebannen of verjaagd,
+(485) U komt het erfdeel toe van uw beroemde Vaedren,
+U vliet hun vrijheidsmin in  t edel bloed door de aedren.
+Ontrukt dat basterdzaat, dat op die afkomst roemt,
+Zich met denzelfden naam, als gij, mijn vrienden, noemt,
+De schatten, die geen Recht, maar  t Lot hun heeft gegeeven.
+(490) Ontrukt uit deernis hun een slaafsch, een schandlijk leeven.
+
+                              TRESLONG.
+
+Dit Hollandsch hart, Lumey, heeft uwe drift verschoond,
+Terwijl ge een edel volk in geestvervoering hoont;
+Doch daar gij  t doemt ten dood, zou  t lafheid zijn te zwijgen.
+Ik eisch dat gij uw oor ook na mijn taal zult nijgen.
+(495) Leer kennen, wie zij zijn, wier grond uw voet betreedt.
+Een zagt, een deftig volk, getrouw aan woord en eed,
+Dat, bij de Koopmanschap en Zeevaart opgetoogen,
+Die beide als bronnen eert van  s Volks en  s Lands vermogen.
+[p. 33]
+Hier is nog  t Huwelijksbed een heiligdom geacht,
+(500) Hier schuwt  s Volks zuinigheid den Britsch en Franschen pracht,
+En wordt die zuinigheid, zo vaak ons bits verweeten,
+Als gierigheid gevloekt, door  t naakroost ooit vergeeten,
+Al redde de Almagt-zelv dit volk uit Spanjes dwang,
+Draa helt dan Volk en Land ten wissen ondergang.
+(505) Dit Land, als uit den schoot der baaren opgedolven,
+Wordt door een gouden dijk beschut voor  t woên der golven.
+Jaa, schoon dit volk niet zucht door  t juk der dwinglandij,
+Jaar in jaar uit draagt elk om strijd zijn schatten bij
+Tot algemeen behoud. Die last wordt stil gedraagen,
+(510) Een ontevreden geest moge in een hoek soms klaagen,
+De blijde naarstigheid en zorg voor  t huisgezin
+Haalt zelfs een dubblen last in weinig maanden in.
+Daarbij: het taai geduld der Hollandsche Ingezeetnen
+Laat zich, in lafheids schijn, door stoute Heeren keetnen.
+(515) Maar schoon dit Volk de drift der Franschen niet bezit.
+Noch de onstuimigheid en woestheid van den Brit,
+Wee hem! die, dwaas beraên, door onbedachte stappen
+De rechten van dat Volk aanhoudend durft vertrappen;
+Want, schoon  t voorzigtig zwijgt, terwijl  t op wraake peinst,
+(520) En onder  t kalm gelaat den felsten wrok ontveinst,
+[p. 34]
+ Er gloeit in  t hart een vuur, dat eens zich zal verheffen,
+En als een blikzemstraal den kop des dwinglands treffen.
+Ziedaar het Volk, mijn Heer, waarop gij grimmig staart,
+Spreek, is  t nog in uw oog een schandvlek deezer aard.
+(525) Beoordeel, edel Held! mijn broeders toch rechtvaardig.
+De vrijheid van dit Volk is onze waepnen waardig.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIERDE TOONEEL.
+
+           TRESLONG, VAN DER MARCK, EEN MATROOS,
+              DE RYK, De Hoofden der Vloot en
+                        Watergeuzen.
+
+                    DE MATROOS, tegen van der Marck.
+Mijn Heer! Uit Roobols naam, die voor de Noorderpoort
+Met mijne makkers staat, en ons reeds  t krijgsmans woord,
+Naar uw bevelen, gaf, kom ik een tijding brengen,
+(530) Die u ontzetten zal. Reeds moet de Geus gehengen,
+Dat hem de Briellenaar de poort als vijand sluit.
+Roobol bedwong ons naauw. Wij brandden reeds na buit,
+En vreesden, dat een deel de vesting zou ontkomen.
+Draa wordt de groote mast, ten stormram meêgenomen,
+(535) Door  t bootsvolk opgerecht. Ik klauter fluks om hoog
+[p. 35]
+En zittende op den top, slaa ik  t nieuwsgierig oog
+Alom in Brielles wal. Van daar moest ik aanschouwen
+ t Gewemel en  t gewoel van mannen en van vrouwen.
+Men pakt, men sleept, men draagt, jaa aan den zuiderkant
+(540) Moest zelfs mijn oog  er zien, die, vluchtend over  t land,
+Met zak en pak belaên, beangst de vest ontweeken.
+Naauw was mijn scherpziend oog die snoode vlucht gebleeken,
+Of  k riep: daar vluchten zij, belaên met onze prooi.
+Nog sprak ik, en mijn maats verzaemlen stroo en hooi
+(545) En mutzerds voor de poort. Nu moet de Brielle in vlammen,
+Zo schreeuwt men, mannen op, welaan, zal t zaam aan  t rammen
+En bonzen op de poort; waar is nu zaag en bijl,
+Waar moker en houweel? Ik zakte mid lerwijl
+Ten mast af, daar Roobol het driftigst krijgsvolk stilde,
+(550) Dat knarsetandde en vloekte en ijllings stormen wilde.
+Gaa, voerde hij mij toe, na d Admiraal der vloot,
+Meld wat gij zaagt en hoorde, en hoe elk togtgenoot
+Met blaakend ongeduld de leus wacht van zijn handen,
+Om zonder tijdverlies de vesting aan te randen.
+
+  VAN DER MARCK geeft een wenk aan den Matroos,
+    waarop deeze een weinig agter uit treedt, en zegt
+                    tegen de Hoofden der vloot.
+[p. 36]
+(555) Ziet daar ons fraai verwijl. Zo dient zich  t Spaansch gebroed
+Van onze onnozelheid. Ons eigen volk, verwoed
+Om  t missen van zijn buit, zal straks zich onswaards wenden.
+Hun wraak zal  t loon dan zijn der uitgestaane ellenden.
+Waartoe nog meer getoefd.  Ik beef van ongeduld.
+
+                              TRESLONG.
+
+(560) De tijd van  t Krijgsbestand, mijn Heer! is niet vervuld.
+
+                          VAN DER MARCK.
+
+Waartoe aan de eerloosheid  t gegeeven woord te houden.
+De snoodaarts, die  t verderf van Neêrlands welvaart brouwden,
+Gebruiken deezen tijd, voor onze wraak beducht,
+En redden  t schuldig hoofd door een verhaaste vlucht.
+(565) Weldraa schenkt de avondstond den stoutsten in de wallen
+Een gunstig tijdsgewricht, om de onzen aan te vallen.
+
+                                  DE RYK.
+
+Ons baart ook de avond nut bij  t staaven van ons woord.
+
+                          VAN DER MARCK.
+
+Heeft u, gelijk Treslong, het dwaas begrip bekoord,
+Als waren we aan een rot van snoodaarts trouwe schuldig.
+(570) Weerhoud dan  t woedend heir en mij, die ongeduldig
+Het oogenblik verbeid, dat ik met eigen hand
+Castiljes gruw len wreek door plondring, moord en brand.
+[p. 37]
+Maar zagt...  k Zal nog een poos om Heddings wil verbeiden.
+Ik zie dien ouden held door Duivenvoorde leiden.
+(575) De grijze ervaarenis des Zwollenaars besliss ,
+Of thans  t verwijl des strijds geen laakb re lafheid is.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIJFDE TOONEEL.
+
+           TRESLONG, VAN DER MARCK, DE RYK, HED-
+               DING, JAN VAN DUIVENVOORDE. De
+       Hoofden der Vloot, De Matroos en Watergeuzen.
+
+                                  HEDDING.
+ k Stond duslang, heet van wraak, vergeefsch op  t dek te tuuren,
+Aan Duivenvoordes zijde, of uit de Brielsche muuren
+De rook van  t wreekend vuur der Geuzen opwaards klom,
+(580) Maar  k wachtte vruchteloos. Mijn beevende ouderdom
+Kon, al dit marren moede, aan  t boord niet langer toeven.
+Ik moet mijn jongste kragt dit roemrijk uur beproeven,
+Voerde ik den jongling toe, op  t laffe basterdzaat,
+Dat hunner vaedren asch thans ongewroken laat.
+(585)  k Liet langs den valreep mij, gelijk in vroeger tijden,
+Eer  t loot van Alva s wrok mij trof, ter nederglijden.
+[p. 38]
+Maar vallende in den boot, gevoelde ik de oude smart,
+Die ieder oogenblik mijn Overijsselsch hart
+Tot felle wraake noopt, en met versterkte kragten
+(590) De heugenis vernieuwt van d aakligst aller nachten,
+Naa d ijzelijken dag, toen Lodewijk bezweek,
+Die naauwlijks Alva s woede aan d Eemerboord ontweek.
+Hoe lagen we op dat veld, door kogels en door zwaarden
+Gesneuveld of gewond, door  t trapplen der paarden
+(595) Vertreeden of verlamd. Hoe greep een Castiljaan
+(Ik voel den wreedaart nog) mijn pijnlijk lichaam aan,
+Schudde alles uit, en sprak: kon ik uw huid verkoopen,
+ k Zou die u leevendig ten geuzenromp afstroopen.
+ k Bid om den dood  hij lacht, daar hij mij van zich stoot,
+(600) En zegt: Sterf hier door dorst en pijn den wreedsten dood.
+Moet ik u op mijn borst de diepe wonden wijzen,
+Zal  t springtij uwer wraak in uwe boezems rijzen.
+Zaagt ge ooit mijn kreupelheid met traanen in het oog
+En heft in Brielle één huis den gevel nog omhoog.
+(605) Hebt ge ooit mijn smart gezien, of  t gaapen mijner wonden,
+En heeft het vuur der wraak de Stad nog niet verslonden.
+Leeft nog één Briellenaar, die Phlips, die Alva mint.
+Gij zwijgt.  Slaat van der Marck mijn woorden in den wind.
+[p. 39]
+                          VAN DER MARCK.
+
+Neen! moedig Gijsaart, neen! Uw grootheid boeit mijn lippen.
+(610) Hoor  t hart van elken Geus een heldenzucht ontglippen.
+Alleen Treslong, mijn Heer! met zijnen Vriend de Ryk,
+Is u, is mij, is  t heir der Geuzen ongelijk.
+Zij aarzlen jaaren smarts op Spanjes hoofd te wreeken.
+
+                                  DE RYK.
+
+Wat aarslen, doet ons recht, ons woord van eer te breeken,
+(615) Dat dierbaar eigendom van ieder braaf zoldaat.
+Twee uuren schonken wij den vijand tot beraad;
+Schoon ik Castilje vloek en trouw zwoer aan Oranje,
+Ik wil zelfs billijk zijn in onze wraak op Spanje.
+Verbeeld u, aan ons hoofd, den held uit Nassaus bloed,
+(620) Die zelfs, in  t heetst gevaar, bedaardheid paart met moed;
+Zoudt gij uw woest besluit dien Krijgsman durven melden?
+De schennis van verdrag past snoodaarts, maar geen helden.
+En roept ge op Vrijheidsmin, op zucht voor  t Vaderland.
+Terwijl uw boezem hijgt na plond ring, moord en brand:
+(625) En daar ge, om teugelloos uw wraakzucht bot te vieren,
+U noch door menschlijkheid noch reden laat bestieren.
+Ik eisch, uit Nassaus naam, dat gij de Stad beschermt
+Voor plond ring, die altijd den burger meest verarmt;
+[p. 40]
+Dat gij d onweerb ren stoet zelfs aan gehaate altaaren,
+(630) Hoe grouwlijk in uw oog, ter onzer eer, zult spaaren,
+En dat gij Brielles vest voor  t woên der vlam behoedt.
+
+                              TRESLONG.
+
+Zou  k u ontveizen, u verbergen, eedle Stoet!
+Die  t graf der heldeneer voor ketens hebt verkooren,
+Die aan de dwinglandij een erfhaat hebt gezwooren,
+(635) Welk doel mijn moedig hart ten deezen stond beoogt,
+Dat, zo  t gelukken mag, uw roem verbreidt, verhoogt.
+Hoort mijn ontwerp en beeft, kan u iets groots doen beeven.
+ k Acht boven plondering en roof mij zelv verheven.
+ k Doem schennis van verbond, en gruw van Brielles brand;
+(640) Maar wensch dit dierbaar oord voor ons ten Vaderland;  
+Dat we elken Vrijheidsvriend aan ons belang verpligten,
+Door voor de Vrijheid hier een hoog altaar te stichten.
+Verheert de Brielsche vest door moed en dapperheid,
+En plant daar Vrijheidsspeer door eendragt en beleid.
+(645) Zo zie de trotsche Phlips een Stad der Nederlanden
+Aan  t ijz ren juk ontrukt, en in der Geuzen handen.
+
+                          VAN DER MARCK.
+
+ k Erken,  t ontwerp is groot.
+[p. 41]
+                              HEDDING.
+
+                                            Lumey, de tijd vervliegt.
+Gij wordt door kunstnaarij in sluimering gewiegd;
+Kom hier gij Duivenvoorde, uit Hollandsch bloed gesprooten,
+(650) Schoor gij mijn ouderdom. Wijs me onze togtgenooten,
+Die aan de Noorderpoort met Roobol staan gereed.
+ k Zal op deez grijze kruin de groeven van mijn leed.
+Vertoonen aan die Schaar.
+
+                              TRESLONG.
+
+                                        ô Hedding!  t Past der grijsheid
+Het hevig vuur der jeugd te temp ren door haar wijsheid...
+(655) En gij, gij blaast het aan.
+
+                              HEDDING.
+
+                                                Gaa, laffe Koningsslaaf!
+Kruip voor den ijzren voet, kusch  t dwangjuk van den Graaf.
+Dat dwangjuk zal u meêr dan deeze wapens passen.
+Niet voor het vuur of staal in  t krijgsveld opgewassen,
+Zie  k hoe gij hunkert na het Spaansche hofsalet.
+(660) Blanket uw aanschijn ook, gij, die uw taal blanket.  
+Ik strompelvoet vast voort.  k Wil sterven of verwinnen.
+Mijn hart rukt reeds den Briel met stouter helden binnen,
+[p. 42]
+Die wenschen zich, met mij, eer  t daglicht wederkeert,
+Te warmen bij den gloed, waarin de Briel verteert.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                       ZESDE TOONEEL.
+
+            TRESLONG, VAN DER MARCK, DE RYK, De
+             Hoofden der Vloot en Watergeuzen.
+
+                              VAN DER MARCK.
+
+(665) Wij blijven en hij gaat.
+
+                      TRESLONG, tegen de Ryk.
+
+                                                  Naa onze deugd te hoonen.  
+ k Wil in den ouden wrok des grijsaarts veel verschoonen,
+Maar zoveel onbescheids valt smartlijk voor een man,
+Die proeve op proeve gaf, wat hij verdraagen kan,
+Om buiten  s Dwinglands magt een vrijen aêm te haalen.
+(670) Zag ik mijn broeder niet in  t graf der heerschzucht daalen;
+Heb ik met minder trouw de wapenen getorscht,
+ k Draag, niet min held dan hij, ook groeven in deez borst.
+Zijn trotsch, zijn onbescheid dwingt mij mijzelf te roemen.
+
+                          VAN DER MARCK.
+
+Ik wil de heftigheid des grijsaarts niet verbloemen,
+(675) Doch  k staa met d ouden held om uw gedrag verzet.
+[p. 43]
+Moet niet de Dwinglandij met haar gebroed verplet;
+Besluit dan, nevens ons, de zwakke Brielsche wallen
+Met onze legermagt verrassend aan te vallen.
+Doorluchtig Heldenpaar! Verkropt gij Heddings taal?
+
+                                  DE RYK.
+
+(680) Dit zij op deezen dag onze eerste zegepraal.
+De Castiljaan zij wreed en bandloos onrechtvaardig,
+De Geus blijv te aller uur zijn eige grootheid waardig.
+Hij houde  t krijgsmanswoord...
+
+                          VAN DER MARCK.
+
+                                                    Zelfs aan een beulenstoet,
+Wiens handen zijn besmeurd en laauw door burgerbloed;
+(685) Wiens vondrijk brein zich scherpt op helsche gruweldaaden;
+Wiens kerkleer vrijheid schenkt tot moorden en verraaden.
+Geen grootheid kan mijne oog in deeze uwe aarsling zien.
+Wij schenken snoodaarts tijd om onze wraak te ontvliên,
+Opdat ze in laetren tijd misschien in andre streeken
+(690) Zich met een dubb le woede op onze dwaasheid wreeken.
+Barbaaren, als zij zijn, verdienen geen genaê.
+Ons twisten spilt slechts tijd; wie blijven wil, ik gaa.
+          Er wordt een krijgsrumoer gehoord.
+Dan welk een krijgsrumoer.  k Hoor tromm len en trompetten.
+[p. 44]
+Is  t nu nog langer tijd op  t krijgsmanswoord te letten.
+
+                              TRESLONG.
+
+(695) Men schendt het te onzer schand.
+
+                          VAN DER MARCK.
+
+                                                            Pleit voor des
+Spanjaards zaak.
+Mijn vrienden! volgt mijn spoor, het spoor van eer en wraak.
+
+    Van der Marck vertrekt met het grootste gedeelte der
+                                    Manschap.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      ZEVENDE TOONEEL.
+
+           TRESLONG, DE RYK, eenige Watergeuzen.
+
+                        TRESLONG, tegen de overgebleevenen.
+
+Blijf hier, mijn vriendenschaar! Wacht, tot wij u geleiden,
+Waar heldenmoed en eer uw zege of dood verbeiden.
+Slaa hier de tenten neêr.
+
+          Een gedeelte der Manschap vertrekt.
+
+                                  DE RYK.
+
+                                       Treslong, wie legt deez stond
+(700) Der teugellooze wraak een breidel in den mond?
+ k Zie beevend een verschiet van duizend ijslijkheden.
+Hoe wast het krijgsgeschreeuw.
+[p. 45]
+                              TRESLONG.
+
+                                                Verhaasten we onze schreden;
+De stem der menschlijkheid gilt door het krijgsgeluid.
+Ligt dat bezadigde ernst de dolle woede stuit.
+
+                Tegen een der Manschap.
+
+(705) Draag voor deez manschap zorg. Deez post wordt u bevolen.
+
+              Tegen de Ryk, onder  t heen gaan.
+
+Bereikt de wraak haar doel, draa ligt de Briel in koolen.
+
+                                  DE RYK.
+
+Voldoen wij dan voor  t minst, in dit verschriklijk uur,
+Bij  t vallen van de Stad aan de eischen der Natuur.
+
+
+                          Continue
+
+[p. 46]
+
+                       DERDE BEDRIJF.
+
+         De Manschap in het Zevende Tooneel van het
+       Tweede Bedrijf, op bevel van Treslong vertrok-
+          ken, terug gekomen zijnde, richt met de
+       overige eenige Tenten op, terwijl het krijgs-
+          muzijk en rumoer aanhoudt, en onder het
+           opslaan der Tenten wordt het volgende
+                         gezongen:
+
+                EEN WATERGEUS.
+
+    Vaardig, vaardig  de zeilen uit den boot.
+                        (710) Spreidt uit,
+                        Spreidt uit,
+            Spreidt uit de zeilen van de vloot;
+                    Zo planten wij,
+                    Dan eindlijk blij,
+            (715) Op Voorne s vruchtb re grond
+        De tenten voor den Watergeus.
+                    Komt, juichen wij
+            Onder  t werk met hart en mond
+[p. 47]
+            AL DE MANSCHAP.
+
+                Komt, juichen wij!
+                    (720) Dood of Vrij
+                Is onze keus
+    De keus van elken Watergeus.
+
+                EEN WATERGEUS.
+
+    Vaardig, vaardig, rep ieder Geus zijn hand.
+                    Slaat vast,
+                    (725) Slaat vast,
+        Slaat vast de pennen in het zand,
+                Als teldet ge op
+                Een Spaansche kop,
+            Met den kolf van  t musket,
+        (730) De rampen van den Watergeus.
+                    Komt juichen wij!
+            Op het klinken der trompet
+
+            AL DE MANSCHAP.
+
+                Komt, juichen wij!
+                    Dood of Vrij
+                (735) Is onze keus,
+        De keus van elken Watergeus.
+[p. 48]
+                EEN WATERGEUS.
+
+    Vaardig, vaardig span elk matroos een koord.
+                    Trekt aan,
+                    Trekt aan,
+            (740) Trekt aan de koorden, zo  t behoort,
+                Verbeeldt u, als
+                Een Spaansche hals
+            Daarin zat vastgekneld,
+        Hoe lachte dan de Watergeus.
+                (745) Komt, juichen wij,
+    Daar de tenten staan op  t veld.
+
+            AL DE MANSCHAP.
+
+                Komt, juichen wij!
+                    Dood of Vrij
+                Is onze keus,
+        (750) De keus van elken Watergeus.
+
+                EEN WATERGEUS.
+
+        Vaardig, vaardig is ieder tent gezet.
+                    Waarom,
+                    Waarom,
+            Waarom het stormen ons belet.
+                (755) Dit baart verdriet,
+[p. 49]
+                En  t hapert niet
+            Aan kort beraad en moed.
+        Wat bindt dan toch den Watergeus?
+                Komt, juichen wij!
+        (760) Komt, juichend na den Briel gespoed.
+
+            AL DE MANSCHAP.
+
+                Komt, juichen wij!
+                    Dood of vrij
+                Is onze keus,
+        De keus van elken Watergeus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      EERSTE TOONEEL.
+
+       TRESLONG, in eene treurige houding opkomende,
+      op het zelfde oogenblik, als het Volk gereed is,
+                     om te vertrekken.
+
+(765) Houdt stand. Waarheen? Waarheen? Gehoorzaamt  s Krijgsmanswetten
+Gij zult u met geen roof of burgermoord besmetten,
+Zolang ik aan uw spits als legerhoofd zal staan.
+
+          Hij zet zich in de voorste tent.
+
+Brengt  t schrijfgereedschap hier. Voer toorts en lamplicht aan.
+Hoe moeilijk valt het mij den bangen angst te smooren.
+[p. 50]
+(770) In  t kinderlijk gemoed uit oudermin gebooren.
+Mijn moeder! niet één woord schrijft ge uw beminden Zoon.
+Misschien zijt gij de Stad, ondanks mijn raad, ontvloôn.
+Waarom geen enkel woord ten antwoord mij geschreven...
+Maar toen hadt reeds de schrik ter veste u uitgedreeven.
+(775) Helaas! Indien uw Zoon, die voor  s Lands rechten strijdt,
+Den vijand wel versloeg; maar ach! ten zelfden tijd,
+Daar hij een berg beklimt van doode mans en vrouwen,
+Uw zielloos overschot moest op dien berg aanschouwen.
+ô Neen! Hoe hoog mijn zucht voor Neêrlands Vrijheid rijz ,
+(780) Ik stierf op dat gezigt. Dat woestheid mij verwijz .
+Om deeze tederheid.  k Zal haar verwijt niet vreezen.
+Is  t roem een held, nog meêr is  t roem een mensch te weezen.
+    Naadat  er licht en schrijfgereedschap is aangebragt.
+Aan de afspraak met de Ryk voldoe mijn hand terstond.
+Zo wordt de Vrijheidsspeer bevestigd in deez grond.
+    Hij vat de pen op en maakt zijn papieren gereed.
+(785) Wat heil! Dat Buis, die vriend en raadsman van Oranje,
+Voorspellende ons den trek, gespeeld door  t woedend Spanje,
+Ons zijn verblijf, zo korts, bij brieven heeft gemeld.
+ô Buis! Geheime vriend van Neêrlands kloeksten Held,
+Die bij het felst verwijt uw drift weet in te binden,
+[p. 51]
+(790) En door uw schranderheid des vijands oog te blinden,
+Verstaa door mij  t bedrijf van Neêrlands Heldenzaat.
+Ligt luistert zelfs Lumey, vereert ge ons met uw raad.
+                Naa eenige regels geschreeven te hebben.
+Deez regels zijn genoeg om hem  t ontwerp te ontdekken,
+Dat schrander staatsbeleid en stoutheid moet voltrekken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      TWEEDE TOONEEL.
+
+           TRESLONG, DE RYK, eenige Watergeuzen.
+
+                              TRESLONG.
+
+(795) Gij keert reeds, dierbaar Vriend! is de aanslag ons mislukt?
+
+                                  DE RYK.
+
+ô Neen! Reeds is Lumey ter Noordpoort ingerukt.
+Naadat gij op u naamt aan raadsheer Buis te schrijven.
+Om dus door hooger magt ons grootsch ontwerp te stijven,
+Vertrok ik na de poort. De woeste bende vloog
+(800) Mij woedende vooruit. Een rookwolk steeg om hoog.
+Daar rijs- en mutzaardvlam beneden woelde en blaakte.
+Ik hoorde, hoe de poort door  t fel rammeijen kraakte,
+Doch somtijds hoorde ik niets, dan  t juichend volksgeschreeuw.
+Elk bootsman, elk zoldaat, scheen een vergramde Leeuw,
+[p. 52]
+(805) Die al wat hem weerstaat meêdoogloos wil verscheuren.
+De stormram breekt weldraa de halfverbrande deuren;
+En naauw ontdekt de geus een oopning in de poort,
+Of één vliegt van den ram, door eerzucht aangespoord:
+En  t pas gemaakte log kloekmoedig doorgekroopen,
+(810) Rukt hij aan de andre zij de deuren juichend open.
+Toen stoof de woeste schaar door  t blaakrend mutzaardvuur,
+Met van der Marck aan  t hoofd, in Brielles veegen muur.
+ k Zag Entes met zijn rot zich na de zuidpoort wenden.
+ k Bespeurde een helsche woede in onze legerbenden.
+(815) Ik bad hun in den naam van billijkheid en pligt
+Genade voor de Stad... dan met een woest gezigt
+Begraauwt me een norsche Waal :  ,,Wat let ons uw gesemel?
+Wij moeten in den Briel  en gij wilt na den Hemel. 
+Is zulk een woeste hoop het werktuig in de hand
+(820) Van  t eeuwig Albestuur, tot redding van dit land.
+Of koester ik misschien te tedere begrippen?
+Nooit deed lafhartige angst me een boezemzucht ontglippen;
+ k Geef welvaart, goed en bloed ten beste van  s Lands zaak,
+Maar gruw van roof en moord en toomelooze wraak.
+
+                              TRESLONG.
+
+(825) Mijn moeder! Ach, gij deelt misschien reeds in de ellenden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 53]
+
+                       DERDE TOONEEL.
+
+            VAN DUIVENVOORDE, DE RYK, TRESLONG,
+                    eenige Watergeuzen.
+
+        VAN DUIVENVOORDE, verhaast opkomende.
+Mijn Heeren! schiet te hulp. Sterkt Entes met uw benden.
+ t Is anders uit met hem. Wij traden rustig voort,
+En raakten met ons rot tot Brielles zuiderpoort.
+Een deel der Burgerij, de bange vest ontweeken,
+(830) Verschuilt zich in dit oord.  t Is Entes naauw gebleeken,
+Dat zich een rijk buit hier aanbiedt voor den Geus,
+Of hij beveelt: Valt aan! En op die zelfde leus,
+Scheen een verwoede drift de harten ingevaaren
+Der hoopelooze schaar.  k Bid Entes hun te spaaren,
+(835) Doch niets weerhoudt zijn drift en de aanval is verwoed.
+De moord wordt algemeen.  Er ruischt een beek van bloed.
+Spoedt Entes toch te hulp.
+
+                              TRESLONG.
+
+                                          Welaan,  k zal derwaards trekken.
+Mijn bende! Volg mijn spoor.
+
+                              Tegen de Ryk.
+                                              Gij zult de vloot hier dekken,
+[p. 54]
+Of ook de nood ons dwong te wijken van deez ree.
+(840) Deel d inhoud van mijn brief aan Duivenvoorde meê.
+En dat hij in een boot na Maaslands oever snelle,
+Opdat hij raadsheer Buis deez brief in handen stelle.
+
+                        VAN DUIVENVOORDE.
+
+Mijn Heer! Laat ik met u...
+
+                              TRESLONG.
+
+                                          Gehoorzaam mijn bevel.
+Dit past een jongeling.  En gij  mijn Vriend! Vaarwel!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIERDE TOONEEL.
+
+       VAN DUIVENVOORDE, DE RYK, eenige Watergeuzen.
+
+                                  DE RYK.
+
+(845) Hoor, Duivenvoorde! hoor dien held, steeds onbezweeken
+In  t heetste krijgsgevaar, door deeze letters spreeken.
+
+            Hij leest den brief van Treslong.
+
+    De Watergeus, verjaagd door Spanjes kunstnaarij
+Van Englands ree, besloot deez kusten op te zoeken,
+    Waar thans de zetel staat van Alva s dwinglandij,
+(850) Waar we ons als  t snoodst gebroed der aarde hooren vloeken.
+    Wij staafden dit besluit, daar weinig kiezen viel:
+[p. 55]
+De Ballingschap, de Dood, of Zegepraal op Spanje...
+    Thans is der Geuzen Vloot geankerd voor den Briel,
+Reeds door ons opgeëist uit naame van Oranje.
+    (855) Ons heir bestormt die vest, wijl ik deez regels schrijf.
+Hij die deez groete u brengt, zal zulks u nader melden.
+    Gevoel met mij  t gewigt van dit Bataafsch bedrijf.
+Smeek, bid ik u, den Prins om bijstand voor die helden.
+    Zo ons Castilje thans de Zegepalm ontwrong,
+    (860)  t Was eeuwig met ons uit.  t Was uit met
+                                                                             
+Uw
+                                                                         
+TRESLONG.
+
+Aanvaard deez brief, en meld al  t geen uw oog aanschouwde.
+
+                        VAN DUIVENVOORDE.
+
+Ach! Dat men anderen dit uur deez last vertrouwde,
+Nu  k proeven geeven kon van eedle heldendeugd.
+
+                                  DE RYK.
+
+Ik prijs Treslongs beleid. Zijn voorzorg spaart uw jeugd,
+(865) Opdat ge, als  t stof des doods ons zal ter rustplaats strekken,
+Het naakroost door uw moed ter krijgsdeugd op zult wekken.
+Gaa, edel Jongling! Gaa. Groet ook den Raadsheer Buis
+Uit mijnen naam. Verlaat, zo ras gij kunt, Maassluis,
+Om, hoe de kans zich wend , hier spoedig weêr te keeren.
+
+                        VAN DUIVENVOORDE.
+
+(870) Mijn Heer...
+
+                                  DE RYK.
+
+         t Is heldenwerk zich zelven te overheeren.
+
+                        VAN DUIVENVOORDE.
+
+ k Zal dan, hoe diep  t mij grieve, u beider wensch voldoen,
+En mij met deeze groet na Maaslands oever spoên.
+Vaarwel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIJFDE TOONEEL.
+
+                DE RYK, eenige Watergeuzen.
+
+                DE RYK, in de tent zittende.
+
+                Hoe krimpt mijn hart, dat nood noch dood doet beeven
+Daar zich mijn Gade en Kroost, mij liever dan mijn leeven,
+(875) Vertoonen aan mijn geest... Zal niet deez heldenstoet,
+Zijn erf den Castiljaan betwistend voet voor voet,
+Eens stormen op de Stad, waar in mijn dierbre gade
+Nog met mijn teder kroost aan  s oorlogs ongenade
+Ter deezer uur ontduikt. Eens wordt ge, ô Amsterdam!
+(880) Misschien een offerand der heillooze oorlogsvlam...
+ k Vind dan ligt gade en kroost... Waar weiden mijn gedachten?
+ k Vermoei mijn teder hart door noodelooze klagten...
+[p. 57]
+Eer onze bende een voet voor Gijsbrechts wallen zet,
+Is wis ons Vaderland verlooren of gered.  
+(885) Ach, kon ik thans voor  t minst de onnozelheid beschermen.
+Onweerb ren!  k Ben uw vriend en open u mijne armen.
+Mij dunkt,  k hoor hier den kreet der arme Burgerij.
+ k Hoor schieten en gejuich van meêr dan eene zij .
+Wat zie ik in  t verschiet door deeze tenten waaren.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                       ZESDE TOONEEL.
+
+         DE RYK, TWEE BURGERS, eenige Watergeuzen.
+
+                                  DE RYK.
+
+(890) Wie zijt gij?
+
+                          EERSTE BURGER.
+
+              Ach, mijn Heer! bevreesde Briellenaaren.
+Wat heeft mijn oog aanschouwt, schoon ik de Vrijheid min,
+Schoon  k om verlossing bad...
+
+                                  DE RYK.
+
+                                                Treedt zonder schroom hier in.
+ k Beloof u veiligheid. Mijn krijgsmans woord is heilig.
+Meldt mij, wat jaagt u hier?
+
+                          EERSTE BURGER.
+
+                                             k Spreek immers hier wel veilig?
+[p. 58]
+(895)  k Was steeds in  t hart een Geus, al scheen ik Spaanschgezind.
+ k Heb lang reeds Nassaus trouw bewonderd en bemind.
+Doch nu de zwakke vest voor  t heir der Geuzen bukte,
+Nu dit verbitterd volk in deeze muuren rukte,
+Zie  k d ondergang nabij der overheerde Stad.
+(900) Ach! dat een doodlijk loot dit hoofd getroffen hadt.
+Een reeks van ijslijkheên waar mij bedekt gebleeven.
+Ach! had ik voor het minst dien Grijsaart niet zien sneeven.
+
+                                  DE RYK.
+
+Wat zegt gij? Is de wraak zo hevig uitgespat?
+Meld mij  t afgrijslijk lot der overheerde stad.
+
+                          EERSTE BURGER.
+
+(905) Zal ik u d ijslijkheên van  s krijgsvolks woede melden,
+Ik hoonde ligt hunn naam.
+
+                                  DE RYK.
+
+                                            Barbaaren zijn geen helden.
+Vaar voort. Steun op mijn woord.
+
+                          EERSTE BURGER.
+
+                                                   k Gehoorzaam uw bevel,
+Daar ik mijn leeven zelf in uwe handen stel.
+Naauw rukte van der Marck, gevolgd door zijn zoldaaten,
+(910) Zeeghaftig in den Briel, of  t volk stoof van de straaten,
+[p. 59]
+En elk vol angst en schrik de naaste schuilplaats in.
+ k Drong in de kloosterpoort, waar  t heilige gezin,
+Dat Bruno s kerkwet volgt, voor leed noch krijgswee duchtte,
+Zodraa ik Geuzen zag. Daar  k in het klooster vluchtte,
+(915) Met doodsangst op  t gelaat en door den schrik vermand,
+Gaf de oude Vader mij glimlachende de hand.
+Vrees niet, zo sprak de man, met zaal ge vrede op  t wezen,
+Die  s Heilands wetten volgt, zingt blijde, als andren vreezen.
+Verzel mij in het koor. Hoor,  t orgel heft reeds aan.
+(920) Leer nevens ons uw geest van aardsche vreeze ontslaan.
+Ik trad hem omziend naa met zidderende schreden.
+Naauw was hij  t hoog altaar, gantsch eerbied, opgetreeden,
+Of  t gulden wijrookvat verspreidt den heilgen geur.
+Het avondlied vangt aan... maar ijllings barst de deur,
+(925) Bij een verward geschreeuw van Geuzen! Geuzen! open.
+ t Is nu te laat voor u om op genaê te hoopen.  
+Spitsbroeders! Koelt uw wraak: verrijkt u hier met buit!
+Zo schreeuwt het Opperhoofd en vliegt den stoet vooruit.
+De heilige avondzang smoort in den bangen gorgel.
+(930) Bij  t klettren van  t geweer mengt zich de klank van  t orgel;
+De Priester, nog verrukt door  t heilig dienstwerk, heft,
+Schoon reeds baldaadigheid zijn kloosterbroeders treft,
+[p. 60]
+ t Hoogwaardige, dien stond, al zingende na boven.
+Doch een, op dat gezigt tandknarsend aangestooven,
+(935) Slaat met een blinkend zwaard hem be  de handen af,
+En graauwt hem brullend toe: Het waar te zagt een straf,
+Zo  k u den grijzen kop met één van  t lichaam kapte.
+En wijl hij dartelend het heilige vertrapte,
+Wenkt hij de bende toe, die op zijn bloedig spoor
+(940) Een beek van heilig bloed deedt stroomen door het koor.
+Met deeze taal verhit die wreedaart hunn gemoed ren;
+Hier heb ik  t hoofd van  t rot. Bij  t martellot der broed ren,
+Bij u, door  t kerkgespuis van oor en neus beroofd,
+Bezweer  k u, dat ge u wreekt aan dit doemwaardig hoofd,
+(945) Op dien Cathuizers kop.  Doe d ouden langzaam sterven.
+Zo voelt hij  t best uw wraak. Toen viel de stoet aan  t kerven,
+En... maar al de ijslijkheid vermoeit uw oor misschien.
+ k Zag bij dit woeden kans om  t moordtooneel te ontvliên.
+Ik vluchtte, wijl het bloed der veege kloosterlingen
+(950) Mij spatte in  t aangezigt.  Ik vlood door honderd klingen
+En borg het veege lijf.  Ik liep ter stadspoort uit,
+En trof deez jong ling aan...
+
+                                  DE RYK.
+
+                                              Dat moorden moet gestuit...
+[p. 61]
+Wat mar ik aan deez oord.  t Waar snoodheid hier te blijven.
+Op, mannen! mannen, op! Laat ons een stoet verdrijven,
+(955) Die gruweldaaden pleegt, ze pleegt op onzen naam.
+Ik voel aan mij gelaat, hoe  k mij die gruwlen schaam;
+Dat wij de onnozelheid, is  t mooglijk, hulp verleenen,
+En waare vrijheidsmin met menschlijkheid veréénen.
+      In het heen gaan tegen eenige manschap, op den
+              agtergrond van het Tooneel.
+Gij, blijft;  bewaakt deez weg, of  t vluchten noodig waar .
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      ZEVENDE TOONEEL.
+
+                  EERSTE EN TWEEDE BURGER,
+              eenige Manschap in  t verschiet.
+
+                            EERSTE BURGER.
+
+(960) Ik beef nog als ik denk aan  t grouwzaam lijfsgevaar.
+Gij glimlacht...
+
+                          TWEEDE BURGER.
+
+                          Jaa, mijn vriend! Laat vrij de Geuzen woelen,
+En zelf in priesterbloed hun heete wraakzucht koelen.
+Hun val is ligt nabij.
+
+                          EERSTE BURGER.
+
+                                Wat vreugd! Zou  t mooglijk zijn?  
+[p. 62]
+Ik veinsde mij slechts geus, opdat ik door dien schijn
+(965) Mij voor de felle wraak der Geuzen zou behoeden.
+Zou Spanje te onzer hulp na Voorne s kusten spoeden?
+
+                          TWEEDE BURGER.
+
+Geloof mij  t oogenblik van hunn verdelging naakt.
+Waant gij dat Alva s oog hun gangen niet bewaakt.
+
+                          EERSTE BURGER.
+
+Maar waarom toch den Briel den Geus ten prooi gelaaten,
+(970) Waarom den wal ontbloot van ruiters en zoldaaten .
+
+                          TWEEDE BURGER.
+
+Moest niet de stugge Fries, en  t muitziek Sticht betoomd.
+Schoon thans de Watergeus alleen van zege droomt,
+De schrandre Viglius heeft gister mij geschreeven,
+Hoe, nu de Watergeus uit England is verdreeven,
+(975) Uit vrees, of wanhoop ligt iets stouts mogt onderstaan,
+Op Voorne zich een deel der krijgsmagt neêr zal slaan,
+En dat Bossu genaakt. Geef acht, slechts weinige uuren,
+En een geoefend heil herwint de Brielsche muuren.
+
+                          EERSTE BURGER.
+
+Maar zal de Watergeus, die ramp noch sterflot ducht...
+
+                          TWEEDE BURGER.
+
+(980) Eer Spanjes krijgsmagt landt, is reeds de Geus gevlucht.
+[p. 63]
+Althans voor  t dapper heir der fiere Castiljaanen
+Zal ijllings angst en schrik den weg ter zege baanen.
+Een handvol woedend volk, door tucht noch band geleid,
+Zwigt zeker voor een magt, beproefd in dapperheid,
+(985) Gegrijsd in  t oorlogsschool, doorleerd in  s krijgsmans wetten.
+Hier zal ik op  t bedrijf der Watergeuzen letten,
+Wier zegetekens zijn, roof, plond ring, moord en brand,
+Opdat, wanneer Bossu met Spanjes helden landt,
+En dien vervloekten hoop zijn aantogt bleef verschoolen,
+(990) De juiste wraak door mij dien held worde aanbevoolen.
+
+                          EERSTE BURGER.
+
+Ach! dat het oogenblik dier landing reeds verscheen...
+
+                          TWEEDE BURGER.
+
+Zwijg mijn ontwerp.
+
+                          EERSTE BURGER.
+
+                              Ik zweer...
+
+                    Men hoort enig gejuich.
+
+                          TWEEDE BURGER.
+
+                                                Verhaasten we onze schreên.
+Schuil in het kreupelhout. Ik zie een bende naedren
+Met toortzen. Hoor  t gejuich.
+[p. 64]
+                          EERSTE BURGER.
+
+                                              Het bloed stolt mij in de aedren.
+
+                          TWEEDE BURGER.
+
+(995) Jaa, juich baldaadig rot, om onzer broed ren leed;
+Straks wordt uw moordgejuich een bange wanhoopkreet.
+
+
+                          Continue
+
+[p. 65]
+
+                      VIERDE BEDRIJF.
+
+       OMAL en eenige Watergeuzen, belaaden met wijn-
+       kruiken, brood, vleesch, komen met den aanhef
+                 van het volgend gezang op.
+
+                  Zo viel
+                  De Briel,
+                  Zo viel
+                  (1000) De Briel
+              In onzen hand.
+              Komt, juichen wij!
+              Komt, juichen wij!
+          Wij juichen in ons Vaderland.
+
+Naadat hier eenig veldmuzijk heeft plaats gehad,
+                zingen zij onder  t drinken:
+
+        (1005) Men voege `er blyde teugen bij.
+            Elk juich bij  t leegen van zijn nap,
+            Die schuimt van edel druivenzap,
+                De buit uit den kelder
+              Der Kathuizer broederschap;
+[p. 66]
+            (1010) Elk juich nu schel en helder:
+                ,,Onze borst draagt onze leus,
+          ,,Lang leef, lang leef, lang leef de Watergeus! 
+
+                  Zo viel
+                  De Briel,
+                  (1015) Zo viel
+                  De Briel
+              In onze hand.
+              Komt, eeten wij!
+              Komt, eeten wij!
+          (1020) Wij eeten in ons Vaderland.
+
+Naadat onder hun maaltijd het veldmuzijk plaats
+    gehad heeft, zingen zij weder onder het drinken:<
+
+        Men voege, enz.
+
+                  Zo viel
+                  De Briel,
+                  Zo viel
+                  (1025) De Briel
+              In onzen hand.
+              Komt, drinken wij!
+[p. 67]
+              Komt, drinken wij!
+        Wij drinken in ons Vaderland.
+
+Naa het drinken, waaronder het veldmuzijk mede
+                  plaats heeft, herhaalen zij:
+
+        (1030) Men voege, enz.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      EERSTE TOONEEL.
+
+          JACOB, AGATHA, MARGARETHA, SIMON en Me-
+       vrouw TRESLONG komen, gevolgd door een schaar
+        van Grijsaarts, Nonnen, Vrouwen en Kinderen,
+       onder het laatste gedeelte van het Gezang der
+          Watergeuzen, die zich met OMAL agter op
+                 het Tooneel bevinden, op.
+
+            Mev. TRESLONG, tegen het Gevolg.
+
+Bedrukte en bange Schaar! mijn hart breekt door uw klagten.
+Ach, dat het aan mijn stondt uw jamm ren te verzagten.
+
+                            MARGARETHA.
+
+Mijn Vader! ach! wie weet, waar zich de Ryk bevindt.
+
+                                  JACOB.
+
+Hij bleef ligt op de vloot. Zijn hart, dat zagtheid mint,
+(1035) Zou bloeden om het lot der overwonnelingen.
+[p. 68]
+Hij heeft gewis geen deel aan een dier folteringen,
+Waarmeê de woede en wraak de Geestlijkheid vermoordt.
+Steeds heeft Verdraagzaamheid zijn edel hart bekoord.
+Margretha!  k bid u, slaa met innig mededoogen
+(1040) Op deez berooide schaar als wij uw schreijende oogen.
+Aanschouw de Nonnenrij, wier liefde ons in den nood
+En d algemeenen schrik, haar heilig koor ontsloot,
+Verdreeven uit haar erf, jaa uit de Stad verdreeven.
+Beangsten! wees gerust. Ik zal u niet begeeven.
+(1045) Margretha, zie deez schaar, wier mannen, op  t gerucht
+Der naedring van den Geus, ten wall zijn uitgevlucht,
+Of bij de Zuiderpoort gesneuveld voor haar voeten.
+
+DE WATERGEUZEN, nog bezig met hunn maaltijd,
+            roepen, terwijl zij hunne nappen ledigen.
+
+Lang leef de Watergeus.
+
+                  Mev. TRESLONG, tegen Jacob.
+
+                                        Hoe best dien hoop te ontmoeten?
+Een krijgt  er ons in  t oog dier teugellooze schaar.
+
+        OMAL, met drift toegeschooten, tegen Mev. Treslong.
+(1050) Wie zijt gij?
+
+                        Mev. TRESLONG.
+
+                              Dat uw drift deez weereloozen spaar .
+[p. 69]
+Mijn Heer!  t Is beulenwerk aan vrouwen zich te wreeken,
+Aan grijzen, door den last der jaaren schier bezweeken,
+Aan Nonnen...
+
+                  OMAL, tegen de Geuzen.
+
+                      Mannen, op! Hier hoont men onzen naam.
+
+                        Mev. TRESLONG.
+
+Mijn Heer! Dat zich uw hart die strafbre woestheid schaam ;
+(1055) Wie zijt gij?
+
+                                OMAL.
+
+                             k Heet Omal, zo gij mijn naam wilt weeten.
+ k Heb straks met deeze hand een priester neêrgesmeeten,
+Schoon hem de grijze baard schier tot de knieën hong.
+Spreek op nu  wie zijt gij?
+
+                        Mev. TRESLONG.
+
+                                            De moeder van Treslong.
+Baldaadig Legerhoofd! Treed, zo gij durft, nu nader.
+(1060) De Gade van de Ryk zal dan met haaren Vader,
+De grijze Hooft, eerlang getuigen bij mijn Zoon,
+Hoe hebt gij mij gestraft. Straf mij:  maar  k bid, verschoon
+Deez weerelooze schaar van Grijsaarts, Nonnen, Vrouwen,
+En Kinderen, die mij, als hunne borg, beschouwen.
+
+                  OMAL, tegen Mev. Treslong.
+
+[p. 70]
+(1065)  k Draag achting voor uw Zoon...
+
+                      Tegen Margaretha.
+
+                                                                  En voor uw 
+Echtgenoot,
+Met d edelen Lumey, het cieraad onzer vloot.
+Spitsbroeders, keert te rug, en laaten blijde zangen,
+Den Watergeus ter eer, nogmaals uw disch vervangen.
+Mevrouw, dat in dien zang aan u de liefde blijk 
+(1070) Voor uwen Zoon Treslong, en Amstels held, de Ryk.
+
+                            MARGARETHA.
+
+Wat troost? Hij leeft dan nog...
+
+                                OMAL.
+
+                                                 k Zie van ons krijgsvolk
+naaken.
+
+              Mev. TRESLONG, tegen de overigen.
+
+
+Verwijd ren we ons op zij , ligt dat ze in woede blaaken.
+Waarom ons buiten nood aan woestheid blootgesteld.
+
+Mev. Treslong, Jacob, Margaretha, de Kinderen en het
+  gevolg verwijderen zich eenigzins op zijde; egter blijft
+    Mev. Treslong vooraan meer of min zigtbaar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 71]
+
+                      TWEEDE TOONEEL.
+
+          VAN DER MARCK, TRESLONG, OMAL, en Water-
+                          geuzen.
+
+
+                  TRESLONG,, in het opkomen.
+
+ k Herhaal  t nog eens, mijn Heer! het moorden past geen held,
+(1075) En  t plond ren is  t bedrijf van dieven en van guiten.
+
+                          VAN DER MARCK.
+
+Wie kan in de eerste drift des krijgsmans woede stuiten?  
+Wat leed drukt toch uw hart, een zeekre somberheid
+Ligt in dit heuchlijk uur op uw gelaat verspreid.
+
+                              TRESLONG.
+
+Vergeef die somberheid.   k Gedenk aan mijne Moeder,
+(1080) En sidder om haar lot.  t Is of mijn dierbre Broeder,
+Dien Brussel op  t schavot der onschuld knielen zag,
+Rondom mij waart en spreekt: Mijn bloed wordt, deezen dag,
+Gewrooken, maar die wraak doet ook onnoozlen sneeven.
+Ach! streed ik aan uw zij :  k Droeg zorg voor Moeders leeven;
+(1085) Ze is ook de Stad ontvlucht.  Ik bid, mijn Heer, verschoon,
+Verschoon die treurigheid... ik bid...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 72]
+
+                       DERDE TOONEEL.
+
+            JACOB, AGATHA, MARGARETHA, SIMON, M-
+             vrouw TRESLONG, TRESLONG, VAN DER
+              MARCK, OMAL,  t Gevolg van Mev.
+                   Treslong; Watergeuzen.
+
+   Mev. TRESLONG, die, naadat zij te rug geweeken waren,
+       op het hooren van de stam haars Zoons langzaam
+         met de haaren genaderd was  met drift toe-
+       schietende, daar zij zich niet langer bedwin-
+          gen kan, werpt zij zich in zijne armen.
+
+                                                            Mijn Zoon! Mijn
+Zoon!
+
+                  TRESLONG, haar omarmende.
+
+Mijn Moeder!
+
+                        Mev. TRESLONG.
+
+                        Ach! Mijn Zoon!
+
+                              TRESLONG.
+
+                                                    Wat heil! ik vind u weder.
+Mijn Moeder!
+
+                        Mev. TRESLONG.
+
+                      Dierbre Zoon! hoe dapper, niet min teder!
+[p. 73]
+ k Dank Hem, die in den krijg uw hoofd en hart bewaart;
+(1090) Wat vreugd: ik vind uw ziel niet van haar deugd ontaart.
+
+                              TRESLONG.
+
+Heb ik die tederheid van u niet ingezoogen?
+Uw deugd, uw voorbeeld, zweeft mij te aller uur voor oogen.
+
+                        Rondom ziende.
+
+Waar is de Ryk?  Hoe nu?
+
+                          Tegen Omal.
+
+                                              Hebt gij hem afgelost?
+
+                                OMAL.
+
+De Ryk? ô Neen, mijn Heer!
+
+              TRESLONG. tegen van der Marck.
+
+                                               k Liet hem op deezen post.
+
+      MARGARETHA, met groote ontroering.
+
+(1095) De Ryk?...
+
+                              TRESLONG.
+
+                            ô Jaa! Mevrouw!
+
+                                  JACOB.
+
+                                                      Zou hij zijn post
+verlaaten?
+Zou  k hem slechts wederzien, alleen om hem te haaten?
+Zou hij een schande zijn van  t deftige geslacht,
+Ontaart van  t eerlijk bloed, dat hem heeft voortgebragt?
+[p. 74]
+
+                            MARGARETHA.
+
+Mijn Vader! Zou mijn Gade in eens zich zelv vergeeten!
+(1100) Hij, die zo menigwerf zich moedig heeft gekweeten,
+Die nood noch dood ontzag, zou bij deez zegepraal
+Zijn deugd verliezen: neen! Gedenk zijne eedle taal:
+,, t Is beter goed, jaa  t hoofd, dan eer of deugd verlooren. 
+
+                              TRESLONG.
+
+Een naedrend krijgsgeluid klinkt ons op nieuw in de ooren.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIERDE TOONEEL.
+
+           JACOB, AGATHA, MARGARETHA, DE RYK, SI-
+              MON, Mevrouw TRESLONG, TRESLONG,
+               VAN DER MARCK, OMAL,  t Gevolg
+              van Mev. Treslong; Watergeuzen.
+
+                DE RYK, met eenige Manschap.
+
+            Eer hij op het tooneel is, zegt hij:
+
+(1105) Door wreedheid wordt de roem van helden uitgewischt.
+
+                                  SIMON.
+
+Ach, Moeder! hoor de stem van Vader.
+
+[p. 75]
+                                AGATHA.
+
+                                                            Ach! hij is  t.
+
+Margaretha, de Ryk ziende, vliegt sprakeloos in zijne armen.
+
+                                  DE RYK, haar omhelzende.
+
+Margretha!
+
+                            MARGARETHA.
+
+                Mijn de Ryk!
+
+                            DE RYK, haar nog omhelzende.
+
+                                  Naa zo veele ongelukken
+Mag ik in  t Vaderland u aan mijn boezem drukken.
+Gij hier, mijn Echtgenoot!  Wat geest voerde u hier heen,
+(1110) Mijn dierbre Margareeth!
+
+                            MARGARETHA.
+
+                                                    De Huwelijksmin alleen.
+
+                                  SIMON.
+
+Ach, Vader! Ziet ge ons niet? Zie dan toch Grootevader.  
+
+                                  DE RYK.
+
+Gij, gij ook hier, mijn kroost? Mijn kinderen! treedt nader.
+Omhelst mij, kuscht mij toch.  ô Toppunt van geluk!
+Dat ik mijn gade en kroost nog eens aan  t harte drukk 
+(1115) Op vaderlandschen grond.
+[p. 76]
+                            Tegen Jacob.
+
+                                                    En gij, zo hoog van jaaren,
+
+Mijn Vader! Gij ook hier?
+
+          Hij zet zich in een stoel der Tent neder.
+
+                                          Ik moet een poos bedaaren,
+Eer   k oog en oor geloof.  Door  t strijden afgemat,
+Met stof en bloed besmet voor deez verheerde Stad.
+Naadat ik schuldloos bloed gelijk een beek zag vlieten,
+(1120) Kan mijn gevoelig hart nog zo veel vreugd genieten.
+
+      Oprijzende en Jacob Hooft willende omhelzen.
+
+Mijn Vader! welk een vreugd!  k vind naa zo langen tijd...
+
+                      JACOB, zyne omhelzing afweerende.
+
+Laat af  en toon mij eerst  dat gij dit waardig zijt.
+De Ryk! Hebt gij een post, uw toebetrouwd, verlaaten?
+
+                                DE RYK.
+
+ k Verliet dien, maar uit pligt, om woedende zoldaaten,
+(1125) Op schuldloos menschenbloed en kloosterroof verhit,
+Te stuiten in hun woên.
+
+                        JACOB, hem omhelzende.
+
+                                    Dank, Hemel! ik bezit
+Dan nog denzelfden Zoon, zo moedig als goedaartig.
+Omhels mij, dierbaar Zoon, gij zijt dien naam nog waardig.
+[p. 77]
+
+                              TRESLONG.
+
+Mijn Vriend! ik vind u weêr, mijn edele de Ryk.
+
+                                DE RYK.
+
+(1130) Gij zucht.
+
+                              TRESLONG.
+
+                          Helaas! mijn Vriend!  ik deed u ongelijk.
+ k Had schier de deugd verdacht des braafsten mijner vrinden.
+
+                                DE RYK.
+
+Genoeg...  t Is mij gelukt de woestheid in te binden.
+        Omal in het oog krijgende, en verder tegen hem.
+Maar gij, gij, die onze eer deez dag geschandvlekt hebt,
+Daar gij in plondering en moord behaagen schept,
+(1135) Gij waart reeds weggerukt met uwe ontaarte bende.
+Ik vond in  t aaklig koor, dat moordhol vol ellende,
+De onnoozle broederschap nog wentlende in het bloed.
+ k Verjoeg het overschot der wreedaarts, die verwoed,
+Door baatzucht aangevuurd, de kloosterschatten roofden,
+(1140) Of dartel in hun wraak Kathuizerkoppen kloofden.
+
+                              TRESLONG.
+
+Wat heil! dat uwe zorg die woestheid heeft gestuit.
+
+                          VAN DER MARCK, tegen de Ryk.
+
+Wat mij belangt, mijn Heer! Ik gun aan  t volk dien buit.
+[p. 78]
+Uw Vriend,
+                      Op Treslong wijzende.
+                    door d eigen geest van zagtheid aangedreeven,
+Heeft, tegen mijnen dank, dit vreemd bevel gegeeven:
+(1145) Staakt moord en rooverij   t onteert uw heldendeugd.
+Viert uwe zegepraal door een gepaster vreugd.
+Recht kamerspelen aan  zingt blijde zegezangen.
+
+                              TRESLONG.
+
+En immers hadt de Geus naauw deezen wenk ontvangen,
+Of daadlijk juicht me een stoet Rederijkers toe.
+      Hij wijst op het Gevolg van Mev. Treslong.
+(1150) Maar wat wil deeze schaar?
+
+                        Mev. TRESLONG.
+
+                                                        Zo  t mooglijk is,
+voldoe
+Den wensch dan van mijn hart... Deez grijsaarts, die in jaaren,
+Misschien ook wel in kruis, uw Moeder evenaaren,
+Stoköud, vermoeid en arm  deez nonnen  deeze stoet
+Van vrouwen met haar kroost, verstooten uit hun goed,
+(1155) Zijn doodelijk beangst voor meêr baldaadigheden.
+Zij hebben deezen nacht, helaas! te veel geleeden.
+
+                              TRESLONG.
+
+Bedrukten! Keert te rug...  k Beloof u veiligheid.
+[p. 79]
+U zal, daar zich de Geus ten feestvermaak bereidt,
+Geen onheil, geen gevaar in Brielles wal ontmoeten.
+(1160) Wat zie ik?  Hoe, gij toeft.  Nog aarzelen uw voeten.
+Gij twijfelt aan mijn woord.  Dat uwe vrees verdwijn ,
+Zo gij dit staal vertrouwt.
+        Hij slaat zijn hand op het gevest van zijn geweer,
+                        en gaat het Gevolg voor.
+                                        Ik zal uw leidsman zijn.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIJFDE TOONEEL.
+
+             JACOB, AGATHA, MARGARETHA, DE RYK,
+              SIMON, Mevrouw TRESLONG, VAN DER
+                 MARCK, OMAL, Watergeuzen.
+
+                DE RYK, tegen van der Marck.
+Zie, hoe de heldendeugd zich huwt aan zagte zeden.
+Wie heeft  er meêr dan hij van Alva s wrok geleeden?
+
+                          VAN DER MARCK.
+
+(1165) Ik prijs dien zagten aart, doch ongestuimer bloed
+Bruischt door mijne aedren heen. Ik ben niet opgevoed
+Door Hoofsche Vleijerij, gespitst op duizend streeken,
+Gevormd, om van bedrog en heerschzucht mij te wreeken.
+[p. 80] Doch waartoe hier getoefd?  waarom niet scheep gegaan,
+(1170) En met den Brielschen buit der Geuzen vloot belaên.
+
+                                  DE RYK.
+
+Wij wijken van deez kust... Wij ons op zee begeeven?
+Moet de Inquisitie dan aan deezen oord herleeven?
+Heb ik zo menigwerf dan vruchteloos gebeên,
+Dat eens het heilrijk uur, die blijde stond, verscheen,
+(1175) Dat ik voor  t minst aan  t strand van  t erfland mijner vaedren
+Kon hoopen op een graf. Laat vrij de Spanjaard naedren,
+Betwisten wij bedaard den grond hem voet voor voet.
+Dit zij de heldenproef van onze trouw en moed!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                       ZESDE TOONEEL.
+
+          JACOB, AGATHA, MARGARETHA, DE RYK, HED-
+             DING, SIMON, Mevrouw TRESLONG, VAN
+               DER MARCK, OMAL, Watergeuzen.
+
+                HEDDING, met drift opkomende.
+Zo past het dat gebroed, dat helsche zaad, te straffen,
+(1180) Zo moet men van verraad zich ijllings wraak verschaffen.
+ k Hijg van vermoeidheid nog. Met deez verstijfde hand
+Heb ik twee Briellenaars doen sneeven in het zand,
+[p. 81]
+Niet verr van deezen oord in kreupelbosch verschoolen.
+Naadat Treslong den Geus de feestvreugd hadt bevolen,
+(1185) Treslong, voor wien het volk een slaafschen eerbied kweekt,
+Van wien  t steeds met ontzag als van een Heilig spreekt,
+Ben ik, ondanks mijzelf, ook na deez plaats getoogen.
+Naauw blonk mij  t schemerlicht van d uchtendstond in de oogen,
+Of  k zag dat heilloos paar.  Mijn woede steeg ten top.
+(1190) Verspieders! schreeuwde ik uit. Verspieders! Mannen, op!
+Men volgde mij te loom. Met uitgetoogen zwaarde,
+Schoon stromplend voortgesneld, vel ik dat paar ter aarde,
+Waar hun lafhartigheid en angst geketend hieldt.
+De een lag met d eersten slag voor mijnen voet ontzield,
+(1195) Maar de ander, neêrgestort, bewoog nog zijne lippen,
+En liet met deeze taal zijn helschen adem glippen:
+Bossu, gij komt te laat. Bossu, Bossu genaak !
+Straf gij den Watergeus.  k Beveel aan u mijn wraak.
+Ik poogde, maar vergeefsch, hem  t leeven toen te spaaren.
+(1200) Lumey!  k Spel uit dat woord ons nieuwe krijgsgevaaren.
+
+                                  DE RYK.
+
+Wat jammer, dat uw drift hem ijllings heeft geslacht.
+
+                          VAN DER MARCK.
+
+Het blijkt dus, dat Bossu wordt aan deez kust verwacht,
+[p. 82]
+Daar hij door snood gespuis de Geuzen laat bespieden
+Mijn vrienden, waar  t niet best bij tijds deez ree ontvlieden.
+
+                                  DE RYK.
+
+(1205) Daar stem ik nimmer in.  k Volhard in mijn besluit.
+Zend ook op uwe beurt alom verspieders uit,
+Wat hebben wij toch meêr, dan  t leeven te verliezen.
+
+                                  HEDDING.
+
+Lumeij!  t Zou lafheid zijn, nu reeds de vlucht te kiezen,
+De Briel staat onverbrand.
+
+                          VAN DER MARCK.
+
+                                         k Zal u ten wille zijn,
+(1210) Opdat ik in uw oog geen laffe krijgsman schijn .
+Omal! Verdeel uw bende en doe de vloot bewaaken,
+Als hier zich  t ovrig volk verpoost door feestvermaaken.
+Zet wachten uit op dijk, op wal, en toorentrans.
+
+        Omal vertrekt met eenige manschap.
+
+                            MARGARETHA.
+
+De Ryk! ik ben beducht voor  t keeren van den kans.
+(1215) Mijn lieve wederhelft! Kon u de vlucht bekooren.
+
+                                  DE RYK.
+
+ t Past mij alleen de stem van eer en pligt te hooren.
+Verzet uw angst, Margreeth, en lees bij  t rijzend licht
+[p. 83]
+De vreugd der Zegepraal op ieders aangezigt.
+Dat, deezen uchtendstond, de vaderlandsche spelen
+(1220) Van  t zegepraalend volk uw oog een boezem streelen.
+
+        Men hoort van verre eenig Muzijk.
+
+De Rederijkersstoet treedt d andren reeds vooruit,
+En streelt de vrijheidsmin door vrolijk feestgeluid.
+
+                                  HEDDING.
+
+Wien  t luste, scheppe in spel en feestvermaak behaagen;
+Wien  t luste, blijve hier, ik vrees Castiljes laagen.
+(1225) Het rofflen van de trom en  t kraaken der trompet
+Acht ik mijn feestgeluid. Dat ik, schoon zwak van tred,
+Maar nog met jonglings moed, na Brielles vesting stromp le,
+Opdat Castiljes list den Geus niet overromp le.
+
+
+                          Continue
+
+[p. 84]
+
+                      VIJFDE BEDRIJF.
+
+    Eer Hedding met spreeken geëindigd heeft, vertoonen
+    zich reeds eenige Watergeuzen op het Tooneel, welke
+     gevolgd worden door eenen stoet Rederijkers, op de
+       aêloude wijze gekleed, vooraf gegaan door eene
+          Maagd, draagende een blazoen, waarop een
+         bloem geschilderd is. Naa eenen plegtigen
+                 omgang zingt deeze Maagd:
+
+        De Vreugdebloem, zo lang geslooten,
+            (1230) De Vreugdebloem, in haaren knop
+        Bijna verschroeid, beroofd van looten,
+            Beurt uit de marteläsch zich op.
+
+        De wolken zijn voorbij gedreeven,
+            De worlken, vol verdervend vuur,
+        (1235) De storm, die onze bloem deedt beeven,
+            Zwijgt, brullens moe, dit heuchlijk uur.
+[p. 85]
+        Een zagte daauw van dankbre traanen
+            Blinkt op de blaên der Vreugdebloem;
+        Beschaduwd door der Geuzen vaanen,
+            (1240) Herleeft haar luister en haar roem.
+
+        Laat England aan haar Landroos rieken,
+            Sterk ruik de Lelie van Bourbon;
+        Wat geur spreidt onze Bloem, bij  t krieken
+            Der vaderlandsche Vrijheidszon.
+
+De Keizer der Kamer vervangt haaren zang tegen
+    Corninck Thonisse en Jan Thysse, als Water
+                        geuzen gekleed.
+
+            (1245) Hoe is de Broederschap verheugd,
+        ô Edel paar! Rechtschapen mannen!
+            Die voor de Vrijheid en de Deugd
+        Altoos uw snaaren hadt gespannen,
+            Maar die, bij  t sterven onzer vreugd,
+        (1250) Uw Vaderstad zijt uitgebannen.
+            Nu gij te rug keert in uw Stad,
+        Die gij met wapens in de handen,
+            Nog met heerschzuchtig bloed bespat,
+[p. 86]
+        Ontrukt hebt aan de Dwingelanden;
+            (1255) Daar elk de handen dankbaar vat.
+        Ziet! Traanen zijn onze offeranden.
+
+        CORNINCK THONISSE en JAN THYSSE.
+
+            Met blijdschap keeren wij te rug  
+        En zien de ons dierbre Broeders weder.  
+            De vriendschap, nimmer stuursch of stug,
+        (1260) Legt in uw kring de wapens neder:  
+        Maar keert het ijslijk Monster weder,
+                            Dan gorden wij
+                            Ze ook even blij
+    En moedig aan, tot schrik der Dwinglandij,
+                                    (1265) Dan staan wij pal,
+                            En leggen voor den val
+                    Van Spanjes Dwinglandij,
+                            Of onzen eigen val,
+    De wapens nimmer neder.
+            Alle de Redenrijkers herhaalen.
+                            (1270) Dan gorden wij
+                            Ze aan uwe zij
+        Kloekmoedig aan, tot schrik der Dwinglandij;
+                                Dan staan wij pal,
+[p. 87]
+                Jaa leggen voor den val
+            (1275) Van Spanjes Dwinglandij,
+                Of onzen eigen val,
+            Die wapens nimmer neder.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      EERSTE TOONEEL.
+
+          JACOB, AGATHA, MARGARETHA, DE RYK, HED-
+           DING, SIMON, Mevrouw TRESLONG, VAN DER
+      MARCK, OMAL, ROCHUS, Watergeuzen en Rederijkers.
+
+    Bij de tweede herhaaling van het laatste Gezang komt
+              ROCHUS, met een bijl in de hand.
+
+
+Wat zingt, wat speelt gij hier? De vijand is geland,
+Het krijgsvolk van Bossu betreedt reeds Voornes strand,
+(1280)  k Heb zelf de vloot gezien van Sint Katrijnes tooren.
+
+                            MARGARETHA.
+
+Vlucht, vlucht, de Ryk! helaas! wat lot is ons beschooren.
+
+                          VAN DER MARCK.
+
+Volg nog mijn raad, de Ryk! verlaaten wij dit oord;
+Voorkomen we ons verderf. Begeeven we ons aan boord...
+
+[p. 88]
+                                  DE RYK.
+
+En zouden we aan de wraak der moordzieke zoldaaten
+(1285) Treslong en  t overschot des volks ten prooije laaten.
+
+                                ROCHUS.
+
+Treslong, die in den wal van mij dees maar verstondt,
+Daar hij bij  t Klooster der Clarissen zich bevondt,
+Heeft ijllings met een deel der stoutste Briellenaaren
+Zich in een boot gescheept; hij riep mij, onder  t vaaren,
+(1290) Met luider stemme toe: Meld aan den Admiraal,
+Dat ik na boord vertrek, om de eer der zegepraal,
+Daar ik de Spaansche vloot van agter aan zal vallen,
+Te vesten aan deez kust. Hij dekk de Brielsche wallen
+Voor  s vijands legermagt.
+
+                          VAN DER MARCK.
+
+                                          Ik zie een deel der vloot
+(1295) Verdwijnt reeds uit ons oog.
+
+                                ROCHUS.
+
+                                                        Ach! Mogt ik in deez 
+nood
+Aan u een blijk van trouw  van haat aan Spanje geeven.
+
+                          VAN DER MARCK.
+
+Spreek op, welk blijk van trouw!
+
+[p. 89]
+                                ROCHUS.
+
+                                                  In  t zwemmen fiks bedreeven,
+Van mijne jongkheid af, bied ik mijzelv u aan,
+En smeek u mijn verzoek goedgunstig toe te staan.
+(1300) Laat mij met deeze bijl in  t bruischend water springen,
+Dan zal ik met Gods hulp Bossu deez vest ontwringen.
+Het is de Nieuwlandssluis, geslooten voor den vloed,
+Die tot der Geuzen heil dit uur geopend moet;
+En daar de Spanjaards reeds aan Voornes oevers landen,
+(1305) Valt binnen kort die Sluis het snood gebroed in handen.
+Doch, zo mijn grootsch ontwerp tot aller heil gelukt,
+Zie  t zich de zegepraal door mijne list ontrukt.
+Ik zal de deur der sluis met weinig slagen klooven:
+En  t water met geweld op Voorne s land gestooven,
+(1310) Belet den Castiljaan dat hij deez muur genaakt,
+Indien de Watergeus de dijken slechts bewaakt.
+ k Wil met een handvol volk, als ik te rug gezwommen...
+
+                          VAN DER MARCK.
+
+Hou op  het is te veel... Uw deugd doet ons verstommen.
+Getrouwe, gaa! voltooi, voltooi, voltooi uw grootsch ontwerp.
+
+                            MARGARETHA.
+
+(1315) Ik beef...
+
+[p. 90]
+                                ROCHUS.
+
+                       k Ben jong en sterk  en deeze bijl is scherp.
+Mevrouw! waar beeft gij voor: ik moet toch éénmaal sterven.
+En kan ik grooter eer of schooner dood verwerven...
+Vaartwel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      TWEEDE TOONEEL.
+
+          JACOB, AGATHA, MARGARETHA, DE RYK, HED-
+           DING, SIMON, Mevrouw TRESLONG, VAN DER
+           MARCK, OMAL, Watergeuzen, Rederijkers.
+
+                                  DE RYK.
+
+              Op, mannen! Op. De wapens in de vuist.
+En met vernieuwden moed des dwinglands trotsch vergruisd.
+(1320) Maar  k zie die wapens reeds in uwe handen blinken.
+Nu zal ons Spanjes wrok in ijzren ketens klinken,
+Opdat ons  t martelvuur daarnaa tot asch verteer,
+Of ons verbeidt de zege en eene onsterflijke eer.
+Komt, dijkwaards aangespoed  den zwemmer hulp gebooden...
+
+                            MARGARETHA.
+
+(1325) Ach! waarom niet bij tijds de Brielsche kust ontvlooden.
+Of denkt gij, dat uw gaê, daar zij u wedervindt,
+[p. 91]
+Zal dulden, dat de dood haar zoetste hoop verslindt.
+
+                                  DE RYK.
+
+Mijn dierb re! druisch de stem van eed en pligt niet tegen.
+
+                            MARGARETHA.
+
+De pligt der Huwlijkstrouw moest op uw hart ook weegen.
+
+                                  DE RYK.
+
+(1330) Die pligt, mijn echtgenoot! weegt op mijn hart ook zwaar.
+
+                            MARGARETHA.
+
+Verlaat u gaê dan niet: onttrek u aan  t gevaar.
+Dat zich een jong ling waag ... gij, echtgenoot en vader...
+
+                          VAN DER MARCK.
+
+ t Is hier geen toevenstijd, het krijgsrumoer komt nader.
+
+                            MARGARETHA.
+
+Ik klem u in mijn arm.
+
+                                  DE RYK.
+
+                                    Margretha! laat mij gaan.
+
+                            MARGARETHA.
+
+(1335) Blijf hier, de Ryk!  Wat heil! uw oog blinkt door een traan.
+Gij zucht  wilt egter gaan... ach! dat mijn wensch beklijve...
+Mijn kinders! knielt met mij: smeekt, dat uw vader blijve.
+
+                            SIMON EN AGATHA.
+
+Ach! Vader, blijf...
+
+[p. 92]
+                                  DE RYK.
+
+                              Mijn kroost! mijn dierbaare Margreeth!
+ k Zwoer aan Oranje trouw, en zou ik deezen eed
+(1340) Verbreeken, om  t geschrei van wederhelft en kind ren.
+ k Bidt u, laat af  laat af  laat af. Uw traanen hind ren
+Mijn heldenmoed.  Laat af. Zij dooven  t edelst vuur.
+Hoe strijden eed en pligt met liefde en met natuur!
+Is dit nu aan mijn volk een spoor ter zege baanen.  
+(1345) Vaartwel!  Ik zegepraal, maar zegepraal met traanen!
+Komt, gaan wij, van der Marck!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                       DERDE TOONEEL.
+
+           Mevrouw TRESLONG, AGATHA, MARGARETHA,
+            SIMON, JACOB HOOFT. Eenige Manschap.
+
+                            MARGARETHA.
+
+                                                    Afgrijslijk oogenblik!
+
+                                  JACOB.
+
+Verwijd ren we ons van hier.
+
+                          MARGARETHA.
+
+                                                ô Neen! verstijfd door schrik,
+Gevoelloos voor de smart, door overmaat van smarte,
+[p. 93]
+Baart deeze legerplaats geen siddring in mijn harte.
+(1350) Dit is, dit is de tent, waarin mijn Echtgenoot,
+Nog kort geleeden, zat; hij, die den wreeden dood
+Uit de armen zijner gade in de armen is gevloogen.
+Hier zink ik neêr. Geen traan ontwelt mijn gloeijende oogen.
+De Ryk! De Ryk! maar neen! mijn dierbre keert niet weêr.
+(1355) Mijn kinders, ach! Gewis gij hebt geen Vader meêr;
+Zijn dood staat vast. Gij weent  ach, kon ik met u weenen...
+Draa zal Castiljes wrok mij met de Ryk heréénen.
+ t Is lang genoeg gemard .  Beeft voor mijn huwlijkstrouw!
+ k Zal nu den Castiljaan doen siddren voor een vrouw.
+(1360) Schuilt in deez tent geen spiets, geen hellebaard, geen wapen...
+Is dan de man alléén tot heldeneer geschapen!
+
+                        Mev. TRESLONG.
+
+Betoom uw ijdle drift, zo woest, zo onberaên.
+
+                            MARGARETHA.
+
+Ach! laat ik aan de zij van mijnen Krijgsheld staan,
+ k Zal mijne wederhelft des noods ten schild verstrekken,
+(1365) En voor des vijands loot zijn dierbren boezem dekken.
+Of dringt de kogel door, daar ze ook mijn gade wondt,
+ k Sterf met mijn Echtgenoot, wat heil! Ten zelfden stond.
+
+[p. 94]
+                                  JACOB.
+
+Bedaar! Bedaar, men komt.
+
+                            MARGARETHA.
+
+                                            Ziet gij mijn weêrhelft komen?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIERDE TOONEEL.
+
+          ROCHUS, AGATHA, Mevrouw TRESLONG, SIMON,
+                  MARGARETHA, JACOB HOOFT.
+
+              ROCHUS, met de bijl in de handen, en als even
+                                uit het water komende.
+
+God lof!
+
+                            MARGARETHA.
+
+              Waar is de Ryk...
+
+                                  JACOB.
+
+                                          Laat rede uw drift betoomen,
+(1370) En hoor de vreugdemaar, die ons deez jongling brengt.
+                              Tegen Rochus.
+Ei, dien ons van bericht.
+
+                                ROCHUS.
+
+                    Schoon  t naauw de vreugd gehengt,
+[p. 95]
+Waarvan mijn gansche ziel en lichaam is doordrongen,
+Verstaa ons gunstrijk lot... Ten Kaêdijk afgesprongen,
+Die altoos deeze steê voor overstrooming hoedt,
+(1375) Was ik met hoofd met al gedompeld in den vloed.
+Ik repte middlerwijl mijn voeten en mijn handen,
+En voelde, schoon bedekt door golven,  t hart mij branden.
+ k Zwom onbekommerd voort, en beurde nu den kop
+Eens uit den diepen plas, van blijdschap, schuddende op,
+(1380) Om met te wisser koers den vreemden weg te spoeden;
+Dan dook ik, om mijn hoofd voor Spanjes oog te hoeden,
+In  t diepste van den stroom.  k Hoor een verward gedruis,
+Duik weder op, en zie van verre Nieuwlands sluis,
+En bij die sluis een stoet, voorzien van Spaansche vaanen.
+(1385) Ik knarstandde op  t gezigt der wreede Castiljaanen.
+ k Zonk weder weg in  t diep; en wijl ik voorwaards schoot;
+Zwem ik, totdat mijn hoofd zich op de sluisdeur stoot;
+ k Spring ijllings weêr te rug, en beur het hoofd na boven.
+ k Beklim den rand der deur, val woedend aan het klooven,
+(1390)  k Slaa plank bij plank  er af, en hak in de eene deur,
+Eer  t eenig Spanjaard merkt, een lange en breede scheur.
+Reeds drong het water door. Toen kreeg men mij in de oogen;
+Een rot van  t omstaand volk, gewapend toegevloogen,
+[p. 96]
+Legt vloekend op mij aan.  k Ontduik terstond den schoot;
+(1395) Verwachtende dien stond de zegepraal of dood,
+Bruisch ik, naa welberaên een korte poos te wachten,
+In eens ten stroomkil uit. God sterkte toen mijn kragten,
+Want met een enk len slag had ik zo wijd een kloof,
+Dat door de sluis een zee van water binnen stoof.
+(1400) Toen dook ik met een schok, vol blijdschap, na beneden.
+Ik dankte de Oppermagt, dat zij aan mijne beden
+In  t hachelijkst bedrijf ontfermend hadt voldaan.
+Een hagelbui van loot, waarmeê de Castiljaan
+Mij zonder vrucht beschoot, zag ik in  t water daalen;
+(1405) Ook poogde men vergeefsch den zwemmer te agter haalen;
+Terwijl de Watergeus hen op den dijk beschiet.
+Ziet gij reeds heinde en ver het wassend water niet.
+Mij dunkt, ik zie alreeds die Koningsslaven vlieden,
+En hunn bevreesden rug aan Geuzenkogels bieden.
+(1410) Hoe trapplen zij in  t nat, dat voor hun voeten wast,
+Wijl hun de ontvlooden dood in hunne vlucht verrast.
+
+                                  JACOB.
+
+Waar heeft zich ooit een held zo kloek als gij gekweeten!
+Nooit zal het vaderland uw stout bestaan vergeeten.
+En zo de Watergeus hier vrijheids altaar vest,
+[p. 97]
+(1415) Hier d eersten grondsteen legt van  t vrij gemeenebest,
+Zult gij met eeuwige eer in  s Lands geschiedboek praalen.
+ô Vrijheid! Moogt ge uw hoofd eens juichend bovenhaalen,
+En wordt deez kloeken held geen eerenaald gesticht,
+Verwijt de ondankbaarheid hen dan in  t aangezigt,
+(1420) Die, mooglijk, schemerblind door glans van eeretijt len,
+Voor d adeldom alleen eernaalden zullen bijt len,
+Terwijl de Burgertrouw, helaas! vergeeten wordt,
+En op de vlakke zerk de laauwerkroon verdort.
+
+                                ROCHUS.
+
+ k Begeer geen eerenaald, geen schitterende glorie.
+(1425) Leest slechts het naageslacht in Nederlands historie:
+Toen Spanje op  t onverwachtst de Geuzen overviel,
+Heeft Rochus Meeuwiszoon, een Burger uit den Briel,
+Op  t zwemmen afgericht, spijt kogels, spijt zoldaaten!
+De sluisdeur doorgehakt, en  t water ingelaaten.  
+(1430) Zie daar, mijn Heer! Waarmeê mijne eerzucht is voldaan.  
+Maar  k beidde reeds te lang.  t Is tijd na Stad te gaan,
+Om daar een droog gewaad en wapens aan te trekken,
+En straks den Watergeus ten strijdgenoot te strekken.
+
+[p. 98]
+                                  JACOB.
+
+ô Gadelooze moed, met nedrigheid gepaard!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      VIJFDE TOONEEL.
+
+          HEDDING, OMAL, AGATHA, Mevrouw TRESLONG,
+                 SIMON, MARGARETHA, JACOB.
+
+                  HEDDING, leunende op Omal.
+
+(1435) Omal! Jaa, draag mij voort... mijn bloed stroomt neêr op de aard .
+
+                            MARGARETHA.
+
+In welk een droeven staat keert deeze Grijsaart weder.
+
+                                  HEDDING.
+
+Hoe schemert mij het oog  zet in deez tent mij neder.
+Daar zit, daar zit het loot ... ik voel het in mijn borst.
+Omal! keer gij te rug, maar met mijn bloed bemorscht;
+(1440) En zo misschien uw hart tot bloôheid wierdt bewoogen,
+Vest dan, terwijl gij deinst, op Heddings bloed uwe oogen.
+Ruk, denkende aan mijn wraak, op Spanjes benden in,
+En volg mijn voetspoor na, stort neêr of overwin.
+
+                                  OMAL.
+
+Dat zal ik volgen, jaa! tot spijt en schrik van Spanje,
+[p. 99]
+(1445) Daar ik mijn krijgseed staaf, gezwooren aan Oranje,
+Maar zou ik u, mijn vriend! in deezen staat...
+
+                                  HEDDING.
+
+                                                                         
+Vertrek,
+Dat ik uw heldeneer geen hinderpaal verstrekk .
+
+                                  OMAL.
+
+Maar zo de dood...
+
+                                  HEDDING.
+
+                          Wel nu, laat zij mijn hoofd niet spaaren.
+Mijn leeven kunt gij niet,  s Lands vrijheid wel bewaaren.
+(1450) Hoor  t klettren van  t geschut.  Verlaat mij, dapper vriend!
+Vervul gij Heddings plaats  want hij heeft uitgediend.
+
+                                  OMAL.
+
+Vaarwel dan!  daar  t moet zijn.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                       ZESDE TOONEEL.
+
+HEDDING, AGATHA, Mevrouw TRESLONG, SIMON, MARGARETHA, JACOB.
+
+                                  HEDDING.
+
+                Wie zie  k rondom mij weenen?
+Schreit niet... Mij zal de dood terstond ontslag verleenen
+[p. 100]
+Van al mijn moeilijkheên. Straks lost zij Hedding af.
+(1455) Ik schrei, ik sidder niet, en voor mij gaapt het graf.
+Maar zou  k, daar in mijn jeugd mij nood noch dood deedt beeven,
+Een laffe grijsaart zijn bij d eindpaal van mijn leeven;
+ô Neen! Mijn leevensweb, zo pikzwart van verdriet,
+Waarin de vreugd zo schaars haar witte draaden schiet,
+(1460) Heeft waarlijk op  t getouw des tijds al veel geleeden.
+Geloof me, ik voel met vreugd, dat zij wordt afgesneeden.
+ k Wensch dat mijn flaauwend hart alleen zolang mag slaan,
+Tot ik de zegepraal der Geuzen heb verstaan.
+Waar toeft, waar toeft Lumey?  Gij deinst... ei, komt wat nader...
+(1465) Waar toeft Treslong? De Ryk?
+
+                                  SIMON.
+
+                                                            Ei hoor, hij vraagt
+na vader.
+
+                                  HEDDING.
+
+Wat zegt gij Vader, gij: ei zeg, zijt gij het kroost,
+Gij kind ren van de Ryk? dat geeft mijn hart nog troost.
+Treed dan wat nader bij. Laat ik u kennen leeren,
+Eer ik van hier verhuis. Komt hier! Niets zal u deeren.
+(1470)  k Ben bijkans uitgebloed  en gantsch ten eind van kragt;
+ k Omhels u   k Had voorwaar dit heil nog niet verwacht.
+Hoort, kinderen, na  t woord van mijn bestorven lippen,
+[p. 101]
+Wijl ieder oogenblik mij de adem kan ontglippen...
+Ik was een driftig man, dat heb ik vaak getoond,
+(1475)  k Heb dikwerf in mijn drift een eerlijk hart gehoond,
+Wel even stout als ik, maar mooglijk meêr koelbloedig.
+Uw vader is een held, standvastig en kloekmoedig;
+ k Acht in mijn stervend hart den eedlen man nog hoog,
+Maar zijn bedaardheid scheen soms lafheid in mijn oog.
+(1480)  k Heb gistren op Treslong en hem nog uitgevaaren,
+Daar  t hun het oorbaarst scheen de Brielsche vest te spaaren.
+En ik... zagt, kind ren, zagt... ik dacht daar, dat de dood
+Reeds met haar koude hand mijn mond en oogen sloot;
+Doch  k zie u weder klaar... Ik heb de Ryk steeds teder
+(1485) En hartelijk bemind. Daar komt dit duister weder. 
+Bid, zo ik mooglijk sterf, eer hij hier weêr verscheen:
+Schrikt niet  Ei, blijft bij mij  Het is de dood alleen...
+Bid dan uw vader toch, dat hij mij wil vergeeven,
+Al wat ik ooit in drift heb aan hem toegedreeven.
+(1490)  k Zal hem niet weder zien.  Bid, dat hij  t zelfde zegg 
+Aan d edelen Treslong:  groet, groet hem  gaat nu weg.
+ô Gij, wiens magtige arm de heerschzucht kan bepaalen,
+Doe Gij den Watergeus op Spanje zegepraalen...
+Welk vrolijk krijgsgeluid!  ik hoor de trommel slaan.
+[p. 102]
+(1495) Men juicht... men komt; ik kom...
+
+                                  JACOB.
+
+                                                                  Hij sterft.  
+Het is gedaan.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      ZEVENDE TOONEEL.
+
+          OMAL, VAN DER MARCK, DE RYK, ROCHUS, EE-
+             NIGE WATERGEUZEN, HEDDING, AGATHA,
+             Mevrouw TRESLONG, SIMON, MARGARE-
+                        THA, JACOB.
+
+
+                        DE WATERGEUZEN.
+
+Triumf! Triumf! Triumf!
+
+                  DE RYK, tegen Margaretha.
+
+                                      De Spanjaard aangegreepen,
+Door schrikt verliet zijn post  vluchtte angstig na zijn schepen.
+Mijn waarde! welk een vreugd.
+
+                    Hij omhelst Margaretha.
+
+                            MARGARETHA.
+
+                                                     k Vind u behouden weêr!
+
+                                  DE RYK.
+
+Wat zie ik?  Hedding viel...
+
+                                  OMAL.
+
+                                                Hij viel, maar viel met eer.
+[p. 103]
+(1500) Ik stond juist aan zijn zij , toen  k hem, door  t loot getroffen
+In zijn geharde borst, op de aarde neêr zag ploffen:
+Daar hij zich nevens mij, ter zuidzij van de stad,
+Beneden aan den wal, in  t hout verborgen hadt,
+En  t handgeweer gestaêg op  s vijands benden losste,
+(1505) Wijl ieder schoot van ons den kop eens Spanjaards kostte.
+Doch toen hij nederviel, sleepte ik hem van die plaats.
+Onttrok hem, eer hij stierf, der woede des zoldaats,
+En bragt hem in deez tent. Hij drong mij weêr te keeren,
+En was de dood getroost.
+
+                          VAN DER MARCK.
+
+                                        Laat ons zijn krijgsdeugd eeren.
+(1510) Komt! mannen, draagt hem weg. Op morgen zij de held
+Naar  t plegtigst krijgsgebruik met eer ter aard besteld.
+
+                                  DE RYK.
+
+Laat ons alléén zijn dood in  t edelst vuur doen blaaken,
+Om tot den laatsten snik voor Vrijheidsrecht te waaken.
+Den jongen Duivenvoorde aanschouw ik aan het strand
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 104]
+
+                      ACHTSTE TOONEEL.
+
+          OMAL, VAN DER MARCK, DE RYK, ROCHUS, VAN
+             DUIVENVOORDE, EENIGE WATERGEUZEN,
+             HEDDING, AGATHA, Mevrouw TRESLONG,
+                 SIMON, MARGARETHA, JACOB.
+
+                      VAN DER MARCK.
+
+(1515) Wees welkom aan deez oord.
+
+                                  DE RYK.
+
+                                                              Ge ontkwaamt dan
+Spanjes hand.
+
+                        VAN DUIVENVOORDE.
+
+ô Jaa!  k Ontzeilde hun met duizend lijfsgevaaren.
+Maar hoe?
+
+                                  DE RYK.
+
+                Wilt ons den last van Raadsheer Buis verklaaren.
+Verstaa de wondren straks zins uw vertrek geschied.
+
+                        VAN DUIVENVOORDE.
+
+In  t eerst vertrouwde Hij zijne twijflende oogen niet,
+(1520) Toen ik aan Maaslands boord hem op zijn hof ontmoette.
+Hij leest verbleekt den brief. Ontvangt met schrik mijn groete.
+Terwijl hij beevende het blad ter zijde legt,
+[p. 105]
+Sprak hij, gij ziet ik beef, en beef voorwaar met recht.
+Welk aanslag! Welk bestaan! ô Vrijheid! ô Oranje!
+(1525) Een hand vol volks bestookt een stad van  t magtig Spanje.
+ k Geloof wel, dat Nassau  t bestoken van die wal
+Als een doorluchtig blijk van stoutheid looven zal,
+Maar zijn Staatkundig brein,  t geen door de schors der zaaken
+Met zo veel wijsheid dringt, zal de onderneeming laaken.  
+(1530) Hier zwijgt hij  vroeg daarnaa hoe  t bij mijn aftogt stondt,
+Ik meldde, dat de Geus zich hier reeds meester vondt.
+Toen stondt hij op, en sprak: Keer! Keer dan na uw benden:
+ k Zal zonder tijdverlies een bode aan Nassau zenden,
+En smeeken hem om hulp.  k Staa voor die hulp uw in,
+(1535) Maar dat geen roekloosheid, bedaardheid voorts verwin.
+
+                                  DE RYK.
+
+Jaa, van der Marck, dat woord des Staatsmans zij ons heilig.
+Dat voorts het kloekst beleid een handvol volks beveilig,
+Die, hoe veracht en kleen, misschien in  s Hemels hand,
+Ten geessel strekken zal, van Neêrlands dwingeland.
+(1540) Ik zie van verr Treslong, met de andere togtgenooten;
+Hij komt, en zal de roem der Zegepraal vergrooten.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 106]
+
+                      NEGENDE TOONEEL.
+
+           TRESLONG, OMAL, VAN DER MARCK, DE RYK,
+            ROCHUS, VAN DUIVENVOORDE, EENIGE WA-
+            TERGEUZEN, HEDDING, AGATHA, Mevrouw
+                TRESLONG, SIMON, MARGARETHA,
+                           JACOB.
+
+                        Mev. TRESLONG.
+
+Mijn Zoon!
+
+                              TRESLONG.
+
+                      ô Dag van heil!  Des Spanjaards vloot deinst af;
+Hoe meenig Castiljaan vondt in Bernisse  t graf;
+De golven zijn bedekt met wrakken en met lijken.
+(1545)  k Deed met een deel der vloot de Spaansche schepen wijken,
+Die niet door  t hevig vuur, gejaagd op Voorne s kust,
+Gesloopt zijn of verbrand. De Castiljaan, ontrust
+Door  t smaldeel onzer vloot, aanschouwt ten zelfden tijde,
+Hoe  t wassend water hem begrimt aan de andre zijde.
+(1550) De vlucht wordt algemeen  en algemeen  s Volks nood:
+Deez zinkt in  t diep ter neêr, en deez ontzwemt de dood.
+Veel slaan de hand aan  t boord der volgepropte schepen,
+Die hun tot Beijerland door  t bruischend water sleepen.
+[p. 107]
+Wat heil! Met  s Hemels hulp is  t Spaansch gebroed verjaagd,
+(1555) En  t wankelend altaar der Vrijheid onderschraagd;
+Maar heb ik in den nood het uitstst onderwonden.
+Nogthans kan mijn begrip de reden niet doorgronden,
+Die op het onverwachtst uw val heeft afgeweerd.
+Het gantsche Nieuwland schijnt in eene zee verkeerd.
+(1560) Dat wonder deedt met mij elk schepeling verstommen.
+
+                  DE RYK, op Rochus wijzende.
+
+Deeze edle Briellenaar, na Nieuwlands sluis gezwommen,
+Heeft met zijn bijl de deur der schutsluis doorgekloofd.
+
+                              TRESLONG.
+
+ô Welk een eerekrans voegt zulk een edel hoofd!
+Zo kan dan vuur noch stroom de Vrijheidsliefde teug len.
+(1565) Bataafsche Heldenstoet! Bedekt ge ons met uw vleuglen,
+Beschermt ge ons door uw magt  gij, die in ouden tijd
+Hier Rome s heir versloegt in uwen waterstrijd.
+
+                                  JACOB.
+
+Ik staar u siddrend aan: deez zege schijnt me een wonder.
+Leen aan een grijzen  t oor.  Hier werkt een Godheid onder,
+(1570) Een Godheid, die, reeds lang door gruwelen gehoond,
+In  t eind de Vrijheidsmin met zegepalmen kroont.
+Van Maerle, uw heilig asch wordt ook dit uur gewroken,
+[p. 108]
+Heeft de Inquisitieraad het grouwzaam vuur ontstooken
+Voor uw ontzielden romp, ô Brielles martelaar!
+(1575) Die Vloekraad ziet dit uur uw jongste woorden waar.
+Ik heb zins lang geleerd mijn Vaders roê te kusschen.
+Bereid gaa ik ter dood  maar poogt gij  t vuur te blusschen
+Met Maerle s bloed  gij doolt,  die vlam breekt verder uit
+In haaren gloed, door u noch naageslacht gestuit.
+                        Men hoort muzijk.
+(1580) Dan welk gerucht? Kan niets de Geuzen kragten matten;
+Ik hoor ze reeds van verr het feestvermaak hervatten.
+
+                              TRESLONG.
+
+Vergun  s lands heldenjeugd, die eindlijk zegepraalt,
+Die thans voor d eerste maal een vrijen adem haalt,
+Zo lang betaamlijkheid hun vreugde blijft bestieren,
+(1585) Der Geuzen zegepraal met zang en spel te vieren.
+
+
+ De Maagd, de Kamer de Vreugdebloem verbeeldende,
+ op een Schild gedragen door Persoonaadjen, ver-
+       beeldende Deugd, Beleid, Dapperheid
+       en Trouw, en gevolgd door eenige an-
+         deren, Kunsten en Weetenschappen
+         voorstellende, in eene zegepraal
+              rondom gevoerd, zingt:
+
+[p. 109]
+      Naa zoveel jaaren smart en rouw,
+                  Verheffen mij,
+                  Van kluisters vrij,
+          Op  t heilig schild der Vrijheid,
+                  (1590) Deugd, Dapperheid,
+                  Met kloek Beleid
+                  En Heldentrouw,
+      Die zuilen van elk Staatsgebouw.
+      Juicht, eedle kunsten! juicht verheugd,
+      (1595)  s Lands Vrijheid spelt uw heil en vreugd,
+      Dees zegepraal vernieuwt mijn jeugd.
+                                *
+          Beschermd door  t schild der Vrijheid,
+      Bloeit Kunst, bloeit Weetenschap en Deugd.
+
+                    Allen herhaalen:
+
+          Beschermd, enz.
+
+                    Het gordijn valt.
+
+
+                          Continue
+
+ Bijlage: de opdracht en het voorbericht van de herdruk uit
+                        1796 (EDBO):
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. π3r]
+
+                           AAN DE
+                      VERDIENSTELIJKE
+                         BATAAFSCHE
+                       UITGEWEEKENEN,
+                      IN HET VADERLAND
+                       WEDERGEKEERD.
+
+Bataaven! Willems Juk, bij d ommekeer ontdooken,
+    Op  t Fransche grondgebied! U, Geuzen van deez tijd!
+Die, met der Fransche hulp, ons dwangjuk hebt verbroken,
+    U zij dit Heldenspel der Vaderen gewijd.
+(5) Schoon ik mij bukken moest voor  s Dwinglands ijzren roede,
+    Geen heerschzucht bluschte  t vuur der waare vrijheid uit.
+ t Wierp soms, van lieverlee, door dwang getergd in woede,
+    Voor  t oog der dwinglandij, ondoofbre sprankels uit.
+Jaa, daar de Vrijheids geest geheel mijn ziel vervulde,
+    (10) Deed ik, door hoop gestreeld op Vrijheids Zegepraal,
+In d ouden Watergeus aan uwe ontwerpen hulde,
+    En gaf mijn boezem lucht in ronde Vrijheidstaal.
+[fol. π3v]
+,,ô, zuchtte ik, in den nacht der slaavernij begraaven;
+    ,,Brak eens de morgenstond van  s Lands verlossing aan,
+(15) ,,Keerde, als de Watergeus, het Leger der Bataaven  
+    ,,Wat toonen zou mijn lier door dankbre vreugde slaan!
+,, k Zou juichen, en mijn dank door zangen openbaaren...
+    ,,Maar, slaat dat heuchlijk uur, dan kroont de erkentenis.
+,,Die dierbre Ballingen, naa zoveel droeve jaaren,
+    (20) ,,Met zoveel heil en lof, waarvan geen weêrgaê is...
+,,Dan zal dat groot gejuich mijn zwakke stem versmooren. 
+    Maar ach! Mijn hart bedroog tot nog zich in dien waan.
+Mijn lof, schoon zwak van stem, dringt spoedig tot uwe ooren,
+    Doch brengt, rampspoedig volk! Slechts weinig baate u aan.
+(25) Ontvangt dit klein bewijs van mijn welmeenend poogen,
+    Van mijne Vrijheidsmin, nogthans, in liefde en gunst.
+ t Stelt in der Geuzen beeld U  t vrije volk voor oogen.
+    Ach! Had ik meer voor u, dan  t offer mijner kunst.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[fol. π4r]
+
+                        VOORBERICHT.
+
+In het jaar 1790 van dit Tooneelstuk een groot 8°. uitgaave
+in het licht gekomen zijnde, heb ik nu, op verzoek van
+Commissarissen van den Nationaalen Schouwburg te Amsterdam,
+tot deez klein 8°. uitgaave ingestemd, daar zij mij van hun
+oogmerk verwittigden, om dit stuk dáár ten Tooneele te
+voeren. De Reden van verre de meeste veranderingen, in
+deezen Druk gemaakt, zal elk, die de omstandigheden van
+tijden en zaaken kent, gereedlijk in het oog vallen; vooral
+wanneer hij in aanmerking neemt, dat het stuk vertoond moet
+worden in een Land, waarin een onwaardig Afstammeling van
+waare Helden, wier moed en deugden de onbevooroordeelde
+Vrijheidsvriend, verheven boven de slingeringen van
+omstandigheden, standvastig blijft bewonderen, zelfs den
+naam dier Helden tot een walg en afschrik in de ooren van
+een vrij Volk gemaakt heeft. Mag intusschen dit
+vrijheidädemend Tooneelspel strekken, om den geest van waare
+Vrijheid en Heldenmoed in eenige Vaderlandsche harten
+levendig te houden of op te wekken, dan zal ik mijn
+hoofddoel bereikt zien.
+
+
+                                                                             
+A. LOOSJES, P.Z.
+
+              Haarlem,
+              den 14. Aug. 1796.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          Overige varianten in de herdruk van 1796
+
+  1790 (versnummers)                           1796 (paginanummers)
+
+13-37 ik hoorde...      p. 4 Zou  k niet bekommerd zijn, om hem, die, teêr van
+verbindt                     harte,
+                             Met zoveel liefde deelt in mijn verdriet en
+                             smarte,
+                             Die zich zelfs waagen zou om  t welzijn van zijn
+                             kind.
+                             Steeds vaderlijken ernst met liefde en moed
+                             verbindt,
+122 Vind ik... geval    p. 8 Vind ik u allen hier! Een onverwacht geval,
+151 En dat... taal      p. 9 En dat afgrijslijk volk sprak onze moedertaal.
+175 Verschooning...     p.   Verschooning  maar vergeefsch  In  t eind, daar
+gebeên                  10   noch gebeên,
+225 toegeeflijkste      p.   goedhartigste
+                        13
+252 Ontving ik...       p.   Ontving ik bij de poort, terwijl ik herwaards
+snelde                  14   snelde,
+299 Herdenk dat lot,    p.   Herdenk dat lot, Margreeth!
+Mevrouw!                16
+Blz. 22 Zo ras... Hooft p.   Zo ras Mevrouw Treslong, Jacob en Margaretha Hooft
+                        18   enz.
+363 Van  t... volk      p.   Van  t bloed des Castiljaans: dat moord-, dat
+                        20   roofziek volk.
+377 J.P. Coppelstok:    p.   Van der Marck: Treedt nader. J.P. Coppelstok:  k
+Mijn Heeren!  k Heb den 21   Heb den Raad de vreemde maar doen hooren,
+Raad de vreemde maar 
+doen hooren,
+388 wordt               p.   word
+                        21
+433 Doch  k...          p.   Doch  k heb reeds lang genoeg die wijven
+toegesproken            23   toegesproken.
+437-439 Lumey eischt... p.   Lumey eischt, dat de Raad hem, zonder
+aan                     23   tegenstreeven,
+                             Of aarzeling, terstond de stad zal overgeeven;
+                             En zeg met één den Raad, zeg alle Burgers aan,
+449 Beveelt het...      p.   Beveelt het dierbaar hoofd eens vrijheidsvriend te
+vellen                  24   vellen.
+478 al overheeren...    p.   Al overwinnen wij de nu verdrukte Staaten.
+Staaten                 26
+500 Hier schuwt...      p.   Hier schuwt  s Volks zuinigheid den
+pracht                  26   buitenlandschen pracht,
+510 Een ontevreden...   p.   Een ontevreden vrek moge in een hoek soms klaagen,
+klaagen                 27
+512 Haalt zelfs... in   p.   Haalt zelfs een dubblen last in weinig jaaren in.
+                        27
+516 Noch                p.   Veelmin
+                        27
+528-529 Met mijn...     p.   Met mijne makkers staat, wien gij het sein en
+brengen                 28   woord,
+                             Als onzen hopman gaaft, kom ik een tijding
+                             brengen,
+555 Ziet daar...        p.   Ziet daar ons fraai verwijl. Zo spot het  t
+gebroed                 29   Spaansch gebroed
+556 Van onze            p.   Met onze onnozelheid
+onnozelheid             29
+560 De tijd... vervuld  p.   De tijd van  t Krijgsbestand, Lumey! is niet
+                        29   vervuld.
+572 plondring           p.   plundring
+                        30
+575-576 De grijze... is p.   Zijn grijze ervaarenis en moed besliss voor mij,
+                        30   Of thans  t verwijl des strijds geen laakb re
+                             lafheid zij.
+586 loot                p.   lood
+                        30
+601 Moet ik... wijzen   p.   Moet ik u, Heldenvolk, mijn borst vol wonden
+                        31   wijzen,
+611 Alleen Treslong...  p.   Treslong, Treslong alleen! met zijnen Vriend de
+Ryk                     31   Ryk.
+615-628 Dat dierbaar... p.   Dat dierbaar eigendom van ieder braaf soldaat.
+verarmt                 32   Twee uuren schonken wij den vijand tot beraad;
+                             Schoon ik Castilje vloek, verstooten door
+                             Brittanje
+                             Ik wil zelfs billijk zijn in onze wraak op Spanje.
+                             Wat roemt ge op Vrijheidsmin, op zucht voor  t
+                             Vaderland,
+                             Terwijl uw boezem hijgt na plund ring, moord en
+                             brand:
+                             En daar ge, om teugelloos uw wraakzucht bot te
+                             vieren,
+                             U noch door menschlijkheid noch reden laat
+                             bestieren.
+                              k Eisch, in den naam der eer, dat gij de Stad
+                             beschermt
+                             Voor plund ring, die altijd den burger meest
+                             verarmt;
+638 plondering          p.   plundering
+                        32
+687 mijne               p.   mijn
+                        35
+785-787 Wat heil...     p.   Wat heil! Dat Buis, ons aan de kusten van
+gemeld                  41   Brittanje
+                             Voorspellende den trek, gespeeld door  t woedend
+                             Spanje.
+                             Zo korts nog zijn verblijf, bij brieven heeft
+                             gemeld.
+802 rammeijen           p.   rameijen
+                        41
+804 zoldaat             p.   soldaat
+                        42
+826 Mijn Heeren...      p.   Ik bid u, schiet te hulp. Sterkt Entes met uw 
+benden                  43   benden.
+838 Gij zult de vloot   p.   Gij, blijf de vloot hier dekken.
+hier dekken             43
+843 Mijn Heer           p.   Treslong
+                        44
+854 Reeds door...       p.   Hier wacht ze op beter lot, dan kortlings in
+Oranje                  44   Brittanje.
+858 Smeek, bid...       p.   Schenk bijstand, bid ik u, aan Neêrlands
+helden                  44   Waterhelden.
+870 Mijn Heer           p.   De Rijk!
+                        45
+890 Ach, mijn Heer!     p.   Ach genaê voor arme Briellenaaren.
+Bevreesde Briellenaaren 46
+896  k Heb... bemind    p.    k Heb lang der Geuzen moed bewonderd en bemind.
+                        47
+900 loot                p.   lood
+                        47
+909 zoldaaten           p.   soldaaten
+                        47
+921 zidderende          p.   sidderende
+                        48
+930 Bij                 p.   Met
+                        48
+953 Wat mar ik aan deez p.   Wat toef ik aan deez oord.
+ oord                   49
+967-968 Geloof mij...   p.
+bewaakt                 50   Waant gij dat Alva s oog hun gangen niet bewaakt?
+                             Geloof mij  t oogenblik van hunn verdelging naakt.
+970 zoldaaten           p.   soldaaten
+                        50
+974 Hoe, nu...          p.   Hoe nu, de Watergeus, uit Engeland is verdreeven,
+verdreeven              51
+987 plond ring          p.   plund ring
+                        51
+1051 Mijn Heer...       p.    t Is laag.  t Is beulenwerk aan vrouwen zich te
+wreeken                 56   wreeken.
+1054 Mijn Heer...       p.   Dat zich uw driftig hart die strafbre woestheid
+schaam                  56   schaam ;
+1074  k Herhaal  t nog  p.    k Herhaal  t nog eens, Treslong!
+eens, mijn Heer         58
+1075 plond ren          p.   plund ren
+                        58
+1124 zoldaaten          p.   soldaaten
+                        63
+1134 plondering         p.   plundering
+                        63
+1208 Lumeij             p.   Lumey
+                        67
+1241-1242 Laat          p.   Laat Englands Landroos lieflijk rieken,
+England... Bourbon      69   Sterk riek de Lelie van Bourbon;
+1266 voor den val       p.   vóór den val
+                        70
+1284 zoldaaten          p.   soldaaten
+                        72
+1339  k Zwoer aan       p.    k Zwoer aan den Lande trouw
+Oranje trouw            75
+1365 loot               p.   lood
+                        77
+1403 loot               p.   lood
+                        79
+1428 zoldaaten          p.   soldaaten
+                        80
+1430 Zie daar...        p.   Zie daar, waarmeê mijn hart mijn eerzucht is
+voldaan                 80   voldaan.
+1438 loot               p.   lood
+                        80
+1440 En zo... bewoogen  p.   En zo misschien uw hart tot zagtheid wierdt
+                        81   bewoogen,
+1444-1445 Dat zal...    p.
+Oranje                  81   Dat zal ik volgen jaa! tot Spanjes schrik en
+                             schande,
+                             Daar ik mijn krijgseed staaf, gezwooren aan den
+                             Lande.
+1458-1459 ô Neen...     p.   ô Neen! de blik des doods ontzet, verschrikt mij
+schiet                  82   niet.
+                             Mijn lange leevensweb, zo pikzwart van verdriet,
+1485 dit                p.   dat
+                        83
+1500 loot               p.   lood
+                        84
+1507 zoldaats           p.   soldaats
+                        85
+1523-1529 Sprak hij...  p.   Zegt hij, gij ziet ik beef, en beef voorwaar met
+laaken                  86   recht.
+                             Welk aanslag! welk bestaan! ô Vrijheid! wat
+                             gevaaren
+                             Zie ik, daar gij herleeft, bij zwerven, om u
+                             waaren.
+                              t Gaat vast, dat elk van ons  t bestooken van
+                             dien wal
+                             Als een doorluchtig blijk van stoutheid looven
+                             zal,
+                             Maar  t fijn staatkundig brein, dat door de schors
+                             der zaaken
+                             Met stille wijsheid dringt, zal de onderneeming
+                             laaken.  
+1533-1534  k Zal... in  p.    k Zal zonder tijdverlies een bode om krijgsmagt
+                        86   zenden,
+                             Uw koen bestaan eischt hulp.  k Staa voor die hulp
+                             u in,
+1560 schepeling         p.   vlooteling
+                        88
+1579 In haaren...       p.   In haaren gloed, door boei noch marteltuig gestuit
+gestuit                 89
+1580-1581 Dan welk...   p.   Dan zagt... Ik hoor van verr reeds  t Feestvermaak
+hervatten               89   hervatten.
+                             Is niets instaat de kragt der Geuzen af te matten?
+1582 Vergun  s lands... p.   Ei gun  s lands heldenjeugd, die eindlijk
+zegepraalt              89   zegepraalt,
+
+Aan het einde van elk bedrijf staat in De Watergeuzen-1796:  Einde van het
+Eerste [- Vijfde en laatste] Bedrijf. 
+
+
+                          Continue
+
+  • Adriaan Loosjes De hulk (1793)
+  • Ceneton
+  • Voorkeurenpagina Opleiding Nederlands
+

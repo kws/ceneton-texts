@@ -1,0 +1,3599 @@
+[Dutch]
+
+Lucas Rotgans: Eneas en Turnus. Amsterdam, 1705
+Gepubliceerd op 30 december 1998 door E. Hofland.
+Redactie dr. A.J.E. Harmsen,
+Opleiding Nederlandse taal- en letterkunde, Universiteit Leiden.
+Dit treurspel in vijf bedrijven is een bewerking van passages uit Vergilius 
+Aeneis
+Ceneton079930  books.google
+In deze uitgave zijn evidente zetfouten gecorrigeerd en gemarkeerd met een
+asterisk.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                   Frontispice eerste druk
+
+                            ENEAS
+
+                              EN
+
+                            TURNUS
+
+                          TREURSPEL.
+
+                             DOOR
+
+                         L. ROTGANS.
+
+                [Vignet: In hoc signo vinces].
+
+                         t AMSTERDAM,
+
+                     ___________________
+
+                      By FRANÇOIS HALMA,
+
+                     Boekverkoper; MDCCV.
+
+                       MET PRIVILEGIE.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Titelpagina eerste druk
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                           OPDRAGT
+
+                           AAN DEN
+
+                        WELEDELEN HEER
+
+                      JOSEF HUYDEKOPER,
+
+                     HEER VAN MAARSEVEEN,
+
+                         NEERDYK, &c.
+
+                  RAADT DER STADT AMSTERDAM,
+
+                  BEWINTHEBBER VAN DE OOST-
+
+                    INDISCHE MAATSCHAPPYE,
+
+                         &c, &c, &c.
+
+              Weledele Heer en hooggeëerde Neef,
+
+UW Ed^s achting en zucht voor de dichtkunde, hebben my
+aangemoedigt, deze eerstelingen van myne toneelpoëzye, met
+alle schuldige eerbiedigheidt, aan Uw Ed: op te draagen.
+      De Naam van HUYDEKOPER, wegens ongemeene deugden en
+ontelbare verdiensten door ons vaderlandt beroemt, aan  t
+hoofdt dezer toneelstoffe gestelt, zal myne zangeres geen
+kleenen luister byzetten, en haar, als een schootvry schildt,
+tegen alle lasterpylen der nydige vyanden verdedigen.
+      Uw Ed^s aangebore heuscheidt (een deugdt die als een
+hoofdtsieraadt onder alle andere in edelmoedige zielen
+uitmunt) die ik altydt omtrent myn persoon, en in het
+verschoonen der feilen van myne werken bespeurt hebbe,
+verstout my deze bescherminge voor dit toneelstuk Uw Ed. af te
+smeeken; met verzekeringe dat ik dezen dienst tot het einde
+van myn leven met een dankbaar hart zal erkennen.
+      Ik hebbe de hoofdtstoffe van dit werk uit het Latyn van
+Virgilius ENEAS getrokken: maar my van eenige nootsakelyke
+vryheden en byvoegselen, tot oppronkinge der stoffe, en om de
+werking der hertstogten, aaneenschakeling der toneelen,
+kortheit des tydts, en meeste waarschynlykheit uit te vinden,
+(alle zaaken die in een welgeschikt treurspel vereischt
+worden) bedient: naar het voorbeeldt der Fransche
+toneeldichteren, die in deze stoffe ver boven anderen
+uitmunten.
+      Deze zaaken hier omstandig en van stuk tot stuk aan te
+wyzen, zoude mogelyk Uw Ed: verveelen, die, in de geleerde
+schriften en Virgilius heldendicht niet onervaren, in het
+leezen deze uitweiding genoegzaam zal ontdekken; en, wetende
+dat de gansche ENEAS als een verdichtsel aangemerkt wordt,
+deze vryheden niet qualyk duiden.
+      Indien ik nu Uw Ed^s doordringent oordeel eenigzins kan
+behaagen, zal ik in andere gelegenheden op Uw Ed^s bevel myn
+dichtsnaaren weder spannen, en altydt blyken geeven dat ik ben
+
+                                            WEL EDELE HEER
+
+                                                             
+    Uw Eds. gehoorzaamste
+                                                             
+          en verpligtste dienaar
+
+                                                             
+              L. ROTGANS.
+
+                          [Goudstaf]
+
+
+PRIVILEGIE.
+
+DE Staten van Hollandt ende Westvrieslandt, Doen te weten.
+Alsoo Ons vertoont is by Lucas Rotgans, woonende tot Utrecht,
+hoe dat hy geerne Wilhem de derde Koning van Groot-Brittanien,
+door hem in Heldendicht beschreven, en in acht Boeken
+verdeelt, midsgaders zyne verdere dichtkundige Werken met den
+druk zoude gemeen maaken, ende onder zyne dagelykse toezigt en
+gedurige nalésing tot Utrecht laten drukken; Dan alzoo hy niet
+sonder reden bedugt was, dat sommige baetzuchtige menschen, na
+dat hy veel tyds en arbeyds daar toe zoude hebben besteedt, en
+groote onkosten tot het drukken van  t selve gedaan, sich
+mogten onderstaan het voorsz Werk in  t geheel of ten deele in
+Onsen Lande van Holland na te drukken, en dikwils by faute van
+naeukeurige toezigt, en opmerkinge, niet alleen deszelfs
+luyster te beneemen, maar ook zelfs aan de dichtkunde, en aan
+de reputatie van den Auteur te kort te doen; zoo vind de zelve
+zig genootsaakt om zulks voor te komen, zig te addresseren aan
+Ons, en gehoorzaamst te verzoeken, dat Wy uyt Onze Souveraine
+macht en authoriteit, hem geliefden te vergunnen, gelijk
+meermalen in diergelijke voorvallen gebeurt was, Ons consent
+en Octoy, om het voorsz Werk Wilhem de derde, Koning van Groot
+Britannien &c. midsgaders alle zyne dichtkundige Werken te
+mogen laten drukken, daar hy het goet zoude vinden, voor den
+tyd van vyftien eerstkomende Jaren, zonder dat het binnen dien
+tyd aan Onse ingezetenen vry zoude staan het zelve Werk, of
+eenige derzelve na te drukken, of elders nagedrukt in Onzen
+Lande te brengen, uyt te geven, of te verkoopen, onder
+zoodanige verbeurte, als wy zouden gelieven te statueren en
+ordonneren. ZOO IST, Dat Wy de zake ende  t verzoek voorsz
+overgemerkt hebbende, ende genegen wezende ter bede van den
+suppliant, uit Onze rechte wetenschap, Souveraine magt ende
+authoriteyt, den selven suppliant geconsenteert, geaccordeert,
+ende geoctroyeert hebben, consenteren, accorderen ende
+octroyeren mitsdesen, dat hy gedurende den tyd van vyftien
+eerst agtereenvolgende jaren het voorsz Boek, genaamt Wilhem
+de derde, Koning van Groot Britannien &c. mitsgaders alle zyne
+verdere digtkundige Werken binnen de voorsz Onsen Lande alleen
+zal mogen drukken, doen drukken, uytgeven ende verkopen:
+verbiedende daarom allen ende een iegelyken het zelve Boek in
+ t geheel ofte ten deele naer te drukken, ofte elders
+naergedrukt binnen den zelven Onsen Lande te brengen, uit te
+geeven ofte te verkopen, op verbeurte van alle naergedrukte,
+ingebragte, ofte verkogte Exemplaren, ende een boete van drie
+hondert guldens daarenboven te verbeuren, te appliceren een
+derdepart voor den Officier die de calange doen zal, een
+derdepart voor den Armen daar het casus voorvallen zal, ende
+het resteerende derdepart voor den suppliant. Alles in dien
+verstande, dat Wy den suppliant met Onsen Octroye alleen
+willende gratificeren tot verhoedinge van zijne schade door
+het naardrukken van het voorsz boek, daar door in genigen
+deele verstaan den inhoude van dien te authoriseren, ofte te
+advoueeren, ende veel min het zelve onder Onse Protectie ende
+bescherminge eenig meerder credit, aansien ofte reputatie te
+geven, nemaar den suppliant in cas daarinne iets onbehoorlyks
+soude influeren, alle het zelve tot zijnen laste sal gehouden
+weesen te verantwoorden, tot dien eynde wel expresselyk
+begeerende, dat by aldien hy dezen Onsen Octroye voor het
+zelve Boek zal willen stellen, daar van geen geabbrevieerde
+ofte gecontraheerde mentie zal mogen maken, nemaar gehouden
+zal weezen het zelve Octroy in  t geheel en zonder eenige
+Omissie daar voor te drukken, ofte te doen drukken, ende dat
+hy gehouden zal zyn een exemplaar van het voorsz Boek gebonden
+ende wel geconditioneert te brengen in de Bibliotheecq van
+Onse Universiteyt tot Leyden, ende daar van behoorlyk te doen
+blijken: alles op poene van het effect van dien te verliesen;
+Ende ten einde de Suppliant desen Onsen consente ende Octroye
+moge genieten als naer behooren, lasten Wy allen ende eenen
+iegelijken die  t aengaen magh, dat zy den Suppliant van den
+inhoude van desen doen, laten ende gedogen, rustelijk,
+vrédelijk ende volkomentlijk genieten ende gebruyken,
+cesserende alle belet ter contrarie. Gedaan in den Hage onder
+Onzen grooten Zegele hier aan doen hangen den xxxj^en July, in
+ t Jaar Ons Heeren ende Saligmakers duysent ses hondert
+sevenentnegentigh.
+
+A. HEINSIUS,
+
+                        Ter Ordonnantie van de Staten
+
+                                        SIMON VAN BEAUMONT.
+
+  ______________________________________________
+
+  Lukas Rotgans heeft het recht van deeze privilegie, tot het
+drukken van zyn Treurspel Eneas en Turnus, overgedraagen aan
+François Halma, nu Boekdrukker en Boekverkoper te Amsterdam.
+
+                         [Goudstaf]
+
+                        VERTOONERS.
+
+LATINUS, Koning der Latynen.
+TURNUS, Koning der Rutulen.
+ENEAS, Koning der gevluchte Trojaanen.
+AMATE, Gemalin van Latinus.
+LAVINIA, Dochter van Latinus en Amate.
+JULIA, Vertroude van Amate.
+SABINE, Vertroude van Lavinia.
+THYRENUS, Vertrouweling van Latinus.
+MARCELLUS, Hooftman der Lyfwacht van Latinus.
+ACHATES, & SERESTUS, Trojaanen van  t gevolg van Eneas.
+LYFWACHT.
+
+Het Toneel verbeeldt een zaal in  t hof van
+                Latinus, binnen Laurentum.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ENEAS en TURNUS
+
+TREURSPEL.
+
+___________________
+
+EERSTE BEDRYF.
+
+EERSTE TONEEL.
+LATINUS, THYRENUS.
+
+                LATINUS.
+
+HEbt gy myn last verricht, Thyrenus?
+
+                THYRENUS.
+
+                                                                  De Trojaan
+Heeft ons den stilstant, naar uw voorschrift, toegestaan.
+
+                LATINUS.
+
+Verhaal my verder, hoe  t in  t leger stondt geschapen.
+
+                THYRENUS.
+
+Ik zag Eneas voor zyn tent, in  t glinstrent wapen,
+(5) De legerbende zelf, met uitgetogen zwaardt,
+Aanmoedigen ten storm, op  t brieschend oorlogspaardt.
+Gy helden, sprak hy, die, na zo veel zwarigheden
+En wederwaardigheên, door  t woedent lot geleden,
+Met ons ten leste zyt in Latium gelandt;
+(10) Daar gy de Trooische vlag op d oevers hebt geplant
+Van vader Tyberyn, en in verscheide slagen,
+Begunstigt van de Goôn, de zege wechgedragen,
+En uw trofeen gesticht in  t vyandtlyke bloedt:
+Wy houden ons verpligt aan uw beleidt en moedt.
+(15) De Goden hebben ons naar deze kust gezonden,
+Toen Priaams ryksstadt lag door  t Grieksche vier verslonden,
+En  t koninklyk paleis, met zyn gezengde kruin,
+De lykasch van den heer betreurde op smokent puin.
+Nu lacht de leste strydt ons toe, myn togtgenooten.
+(20) Latinus hooge vest en rykbemande sloten
+Staan ons te winnen. ziet de ladders opgerecht,
+Den stormbok vaardig: en de Trooische legerknecht
+Zwaait toorts en pekstok, versch ontsteken, om de daken
+Van huis en tempelkoor en hofpaleis te blaaken.
+(25) Dit ryksgebiedt wierdt ons geschonken van de Goôn.
+Latinus heeft my zelf zyn dochter aangeboôn;
+Toen hy, verwittigt door gezanten van myn landen,
+Anchizes offerkop en Priaams dierbre panden,
+Zyn purper feestgewaadt, den staf en tullebandt
+(30) Aanvaardde, met veel zorg gesleept uit Trojes brandt.
+Hy zondt my wederom geschenken uit zyn wallen,
+En liet zich ons verbondt en vrientschap wel gevallen.
+Toen scheen de tydt van rust geboren, en ons leet
+Ten einde: maar de vorst verbrak in  t kort zyn eedt.
+(35) Wy wierden, als gy weet, door wapens aangegrepen;
+En Turnus slingerde de fakkels in de schepen,
+Terwyl ik hulp verzocht in prins Evanders hof
+Het is myn oogmerk niet, ô helden! om uw lof
+En brave daden in  t byzonder op te haalen.
+(40) Wy zagen door uw arm ontelbre zegepraalen,
+En  s vyandts grootste magt bezwyken. vaart nu voort:
+Ontgrendelt met uw vuist de vastgesloote poort.
+Ontwapent Turnus wacht, en baant, door dapperheden,
+Den weg, waar langs Askaan zal op den rykstroon treeden.
+(45) Toont, door  t verheffen van Kreüzes eedle spruit,
+Dat gy hanthavers zyt van  t opperste besluit.
+Hier zwygt hy.  t veldtgeschrei der strydtbaare oorlogsknechten,
+Verheft zich aan de lucht: en elk, belust op vechten,
+Op zege, of in  t geweer te sneuvelen, belooft
+(50) Den veldtheer hulp, en zwaait den sabel om zyn hoofdt;
+Ja wacht met ongedult alleen het legerteken.
+Maar ik verzoek den heldt uit uwen naam te spreeken.
+Achates maakt myn komst in  t leger hem bekent,
+Hy stygt van  t oorlogspaardt, en leidt my in zyn tent.
+(55) Ik heb myn pligt voldaan, en, naar uw welbehagen,
+Den stilstant aan den vorst van Troje voorgedraagen.
+
+                LATINUS.
+
+Wat antwoordt gaf hy u?
+
+                THYRENUS.
+
+                                                    Ik sta gewillig toe,
+Het geen uw koning eischt, en ben den oorlog moe:
+Ja haak naar tydt en plaats om in gesprek te treden.
+(60) Ga, bootschap aan uw heer, Thyrenus, dat ik heden,
+Tot vordering van vrede en rust, met zyn verlof,
+En onder vrygelei, verschynen zal in  t hof.
+Zo luidde  t antwoordt van den prins.
+
+                LATINUS.
+
+                                                        Ik zal hem wachten.
+ t Gedenkt u noch dat wy gekranste schapen slachtten,
+(65) Ter eere van den boom, aan Febus dienst gewydt.
+Wat zag men wonderen by  t offer in dien tydt!
+Een dikke byzwarm daalde al brommende op de loten,
+En bleef, o wonder! met aan een gevlochte pooten
+Vasthangen aan den top der lauren by  t altaar.
+(70) Een ieder stondt verstelt. toen riep de wichelaar:
+Hoort, hoort myn spelling, ô godtvruchtige Latynen!
+Wy zien eerlang in  t ryk een vreemde magt verschynen,
+En heerschen op den troon. maar  t bleef hier noch niet by.
+Myn dochter, d offervlam ontsteekende aan myn zy,
+(75) Scheen van een hemelsch vier te schittren en te blaaken,
+Haar kroon te branden, en de vlam door alle daken
+En zaalen van  t paleis en hofkapel te slaan.
+Ik zag, al bevende, dat wonderteken aan,
+En rustte niet, maar trok, langs onbewoonde wegen,
+(80) Naar  t heilig woudt, om met myn vader raadt te pleegen.
+De godtsdienst wordt bereidt en  t offervee geslacht.
+Ik vly myn stramme leen op d afgestroopte vacht.
+De zon was lang in zee gezonken met haar straalen.
+De starren scheenen flaau op d omgelege dalen:
+(85) Toen ik een schorre stem, geborsten uit den grondt,
+En dit Orakel hoorde uit vader Faunus mondt.
+Lavinia zal nooit met uw Latynen trouwen.
+      Ontzeg des minnaars eisch, die nu van liefde brandt.
+Gy zult haar bruidegom eerlang in  t ryk aanschouwen.
+      (90) Hy nadert vast, myn zoon, maar uit een ander landt.
+Wy wachten van dien heldt onsterfelyke neeven,
+      Verheerlykt door hun deugdt, beroemt door  t krygsgeweer.
+Zo wordt uw groote naam tot aan de lucht verheven.
+      Zo buigt de wereldt zich voor onzen nazaat neêr.
+(95) Ik keerde wel vernoegt ten hove, en openbaarde
+ t Geheim der Goden, dat myn vader my verklaarde,
+Aan veel getrouwen, die my dienden in den raadt.
+Neef Turnus, die naar d echt van onze dochter staat,
+Zag my, met ongedult, zyn vlammen wederstreeven.
+
+                THYRENUS.
+
+(100)  t Is waar, die brave prins heeft haar zyn hart gegeeven.
+Hy mint Lavinia; en zyn oprechte min
+Wierdt lang begunstigt van uw waarde gemalin.
+Zy trachtte dag op dag, naar onze huwlykswetten,
+Met alle plegtigheên, den troudag voort te zetten:
+(105) Ja gansch Auzonië verlangde om  t vorstlyk paar
+Den bruiloftzegen toe te galmen voor  t altaar.
+
+                LATINUS.
+
+Terwyl Amate door gebeden my vermoeide,
+En Turnus minnedrift in d ingewanden groeide,
+Daar ik myn oor voor zyn verliefde klagten sloot,
+(110) Verscheen Eneas op den Tyber met zyn vloot.
+De koning treedt aan landt met al zyne onderdaanen.
+Hy meet de gronden voor de tenten der Trojaanen,
+Steekt erven af, en zendt zyn afgezant naar  t hof,
+Met eedle giften en geschenken, ryk van stof
+(115) Toen heb ik hem,  t is waar, myn dochter aangeboden.
+Ik was verheugt, en dacht het hoog besluit der Goden
+Zendt ons dien vreemdeling, als Faunus heeft gespelt.
+Maar toen Askaan het hert van Thyrrus wondde op  t veldt,
+Zo teer van hem bemint en al zyn huisgenooten,
+(120) Raakte ons gewest in roer; en d akkerliên beslooten
+Het leet te wreeken van den hoeder van myn vee.
+Men vloekte Eneas en zyn komst aan onze ree.
+De herder grypt geen stok noch steen, maar speer en degen,
+En vliegt, op wraak verhit, de Trooische jagers tegen.
+(125) Het volk wordt handtgemeen, ja meer en meer verwoedt,
+En verft de velden van Auzonië met bloet.
+Maar wat vermag een heir van landtliên tegen schaaren,
+Zo lang getuchtigt, en in oorlogskunde ervaren?
+Zy vlieden uit den strydt, begruist van bloet en stof,
+(130) En sleepen hunne doôn al klagende in myn hof.
+Elk prest my tot de wraak. Amate, nat van traanen,
+Verschynt, en zoekt my tot den oorlog aan te maanen.
+Neef Turnus, aangevoert tot haat door minnenydt,
+Biedt my zyn wapens aan, en rekhalst naar den strydt
+(135) De ryksraadt, vaardig om dit ongelyk te wreeken,
+Verzoektme d yzre poort des oorlogs op te breeken;
+Ook zonder  t noodlot raadt te vraagen voor  t altaar.
+Ik, die den ramp van  t ryk voorzie en  t krygsgevaar
+Ontzeg dien eisch, en zoek d oplopentheidt te stuiten:
+(140) Maar vruchteloos. ik wierdt vervolgt, en mostme sluiten
+In myn geheimvertrek, om  t lastig volk t ontgaan.
+Toen scheen een hooger magt de kerkdeur op te slaan
+Een Godtheidt brak de kracht van grendelen en sloten
+Men greep de wapens aan. wat wierdt er bloet vergooten,
+(145) En reis op reis myn magt ontzenuwt in den slag!
+Eneas triomfeert. dies haak ik naar  t verdrag,
+Om  t dreigende gevaar te keeren van myn muuren;
+Zy kunnen  t stormgeweldt der Teukren niet verduuren
+Ga, breng den prins myn woordt, en lei hem, naar den eisch,
+(150) Met vyftig edelliên, op  t heerlykst naar  t paleis.
+Ik zie de koningin. zy naakt, en wil my spreeken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+AMATE, LATINUS.
+
+                 AMATE.
+
+ZAl ik dan zonder endt om Turnus troudag smeeken,
+En uw verstokt gemoedt steets weigeren, myn heer?
+Vergeldt gy zo den dienst van zyn gevreest geweer,
+(155) Dat Latium beschermt voor Trooische bannelingen,
+Die tegen recht in  t hart van uwe landen dringen?
+Hadt Turnus in dien staat niet voor den troon gewaakt;
+D uitheemsche rover hadt uw rykskroon lang geschaakt,
+Den hoogen burg verwoest, en uw doorluchte maagen,
+(160) Met slaafsche ketenen geklonken aan zyn wagen,
+Van vorstelyk sieraadt ontbloot, door bloedig stof
+In krygstriomf gesleept uit ons gebliksemt hof.
+Neef Turnus heeft voor u de wapens aangeschooten,
+En wurf ten dienst van  t ryk ontelbre krygsgenooten:
+(165) Hy heeft de braafsten van Eneas heir gevelt;
+En Pallas sneefde door den sabel van dien heldt.
+Een koning is verpligt genooten dienst te loonen.
+Zo gy ondankbaar blyft, gy zult den luister hoonen
+Van ons aaloudt geslacht en vader Faunus stam.
+(170) Ontwaak, myn echtgenoot, ontsteek de bruiloftsvlam
+Met uw gewyde toorts op Turnus echtaltaaren.
+Ik zal Lavinia, met ongevlochte haaren,
+In  t witte feestgewaadt, geleiden met myn handt
+Naar  t hooge tempelkoor, daar  t huwlyksoffer brandt
+
+                LATINUS.
+
+(175) Hou op, vorstin, gy quetst myn ooren door uw klagten.
+Hoe komt in dezen staat de trou in uw gedachten?
+Hebt gy de stormbazuin niet voor den muur gehoort ,
+De Trooische ladders niet zien ryzen voor de poort?
+En zal die bruiloftsbandt Eneas opzet breeken,
+(180) Het rechte middel om zyn gramschap meer t ontsteeken?
+
+                 AMATE.
+
+Schoon  t vyantlyk geweldt naar onze muuren streeft,
+Wy vreezen niet, zo lang de brave Turnus leeft.
+Ja, zo gy hem vergunt Lavinia te trouwen,
+Gy zult een groote vrucht van heil in  t ryk aanschouwen.
+(185) De huwlyksfakkel zal den fellen oorlogsgloedt,
+In  t stryden, meer en meer ontvonken in zyn bloedt.
+Hoe zal d oprechte min den moedt van Turnus wetten,
+Als hem Lavinia den helm op  t hoofdt zal zetten,
+En reiken met een kus het onverwinbaar zwaardt,
+(190) En gulden beukelaar, wanneer hy stygt te paardt!
+My dunkt, ik zie den heldt uit onze poorten draaven,
+Ontelbre vyanden in  t bloedig stof begraaven,
+Slagordens breeken, en Eneas heir, in noodt,
+Omkyken te vergeefs naar zyn vernielde vloot.
+
+                LATINUS.
+
+(195) Gy vleit u zelf te veel, vorstin, met die gedachten.
+ t Is waar den heldt, dien gy begunstigt, moet ik achten
+En hoog waardeeren om zyn diensten, aan dit ryk,
+In  t nijpen van den noodt, beweezen. blyk op blyk
+Van edelmoedigheidt, beleidt en dapperheden
+(200) Gaf Turnus, daar voor  t recht der rykskroon wierdt gestreeden:
+Maar prins Eneas week hem nooit in kracht of moedt.
+Gy acht uw vyandt kleen, en ziet den tegenspoedt
+Van onze wapenen. hoe kan ik dit verdraagen?
+Maar belg u niet, mevrouw, indien ik iets moet vraagen,
+(205) En antwoordt my oprecht. gy, die uw eenig kindt,
+Lavinia, zo vast aan Turnus echt verbindt,
+En die van tydt tot tydt die zaak hebt voortgedreeven,
+Weet gy haar keur? heeft zy haar stem hier toe gegeeven ?
+
+                 AMATE.
+
+(210) Ik ken myn dochters aardt en haar gehoorzaamheidt,
+Die nimmer met den wil der oudren heeft gepleit.
+Lavinia sprak nooit den eisch der moeder tegen.
+ t Is my genoeg, als ik haar vader kan beweegen,
+Ik bidde u in den naam der Goden, geef uw woordt,
+En zet dit heilzaam werk door Turnus troudag voort.
+(215) Hy zal voor ons...
+
+                LATINUS.
+
+                                          Hou op, en stel uw hart te vreden.
+Gy zult myn oor niet lang vermoejen door gebeden,
+Maar licht haar bruiloftsfeest noch vieren dezen dag.
+Vaar wel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+AMATE, JULIA.
+
+JULIA.
+                    DE koning hoort in  t eindt naar uw geklag.
+Nu zullen wy de bruidt geleiden naar den tempel,
+(220) En stroojen palm en mirt en roozen op den drempel,
+Ja plegtig op de luit met onze vingren slaan,
+Tot roem van Turnus zwaardt, dat wondren heeft gedaan.
+
+                 AMATE.
+
+Indien ik my op  t woordt des konings mag vertrouwen,
+Zal gansch Auzonië dat groote feest aanschouwen.
+(225) Gy, die hier boven heerscht, als koningin der Goôn,
+O Juno! die myn wensch begunstigt op uw troon;
+Gy, die den gloedt van haat ontsteekt in myn gedachten;
+Ach! mogt ik met de byl den Trooischen balling slagten
+Voor Turnus echtaltaar, en  t lillend ingewandt
+(230) Opoffren aan uw wraak met myn bebloede handt;
+Dan zou ik, wel vernoegt, bestuwt van maagdereien,
+Het nieuw vereenigt paar naar  t bruitsbanket geleien,
+En  t afgetapte bloedt, gemengt met bruiloftswyn,
+Inzwelgen aan den disch, terwyl wy vrolyk zyn.
+
+                 JULIA.
+
+(235) Zal  t my geoorlooft zyn de koningin te vraagen,
+Wat oorzaak haar beweegt zo fellen haat te draagen?
+Gy vloekte den Trojaan voor  t breeken van den vreê;
+Zo dra hy landde met zyn vloot aan onze ree.
+
+                 AMATE.
+
+Gy hebt, myn Julia, voor lang de gunst genooten,
+(240) Dat ik aan u den grondt myns boezems heb ontslooten:
+En is u dit geheim verzwegen? hoor uit my
+Den oorspronk van myn wrok, myn woede en razerny.
+Maar beef voor  t gruuwzaam spook, dat ik u zal verhaalen.
+Een donkre nacht bekleedde om hoog de zonnestraalen,
+(245) Toen ik, van moeite en zorg en waaken afgemat,
+Het hoofdt onthulde, en voort op myne nachtkoets tradt.
+Ik zag een Vloekgodin, ten afgrondt uitgebroken,
+In  t midden van den slaap langs myne kamer spooken.
+Zy zwaaide een zwarte toorts met haar verbleekte handt,
+(250) En slingerde de vlam langs  t purper ledekant.
+De haarvlecht krielde om  t hoofdt van krinkelende slangen.
+De wreetheidt stondt gemaalt op d uitgeteerde wangen.
+My dacht, zy drukte met haar vuist, van bloet bemorst,
+Een adder, uit haar pruik gegreepen, in myn borst.
+(255) Ik voelde  t helsch venyn in d aadren onder  t droomen.
+Zy sprak my aan: ik ben in Latium gekomen,
+En uit den jammerpoel, die eeuwig smookt en brandt,
+Door hooger last geprest. Eneas is gelandt.
+De vorst heeft hem tot bruidt Lavinia gegeeven.
+(260) Dit hatelyk verbondt wil Juno wederstreeven.
+Zy vloekte  t magtig Troje en Priaams kroon en staf
+En afkomst, sint zyn zoon het ooft aan Venus gaf
+Haar wrok heeft Ilium door  t Grieksche vier ontsteken
+Zy wil zich meer en meer aan prins Eneas wreeken,
+(265) Zyn huwlyk door uw hulp beletten. schenk de maagdt
+Aan Turnus, die zo trou die schoone liefde draagt:
+Ik zal hem dezen nacht noch in zyn hof aanschouwen,
+En in den slaap  t gevaar van zyne min ontvouwen.
+Hy wapen zich ten strydt, eer hem dit huwlyk smart.
+(270) Hier zwygtze, en drukt de slang noch dieper in myn hart.
+ t Vergif verspreit zich door myn tedere ingewanden.
+ k Ontwaak, en voel een vier door al myn leden branden.
+ t Gelaat stondt naar, en al myn vlechten overendt.
+Ik zag my zelf, maar een gezigt my onbekent.
+(275) Het glas vertoonde (o schrik!) myn oog een ander wezen.
+Ik vloog beneden, om den koning te beleezen,
+En  t opgerecht verbondt te breeken door myn beê:
+Maar vruchteloos. ik raasde en schreeude wee op wee;
+Ja hoonde myn gezag en vorstelyke staaten,
+(280) En holde zinneloos langs onze markt en straaten.
+Ik zocht Lavinia met dodelyk gekerm.
+Ik vondt haar in de zaal. ik greep haar in myn arm,
+En trok haar uit den kring der hoofsche kamenieren,
+Die, bezig met den hals en blonde vlecht te sieren,
+(285) Myn buitensporigheên, met een verbaast gelaat,
+En bevende van schrik, aanschouden in dien staat.
+Ik vluchtte met de maagdt naar buiten, onder  t vloeken;
+Verstak haar onder  t loof in afgelege hoeken,
+Om  t feest te stooren van den Trooischen vreemdeling;
+(290) En, veinzende dat my des Wyngodts geest beving,
+Liep in  t gewyde kleedt met myn ontsnoerde haaren,
+En spookte langs den weg met uitgelaate schaaren.
+Daar gilde ik Evohé, met een verwoeden zin,
+In  t Laurentynsche woudt, als Bachus priesterin.
+(295) De galm verspreidde zich door d omgelege landen.
+Ik slingerde de toorts met myn verbleekte handen,
+En zong prins Turnus lof en zyn verbeelde trou.
+
+                 JULIA.
+
+Het lest van uw verhaal is my bekent, mevrou.
+De stadt liep leeg. men zag de vrouwen der Latynen
+(300) Ook, met een vreemt gebaar, by u in  t bosch verschynen.
+
+                 AMATE.
+
+Terwyl ik dit verhaal; gevoelt myn hart met pyn
+De werking van  t vergif. ô dodelyk venyn!
+Help Julia! ik voel myn ingewanden kooken.
+Ik zie die helsche toorts weêr voor myn oogen rooken:
+(305) Haar vlam ontsteekt een vier van haat in myn gemoedt,
+Dat nimmer wordt gebluscht dan door Eneas bloet.
+Verfoeilyk ondier, dat myn ingewandt komt knaagen!
+Aanqueeker van myn haat! ô werktuig van myn plaagen!
+Verstoorder van myn rust! verwekker van myn smart!
+(310) Verhuis, verhuis serpent, sluip in Eneas hart.
+Doorwroet de Trooische borst. vergiftig al zyn leden
+Door uitgebraakt venyn. beroof hem van de reden,
+Bezwalk zyn brein; opdat hy razende en ontzint,
+(Gelyk een tyger, die zyn eigen nest verslindt,
+(315) En scherpe klaauwen slaat aan d eerstgestreelde jongen)
+Den sabel grype, en, uit de legertent gesprongen,
+Door zyne benden vliege, en Trojes overschot,
+Aan dese kust gelandt tot myn rampzalig lot,
+Verdelge in ons gezigt met al zyn bondtgenooten.
+(320) Ja dwing hem zelf Askaan den dolk door  t hart te stooten:
+Tot hy, vermoeit en zat van moorden, in dien staat
+By  t omgebragte kindt zyn eigen leven laat.
+Dat treurspel kan alleen myn razerny betoomen.
+Dat treurspel zal....
+
+                 JULIA.
+
+                              Bedaar, ik zie prins Tumus komen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+TURNUS, AMATE, JULIA.
+
+TURNUS.
+(325) GY zyt ontstelt, mevrouw. indien ik u verstoor,
+Ik ga.
+
+                 AMATE.
+
+        Neen, Turnus blyf, en geef my wat gehoor,
+Opdat ik u myn vreugdt, en d uwe mag verhaalen.
+
+                 TURNUS.
+
+Spreek van geen vreugde; ik kan myn droefheidt niet bepaalen
+Een hart dat hoopeloos in zuivre liefde blaakt . . . .
+
+                 AMATE.
+
+(330) Hou op.  t is nu geen tydt van klaagen.  t uur genaakt
+Dat gy Lavinia, als gemalin, zult streelen,
+En zy door kus op kus uw minnewonden heelen.
+Stantvaste minnaar, juich om uw gezegent lot.
+
+                 TURNUS.
+
+Heb ik verdient, dat gy myn zuivre min bespot?
+
+                 AMATE.
+
+(335) Doorluchte vriendt, zo na door  t bloet aan my verbonden,
+Hoe tracht myn hulp uw hart t ontlasten van zyn wonden!
+Myn gunst groeit uur op uur, ik min u, als myn zoon
+En stort wel tienmaal daags myn traanen voor den troon
+Dien myn gemaal bekleedt, door zucht tot u gedreven.
+(340) Hy kon myn jongste beê niet langer wederstreeven,
+Maar gaf zyn woordt en sprak: licht ziet gy dezen dag
+Uw dochters feest, en ik het eindt van uw geklag.
+
+                 TURNUS.
+
+Haar bruigom zult gy haast in uw paleis aanschouwen.
+
+                 AMATE.
+
+Ik groet den heldt, die met Lavinia zal trouwen.
+
+                 TURNUS.
+
+(345) Gy groet haar minnaar, maar haar bruigom niet, vorstin.
+
+                 AMATE.
+
+O ja! door  s konings woordt.
+
+                 TURNUS.
+
+                                                      Dat duidt gy naar uw zin.
+Heeft hy myn naam genoemt in  t antwoordt op uw smeeken ?
+
+                 AMATE.
+
+Ik heb hem wel verstaan: hy kon niet klaarder spreeken.
+
+                 TURNUS.
+
+Gy vleit myn hoop, en hebt zyn mening niet gevat.
+(350) Maar als Eneas zal verschynen in de stadt,
+En door uw lyfstaffiers, met alle plegtigheden,
+En vyftig edellien, naar deze hofzaal treeden;
+Zal blyken, wien hy wil verbinden door de trou.
+
+AMATE
+Wat hoor ik!
+
+                 TURNUS.
+
+                    Is zyn komst u niet bekent, mevrou?
+
+AMATE
+(355) O neen!
+
+                 TURNUS.
+
+                    De koning, op den hoogen muur gesteegen,
+Zag flus het leger der Trojanen zich beweegen,
+En in slagorde voor d omringde muuren staan,
+Ten storm gemoedigt door Eneas en Askaan.
+Hy zondt, op dat gezigt, Thyrenus naar beneden
+(360) Om stilstant. dit geviel Anchizes zoon: die heden
+Verwacht wordt, om  t verdrag te sluiten, in  t paleis.
+Gy weet, Lavinia voldoet alleen zyn eisch.
+Nu kan de koningin dit paar naar  t offer leien,
+En  t bruitsbedt voor haar kindt en prins Eneas spreien.
+
+                 AMATE.
+
+(365) Zou die verdelger van ons vorstelyk geslacht,
+Die al myn maagen door zyn zwaardt heeft omgebragt,
+Auzonië verwoest met zyn Trojaansche benden,
+En  t gansche ryk vervult met jammer en elenden:
+Die Faunus afkomst, by den nagebuur vermaardt,
+(370) Door heldendeugdt beroemt, ontluistert door zyn zwaardt:
+Die landt- en waterplaag, die vloek van dorp en steden,
+Zou die met Turnus bruidt gerust ten tempel treeden?
+O neen! Lavinia, eer zal Amates handt
+Uw doodbus sieren, dan uw bruiloftsledekant.
+
+                 TURNUS.
+
+(375) Zo haar de koning aan myn vyandt wil verbinden,
+Hy mogt in dat besluit zich wel bedrogen vinden.
+O neen! ik zal zo licht niet scheiden van de maagdt.
+Ik heb om haar gestreên, het vorstlyk bloet gewaagt;
+En zal dat opzet en dien troudag nooit gedoogen.
+
+                 AMATE.
+
+(380) Noch ik die gruwelen aanschouwen met myn oogen.
+Eer stort myn dochter voor den voet van  t outer neêr.
+
+                 TURNUS.
+
+Eer sneuvelt Turnus of Eneas door  t geweer.
+
+                Einde van het eerste bedryf.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE BEDRYF.
+
+EERSTE TONEEL.
+LAVINIA, SABINE.
+
+LAVINIA.
+O Neen, Sabine, ik kan myn droefheidt niet bepaalen.
+De hemel haat my, en verwektme ontelbre quaalen.
+
+                 SABINE.
+
+(385) Zal dan de druk uw hart steets pynigen, mevrou,
+En ik, van dag tot dag, bewogen door uw rou,
+De purpre roozen, daar de koningen om blaaken
+En oorlog voeren, zien verbleeken op uw kaaken?
+Geef my gehoor, en ban de droefheidt uit uw hart.
+
+                LAVINIA.
+
+(390) Gy wilt my troosten, en erinnert my myn smart;
+Myn wonden heelen, en gy krabt die telkens open.
+Hoe kan de zieken op zyn krankbedde uitkomst hoopen,
+Daar hy, door koorts op koorts gemartelt, in dien staat,
+Verbleekt en klam van zweet, den lyfarts smeekt om raadt;
+(395) Indien men, aangedaan van avrechts mededogen,
+Zyn quaal vernieuwt, en hem zyn lyden stelt voor oogen?
+Rep van geen koningen noch oorlog, zo gy my
+Wilt heelen van myn leet en quelling, die ik ly.
+De krygstoorts, die gy ziet voor onze muuren rooken,
+(400) Wierdt om Lavinia, Sabine, in  t ryk ontstoken.
+Men steekt om myne zaak de schorre krygsbazuin.
+Men spreidt myn bruiloftsbedt op smookende assche en puin,
+Op dode beendren en gekloofde bekkeneelen.
+De ryksstadt wordt ontbloot van burgers door  t krakkeelen.
+(405) De lyken spooken voor myn bedtsponde, en hun bloet
+Schreeuwt eeuwig wraak en wee in myn ontrust gemoedt.
+Hoe droevig hoort myn oor de bleeke weduw klaagen
+Op  t lyk van haar gemaal, door zwaardt of speer verslagen:
+Terwyl de zuigeling, in zyne onnozelheidt,
+(410) De wondt met traanen wascht, en by zyn moeder schreit!
+Zo breekt het wreede lot de vaste huwlyksbanden,
+Om my te paaren, moet myn bruiloftsfakkel branden
+Op  t heldengraf, ontrust door zuchten en geween,
+En duister schynen door de zwarte lyktoorts heen!
+(415) Latynsche weduwen en moeders, die myn klagten
+Veroorzaakt door uw rou; ai queekt in uw gedachten
+Geen haat of vyantschap, maar ziet myn onschuldt aan:
+Verwyt my  t quaadt niet, dat door  t nootlot wordt gedaan.
+Geen mensch kan keeren, dat hier boven is beschoren.
+(420)  t ls waar uw onheil wierdt met my gelyk geboren:
+Maar was my deze keur vergunt van hooger magt;
+Nooit waar uw ramp door myn geboorte voortgebragt.
+ k Hadt onder moeders hart veel eer den geest gegeeven,
+Dan, als de vloek van  t ryk, tot uw bederf te leeven.
+(425) En gy, myn zielvrindin, kloekmoedige Amazoon,
+Kamille, die ten dienst der Laurentynsche kroon;
+De wapens voerde aan  t hoofdt van onze legerschaaren,
+En Trojes magt braveerde, en zo veel krygsgevaaren;
+Tot gy, zo diep in  t hart getroffen door den schicht,
+(430) Om my den dootsnik gaaft: ach! hadt ik uw gezigt
+Met myne vingeren al bevende gelooken,
+En, aan uw zyde op  t veldt in  t bloedig gras gedoken,
+Den pyl getrokken uit uw wonde, en  t bloedt gekust,
+En u vergiffenis gesmeekt! dat zou noch rust
+(435) In deze ontsteltenis aan myn gedachten queeken.
+
+                 SABINE.
+
+ t Is tydt, prinses, om eens uw klagten af te breeken.
+Men zal het oorlogszwaardt haast steeken in de scheê.
+Eneas komt ten hove op  t sluiten van den vreê.
+
+                LAVINIA.
+
+Gy moogt u zelve veel van dit verdrag beloven,
+(440) Sabine, maar wy zyn  t gevaar noch niet te boven.
+Twee vorsten, even groot van dapperheldt en kracht,
+Verheerlykt door hun deugdt en vaderlyk geslacht,
+Staan naar myn huwelyk. wie zal die minnaars scheiden?
+Zal Turnus, die, om my naar  t echtaltaar te leiden,
+(445) Zo veel gevaaren heeft in  t stryden doorgestaan,
+En aan myn min zyn bloet opofferde onder  t slaan,
+Den medeminnaar van zyn eisch zien zegepraalen?
+Of zal Eneas, die, vermoeit van om te dwaalen,
+Na Trojes ondergang belandde aan deze kust;
+(450) Daar hy door  t hoog besluit zyn lang gewenschte rust
+En bruidt zou vinden, als hy voorgeeft, ooit gedoogen,
+Dat my de Rutuler zal trouwen voor zyn oogen?
+Neen, elk vervolgt zyn recht te sterk. Anchizes zoon
+Houdt zich aan  t nootlot vast; en Turnus eischt zyn loon
+(455) Voor zo veel diensten, aan ons vaderlandt beweezen.
+Sabine, dit geschil vervult myn hart met vreezen.
+Ik stel aan u  t gevolg van groote zwarigheên.
+
+                 SABINE.
+
+Indien Eneas hier door  t gunstig* lot verscheen,
+Moet Turnus zwichten voor dat onbepaalt vermogen.
+
+                LAVINIA.
+
+(460) Niet eer, voor dat zyn ziel, ten boezem uitgevlogen,
+ t Krakkeel zal slechten, en myn vader en ons landt
+Den val betreuren van dien grooten bloetverwant.
+
+                 SABINE.
+
+Indien om uwe min die minnaar wierdt verslaagen,
+Zout gy als minnares zyn ongeval beklaagen,
+(465) Of zaagtge Eneas liefst verwinnaar van den strydt?
+Ik vraag te stout.
+
+                LAVINIA.
+
+                            Verwacht ook  t antwoordt op zyn tydt.
+
+                 SABINE.
+
+Heb ik my onbedacht vergrepen door myn reden
+ t Gezag gequetst, verschoon myn buitensporigheden.
+Maar Turnus nadert ons.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+TURNUS, LAVINIA, SABINE.
+
+TURNUS.
+                                          IK kom hier niet, vorstin,
+(470) Om naar gewoonte u weer te spreeken van myn min:
+Ik mogt uw ooren door dat onderhoudt verveelen;
+Daar licht Eneas door  t gevry uw hart zal streelen:
+Tot gy, verbonden door den vasten huwlyksknoop,
+In  t eindt den oorlog ziet verdwynen en myn hoop.
+
+                LAVINIA.
+
+(475) De minnenydt vervoert uw tong om zo te spreeken.
+Waar is myn liefde tot Eneas u gebleeken?
+
+                 TURNUS.
+
+ t Is waar ik speurde nooit, prinses, in uw gelaat
+De minnetogten, maar geen tekens ook van haat.
+De Trooische vyandt, die, na  t ankren aan uw stranden,
+(480) Het Laurentynsche veldt verwoestte, en deze landen
+En landtgenooten door zyn onrechtvaardig zwaardt
+Vernielde, en akkerman noch burger heeft gespaart;
+Wierdt door de koningin, uw moeder, nat van traanen,
+Gelastert, en gevloekt van al haar onderdaanen;
+(485) Maar gy bleeft koel, en ik hier door vol achterdocht:
+Te meer toen ik vergeefs u tot myn bruidt verzocht,
+Gy ongevoelig bleeft, en zonder mededogen
+Uw oor sloot voor myn klagte en voor  t geween uw oogen.
+
+                LAVINIA.
+
+Indien uw liefde... maar de koning komt. vaar wel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+LATINUS, TURNUS, MARCELLUS.
+
+MARCELLUS.
+(490) IK heb de bende van uw lyfwacht, op  t bevel,
+Met helm en beukelaar en harnas uitgestreken,
+Voor dit paleis verdeelt.
+
+                LATINUS.
+
+                                        Uw vlyt is my gebleken.
+Ga heen, en hou de wacht by  t volk.
+
+               MARCELLUS.
+
+                                                          Met uw verlof.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             VIERDE TONEEL.
+
+            LATINUS, TURNUS.
+
+                LATINUS.
+
+PRins Turnus, die uw stam verheerlykt, en myn hof,
+(495) Ja  t gansche ryk verpligt in deze ontroerde tyden,
+Ik hoop dat gy haast rust genieten zult na  t stryden.
+Men zal, indien ons  t lot begunstigt, het verdrag,
+Tot welstant van de kroon, noch sluiten dezen dag.
+Zo ziet gy  t vrolyk eindt van alle uw krygsgevaaren.
+
+                 TURNUS.
+
+(500) Die vreê zal in myn hart een nieuwen oorlog baaren,
+Myn onrust spruiten uit de rust die ge u verbeeldt.
+Ik heb my zelf zo lang met ydle hoop gestreelt,
+Uw dochter dag op dag om wedermin gebeden,
+Voor  t recht van Latium, voor u en haar gestreden;
+(505) Nu zal myns vyandts arm, tot nadeel van myn eer,
+De bruidt omhelzen, die  k verdiende door  t geweer.
+
+                LATINUS.
+
+ t Is noch geen tydt om door die vreeze u zelf te quellen.
+Men hoor den eisch eerst, dien Eneas voor zal stellen.
+
+                 TURNUS.
+
+Gy kent dien zwaaren eisch, den oorspronk van den strydt.
+
+                LATINUS.
+
+(510) Licht staat hy af. de mensch verandert door den tydt.
+
+                 TURNUS.
+
+ t Waar best tot afstant hem te dwingen door den degen.
+
+                LATINUS.
+
+Wy streefden lang vergeefs dien grooten vyandt tegen
+Met onze wapenen. myn meeste magt, door  t staal
+Gesneuvelt, gaf hem stof tot roem en zegepraal.
+(515) Gy ziet het lykhout, naar der vaadren wyze, ontstoken,
+Door gansch Auzonië langs onze velden rooken.
+De damp van  t lykaltaar bekleedt alom de lucht:
+Terwyl de zuigeling, de vrou en moeder zucht
+By  t kraakende gebeente, en d asch besproeit met traanen.
+(520) Zo wordt myn ryk ontvolkt, ontbloot van onderdaanen,
+Zo nodig in den kryg. ook keerde myn gezant
+Te rug, maar zonder hulp uit Diomedes landt,
+Tot hoon van my en  t ryk, met d aangebode gaaven.
+Zyn haat legt onder  t puin van Trojes muur begraaven.
+(525) Hy heeft zyn vyantschap en wrok, gelyk hy zegt,
+Op  t graf van Priaam en zyn zoonen afgelegt.
+Zal  t dan niet raatzaam zyn het vreêverbondt te sluiten,
+Om  t schadelyk gevolg van grooter quaadt te stuiten?
+
+                 TURNUS.
+
+Heeft ons het ongeluk in dezen staat gebragt,
+(530) Dat gy geen hoop stelt op uw wapens en myn magt?
+En zal Auzonië, door laffe vrees bezweeken,
+Uitheemsche ballingen, ô schande! om vrede smeeken?
+Gy helden, die, door  t staal getroffen in  t gevecht,
+Uw eeretekens door uw doot hebt opgerecht,
+(535) Het oorlogslot heeft u ver boven ons verheven,
+En  t eerlyk hart doorboort, om niet veracht te leeven!
+Maar hoor, doorluchte vorst, voor  t lest myn woorden aan:
+ t Is waar, de krygskans diende Eneas onder  t slaan;
+Doch  t voordeel stont hem dier. de bloem der Trooische helden,
+(540) Door schicht op schicht ontzielt, vertreden op de velden
+Van paardevoeten, en mishandelt door  t geweer,
+Getuigt, hoe dier hy kocht die kleene zege en eer.
+Het weifelent geluk draait sneller dan de winden,
+Begrimt den voorspoedt van zyn eerstgestreelde vrinden,
+(545) En hanthaaft met veel zucht de zaak van hun party.
+Verwacht een gunstig lot, myn heer, aan onze zy,
+Na zo veel rampen en ontworstelde ongelukken.
+Nooit moet de wanhoop in  t verlies den moedt verdrukken.
+ t Vervallen werk wordt meest door vlyt en moedt herstelt.
+(550) Wie zich lafhartig toont, zal zwichten voor  t geweldt.
+Heeft Diomedes u geweigert hulp te zenden;
+ k Verzeker u van volk en uitgekeurde benden:
+Betrou myn vlyt; als gy voor dezen hebt gedaan.
+
+                LATINUS.
+
+Wanneer de zeeman op den woesten oceaan,
+(555) Door tekens van de lucht, het onweer ziet genaaken,
+Dan vindt hy raatzaam, eer de noodt hem tref, te waaken.
+Hy toont zich vlytig in  t bezorgen van zyn heil,
+En strykt by tydts, eer hem de storm verrass , het zeil.
+Wy hebben, maar te dwaas, door hoogmoedt aangedreven,
+(560) Het zeil te hoog in top getrokken en verheven:
+ t Is tydt te zwichten, eer wy in den krygsorkaan,
+Die daaglyks opsteekt, met den hulk van  t ryk vergaan.
+ t Is geen lafhartigheidt in hachelyke tyden
+Te spreeken van verdrag na  t edelmoedig stryden;
+(565) Wanneer men, van  t geluk verlaaten en veracht,
+Den wissen ondergang uit  s vyands voordeel wacht.
+ t Afgunstig nootlot, in ontelbre nederlaagen,
+Het hoofdt te bieden, en hartnekkig uit te daagen,
+Is wanhoop, die  t verderf veroorzaakt. toom uw moedt;
+(570) Verschoon u zelf, uw volk en het Latynsche bloedt.
+
+                 TURNUS.
+
+De koning zoekt vergeefs myn heldenvier te blusschen.
+Zou ik Eneas, met myn bruidt, op  t vorstlyk kussen
+Van uw verheven stoel zien pronken na uw doot,
+Of by uw leven  t ryk gebieden? neen: te groot
+(575) Is Turnus glorizucht en liefde, om voor zyn oogen
+Dat kroon- en bruiloftfeest lafhartig te gedoogen.
+
+                LATINUS.
+
+Ik zoek den vrede niet te koopen tot dien prys;
+En zal myn oogmerk u ontdekken, tot bewys,
+Dat ik uw trouwen dienst niet wil verongelyken.
+(580) Een ruime landtstreek legt beslooten in myn ryken:
+Aruns en Rutuler, vereenigt door  t verbondt,
+Bezaajen  t hoog gebergte en ploegen daar den grondt,
+Terwyl hun herders  t vee door vruchtbre beemden weiden.
+Eneas kan zyn volk, indien  t hem lust, geleiden
+(585) (Dat zal ik voorslaan) naar die grens, en zonder schroom
+Zyn tenten nederslaan aan myn Tuskaanschen stroom,
+Zyn steden stichten, en met ons in vrientschap leeven.
+Of wil hy over zee zich elders heen begeeven,
+En vreemde volkeren bezoeken met zyn magt:
+(590) Men zal hem, naar  t gebruik, den ryksrok, groot van pracht,
+Den gulden wagenstoel en gout en zilver schenken,
+Om eeuwig aan  t verbondt van Latium te denken.
+Ook zal men hem voorzien met schepen op zyn reis,
+En alles voor  t vertrek bezorgen naar den eisch.
+
+                 TURNUS.
+
+(595) Hoe kuntge u zelf en my met zulk een voorslag vleien?
+Eneas zal zo licht niet van uw oever scheien,
+Noch zich vernoegen met dat aangeboden landt.
+Geen koninklyk geschenk van gout of diamant,
+Geen sierlyk elpenbeen, noch purpre troongewaaden,
+(600) Bezaait met peerlen en gestikt met gulde draaden,
+Noch dierbre schatten, door uw kunstenaars gewrocht,
+Zyn by het ryksjuweel, dat hier zyn heerschlust zocht,
+Prinses Lavinia, in waarde te gelyken.
+Hy wil, door haare min, zich met uw kroon verryken.
+(605) En zou hy afstant doen, door minder schat bekoort?
+Geloof dat niet.
+
+                LATINUS.
+
+                        Ik hoor gewag voor deze poort.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIJFDE TONEEL.
+LATINUS, TURNUS, MARCELLUS.
+
+MARCELLUS.
+MYn heer, Eneas is in uw paleis verscheenen,
+En wacht hier buiten in de voorzaal.
+
+                LATINUS.
+
+                                                        Ga straks heenen;
+Gelei hem hier Marcel . ô hemel! die den brandt
+(610) Van dezen oorlog hebt ontsteeken in myn lant,
+En d yzre tempeldeur ontsloten; droog de traanen,
+Verzoet de klagten van myn treurende onderdaanen;
+Begunstig ons verdrag: dan zal myn dankaltaar
+Eerbiedig rooken na  t ontworstelde gevaar!
+
+                 TURNUS.
+
+(615) Gy, die hier boven heerscht, onsterfelyke Goden,
+Die  t menschelyk geslacht verpligt aan uw geboden,
+Ai stort in dezen staat op  t ryk uw zegen neer!
+ k Beveel aan u myn min, myn leven en myn eer!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZESDE TONEEL.
+ENEAS, LATINUS, TURNUS, THYRENUS,
+ACHATES, SERESTUS.
+
+ENEAS.
+DOorluchte vorst, doordien de stilstant is geslooten,
+(620) Ben ik met kleen gevolg van myne togtgenooten,
+Verzekert van uw woordt, gekomen in uw wal;
+Om d onderhandeling van vrede, in dit geval,
+(Zo  t vergelyken van den twist u mogt behaagen)
+Zelf by te woonen, myn besluit u voor te draagen
+(625) En  t antwoordt op myn eisch te hooren uit uw mondt.
+Ik zal uw majesteit het breeken van  t verbondt
+Bezworen by de Goôn in  t ankren aan uw paalen,
+Met scherpe woorden niet verwyten noch herhaalen.
+Steets drukt rechtvaardigheidt, door ramp en tegenspoedt,
+(630)  t Bewys van ongelyk in  t overtuigt gemoedt.
+Wy zochten in uw ryk, na  t worstlen met de baaren,
+De rust te vinden voor onze afgesloofde schaaren,
+En herberg voor myn schat, en vaderlyke Goôn,
+En heiligdommen, en den ouden Priaams kroon,
+(635) En dat ik, met gevaar van  t leven, onder  t blaaken,
+Noch woekerde uit de vlam der koninklyke daken.
+Wy zochten nooit uw volk t ontrusten door geschil,
+Maar ons te voegen naar het nootlot en uw wil.
+Ik zweer u by den stam, waar uit wy zyn gesprooten;
+(640) Dat veele volken ons verblyf, als bondtgenooten
+En vrienden, in hun landt aanboden, om gerust
+Te leeven; maar  t besluit voerde ons aan deze kust.
+De koning Dardaan zelf, geteelt aan uwe stroomen,
+Verscheen my dagelyks in  t zeilen, onder  t droomen,
+(645) En preste ons met de vloot naar uw Latynsche ree.
+Zo dat geen storm, noch vrees voor schipbreuk op de zee,
+Maar  t hemelsche besluit, door dagelyksche blyken,
+Ons dwong de zeilen in Auzonië te stryken.
+Maar d ingebeelde rust wierdt haast ontrust, myn heer,
+(650) Na  t opgerecht verbondt. uw landtvolk, in  t geweer,
+Bestookte ons onverwacht in  t jaagen op de velden.
+ t Is nodeloos  t gevolg van dit krakkeel te melden,
+De werking van den haat, zo diep in  t hart geprent,
+Weêr op te haalen: neen; dat  s u en my bekent.
+(655) Ik zeg in  t kort: gy ziet my met de zege praalen,
+Uw magt bezwyken en den moedt der helden daalen.
+Zo ver begunstigt ons de voorspoedt, dat myn handt
+Haar zegestanders voor uw muuren heeft geplant.
+Maar denk niet, dat de gunst der Goôn en  t overwinnen
+(660) Ooit opgeblazenheidt zal koestren in myn zinnen.
+Een edelmoedig hart beteugelt in  t geluk
+Zyn hovaardy, en draagt zich moedig onder  t juk
+Van tegenspoedt: dit heeft Anchizes in zyn leven,
+By andre lesssen van myn jeugdt, my voorgeschreven.
+(665) Ik schat uw vrientschap hoog, en, schoon ik triomfeer,
+Geeft gy de rede plaats, ik leg de wapens neer.
+
+                LATINUS.
+
+Nooit is myn voet van  t spoor der billikheidt geweeken,
+Maar steets myn zucht tot recht in vrede en kryg gebleeken.
+Geen oorlogsdrift heeft ooit myn reedlyk hart vervoert,
+(670)  t Verbondt gebrooken, of den nagebuur ontroert.
+Nooit zocht ik met myn zwaardt, door schennis van de wetten,
+En  t recht der volkeren, myn ryksgrens uit te zetten:
+Maar in  t bezitten van myn erfgebiedt vernoegt,
+Het lot te looven, van de Goôn my toegevoegt.
+(675) En zou ik zonder reên den vreemdeling na  t landen,
+Als vyandt, onverwacht bestooken aan myn stranden?
+O neen, Eneas.
+
+                 ENEAS.
+
+                               t Is gebleeken, en het bloet
+Rookt noch op d akkers, daar uw landtvolk heeft gewoedt.
+
+                LATINUS.
+
+Zy zochten  t ongelyk van Thyrrus huis te wreeken.
+(680) Askaan hadt onbedacht hun gramschap aangesteeken.
+Maar dit vernieuwen der geschillen dient ons niet.
+Men zwyge dat voorheen by toeval is geschiedt.
+Gy zoekt, gelyk gy zegt, dit oorlogsvier te smooren:
+Nu wenschte ik uit uw mondt de voorwaarde aan te hooren,
+(685) Waar op men wederzydts zal sluiten dit verbondt.
+
+                 ENEAS.
+
+Ik heb op uw belofte alleen myn eisch gegrondt.
+ t Volbrengen van uw woordt zal my vernoeging geeven,
+En ik, als onderdaan, met u in vrientschap leeven.
+Beraad u met de Goôn: ik eisch door hun besluit
+(690) Uw erfgenaam, prinses Lavinia, tot bruidt.
+Maar hoe! myn heer, ik zie verandring in uw wezen.
+Ben ik de ryksprinses min waardig dan voor dezen,
+Toen gy door myn gezant, na  t ankren van de vloot,
+My noodde in uw gebiedt, als zoon en bondtgenoot?
+(695) Of waant gy door deze echt uw vorstlyk huis te hoonen?
+Geef my gehoor: ik zal het tegendeel vertoonen.
+Verstrekt het huwelyk van Dardaans bloetverwant,
+En vorst Anchizes zoon Latinus stam tot schandt?
+Waar zag men Ilium en d Aziaansche steden,
+(700) Weleer van elk gevreest, van vorsten aangebeden,
+Daar ik zo heerlyk wierdt aan d oevers voortgebragt,
+Ooit zwichten voor uw ryk in heerlykheidt en magt?
+Gy huwt uw dochter, door onsterflyke geboden,
+Aan geen verlaaten man, maar gunsteling der Goden.
+
+                 TURNUS.
+
+(705) Die glans van gunst bescheen uw vaderlyken stam,
+En straalde op Priaams kroon uit Agamemnons vlam.
+De weldaân, die de Goon aan uw geslacht beweezen,
+Staan noch in  t smookent puin van Trojes muur te leezen.
+
+                 ENEAS.
+
+Nooit smaalt een eedle ziel op iemants ongeval,
+(710) Maar troost hem in zyn ramp.  t is waar, ik zag myn wal
+Door Argos vier vergaan; en myn doorluchte neeven,
+En Hektor, die met bloet zyn daden heeft beschreeven.
+Door  s overwinnaars staal vernielen op den grondt,
+Daar eer de trotse muur van  t oude Troje stondt.
+(715) Ik zag den koning zelf met zyne gryze haaren
+Voor Pyrrhus moortgeweer bezwyken by d altaaren;
+Zyn dochters in triomf, met ketenen beknelt,
+Tot slaverny gedoemt, wechsleepen over  t veldt.
+Maar d ondergang van  t ryk en al myn landtgenooten
+(720) En eedle maagen heeft den Goden lang verdrooten.
+Hoe wierdt de Grieksche vloot, verheerlykt met trofeen,
+In  t keeren, op den togt van windt en zee bestreên,
+Vervolgt, verstrooit, vervoert naar onbekende streeken!
+De zoon van Atreus, die, om  t ongelyk te wreeken,
+(725) Een ry van koningen verdagvaarde, om het staal
+Op zy te gespen voor vrou Helenaas gemaal:
+Hy, die tot ons bederf, door hoogmoedt aangedreven,
+Zich zelf tot opperhoofdt der Grieken had verheven,
+Wierdt deerlyk omgebragt, toen Troje lag verbrandt,
+(730) Door Klytemnestres byl, en  s overspeelers handt.
+Hoe wordt Ulysses, met zyn uitgewoede schaaren,
+Van d een naar d andre kust geslingert op de baaren,
+Door storm op storm geschokt; terwyl Penelopé
+Vergeefs haar heer verwacht aan d lthakaasche ree!
+(735) Maar  t zal onnodig zyn meer andren op te haalen,
+Zo ver gescheiden van hun vaderlyke paalen.
+De gunst, daar ik op roem, die gy zoo dwaas bespot
+Bleek in der Grieken straf, en hun rampzalig lot.
+Die gunst verlaat my niet, maar blyft ons by in  t stryden,
+(740) En sterkt my tegen u, en die myn heil benyden:
+Dat is in slag op slag gebleeken; daar uw stoet,
+Ontwapent door myn volk, ontbloot van kracht en moedt,
+Het veldt verliet, terwyl myn sabel triomfeerde.
+
+                 TURNUS.
+
+ t Was tydt van vechten, toen de Griek uw ryk braveerde.
+
+                 ENEAS.
+
+(745) Tien jaaren hebben wy de stormen uitgestaan,
+Maar mosten eindelyk door Sinons list vergaan.
+Nooit hadt de vyandt voor de vuist of met den degen
+De koninklyke vest in zyn geweldt gekreegen.
+
+                 TURNUS.
+
+Verschoon uw neêrlaag niet door ongegronde reên.
+(750) Een wakent oog ziet door bedrog en krygslist heen.
+Een kundig krygsman kan de laagen licht ontdekken.
+Daar magt te kort schiet, moet de list het werk voltrekken.
+
+                LATINUS.
+
+Gy heeren, staakt dien twist. Eneas, ik beken,
+Dat ik aan u myn woordt gegeven heb, en ben
+(755) Genoeg verzekert, door ontwyfelbare blyken,
+Dat gy in deugden noch geboorte ons hoeft te wyken.
+Door die verbintenis, die gy van my begeert,
+Wordt vader Faunus noch zyn afkomst ooit onteert.
+Maar zekere oorzaak maakt my in myn woordt verlegen.
+(760) Ik wenschte u, eedle vorst, tot afstant te beweegen.
+Verander uwen eisch: hy wordt u toegestaan.
+
+                 ENEAS.
+
+Van  t eens gegeven woordt zal ik u nooit ontslaan,
+Noch afstant doen. ô neen! ik zou de Goden hoonen,
+En tegens hun besluit my wederspannig toonen;
+(765) Den haat verwekken, en hun gunst door zulk een feit
+Verliezen: verg dit niet aan myn gehoorzaamheidt.
+
+                LATINUS.
+
+De zaak, van groot belang, verpligt my raadt te pleegen.
+Vergunme slechts een uur om alles t overweegen.
+Gy kunt de koningin en ook Lavinia
+(770) Bezoeken, zo  t u lust, terwyl ik my berâ.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE TONEEL.
+ENEAS, ACHATES, SERESTUS.
+
+ACHATES.
+ k GEloof niet dat de vorst uw eisch zal wederstreeven.
+Maar Turnus heeft noch blyk van vyantschap gegeeven.
+
+SERESTUS.
+Hoe bits verweet hy ons de neêrlaag, en den val
+Van uw doorluchtig huis, en vader Priaams wal!
+
+                 ENEAS.
+
+(775) Een medeminnaar kan zyn driften niet bepaalen.
+Ik zal eerlang my zien gewroken van zyn smaalen.
+Serestus, keer terstont naar  t heir, en zeg myn zoon;
+Dat hy het offervier, ter eere van de Goôn,
+Die ons begunstigen, noch heden moet ontsteeken;
+(780) Om in dit wigtig werk hun bystant af te smeeken.
+Voorts, dat hy  t leger in de wapens houde. en gy,
+Getrouwe metgezel, Achates, blyfme by.
+
+                Einde van het twede Bedryf.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE BEDRYF.
+
+EERSTE TONEEL.
+AMATE, JULIA.
+
+JULIA.
+O Ja, vorstin, ik zag Eneas herwaarts treeden
+Door  s konings lyfwacht heen.
+
+                 AMATE.
+
+                                              Hoe wordt myn hart bestreden,
+(785) Gepynigt door zyn komst! gy ziet uit myn gelaat,
+Getrouwe Julia, de werking van den haat.
+Vervaarlyk nachtgezigt! ô spook, dat myne zinnen
+Verbystert! helsche slang, die my ontrust van binnen!
+O nooit gehoorde droom! hoe ver vervoert gy my
+(790) Van  t spoor der rede door een vreemde razerny!
+O nacht! die myn verstandt verduisterde, als de straalen
+Der uitgediende zon, die voor uw schaduw daalen;
+Verdryf den middag, rys met sneller vaart om hoog,
+En maak myn vyandt nu onzigtbaar voor myn oog.
+(795) Verberg den moorder, die myn vorstelyke neeven
+En bloetverwanten door zyn sabel bragt om  t leven.
+Zy schreeuwen om de wraak, en toonen my de borst,
+Met wondt op wondt doorboort van drabbig bloet bemorst.
+Latynsche schimmen rust, ik zal uw lykasch wreeken,
+(800) En met myn dolk uw beul voor  t echtaltaar doorsteeken;
+Indien Latinus keur, tot spyt van Turnus min,
+Dit haatlyk huwlyk stemt. ik zal . . . .
+
+                 JULIA.
+
+                                                                Bedaar vorstin.
+Hy komt, en zal u best zyn oogmerk openbaaren.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+LATINUS, AMATE, JULIA.
+
+AMATE.
+ZAl nu myn dochter met myn grootsten vyandt paaren,
+(805) En myn getrouste vriendt, gemartelt door den rou,
+Elendig quynen om die dodelyke trou?
+Is dit de hoop, die gy my heden hebt gegeeven?
+Ik dacht Lavinia zal nu met Turnus leeven:
+Maar deelende in zyn heil, vond ik my zelf misleidt,
+(810) Door uw belofte en woordt vol dubbelzinnigheidt.
+
+                LATINUS.
+
+ t Is waar, Eneas wil, om  t woeden af te breeken,
+Dat ik zyn bruiloftstoorts zal in myn hof ontsteeken.*
+ t Gevaar van Latium, alom van bloet begruist,
+Door storm op storm geschokt, gebliksemt door zyn vuist,
+(815) Verpligt my, voor  t belang der treurende onderdaanen
+Te waaken, en den weg tot vrede en rust te baanen.
+Voeg hier  t Orakel van myn vader Faunus by.
+Wat spelt hy uit deze echt een lange heerschappy,
+En eindelozen roem, die nimmer zal verdwynen,
+(820) Maar eeuwig, als de zon, de werelt overschynen!
+ t Gezegent Latium zal uit Eneas zoon
+Een ry van koningen verwachten op den troon.
+
+                 AMATE.
+
+Dat zal de koningin der Goden nooit gedogen:
+Zy heeft de vyantschap te diep in  t hart gezogen.
+(825) Zo gy dien troudag stemt: uw ryk zal ondergaan,
+En deze stadt in vier, als eertydts Troje, staan.
+
+                LATINUS.
+
+Gy zyt verdoolt. ik weet het hoog besluit der Goden
+Uit Faunus mondt, die my dit huwlyk heeft geboden.
+
+                 AMATE.
+
+Zal hy, die in ons ryk zo vreeslyk heeft gewoedt,
+(830) O gruwel! met zyn handt, noch rookende van  t bloet
+Der eedle maagen, en Latynsche burgerschaaren,
+Prinses Lavinia geleiden naar d altaaren?
+Heeft Faunus in zyn woudt dit echtverbondt gespelt?
+Vergode vader, zie om laag  t Auzonisch veldt
+(835) Bedekt met beenderen van uw doorluchte neeven:
+Hoor hoe de schimmen, die ontrust door  t aartryk zweeven,
+Haar onbegraavene asch beklaagen: vorst, zie neêr,
+Hebt gy die trou voorzegt, herroep  t orakel weêr.
+
+                LATINUS.
+
+Hoe tracht gy  t nootlot van de Goden te verzetten?
+(840) Uw buitensporigheidt zal hunnen gramschap wetten.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+LATINUS, AMATE, LAVINIA,
+JULIA, SABINE.
+
+AMATE.
+GY nadert ons van pas, myn waarde dochter, om
+Van uw heer vaders hand van daag den bruidegom
+t Ontfangen, en uw stem tot dit besluit te geeven.
+De koning heeft alreê de voorwaarde onderschreven
+(845) Men wacht alleen naar u. het offer wordt bereidt,
+Daar u de vreemdeling voor  t echtaltaar verbeidt.
+
+                LAVINIA.
+
+Wat hoor ik!
+
+                 AMATE.
+
+                    Maar, ik zie verandring uit de trekken
+Van uw gelaat. moet ik de minnevlam ontdekken
+In  t bloozen van uw wang? stemt gy die trou? o ja!
+(850) Dat hadde ik nooit gedacht van u, Lavinia.
+
+                LAVINIA.
+
+Ach! gy bezwaart myn leet, vorstin, met die gedachten.
+Ik slyt myn eedle jeugdt in eindeloze klagten;
+Daar ik, om mynent wil, den fellen oorlogsbrandt
+In  t hart zie weiden van  t mishandelt vaderlandt.
+(855) Ik treur met weduwen en ouderlooze weezen
+Op  t graf der helden, die in  t bloedig veldt voor dezen
+Ons blyken gaven van hunne onbevlekte trou.
+Noch wordt myn ramp gevoedt, door uw verwyt, mevrou.
+
+                 AMATE.
+
+Gy tracht vergeefs voor my die minnevlam t ontveinzen.
+(860) Uw oog verraadt uw hart en binnenste gepeinzen.
+ t Vermoeden opent myn gezigt. myn achterdocht
+Ontdekt de werking van uw dwaazen minnetogt.
+
+                LATINUS.
+
+Laat af, Amate, van uw dochters rust te stooren.
+
+                 AMATE.
+
+O neen! zy moet van my de zwarigheden hooren,
+(865) Die haar te wachten staan uit die verbintenis.
+Zo quyt ik myn gemoedt, dat haar genegen is.
+Het voegt een moeder voor haar dochter zorg te draagen.
+In  t huwlyk vindt men heil of eindelooze plaagen.
+Kom, nader dan myn kindt, en hoor uit mynen mondt,
+(870) Met wien gy treeden zult in  t huwelyksverbondt.
+ t Gerucht heeft ons voorlang dien vreemdeling beschreven,
+Eer hy aan deze kust wierdt door de zee gedreven.
+Hy past op woordt noch eedt; en zyn geschonde trou
+Staat noch gebrantmerkt in het koninklyk gebou,
+(875) Dat Didoos kunstenaar in  t nieuw Karthago stichtte.
+Zy, die door gunst op gunst den weifelaar verpligtte,
+En dien verwurpeling der golven, pas gelandt,
+Verwelkoomde in haar hof, in  t hart, op  t ledekant,
+Daar zy, als echtgenoot, hem streelde uit zuivre liefde,
+(880) Vervloekte, maar te spa, den schicht die haar doorgriefde;
+Toen hy by nacht, gelyk een rover zonder trou,
+Karthagoos kust verliet en zyn bedroge vrou.
+Z ontwaakt, en mist terstont haar bruigom, valt aan  t klagen,
+En knielt voor  t heiligdom, alleen en zonder maagen.
+(885) Hier zat Elize, nat bekreeten, dootsch en naar.
+De minnevlam ontstak den houthoop op  t altaar.
+Het Trooische zwaardt, van dien trouloozen haar gegeven,
+Doorstak den boezem, door  t geschenk berooft van  t leven.
+Verwekt dat voorbeeldt der verleide koningin,
+(890) En haar rampzalig eindt, geen schrik in uw zin?
+En wilt gy reukloos met dien echtschoffeerder paaren:
+Dan zal haar bleeke schim, van bloet bepurpert, waaren
+Om  t brandent echtaltaar, ja razende en verwoedt
+De vlammen blusschen, en met haar gelaarsden voet
+(895)  t Gewyde wierookvat en offerkelk vertreeden.
+Ik zie den wichelaar met sidderende leden
+Het woedent spook verbaast ontvluchten van uw zy.
+Beef voor myn spelling, beef, ontzinde bruit! en gy
+Verdoolde koning, die den balling hebt verkoren
+(900) Tot schoonzoon, ach! wat ramp heeft ons uw keur beschoren!
+Gaat u de moeder niet ter harte, noch de vrucht,
+Zo teer geliefkoost, en geteelt met zucht op zucht!
+Hoe zal die rover ons Latynsch gewest ontroeren,
+Als hy de schoone maagdt zal van den oever voeren
+(905) Met zyn Troiaansche kiel, en vluchten trouloos heen
+Naar eene uitheemsche kust, als Paris met Heleen!
+Dan zullen wy aan strandt, omringt van onderdaanen,
+Haar volgen met gekerm en uitgestorte traanen:
+Daar gy, door naberou gepynigt, troostloos treurt,
+(910) De bleeke handen wringt, en  t ryksgewaadt verscheurt.
+Met hoe veel vyanden zal dan de koning stryden!
+Prins Turnus zal u noch bezwaaren in uw lyden,
+En d ontrou, hem betoont, verwyten dag op dag.
+Het volk zal walgen van uw vorstelyk gezag;
+(915) De trouste gunsteling u hoonen en verlaaten,
+En, als  t bederf van landt, van vrou en dochter, haaten.
+Ja vrees u zelf, myn heer, want midden in uw smart
+Hebt gy de grootste straf te wachten van uw hart?
+Gy zult, veroordeelt, daar uw beul en rechter vinden.
+
+                LATINUS.
+
+(920)  t Was Faunus mening niet myn oogen te verblinden.
+Ik ben gerust, maar gy vervoert door razerny.
+
+                 AMATE.
+
+O neen! de koningin der Goden spreekt door my.
+Noch eens, geef haar gehoor, of vrees ontelbre plaagen.
+
+                LATINUS.
+
+Dit lastig onderhoudt kan ik niet meer verdraagen.
+
+(925)  t Geheim, daar  t heil der kroon aan hangt, is my bewust.
+Myn geest, door uw gesprek zo lang ontroert, zoekt rust.
+Bedaar, vorstin, vaar wel.
+
+                 AMATE.
+
+                                            Neen, ik zal u geleiden,
+En volgen, waar gy gaat. wy zullen zo niet scheiden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+LAVINIA, SABINE.
+
+SABINE.
+DE koning zocht zich, maar vergeefs, van haar t ontslaan.
+(930) Zy volgt hem naar  t vertrek. hoe zal die zaak vergaan?
+Uw vader is verpligt, zich heden te verklaaren.
+Elk poogt den vrede nu t omhelzen voor d altaaren,
+Daar prins Eneas u zal groeten, als zyn bruidt.
+De burger, lang vermoeit door  t schorre krygsgeluit,
+(935) Zoekt met een bruiloftstoon het quynent hart te streelen;
+U heil te wenschen door den galm der maagdekeelen,
+En palm en rozeblaân te stroojen op de straat;
+Daar gy, verheerlykt met het witte feestgewaadt,
+En losse vlechten, die zich slingren om uw leden,
+(940) En met een kroon op  t hoofdt, zult naar den tempel treeden.
+
+                LAVINIA.
+
+Zou dan Eneas, die, door  t bloedig oorlogsstaal,
+Op onze nederlaag zyn trotse zegepraal
+Gesticht heeft; en, gevolgt van zyn Trojaansche helden,
+De bloem der edellien versloeg op onze velden,
+(945) En d eer ontluisterde van vaders heerschappy
+Noch triomfeeren van de gunst der burgery?
+Wie heeft u zo misleidt, Sabine?
+
+                 SABINE.
+
+                                                      Uw onderzaaten,
+Zich ziende in slag op slag van  t krygsgeluk verlaaten,
+En dien Trojaanschen vorst begunstigt van de Goôn,
+(950) Vervloeken openbaar, uit liefde voor de kroon
+En eigen huisbelang, de smertende oorlogsplaagen.
+Men mort. men mompelt: dat de vorsten zich verdraagen.
+Maar andren zwygen door  t ontzag der koningin,
+En kroppen  t leet met kracht in hun gemoedt, vorstin.
+(955)  t Geheim, dat Faunus aan den koning quam verklaaren,
+Nu ruchtbaar, werkt op  t hart der burgerlyke schaaren.
+En kan die godtspraak, die belofte, zo veel eer,
+D ontsterfelyke naam in  t heerschen; ja, noch meer,
+D uitbreiding van uw ryk en vaderlyke paalen,
+(960) Geen overwinning op uw weigrent hart behaalen?
+
+                LAVINIA.
+
+Helaas!
+
+                 SABINE.
+
+                    Gy zucht
+
+                LAVINIA.
+
+                                            Met recht.
+
+                 SABINE.
+
+                                                                  Hoe zal ik
+dit verstaan?
+
+Vertoont zich liefde of haat? gy beeft. wat gaat u aan?
+
+                LAVINIA.
+
+(965) Een onbekende magt vermeesterde myn zinnen,
+En dwong my, op  t gezigt, den vreemdeling te minnen.
+Die onbekende drift groeide aan van tydt tot tydt,
+En voerde met myn hart een eindeloozen strydt.
+Eneas schoon gelaat kon myne ziel bekooren,
+Toen ik, om  t heir te zien, gestegen op den toren
+Van  t vaderlyk paleis, dien onversaagden heldt
+(970) Te paardt zag draaven langs de muuren over  t veldt.
+
+                 SABINE.
+
+Hoe hebt gy dit geheim zo lang voor my verzwegen?
+
+                LAVINIA.
+
+Ik streefde dagelyks die snoode driften tegen,
+En zocht de werking van die versch ontsteke vlam
+Te dwingen in myn hart, eer zy meer voetzel nam.
+(975) Ik waarde om  t lykaltaar van vrienden en van maagen,
+Door prins Eneas zwaardt mishandelt en verslagen,
+Om aan dat doodlyk vier de driften van den haat
+t Ontsteeken: maar vergeefs. ik zwichtte, en  t groeizaam quaadt
+Schoot wortels in myn hart en doolende gedachten.
+
+                 SABINE.
+
+(980) Wat oorzaak port u om die liefde te verachten?
+
+                LAVINIA.
+
+Weet gy die reden niet, daar gy myn vaderlandt
+Van bloet ziet rooken, en gebliksemt door zyn handt?
+En wilt gy dat ik hem myn handt, als bruidt, zal geeven,
+Die al myn vrienden zo moortdadig bracht om  t leven?
+
+                 SABINE.
+
+(985) Gy hoont Eneas door dat ongegront verwyt.
+Hy heeft hen voor de vuist besprongen in den strydt
+En niet moortdadig, als gy voorgeeft, maar, door  t waagen
+Van zyn doorluchtig bloet, om uwe min verslaagen.
+Zyn strydbre sabel vecht voor  t opperste besluit,
+(990) Dat door de koningin en Turnus wordt gestuit:
+Maar zy verwekken, door  t weerstreeven der geboden
+Den haat en gramschap der onsterfelyke Goden.
+ t Orakel stemt uw keur. verfoei de liefde niet,
+Die  t nootlot u, tot roem van Latium, gebiedt.
+(995) Zo ik u ongeveinst myn hart mag openbaaren;
+Saturnus afkomst wordt verheerlykt door dit paaren.
+
+                LAVINIA.
+
+Sabine, schoon gy my rechtvaardigt in uw zin,
+Ik wacht veel rampen uit de werking myner min.
+Hoe zal myn moeder, door de razerny gedreeven,
+(1000) My vloeken, en haar vriendt dit huwlyk wederstreeven!
+Ik zieze beide ontzint verschynen, en by  t haar
+My rukken van de zy des bruigoms voor  t altaar.
+Ik zie gewapent volk de hofkapel bespringen,
+En woeden tegen een met uitgetoge klingen,
+(1005) Ja d offervlam gebluscht door versch vergooten bloet.
+
+                 SABINE.
+
+De Goden zullen u verdedigen. hou moedt.
+Maar Prins Eneas . . . .
+
+                LAVINIA.
+
+                                Ach! laat ons van hier vertrekken.
+Hy mogt uit myn gelaat den staat van  t harte ontdekken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+ENEAS, LAVINIA, SABINE, ACHATES.
+
+ENEAS.
+DOorluchtige prinses, hoe vlucht gy? om wat rêen
+(1010) Misgunt gy my  t gezigt van uw bekoorlykheên?
+Ik ben alleen om u, geslingert door de stroomen
+En onweêrwinden, in Auzonië gekomen;
+Om u myn dienst en trou op t offren met ontzag.
+Ik bad uw schoonheidt aan, myn waarde, eer ik haar zag.
+(1015) De Goden drukten zelfs uw beeldt in myn gedachten
+In d eenzaamheden en myn rusteloze nachten.
+Dat beeldt verstrekte my een heldre baak in zee.
+Die leidstar voerde ons met de vloot aan deze ree.
+En wilt gy nu, door myn gevaar noch ramp bewoogen,
+(1020) Het waare voorwerp noch onttrekken aan myn oogen,
+Dat ik in schyn zo lang verheerlykte in myn hart:
+Zo wordt aan deze kust myn allergrootste smart
+Geboren, daar ik dacht myn hoogste goedt te vinden.
+Dan vloek ik op de gunst van golven en van winden,
+(1025) Die ons behouden hier geleidde met de vloot,
+En  t leven spaarde voor de pynelykste doodt.
+
+                LAVINIA.
+
+Uw hoofsche tong, myn heer, dus afgerecht op vleien,
+Kon in Karthagoos hof de koningin verleien.
+Wy hoorden hier den ramp, gesprooten uit haar min,
+(1030) En deelden in haar leet met al ons hofgezin.
+Hadt zy haar oor gestopt voor uw bedrieglykheden,
+Noch zou de schoone vrou Karthagoos troon betreeden;
+Die door uw ontrou, prins, stantvastig daalde in  t graf
+
+                 ENEAS.
+
+Verwyt haar doodt my niet: gy zyt daar oorzaak af
+(1035) Elize most om u, van al haar onderzaaten
+En Annaas oog beweent, de kroon en  t leven laaten.
+
+                LAVINIA.
+
+Om my! verbloemt gy dus uw schande en  t gruwzaam feit?
+Wat deel heeft uwe schuldt met myne onnozelheidt?
+
+                 ENEAS.
+
+Verstoor u niet, prinses, ik zoek u niet te hoonen
+(1040) Door dat verwyt, maar zal de waarheidt klaar vertoonen.
+De schoone weduw van Sicheus was my waardt,
+En  t scheiden viel my bang, na dat ik wierdt gepaart,
+En in de rots met haar vereenigt onder  t jaagen,
+Gescheiden van ons volk door storm en dondervlaagen.
+(1045) Nooit hadt Elizes hart om myn vertrek gezucht,
+Noch ik de versche trou geschonden door myn vlucht:
+Ik hadt haar stadt volbout, en tot de lucht verheven;
+Maar most alleen om u die schoone en  t ryk begeeven.
+De Goden dreigden my met eeuwige ongena,
+(1050) En schreeuden in myn slaap: op, zoek Lavinia.
+Wy hebben u  t gebiedt van Latium beschoren,
+En eeuwigduurende eer. ik vreesde voor hun toren,
+En tradt, op  t hoog bevel, ten hove uit naar de ree;
+Ging t zeil, maar stortte een vloedt van traanen in de zee.
+
+                LAVINIA.
+
+(1055) Neen gy voldoet my niet, Eneas; maar uw reden
+Strydt met der Goden aart en hun hoedanigheden.
+Hun bliksem treft de kruin van hem, die onbedacht
+Zyn booze driften volgt en trou noch eeden acht.
+En wilt gy noch, dat zy met weldoen overladen
+(1060) Die zich bezoedelen met zulke gruweldaaden?
+Indien hun gunst, in plaats van straf, het quaadt geleidt
+Dan twyfel ik met reen aan hun rechtvaardigheidt.
+
+                 ENEAS.
+
+Gy zoekt te diep in hun geheimenis te dringen.
+De vroomste sterveling vervalt in struikelingen.
+(1065) En zou der Goden straf steets bliksemen op aardt?
+Wy mosten al vergaan en niemant wierdt gespaart.
+Onze onvolmaaktheidt kan hun gramschap paalen zetten.
+Wy zuivren ons gemoedt voor  t outer van die smetten.
+Indien ik iets vermag, verwyt my langer niet,
+(1070) Dat eertydts tusschen my en Dido is geschiedt.
+Ik heb my zelf genoeg verdedigt met de Goden,
+Die my, om u,  t vertrek uit Lybie geboden.
+Zo gy myn woordt mistrout, doorzoek by d offerhandt
+ t Geheim van  t nootlot uit het lillend ingewandt
+(1075) Der schaapen, door de byl der priesterlyke schaaren
+Geheiligt en geslacht op uw gewyde altaaren:
+En zo gy daar bespeurt by d offerplegtigheen,
+Dat ik u heb misleidt door valsch verdichte reên;
+Dan zal ik, roodt van schaamte, uit vorst Latinus lander
+(1080) Vertrekken met myn volk naar afgelege stranden.
+Of wilt gy meer, prinses? zo wreek dan door myn doodt
+ t Latynsche bloet, dat ik om uwe min vergoot.
+Die doodt zal myn gemoedt veel meer vernoeging geeven,
+Dan, door berou geknaagt, in schande en smart te leeven.
+(1085) Maar ook in tegendeel, zo myne oprechtigheidt,
+Aan uw gezigt ontdekt, voor myne liefde pleit;
+Dan hoop ik dat uw hart, geraakt van mededogen,
+Zal stemmen in myn heil door uw bekoorlyke oogen.
+Vergun . . . .
+
+                LAVINIA.
+
+                    Sta af gy zyt bezoedelt met myn bloet.
+(1090) De lykpligt doemt uw liefde in myn oprecht gemoedt.
+O landt! o vaderlandt! en myn ontzielde maagen,
+Ik zal tot aan myn doodt uw droevig lot beklaagen!
+
+                 ENEAS.
+
+Ontrust die lykasch niet: zy lei in  t eenzaam graf
+De zwarigheden van dit sterflyk leven af:
+(1095) Daar ik, gemartelt door uw wreetheidt, in myn lyden,
+ t Gelukkig sterflot van die helden moet benyden.
+Maar heeft hun doodt den haat gekoestert in uw zin,
+Of wordt die vyantschap gevoedt door Turnus min?
+Die medeminnaar, door gansch Latium gepreezen,
+(1100) Uw moeders gunsteling, vervult myn hart met vreezen.
+
+                LAVINIA.
+
+Hy komt. verwacht van hem dat antwoordt, prins, ik ga.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZESDE TONEEL.
+TURNUS, ENEAS, ACHATES.
+
+TURNUS.
+ k ONtwyk Eneas oog, en volg Lavinia.
+
+                 ENEAS.
+
+O neen! vertoef, myn heer, en antwoordt op myn vraagen.
+De schoone ryksprinses, uw opperste behagen,
+Wordt, als gy weet, van my geviert en aangebeên:
+Wy wierden beide ontvonkt door haar bekoorlykheên:
+Haar byzyn gaf u stof om van uw min te spreeken;
+Daar ik in tegendeel, van dat geluk versteeken,
+ t Zy door de vreeze ontrust, of door de hoop gevleit,
+De quelling van myn hart meest voedde in eenzaamheidt:
+Wien van ons beide zal haar keur gelukkig maaken?
+Wie triomfeeren, of vergeefs in liefde blaaken?
+Verwerp een korten tydt den haat, en antwoordt my,
+(Is u haar keur bekent) maar zonder veinzery.
+
+                 TURNUS.
+
+(1115) Hoe, zoekt gy dit geheim uit Turnus mondt te hooren?
+Gy zegt, Lavinia wierdt u door  t lot beschooren:
+Wel, vraag dan, of haar hart uw liefde stemt, of doemt,
+Aan  t opperste besluit, daar gy zo hoog op roemt.
+Ik volg die schoone, om in haar byzyn myn gedachten
+(1120) Te streelen: gy kunt hier der Goden antwoordt wachten
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE TONEEL.
+ENEAS, ACHATES.
+
+ENEAS.
+HOogmoedige ga heene. ô lasteraar! ik zal
+Eerlang den Goden wraak verschaffen door uw val.
+
+ACHATES.
+Zyn trotse tong beschimpt d onsterfelyke magten,
+Maar zal haar gramschap haast ontsteeken door  t verachten.
+
+                 ENEAS.
+
+(1120) O hof! dat my ontrust, gy toont in dezen staat
+My  t voorwerp van myn liefde en werktuig van myn haat.
+Verwoede Turnus, die, door wreetheidt aangedreven,
+Myn allerwaardsten vriendt, prins Pallas, bragt om  t leven;
+Hoe tracht ik door uw doodt de schim van dezen heldt
+(1130) Te paajen, die noch spookt en waart langs  t bloedig veldt!
+Doorluchte prins, ik heb uw lyk, doorboort met wonden,
+Wel op de doodbaar naar Evanders hof gezonden;
+Maar uw ontruste geest blyft my na d uitvaart by,
+En zweeft, al zuchtende om de wraak, steets aan myn zy.
+
+ACHATES.
+(1135) Gy hebt zyn doodt op  t heir der Rutulen gewroken,
+Toen gy, gelyk een leeuw, ter heirspitse ingebroken,
+Hun koning opzocht, en, van rookent bloet begruist,
+Een ry van vyanden vernielde door uw vuist.
+
+                 ENEAS.
+
+Die wraak voldoet my niet, zo lang ik voor myn oogen
+(1140) Den trots en hovaardy van Turnus moet gedoogen,
+Die hem den dootsteek gaf. ô gryze vader! ach!
+Hoe treurtge om dit verlies in uwen ouden dag!
+My dunkt ik zie den vorst, met traanen op de wangen
+En bleek besturven, aan de doode leden hangen
+(1145) Als eer toen hy  t vaarwel uitzuchtte voor de poort.
+
+ACHATES.
+Ik heb zyn leste klagte en afscheidt klaar gehoort.
+Hy riep de Goden aan in  t scheiden: Rekt myn jaaren,
+Zo  t nootlot van myn zoon zyn frisse jeugdt zal spaaren:
+Maar moet hy sneeven, bluscht dan  t licht myns levens uit
+(1150) En opent my myn graf, eer hy zyn oogen sluit.
+
+                 ENEAS.
+
+Gy, die om hoog myn heil hebt in uw raadt beslooten:
+Gy, die my voerde naar den Tyber met myn vlooten;
+Geef dat door myn geweer de trotse Turnus sterf;
+Op dat ik Pallas wreeke, en myn prinses verwerf
+
+                Einde van het derde bedryf
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE BEDRYF.
+
+EERSTE TONEEL.
+LATINUS, THYRENUS.
+
+LATINUS.
+(1155) WAt jaagt u dus verbaast, Thyrenus, van de straaten?
+
+                THYRENUS.
+
+Ik zag een menigte van burgers en soldaaten
+Te zamenrotten en al twistende en verdeelt,
+By troepen rennen naar Saturnus prachtig beeldt.
+De voetsters vloogen, met de teedre zuigelingen,
+(1160) Die, uitgehongert, aan haar drooge borsten hingen,
+Door  t weenent oog gelaaft, het marktveldt op en neêr.
+De krygsknecht schudde  t hoofdt, en kneusde zwaardt of speer,
+Noch rookende van bloet, aan d uitgehouwe steenen.
+De stramme gryzaart kroop met waggelende beenen,
+(1165) En, hangende aan den stok, begaf zich in  t gedrang.
+Ik zag de maagdeschaar, met opgekrabde wang,
+En losgeknoopte vlecht, den blanken boezem scheuren,
+En om haar broeders doodt of waarden bruigom treuren
+Een zet zich op den voet van  t beeldt, en spreekt: hoort toe,
+(1170) Myn medeburgers, die, gezweept door d yzre roe
+Des oorlogs, zwanger van ontelbre zwarigheden,
+De purpre striemen noch voelt smarten aan uw leden:
+Wat heeft de felle twist, daar Latium van waagt,
+Ons bloet en zweet gekost, en  t dor gebeent geknaagt!
+(1175) Hoe klinkt de naare galm der vaderlooze weezen
+Langs d onbevolkte straat en velden, die voor dezen
+Van menschen krielden, toen dit ryk in ruste en vree
+Den glans der morgenzon verwelkoomde uit de zee!
+Men ziet op  t krygstoneel de woede en wreetheidt kroonen.
+(1180) De gryze moeder stort op haar vermoorde zoonen,
+Daar zy, van brein berooft, en razende om hun doodt,
+De vruchtbaarheidt vervloekt (ô gruwel!) van haar schoot.
+Men ziet den akkerman in  t bloet zyn vruchten teelen,
+En  t kouter dryven door geraamte en bekkeneelen,
+(1185) Dien d eer van  t lykaltaar door  t nootlot wierdt benydt.
+Wat brengtge al rampen voort, verslindende oorlogstydt!
+Ontwapent uw gemaal, ô vrouwen, op de straaten,
+Onthelmt de blanke kruin, ontgespt de harnasplaaten,
+Eer  t opgevloekt geweldt uw bruiloftsbanden scheurt,
+(1190) En gy by  t smookent hout de stuivende asch betreurt.
+Verfoeit met my den kryg, mishandelde onderdaanen,
+En helpt uw landtgenoot den weg tot vrede baanen.
+Men heeft al lang genoeg om Turnus zaak gestreen.
+Hy hanthaaf zyn belang, indien  t hem lust, alleen.
+(1195) Men laat hem Iyf om Iyf met prins Eneas vechten,
+En door den tweestrydt om de bruidt den twist beslechten.
+Hier zwygt hy. ieder stemt zyn voorslag. het gerucht
+Der aangegroeide schaar verspreit zich door de lucht.
+Veel krygsliên werpen op den grondt hun wapens neder,
+(1200) En kruissen zinneloos de straaten heen en weder:
+Daar Drances  t oproer styft, die, uit den ouden haat,
+Den vroomen Turnus scheldt als oorzaak van al  t quaadt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEEDE TONEEL.
+LATINUS, TURNUS, THYRENUS.
+
+LATINUS.
+ACh! Turnus, moet ik u in dezen staat ontmoeten!
+
+                 TURNUS.
+
+De zaak is my bekent, gy zult my heden groeten
+(1205) Als overwinnaar van den trotsen Frygiaan,
+Of in den tweestrydt om uw dochter zien vergaan.
+Het oproer heeft my niet tot dat besluit gedreven.
+Myn moedt heeft my voorlang die pligten voorgeschreven.
+Ik zal uw volk niet meer opoffren aan  t gevaar.
+(1210) My deert het ongeval der afgestrede schaar.
+Ik kan myn eigen recht bepleiten met den degen.
+
+                LATINUS.
+
+O edelmoedig prins: ach! mogt ik u beweegen,
+En myn Lavinia verbannen uit uw zin.
+Gy hangt uw leven aan die dodelyke min.
+(1215)  t Ontbrak nooit Latium aan uitgekeurde vrouwen,
+Van vorsten afkomst, waardt met koningen te trouwen:
+Verkies de schoonste tot uw troon- en echtgenoot.
+Indien Eneas zwaardt uw dierbaar bloet vergoot,
+En gy in  t lyfgevecht wierdt om de bruidt verslagen;
+(1220) Hoe zou gansch Ardea, met vader Daunus, klaagen!
+Die braave koning wacht met ongedult zyn zoon,
+En stort zyn traanen om uw afzyn voor den troon.
+Geef hem geen oorzaak om uw ongeval te wreeken
+Aan bloetverwanten, en de vrientschap af te breeken.
+
+                 TURNUS.
+
+(1225) Kent gy den vorst, die my heeft voortgeteelt, niet meer?
+Hy zou my vloeken, zo ik keerde zonder eer;
+Als een lafhartigen my lasteren en haaten,
+En eeuwig uit zyn gunst en koninklyke staaten
+Verbannen, als een zoon, die, eer- en moedeloos,
+(1230) Een schandig leven voor de braafste doodt verkoos:
+Die zyn doorluchtig huis, gekroont met lauwerbladen,
+Zo snoodt onteerde door verfoejelyke daaden.
+ t Is waar, dat my de vorst met ongedult verwacht;
+Maar niet in zulk een staat. de plegtigheidt, de pracht,
+(1235) En eeretekens zyn bereidt om ons t ontfangen.
+Men ziet de vlaggen aan de tempeltranssen hangen.
+De zegepoorten staan op markt en straat geplant;
+Daar ik met myn prinses zou treeden handt aan handt
+Naar  t opgepronkt paleis, door duizent kunstenaaren,
+(1240) In vroeger eeuw, gesticht op marmere pilaaren.
+En zo u da t feestsieraadt, dat denkbeeldt van myn lof
+Getuige strekken van myn schande in Daunus hof?
+Uw dochter moet met my zich naar myn ryk begeeven,
+Of ik om haare min voor uwe muuren sneeven.
+
+                LATINUS.
+
+(1245) Dat gy dit Iyfgevecht ontgaat, zal nooit uw naam
+En heldenroem, zo lang verheerlykt van de Faam, Bevlekken.
+Turnus moedt is ons te klaar gebleeken.
+De naneef zal met lof van uwe daaden spreeken,
+Zo lang de morgenzon Auzonië bestraalt:
+(1250) Maar hooger magt houdt hier uw dapperheidt bepaalt
+Het zyn de Goden die Eneas voordeel geeven,
+Zyn min begunstigen en d uwe wederstreeven.
+Wie voor het nootlot zwicht, verwaarloost nooit zyn eer.
+Gy legt, op dat bevel, alleen de wapens neer.
+
+                 TURNUS.
+
+(1255) Hoe wil de vorst dat ik myn vyandt zal gelooven,
+Wiens looze geest, om my Lavinia t ontrooven,
+Dat nootlot heeft verdicht? o neen! de trouwe min
+Staat door den wil der Goôn gewortelt in myn zin:
+En zouden zy die vlam in myn gemoedt ontsteeken,
+(1260) Om, als een straf, daar door myn lyden aan te queeken
+Dat heb ik nooit verdient. doorzoek myn handel vry,
+En tel de dagen van myn leven op een ry,
+Gy zult er geen, bevlekt met snoode feiten, vinden.
+
+                LATINUS.
+
+Gy zegt: Eneas zoekt onze oogen te verblinden,
+(1265) En door verdichtselen, van  t listig brein gesmeedt,
+In slaap te wiegen. neen, gy zyt verdoolt. ik weet
+D omstandigheden van die groote zaaken nader,
+Door  s priesters spelling en  t Orakel van myn vader.
+Maar ik, bewogen door de bloetverwantschap, en
+(1270) Uw trouwe diensten, daar ik aan verschuldigt ben,
+Heb reukeloos my zelf in veel gevaar gestoken,
+Het opgerecht verbondt en vorstlyk woordt gebroken,
+De godtspraak dwaas veracht, en myn beschooren zoon,
+Als vyandt, aangetast, tot nadeel van de kroon,
+(1275) Tot ramp der burgery en myn Latynsche helden,
+Wier bloet den Tyber noch bepurpert en de velden.
+En zal ik in dien staat, zo doodlyk voor myn ryk,
+Myn bloetvriendt Turnus noch beweenen; en zyn lyk,
+In plaats van lauren, met cipressebladen sieren,
+(1280) En, voor de zege, by  t altaar zyn uitvaart vieren?
+
+                 TURNUS.
+
+Vergeldt gy zo myn dienst, ô vorst, dat gy de kracht
+En zenuw van uw ryk, in Turnus arm, veracht?
+Die vuist, die Pallas velde, en duizent onderdaanen
+Van prins Evanders hof, Arkaders en Trojaanen,
+(1285) In  t bloedig veldtgevecht ontwapende, en door  t staal
+Vernielde: die helmet en harnas van metaal,
+En gulde beukelaars, waar mee de ridders pronken,
+Tot zegetekens aan uw muuren heeft geklonken:
+Zou die den handel nu vergeeten van  t geweer,
+(1290) En d aangebore kracht verliezen, daar myn eer
+En liefde loopt gevaar? ô neen! verban uw vreezen:
+Ik vind my meer gehart, ja sterker dan voordezen.
+Sta my den tweestrydt toe: dat eisch ik voor myn loon
+Der diensten, door dit zwaardt beweezen aan uw troon.
+(1295) Gy zult Eneas ook hier door vernoeging geeven.
+
+                LATINUS.
+
+Wel aan, ik zal uw eisch niet langer wederstreeven:
+Maar stem den strydt door dwang. ik heb myn pligt betracht.
+O gryze Daunus! roem van uw aaloudt geslacht!
+Ik roep de Goden tot getuigen, die ons hooren,
+(1300) Dat ik onschuldig blyf, zo Turnus gaat verloren!
+Gebliksemt Latium! en gy, gedreigde wal!
+Uw heil verheft zich, maar door uw beschermers val!
+Thyrenus, breng terstont myn volk het vredeteken.
+Beveel het vechtperk voor de vorsten af te steeken
+(1305) In  t aanzien van de poort. de priesterlyke schaar
+Tree straks in  t kerkgewaadt naar buiten, met altaar
+En offerschaalen en gewyde wierookvaten.
+Stel al de vaanen van myn ruiters en soldaaten
+En lyfstaffleren in slagorde op  t ruime veldt.
+
+                THYRENUS.
+
+(1310) Ik volg des konings last. en gy, kloekmoedig heldt,
+Die ons in hoogen noodt verpligtte door uw daaden,
+De hemel kroone u met de zege en lauwerbladen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+LATINUS, TURNUS.
+
+LATINUS.
+IK zal den tweestrydt zelf aanschouwen; ieders recht,
+(1315) Gelyk een vorst betaamt, hanthaven in  t gevecht,
+En naar de plaats, tot spoedt der plegtigheidt, vertrekken.
+Gy kunt Eneas, als hy komt, de zaak ontdekken,
+En volgen. ô besluit! ô kracht van liefde en bloet!
+O Godtspraak! ach! wat storm verwektge in myn gemoedt!
+
+                 TURNUS.
+
+Gewenschte dag! ik groet uw zegenryke straalen:
+(1320) Gy zult myn glori en myn min zien zegepraalen!
+Ik zoek Eneas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+AMATE, TURNUS.
+
+AMATE.
+                    PRins, vertoef, en meld aan my,
+De reden die ons volk beweegt tot muitery.
+Wat wil dit straatgerucht? dat kan ik niet beseffen.
+
+                 TURNUS.
+
+Wat oproer, koningin? uw volk wil my verheffen
+
+(1325) Ten allerhoogsten top van glori en geluk,
+En wacht van Turnus arm het grootste meesterstuk.
+
+                 AMATE.
+
+Hoe zoekt men myn gedult door duistre taal te tergen?
+Of wilt gy deze zaak voor uw vriendin verbergen?
+
+                 TURNUS.
+
+Ik bidt, verstoor u niet.
+
+                 AMATE.
+
+                                            Geef my dan klaar bescheidt.
+
+                 TURNUS.
+
+(1330) O ja! het is uw volk, dat voor myn welvaart pleit.
+Uw burger zoekt met kracht myn huwlyk voort te zetten,
+En  t feest te vieren, dat Latinus wil beletten.
+
+                 AMATE.
+
+Men dank den hemel, die zich voegt aan onze zy.
+
+                 TURNUS.
+
+Ik sta noch dieper in de gunst der burgery.
+
+(1335) Men wil door my  t gevolg der krygselenden stuiten,
+En met myn strydtbren arm den oorlogstempel sluiten.
+Zo wordt myn luister van uw onderdaan vergroot.
+
+                 AMATE.
+
+Maar door wat middel? spreek.
+
+                 TURNUS.
+
+                                                      Door prins Eneas dood
+
+                 AMATE.
+
+En met uw lyfgevaar? myn vreugdt verkeert in vreeze
+(1340) Ontga dien strydt, myn zoon; ai, laat ik u beleezen.
+Gy weet dat u myn hart, gelyk een moeder, mint:
+Dat hart zou breeken, zo myn allerwaardste vrindt
+Door  t Frygiaansch geweer wierdt in  t gevecht verslage]
+Verkort myn leven niet door  t korten van uw dagen.
+(1345) Gy zyt de hoop en troost van onzen ouden dag.
+Uw schouder onderschraagt den troon. ons ryksgezag
+Wordt noch gehanthaaft, maar alleen door uw vermoge
+Prins, spaar u zelf voor ons, voor  t ryk, en droog myn oogen.
+
+                 TURNUS.
+
+Hoe keert men  t oproer der gemeente, die den gloedt
+(1350) Des oorlogs blusschen wil in een van beider bloet,
+En den verwinnaar aan Lavinia verbinden?
+Maar hoe!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+ENEAS, TURNUS, AMATE, ACHATES
+
+ENEAS.
+MYn heer, ik dacht den koning hier te vinden,
+En  t antwoordt op myn eisch te hooren, nu de tydt
+Van zyn beraadt alree verscheenen is.
+
+                 TURNUS.
+
+                                                                               
+Gy zyt
+(1355) Van pas gekomen, schoon de vorst vertrok naar buiten,
+Om in zyn naam met my het ryksverbondt te sluiten.
+Gy eischt Lavinia, prins, van haar vaders handt.
+Zy wordt u toegestaan, en door dien bruiloftsbandt
+De magt vereenigt van Trojaanen en Latynen.
+(1360) ZO zal de vredezon Auzonië beschynen,
+En gansch Rutulië, door oorlog afgemat,
+Zich vleien in de rust op  t veldt of in de stadt.
+
+                 ENEAS.
+
+Achates, breng terstont Askaan die blyde maaren.
+
+                 TURNUS.
+
+O neen! vertoef, ik zal my nader openbaaren.
+(1365) Gy kunt de ryksprinses, die gy begeert, myn heer,
+Bezitten, maar gy moet haar winnen door  t geweer.
+Wanneer myn lykhout rookt omtrent uw echtaltaaren,
+Kuntge onbeschroomt met haar ten tempel treen en paaren.
+De tweestrydt zal den twist beslechten voor de poort.
+(1370) Hier hoort gy myn besluit en vorst Latinus woordt.
+Hy zal ons lyfgevecht aanschouwen voor zyn tenten.
+
+                 ENEAS.
+
+Achates, ga, bezorg, dat al myn regementen,
+Geschaart in orde, by prins Turnus benden staan.
+ k Beveel den offerdienst der Goden aan Askaan.
+
+ACHATES.
+(1375) Vaarwel, doorluchte prins, wy zullen u verwachten,
+Om zege smeeken, en eerbiedig  t offer slachten.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZESDE TONEEL.
+ENEAS, AMATE, TURNUS.
+
+ENEAS.
+O dappre vyandt! die in moedt voor niemant zwicht,
+Gy hebt my nooit voorheen, maar heden dier verpligt.
+ t Schynt of de drift van haat, in myn gemoedt bestreden
+(1380) Begint te flaauwen door uw edelmoedigheden.
+Maar  k moet die tederheidt weerstreeven in myn zin.
+Twee zaaken dwingen my, de vrientschap en de min.
+Gy wilt de schoone bruidt; die my de Goden schonken,
+Van my vervreemden en door uwe liefde ontvonken.
+(1385) Gy hebt myn waarden vrient, dien jongen oorlogsheldt,
+Evanders erfgenaam, tot myn verdriet, gevelt.
+ k Moet door uw val myn min verzeekren, tot een teken
+Dat ik het nootlot eere; en Pallas lykasch wreeken;
+Ja, met myn weerwil u vervolgen tot de doodt.
+(1390) En gy, door wie myn bruidt het levenslicht genoot,
+Vorstin, die my verpligt tot onderdanigheden
+Door haar geboorte, leen uw oor aan myn gebeden:
+Indien de tweestrydt my gelukt, en deze handt
+Het leven eindigt, van uw vriendt en bloetverwant,
+(1395) Dien gy met moedermin begunstigt; laat uw tooren
+Myn daadt niet vloeken noch myn bruiloftsvreugd verstooren.
+Ik sta gedwongen naar zyn lyf. myn schoone bruidt,
+Uw dochter, wet myn zwaardt door  t hemelsche besluit.
+Zy zal u Turnus door Eneas arm ontrukken.
+
+                 AMATE.
+
+(1400) Sta af. die vleiery zal nimmer u gelukken.
+Gy kent Amate niet noch haar verwoeden zin.
+Ik ben vergiftigt van uw grootste vyandin.
+Die Priaams afkomst heeft verdelgt: wiens wrok, aan  t blaaken,
+De Grieksche toortsen stak in uw aaloude daken;
+(1405) Die golf en wolk ontroerde, en Trojes rampgenoot
+Met u zo lang vervolgde, en donderde op uw vloot
+Met onweerwinden en gepreste zeeorkaanen:
+Die , lachen de om uw klagt en uitgestorte traanen,
+Den bliksem slingerde in uw zeilen op den vloedt:
+(1410) Die Godtheidt heeft haar haat gedrukt in myn gemoedt.
+Gy hebt dien haat, barbaar, door  t moorden van myn maagen,
+Noch daaglyks aangequeekt, ons volk door oorlogsplaagen
+Geteistert, en  t gebiedt van Latium ontrust,
+Zo dra gy landde met uw vloot aan deze kust:
+(1415) En meent gy dat ik u, als bruidegom, zal groeten,
+Als koning Turnus legt verslagen voor uw voeten?
+Wacht in Lavinia, verdoolde prins, uw straf
+ k Zal haar met steek op steek vermoorden op zyn graf,
+En op myn wraakaltaar tot zyn verzoening slachten.
+
+                 TURNUS.
+
+(1420) Verwerp dat opzet, zo verwoedt, uit uw gedachten.
+Gy zoudt myn bleeke schim ontrusten door dat feit.
+Verhoor een minnaars beê, die voor haar onschult pleit.
+Indien Eneas my in  t lyfgevecht zal dooden,
+Getuigt myn nederlaag het hoog besluit der Goden;
+(1425) Dan blykt de spelling, die myn liefde houdt verdacht:
+Laat dan Lavinia, tot roem van haar geslacht,
+Van elk verheerlykt, naar haar vaderlyke zeden,
+Gelyk een koningsbruidt, met hem ten tempel treeden.
+Ik eisch geen rougewaadt, geen jammerklagt, of druk.
+(1430) Verheug u in den roem van  t ryk, en zyn geluk.
+
+                 AMATE.
+
+Doorluchte ziel, wat tong kan u naar waarde looven!
+Deze edelmoedigheidt gaat alle deugdt te boven.
+Die u den grootsten schat, het leven, rooft door  t zwaardt,
+Dien schenkt gy na de doodt uw hoogste goedt op aardt.
+(1435) Maar overweeg; ik heb de maagt aan u gegeeven,
+Op dat gy, door de trou met haar vereent, zoudt leeven.
+Uw doodlyk nootlot stelt haar weer in myne magt:
+Te meer, nu gy haar schenkt aan hem, van elk veracht;
+Van Goôn en mensch gevloekt, van windt en zee bestreden.
+
+                 ENEAS.
+
+(1440)  t Is waar, wy hebben veel na Trojes val geleden:
+Maar of der Goden vloek, dien gy aan my verwyt,
+Verzoent is, of vervolgt, zal blyken uit den strydt.
+
+                 AMATE.
+
+Schoon u dit lyfgevecht rechtvaardigde in elks oogen;
+Ik zal uw bruiloftsfeest, dat zweer ik, nooit gedoogen
+(1445) Keer vry verwinnaar: ik zal juichen, als uw handt
+Haar zegetekens op myn dochters lykbus plant.
+Wanneer Eneas op haar grafzerk zyn laurieren
+Besproeit met traanen, zal Amate zegevieren.
+Verwacht dien gruwel van ecn moeder, die, verwoedt,
+(1450) Haar vriendt zal wreeken, en u straffen door haar bloet.
+Indien die prys den moedt kan in uw hart verwekken,
+Kunt gy uit myn gezigt terstont naar  t perk vertrekken:
+Ik zal, wanneer gy keert in zege, u tegentreên,
+En toonen u de vrucht, barbaar, van uw trofeen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE TONEEL.
+ENEAS, TURNUS.
+
+ENEAS.
+(1455) O schrikkelyk besluit, waar voor myn leden beeven!
+
+                 TURNUS.
+
+Ach! tot wat woede wordt de koningin gedreeven!
+Zy wil my wreeken, en vermoordt my, ruim zo wreet
+Door haar besluit dan  t staal tot myn bederf gesmeedt.
+O averechtse gunst! verfoeilyk mededogen!
+(1460) O hatelyke dienst! hoe wordt myn hart bewogen
+Door uw gevaar, prinses! gy sterft tot wraak van my,
+Indien ik sneuvel, door Amates razerny:
+Daar ik uw levensdraadt zou rekken door myn sterven,
+Indien ik deze gunst mogt van de Goon verwerven.
+
+                 ENEAS.
+
+(1465) O nooit gehoorde haat! ontaarde koningin!
+Gy zweert uw dochters doodt, om dat ik haar bemin.
+Gy wilt de vrucht, van u geteelt en voortgesprooteil,
+Het leven rooven, om myn lyden te vergrooten.
+Hoe wordt uw hart van  t spoor der reedlykheidt geruk
+
+                 TURNUS.
+
+(1470) Myn medeminnaar, zo de tweestrydt u gelukt,
+En ik door u verga, ai, berg haar dierbaar leven:
+Om haar behoudenis wordt u myn doodt vergeeven.
+
+                 ENEAS.
+
+lk weet een middel, om ons van die zorg t ontslaan.
+Men dien voor  t lyfgevecht de zaak den koning aan;
+(1475) Dan kan hy haar vertrek met zyn staffiers bezetten,
+Om  t doodlyk opzet van Amate te beletten.
+Kom gaan wy naar den strydt. beproef uw leste kracht.
+
+                 TURNUS.
+
+Ik volg u naar de plaats, daar ons Latinus wacht.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ACHTSTE TONEEL.
+LAVINIA, TURNUS, ENEAS, SABINE.
+
+LAVINIA.
+NEen, prinssen blyft, en ziet een konings dochter knielen:
+(1480) Zy smeekt u voor u zelfs en uw doorluchte zielen.
+Gy gaat ten strydt, o neen! ter slachtbank, daar de grondt
+Uw verschvergooten bloet zal slurpen uit de wondt:
+Daar ik, door uw bederf gemartelt, al myn dagen
+ t Rampzalig nootlot van myn minnaars zal beklaagen.
+(1485) Gy gespt het harnas aan, ô helden! om de bruidt
+Te winnen, die gy zelf bevecht door dat besluit.
+Gy wilt elkander voor de vuist in  t veldt bespringens
+Maar  t staal zal door uw borst ook in myn boezem dringen,
+Als oorzaak van uw doodt. rnyn hart gevoelt alree
+(1490) De wonden smarten, eer de kling raakt uit de schee.
+Mogt ik den gloedt van haat, in elks gemoedt aan  t blaaken,
+Met traanen blusschen, die vast vloejen langs myn kaaken
+Ik schreide een gansche zee, ja bei myn oogen uit.
+Doorluchte bloetverwant, o koninklyke spruit!
+(1495) Die Daunus sluierkroon verheerlykt door uw daaden:
+Die duizent vyanden, met ketenen beladen,
+En ryken wapenbuit en koninklyken schat
+In zege voerde naar uw vaderlyke stadt;
+Uw leste heldenwerk zal d andre ver braveeren,
+(1500) Als gy zelf over u zo braaf zult triomfeeren.
+Bevecht, gelyk een heldt, de drift van uw gemoedt,
+Die naar uw leven staat, en myne elende voedt.
+
+                 TURNUS.
+
+Gy moogt, Lavinia, myn daaden hoog verheffen;
+Het leste meesterstuk zal alles overtreffen:
+(1505) Wanneer, om uwe min, een koning, zo vermaardt,
+De ziel zal braaken door de slagen van myn zwaardt:
+Maar wordt in tegendeel myn bloedt door hem vergooten,
+Dan zal de nederlaag myn glori zelf vergrooten:
+Doordien ik in den strydt door liefde wordt gevelt,
+(1510) Om d allerschoonste vrou, en door den grootsten heldt.
+
+                LAVINIA.
+
+Dewyl ik Turnus niet kan winnen door gebeden,
+Moet ik Eneas hart vermurwen door de reden.
+Doorluchte vreemdeling, die met uw vloot zo lang
+Geschokt wierdt op de zee na Trojes ondergang:
+(1515) Die voor uw vaderlandt een langen reeks van jaaren
+In  t harnas stondt, tot schrik der Grieksche legerschaaren:
+Die zelf uw vader met zyn witbegrysde kruin
+Op beide uw schouders droogt door smookende assche en puin:
+Die, lang van  t woedent lot gemartelt en bestreden,
+De Goden hebt verzoent door uw godtvruchtigheden:
+Ai voeg noch eene deugdt by alle uw deugden. laat
+Ik u beweegen door myn bede, en ban den haat,
+Dat schriklyk monster, uit uw redelyke zinnen.
+Betoon uw krachten in u zelven te verwinnen.
+Bevredig u met hem, dien gy dreigt met de doodt.
+Omhels prins Turnus als uw vriendt en bontgenoot.
+Vereenig uwe magt, om tegen hen te stryden
+Die  t heil van Latium en Daunus kroon benyden.
+Verheerlyk uwen roem door zulk een braave daadt,
+(1530) En laat Lavinia, in maagdelyken staat,
+En vry van  t huwelyk, den oorspronk der elenden
+Beschreien op den zerk van vrienden en bekenden
+En bloetverwanten, door uw sabel omgebragt.
+Aanschou myn traanen, prins, verhoor myn jammerklagt.
+(1535) Ik zal, als erfgenaam, na vorst Latinus leven,
+Zyn staf en tullebandt u willig overgeeven.
+Dat bid ik, om de schim van haar, die u voorheen
+Zo lief en waardig was, en aan uw zy verdween,
+Toen gy om Priams doodt en Pyrrhus wreetheidt zuchtte,
+(1540) En met Anchizes en Askaan den brandt ontvluchtte.
+
+                 ENEAS.
+
+Myn egaas geest, die zich vermaakt in  t zalig veldt,
+Heeft my op Trojes puin dit huwlyksfeest gespelt.
+Gy zult Hesperie, sprak myn Kreuze, aanschouwen,
+En aan den Tyberstroom een koningsdochter trouwen.
+(1545) Ik zal haar spelling niet beschaamen, maar haar woordt
+Gestant doen door myn zwaardt in  t vechtperk voor de poort.
+Vaarwel, prinses, wy gaan: ai, stel uw hart te vreden.
+Ik sterf, of zal uw koets, als bruidegom, bekleden.
+
+                 TURNUS.
+
+Vaarwel, doorluchte vrou, ik ga om u ter doodt,
+(1550) Of groet u, na den strydt, als troon- en echtgenoot.
+
+                LAVINIA.
+
+Neen, prinssen, blyft, en hoort. helaas! zy zyn geweeken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+NEGENDE TONEEL.
+LAVINIA, SABINE.
+
+SABINE.
+GY kost hun harten niet beweegen door uw smeeken.
+De liefde wet hun moedt en vyantschap, mevrou.
+Zo wordt gy met het zwaardt verbonden door de trou.
+(1555) Twee helden, even groot van moedt en dapperheden,
+Verstouten zich om u in  t lyfgevecht te treeden.
+Uw schoonheidt strekt het wit, daar ieders hoop op doelt:
+Daar gy de werking ook van hoop of vrees gevoelt.
+
+                LAVINIA.
+
+Ik moet my van den strydt, hoe die verga, beklaagen:
+
+(1560) Myn waarde bloetverwant of minnaar wordt verslaagen.
+
+                 SABINE.
+
+ t Gevoel van dit verlies is ongelyk, prinses.
+U treft prins Turnus leet, maar niet als minnares.
+
+                LAVINIA.
+
+ t Is waar, Sabine, ik min Eneas: uit zyn wezen
+Zyn alle tekens van eene eedle ziel te leezen.
+(1565) Hy is die krygsheldt, die de magt van Griekenlandt
+Tien jaaren wederstondt, en stuitte aan Xantus strandt:
+Die, op  t bestrydent heir met Hektor uitgevallen,
+De velden stapelde met lyken voor zyn wallen.
+Hadt Priaam helden, als Eneas, voortgebragt;
+(1570) Nooit waar de gryze vorst in  t heiligdom geslacht:
+Noch stondt de trotse muur van Ilium verheven,
+En Azie zou noch de werelt wetten geeven.
+Zo spreekt zyn vyandt zelf; en Diomedes hof,
+Wel eer van haat bevrucht, gaat zwanger van zyn lof:
+(1575) Als vaders afgezant getuigde in  t wederkeeren.
+Ik moet Eneas om zyn deugdt en daaden eeren,
+En minnen; maar ik schrik voor dit gevecht.
+
+                 SABINE.
+
+                                                                           
+Bedaar.
+Gy zult uw bruidegom omhelzen na  t gevaar,
+En van uw vaders handt voor  t echtaltaar ontfangen.
+
+                LAVINIA.
+
+(1580) lk zal, wanneer hy keert, met traanen op myn wangen,
+Den heldt ontmoeten, maar van dierbaar bloet bekladt.
+
+                 SABINE.
+
+En of prins Turnus quam verwinnaar in de stadt?
+
+                LAVINIA.
+
+Zwyg, onbedachte, gy vermoordt my door uw vraagen.
+Ach! eindigde myn leet door  t einde van myn dagen,
+(1585) En mogt ik  t vuur van haat uitblusschen met myn bloet!
+Ik zou in dezen staat, Sabine, welgemoedt
+Den sabel kussen, en myn leden vrolyk buigen.
+Dat kunt gy Goden , die myn hart doorgrondt, getuigen.
+
+                 SABINE.
+
+Hou moedt, en leef
+
+                LAVINIA.
+
+                                        Kom, volg. laat ons in dit geval
+(1590) Met smart verwachten, wat ons d uitkomst geeven zal.
+
+                Einde van het vierde Bedryf.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE BEDRYF.
+
+EERSTE TONEEL.
+LAVINIA, SABINE, MARCELLUS,
+LYFWACHT.
+
+LAVINIA.
+IK klim, als zinneloos, den hoftrap op en neder.
+Myn onrust . . . ach! ik beef. Marcellus keert gy weder!
+Zyn zy al handtgemeen, of beide neêrgevelt,
+Of een van beide? of is de tweestrydt uitgestelt?
+
+               MARCELLUS.
+
+(1595) Zo dra prins Turnus, en de koning der Trojaanen
+Op  t afgesteken veldt, omringt van oorlogsvaanen,
+Verscheenen, wierdt de vorst, omsingelt van zyn stoet,
+Op zyn verheve koets in  t perk van hun begroet.
+Eneas luisterde den koning iets in d ooren,
+(1600) Zo zacht, dat niemant van  t gevolg zyn woordt kon hooren.
+Toen rees hy overent, en sprak: Marcellus, ga,
+Verzeker met myn wacht prinses Lavinia.
+ k Beveel aan u de zorg. bezet aan alle kanten
+Haar hofportaalen, tot ik keer, met myn trouwanten.
+(1605) Gedoog, op lyfstraf, geen bezoek van  t hofgezin.
+Dat ieder buiten sta, vooral de koningin.
+
+                LAVINIA.
+
+Hoe! neemt myn vader my gevangen? om wat reden?
+Heb ik hem ooit onteert door ongebonde zeden,
+Of zyn gezag gekrenkt door ongehoorzaamheidt?
+(1610) Waar ben ik schuldig aan, Marcellus? noem my  t feit.
+
+               MARCELLUS.
+
+Ik hoop uw goetheidt zal haar onderdaan verschoonen.
+Ik weet de zaak niet, maar moet my gehoorzaam toonen.
+
+LAVINIAwechgaande.
+Ik wacht in hechtenis den uitslag van myn lot,
+En ga u voor. volvoer het vaderlyk gebodt.
+
+SABINE wechgaande.
+(1615) O vreemt bevel! ik weet uw oorspronk niet te vinden;
+Maar wacht den tydt, die my dit kluwen zal ontwinden.
+
+               MARCELLUS.
+
+Gy lyfwacht, tree voor uit. ik volg. bezet de poort.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWEDE TONEEL.
+AMATE, JULIA, MARCELLUS.
+
+AMATE.
+HEb ik myn dochter niet in deze zaal gehoort?
+Marceilus toef. waar is Lavinia gebleven?
+
+               MARCELLUS.
+
+(1620) Zy heeft zich, op myn woordt, naar haar vertrek begeeven,
+Dat ik door  s konings last, met lyfwacht hou bezet.
+
+AMATE
+Ik volg.
+
+               MARCELLUS.
+
+                    Vergeef my.
+
+                 AMATE.
+
+                                                      Wordt de toegang my
+belet?
+
+               MARCELLUS.
+
+Haar majesteit verschoon haar dienaar, die  t behagen
+Des konings volgt, en in zyn pligt zich trou moet draagen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DERDE TONEEL.
+AMATE, JULIA.
+
+AMATE.
+(1625) VErmetele ga heen, maar wacht eerlang myn wraak.
+Ach! Turnus hebt gy my verraaden, en de zaak
+Myn echtgenoot ontdekt? ik wilde uw onheil wreeken,
+Indien gv sneuvelde, en den vreemdeling versteeken
+Van d ingebeelde vrucht des strydts. ondankbre vriendt,
+(1630) Heeft myn genegenheidt en zorg dien hoon verdient?
+
+                 JULIA.
+
+Maar om wat oorzaak mag de ryksprinses, gevangen
+En opgesloten, u niet in haar hof ontfangen?
+
+                 AMATE.
+
+Ik mag u dit geheim niet melden: weet alleen,
+Dat my de haat vervoert tot buitensporigheen.
+(1635) De gunst en vyantschap verbysteren myn zinnen.
+Ik kan, o Julia, die driften niet verwinnen:
+Zy overweldigen de reden in myn hart.
+Ik heb u dezen dag den oorspronk van myn smart,
+Dien onverzoenbren wrok ontdekt: dat vier, aan  t branden,
+(1640) Verteert natuur zelf in myn woedende ingewanden.
+Dit zy genoog. hebt gy van Turnus niets verstaan?
+
+                 JULIA.
+
+Men zal haast hooren hoe de tweestrydt is vergaan.
+De Tyberpoort, waar voor het perk is afgesteeken,
+Staat dicht aan dit paleis. prins Turnus kracht, gebleeken
+(1645) In zo veel slagen, zal hem redden uit den noodt,
+En zyn oprechte min verzeekren door de doodt
+Des vyandts, dien gy haat. hy zal in  t hof verschynen,
+Als winnaar, en uw zorg door zyn triomf verdwynen.
+
+                 AMATE.
+
+Gy zoekt myn zwakke hoop in  t midden van den druk,
+(1650) Te sterken, maar myn hart voorzegt my  t ongeluk.
+Daar voel ik, hoe myn vriendt, mishandelt en bestreden,
+In  t lyfgevecht bezwykt, en met vermoeide leden,
+Al hygende, op den grondt zich wentelt in zyn bloedt.
+De Trooische balling drukt den gorgel met zyn voet,
+(1655) En plondert helm en zwaardt en riem en schouderplaaten.
+Hy nadert, Julia, en sleept langs onze straaten
+Dien ryken buit naar  t hof, en legt dat krygsgeweer
+Voor zyn gewonne bruidt, tot blyk der zege neer.
+Kan ik dat treurspel wel aanschouwen, en noch leeven!
+(1660) Vergramde Godtheidt, die, van wraakzucht aangedreeven,
+My door een vreemde magt tot uwen dienst verpligt,
+Ai sluit myn oogen voor dat doodelyk gezigt!
+Laat my rampzalige van u die gunst verwerven,
+En voor de nederlaag van koning Turnus sterven.
+(1665) Ik zal de doodt met vreugde omhelzen.
+
+                 JULIA.
+
+                                                                  Staak uw
+klagt.
+Verban de wanhoop uit uw zinnen, leef en wacht
+Een gunstig nootlot van de Goden, die voordezen
+Hun zegen aan dit ryk in overvloedt beweezen.
+
+                 AMATE.
+
+Hoe zou ik leeven, om te deelen in den lof
+(1670) Myns vyandts, en zyn feest te vieren in ons hof!
+Kunt gy die lafheidt van uw koningin gelooven?
+Neen, Julia, ik zal my zelve  t leven rooven
+Indien de hemel voor myn bee zyn ooren sluit.
+Laat dan Lavinia, als eene ontzinde bruidt,
+(1675) De huwlyksfakkel aan haar moeders lykaltaaren
+Ontsteeken: myne schim zal door den tempel waaren,
+En schreeuwen wraak en wee in d ooren van de Goon.
+Ik zal haar volgen op den koninklyken troon,
+En  t kroonfeest in  t gezigt der plegtigheden stooren;
+(1680) Het volk verbaazen by  t gejuich. myn vloek en tooren
+Zal  t paar geleiden naar het huwlyksledekant;
+De wraaktoorts dit paleis ontsteeken door myn handt.
+
+                 JULIA.
+
+Mevrou, de koning keert.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TONEEL.
+LATINUS, AMATE, JULIA.
+
+LATINUS.
+                                                      VOrstin, wy gaan
+verloren.
+
+                 AMATE.
+
+Wordt d ondergang van  t ryk uit Turnus doodt geboren?
+(1685) Legt hy in  t vechtperk door Eneas zwaardt gevelt?
+
+                LATINUS.
+
+O neen! hy leeft.
+
+                 AMATE.
+
+                    Hy leeft? en gy, gy keert ontstelt,
+En bevende van schrik. wat maakt u dus verlegen?
+Nu Turnus leeft, zyn wy behouden, en zyn degen
+Zal ons . . . .
+
+                LATINUS.
+
+                    Geef my gehoor; op dat ik u  t gevaar
+(1690) Van onze krygsmagt en den rykstroon openbaar:
+Zo zal uw ydle hoop op Turnus hulp verdwynen.
+Men zag Eneas welgemoedt in  t perk verschynen.
+Hy scheen een leeuw, die, lang getergt, vol ongedult,
+Zyn vyandt afwacht, en afgryslyk tiert en brult,
+(1695) Zyn klaauwen scherpt, en streeft met opgereze maanen,
+Het veldt, omsingelt van Latynen en Trojaanen
+En Rutulen, bekleedt met helm en beukelaar,
+Verbeeldde een krygstoneel. de priesterlyke schaar
+Ontstak de vlammen op  t altaar van groene zoden,
+(1700) En keelde  t offervee geheiligt aan de Goden.
+Eneas trekt zyn zwaardt. hy slaat zyn oogen naar
+Den hemeltroon, en zweert voor ons Latynsch altaar;
+Een eindeloos verbondt godtvruchtig t onderhouwen.
+Hy neemt d alziende zon, d Auzonische landouwen,
+(1705) Noch rookende, en gemest met heldenbloet, en zweet;
+En al de Goden tot getuigen van zyn eedt.
+Zo gaat hy voor. ik volg, terwyl onze offers branden;
+En raak  t gewyde altaar eerbiedig met myn handen;
+En zweer, by hemel, aarde en golven, by de kroon
+(1710) Van vader Faunus, en by d afkomst van Latoon.
+Zo dra de Rutulen hun koning zien genaaken
+Voor  t offervier, en, met verbleekte en dootsche kaaken,
+Zich tot het lyfgevecht bereiden; wordt hun hart
+Bewogen door  t gevaar van Turnus, dat hun smart.
+(1715) Elk spelt de nederlaag alrede in zyn gedachten,
+En ziet de stryders aan, als ongelyk van krachten.
+Zy morren onder een, verwerpen het ontzag,
+En vloeken openbaar  t bezworen krygsverdrag.
+Ja zelf t Latynsche volk, dat heden, moe van stryden,
+(1720) Om vrede schreeude, slaat, vervoert van medelyden,
+De handen aan  t geweer, en schendt ons vreeverbondt.
+De Trooische krygsmagt, die naast onze benden stondt:
+Wordt wakker op  t gemor van Turnus oorlogsknechten.
+De legers wederzydts staan vaardig om te vechten.
+(1725) Eneas schreeut: laat af wat dolheidt gaat u aan,
+Trojaanen?  k moet alleen myn vyandt tegengaan.
+Wat helsche tweedragt kan den verschen vrede stooren!
+Men eer de voorwaarde en  t verbondt, zo dier bezworen.
+Hier zweeg Anchizes zoon; toen een vervlogen schicht
+(1730) Op  t harnas langs zyn borst afschampte, in ons gezigt.
+
+                 AMATE.
+
+Wat hoor ik! waar zyn ziel de borstwonde uitgevloogen,
+En mogt Amate  t lyk beschimpen voor elks oogen,
+En juichen om de doodt van dien verrader?
+
+                LATINUS.
+
+                                                                               
+            Staak
+Dien wensch. dat voorval prest zyn onderdaan tot wraak.
+(1735) Straks wordt men handtgemeen. men treft met speer en degen.
+De schichten snorren door de lucht. een yzre regen
+Bedekt ons groene veldt in  t aanzien van de stadt.
+D een grypt het brandthout van  t altaar, met bloet bespat,
+En blaakt met offervier d onthelmde bekkeneelen.
+(1740)  t Gewyde wierookvat, ontheiligt in  t krakkeelen,
+Knarst, door een sterke vuist gedreeven, op  t metaal
+Van borst- en schouderplaat. de blinkende offerschaal,
+Noch schuimende van  t bloet der verschgekeelde schaapen,
+Vliegt door de legerbende, en kneust den helm en  t wapen.
+(1745) Een ander opent met zyn sabel, scherp van snee,
+De vyantlyke kruin, en past op zucht noch bee.
+Ja  t uitgespatte brein der afgestrede schaaren
+Vermengt zich onder  t bloet der rundren by d altaaren.
+De priesters grypen noch  t mishandelt overschot
+(1750) Der heiligdommen, van  t verwoede graauw bespot,
+En vlieden langs den weg, bezaait met duizent dooden.
+Ik volg hen in de stadt met myn geschonde Goden.
+Daar klom ik op den muur en hoogen torentrans,
+Die dit paleis bewaakt. ik zag van ver de kans
+(1755) In eenen ogenblik prins Turnus zy verlaaten.
+Eneas triomfeert, en streeft met zyn soldaaten
+Recht naar de wallen, om te stormen op de stadt
+Waar berg ik u, vorstin, myn dochter en myn schat,
+Myn huisgoon, en de kroon en purpre troongewaaden!
+(1760) Eneas zal zyn wraak tot walgens toe verzaaden,
+En zuivren in ons bloet de schennis van  t verdrag.
+Wy gaan verloren, en  t Latynsche ryksgezag
+Vervalt in Trojes magt. de burger slaat aan  t muiten,
+En dreigt de poorten voor den vyandt op te sluiten.
+(1765) Men geeft aan my de schuldt van dezen oorlogsbrandt.
+Ik raakte noch alleen en zonder lyftrouwant
+Door  t oproer in myn hof, en ben  t gevaar ontweeken.
+
+                 AMATE.
+
+Hou moedt, myn heer, geef last de krygstrompet te steeken.
+Verdeel de burgers voor de poort en op den wal.
+
+(1770) Ga voor, en moedig  t volk door uw gezag. ik zal,
+Gewapent, met een ry van juffren, u verzellen,
+En, vechtende aan uw zy, den stormtroep nedervellen,
+De ladders stooten van de muuren met myn handt.
+Zo dra prins Turnus merkt dien dappren tegenstandt,
+(1775) Zal hy de veege stadt ontzetten met zyn benden,
+En, vallende onverwacht den rover op de lenden,
+Ons redden. gryp geweer. waak op. geef my gehoor.
+Vlieg naar de muuren, vorst. wy volgen u op  t spoor.
+Myn haat zal feller dan Eneas toortsen branden,
+(1780) En bliksemen op  t heir van  t hoofdt der dwingelanden.
+Breng wapens, Julia, kom volg my in den noodt:
+Laat ons de slaverny ontvluchten door de doodt,
+Of over  t stormgevaart des vyandts triomfeeren.
+
+                LATINUS.
+
+Hou stant. gy tracht vergeefs de vesten te verweeren.
+
+                 JULIA.
+
+(1785) Thyrenus nadert ons.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TONEEL.
+LATINUS, AMATE, JULIA, THYRENUS
+
+                LATINUS.
+
+WAt brengt gy?
+
+                THYRENUS.
+
+                                                                  Vorst, ik
+keer,
+Doch met een droeve maar. prins Turnus leeft niet meer.
+
+                LATINUS.
+
+Helaas! verhaal zyn doodt.
+
+                 AMATE.
+
+                                            Nu gaat myn ryk verlooren.
+ k Vertrek om dit verhaal, zo doodlyk, niet te hooren.
+Doorluchte ziel, ik weet wat ik u ben verpligt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZESDE TONEEL.
+LATINUS, THYRENUS.
+
+THYRENUS.
+(1790) VErgramde Eneas dreigde uw muur in ons gezigt;
+Toen Iüturnes gunst, uit zuiver mededogen,
+Haar broeder in den strydt ontvoerde voor myn oogen,
+En steets zyn hoop bedroog. maar Turnus, die  t gevaar
+Van uw verheve vest, en rykstroon wordt gewaar,
+(1795) Ontslaat zich van de zorg der zuster; viert, vol toren,
+Den teugelriem, en noopt zyn oorlogspaardt met spooren.
+Gy helden, schreeut hy, rust, verandert uw besluit,
+Verschoont de vesten; laat ons vechten om de bruidt:
+Herroept met my  t verbondt. de tweestrydt zal ons scheiden,
+(1800) En ik Eneas met zyn wapens hier verbeiden.
+Zo dra Anchizes zoon de stem van Turnus hoort,
+Ontsteekt de vreugdt zyn moedt, op  t uitgesprokenwoordt.
+Hy juicht in  t midden der slagorde, zwaait den degen,
+En vliegt gelyk een leeuw, zyn medeminnaar tegen.
+(1805) De hoofden ruimen plaats; terwyl de legerknecht
+Met ongedult verwacht den uitslag van  t gevecht.
+De tweestrydt, zo verwoedt als ooit myn oogen zagen,
+Begint met schichten, en vervolgt met sabelslagen;
+Die, klinkende op  t metaal des boukelaars, de lucht
+(1810) En  t omgelegen landt ontroeren door  t gerucht.
+Gelyk twee stieren, door de vyantschap aan  t woeden,
+Met horens stooten, dat de borst en ril ben bloeden;
+En elk zyns vyandts schoft met wondt op wondt doorboort:
+Terwyl de landtknaap en zyn runders op dien moordt
+(1815) Ter zyde wyken, en van schrik en angst gedreven,
+Van ver beloeren wien  t geluk zal voordeel geeven:
+Niet anders zag men hier Eneas, en den heldt
+Uw dappren bloetverwant op  t afgesteken veldt,
+Daar duizenden verbaast den open grondt omringen,
+(1820) Elkander, heet op wraak, met zwaardt en schicht bespringen.
+ t Hartnekkig lyfgevecht vergramde den Trojaan.
+Hy ziet al grimmende zyn medemilmaar aan,
+En drilt een taaje speer, tot Turnus val geschapen.
+Hy mikt. de werpspies treft, en klooft den zoom van  t wapen.
+(1825) De punt dringt door de heupe, en Turnus stort ter aardt.
+Eneas nadert hem met uitgetogen zwaardt . . . .
+
+                LATINUS.
+
+Wie stoort ons!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZEVENDE TONEEL.
+LATINUS, THYRENUS, MARCELLUS.
+
+MARCELLUS.
+                    DE prinses verzoekt den vorst te groeten,
+En met ontzag haar klagt te storten voor uw voeten.
+
+                LATINUS.
+
+Ga heen, en keer terstont met haar in deze zaal.
+(1830) En gy, Thyrenus, vaar nu voort met uw verhaal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ACHTSTE TONEEL.
+LATINUS, THYRENUS.
+
+THYRENUS .
+TOen  t heir den Frygiaan prins Turnus zag genaaken,
+Spaar om zyn vader, die met ingevalle kaaken,
+En zwak van ouderdom, elk uur den doodt verbeidt,
+Zyn leven, schreeude  t volk: de koning is bereidt
+(1835) Den steek t ontfangen, en den lesten snik te geeven:
+Maar  t heil van Daunus hangt geschakelt aan zyn leven.
+Gy moordt den vader door  t ontzielen van zyn kindt.
+Gy weet, hoe teder u Anchizes heeft bemint,
+En kent een vaders hart. Eneas wierdt bewogen.
+(1840) Maar toen de wapenriem van Pallas in zyn oogen
+Aan Turnus harnas blonk, en schitterde om zyn borst,
+Wierdt door dien roof, noch versch van  s prinsen bloet bemorst,
+Zyn gramschap opgewokt. durft gy, om my te hoonen,
+Dien gordel, vraagt hy, van myn Pallas my vertoonen,
+(1845) En pronken met den buit, die my tot wraak verpligt?
+Hier zwygt hy, en doorstoot den heldt in ons gezigt.
+Hy geeft den geest. ik heb zyn stervend oog gelooken,
+En  t allerlest vaarwel al beevende uitgesprooken.
+
+                LATINUS.
+
+Hoe droeg zich  t leger, toen de koning lag gevelt?
+
+                THYRENUS.
+
+(1850) Elk stortte al zuchtende zyn traanen op den heldt,
+Omsingelt van den drom der droeve legerknaapen.
+D een buigt zich neder, en ontgespt het glinstrent wapen
+Een ander licht den helm en kust den bleeken mondt.
+Een ander scheurt zyn kleedt, en wascht de versche wondt
+(1855) Met water, in den helm geschept uit klaare stroomen.
+Maar uwe burgery, van blyschap ingenomen,
+Juicht op den hoogen muur, op kerk en torentrans,
+En schreeut: nu naakt de tydt, o burgers, dat de glans
+En luister van dit ryk, gelyk de zon, zal ryzen,
+(1860) En ieder Latium onsterflyke eer bewyzen.
+Nu trout de ryksprinses, als Faunus heeft gespelt.
+Men breekt de sloten, en ontgrendelt met geweldt
+De Tyberpoort, om prins Eneas in te laaten.
+Hy volgde my, van elk verheerlykt langs de straaten,
+(1865) Naar  t vorstelyk paleis, in  t midden van zyn stoet.
+
+                LATINUS.
+
+Ga heen, Thyrenus, tree den winnaar te gemoet.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+NEGENDE TONEEL.
+LATINUS, LAVINIA, SABINE, MARCELLUS.
+
+LAVINIA.
+MYn vorst, zal ik deze eer van uwe gunst ontfangen,
+Om knielende aan uw voet . . . .
+
+                LATINUS.
+
+Rys op, en droog uw wangen,
+Myn waarde dochter, schiet de stasitabbert aan,
+(1870) Versier uw leden om naar  t echtaltaar te gaan.
+Het lyfgevecht heeft u den bruidegom gegeeven.
+
+                LAVINIA.
+
+Helaas! wie triomfeert? wie zal, ten troon verheven,
+Het ryk van Latium gebieden na uw doodt?
+Wien van hun beide schonk my  t lot tot echtgenoot?
+
+(1875) Eneas heeft . . . .
+
+                LAVINIA.
+
+                                            Ik schrik! heeft hy den strydt
+verlooren?
+
+                LATINUS.
+
+Ik merk, Lavinia, wien gy hebt uitverkoren.
+De vrees, door twyfel en onzekerheidt gevoedt,
+Ontdekt ons het geheim van  t blaakende gemoedt.
+Daar komt uw bruidegom. nu zal die vrees verdwynen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TIENDE TONEEL.
+ENEAS, LATINUS, LAVINIA, SABINE,
+THYRENUS, SERESTUS, ACHATES,
+MARCELLUS.
+
+ENEAS.
+(1880) MYn heer, gy ziet my niet als vyandt hier verschynen.
+Het nootlot heeft myn arm de zege toegestaan.
+Ik keer verwinnaar, maar ik blyf uw onderdaan.
+En gy, prinses, om wien ik duizent krygsgevaaren,
+Ontelbre zwarigheên te lande en op de baaren,
+(1885) Kloekmoedig heb verduurt; nu leg ik  t krygsgeweer,
+Myn zwaardt en beukelaar voor uwe voeten neêr.
+Dit zyn de wapens my van moeders gunst geschonken
+De beukelaar, uit onwaardeerbre stof geklonken,
+Vertoont in zyn begrip, schoon kleen, d aanstaande m
+(1890) Den roem en heerlykheidt van uw Latynsch geslacht.
+Kan u de luister van den nazaat niet behaagen?
+En zal u vruchteloos Eneas liefde draagen?
+Ai, spreek een gunstig woordt: of sluit de schaamte u mond
+Bewillig met uw oog, ô schoone, ons echtverbondt,
+(1895) Na Trojes ondergang in  s hemels raadt beschooren.
+
+                LAVINIA.
+
+Ik moet naar  t nootlot en de stem van Faunus hoore
+Ik eer de Goden, en gehoorzaam hun besluit.
+
+                LATINUS.
+
+Ontfang haar van myn handt, doorluchte prins, tot bruidt.
+Aanvaart met een myn kroon en koninklyke staaten.
+(1900) Betree den zetel, dien ik willig zal verlaaten.
+
+                 ENEAS.
+
+Hoe zout gy leeven, en ik pronken met uw staf?
+Heersch, waarde vader, tot uw lykbus daalt in  t graf
+ k Zal in uw ryk een stadt voor myn Trojaanen bouwen:
+Daar zal de werelt voor de poort den naam aanschouwen
+(1905) Van myn Lavinia in zuiver marmersteen.
+Gy zult uw vaders troon bekleeden als voorheen.
+
+                LATINUS.
+
+De Goden hebben u met recht hun gunst beweezen.
+Uw grootste vyandt heeft uw deugden zelf gepreezen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ELFDE TONEEL.
+LATINUS, ENEAS, LAVINIA, JULIA, SABINE,
+THYRENUS, SERESTUS, ACHATES, MARCELLUS.
+
+JULIA.
+O deerlyk ongeval!
+
+                LATINUS.
+
+                                    Wat deert u Julia?
+
+                 JULIA.
+
+(1910) De slag treft u, myn heer, en u Lavinia.
+De koningin ...
+
+                LATINUS.
+
+                    Vaar voort.
+
+                 JULIA.
+
+                                            Heeft zich berooft van  t leven.
+
+                LAVINIA.
+
+Myn moeder!
+
+                LATINUS.
+
+                                                                  Ach! myn
+lief!
+Heeft zich berooft van  t leven.
+
+                LATINUS.
+
+                                                                  O ramp!
+Verhaal ons, Julia, het eindt der koningin.
+
+                 JULIA.
+
+                                                                  Myn leden
+beeven
+Zy stapte van uw zy met my ter slaapzaale in:
+(1915) Toen u gebootschapt wierdt dat Turnus lag verslaagen
+My lust in eenigheidt om dit verlies te klaagen;
+Zo sprakze, Julia, ga, laat my wat alleen.
+ k Zal  t overkropt gemoedt ontlasten door geween,
+En dan myn quelling door de rust een wyl verzachte
+(1920) Ik volgde haar bevel, ging heen: maar myn gedachte
+Toen ik beneden quam, voorspelden my geen goedt.
+Een dodelyke schrik en angst doorkroop myn bloedt
+Ik beefde, en  t klamme zweet bevochtigde myn lede
+Ik vloog naar boven, om de kamer in te treeden,
+(1925) Maar vondt de deur in slot. ik schreeude: ô koningin
+Doch ik kreeg geen gehoor. toen riep ik  t hofgezin.
+De stoet der juffren quam verslagen toegeschooten.
+Wy hebben met gewelt de kamerdeur ontslooten:
+Maar openden, ô vorst, een doodlyk treurtoneel.
+(1930) De purpre sluier knelt in ons gezigt de keel
+Der koningin, en haar verbleekte leden hangen
+Aan  t gulde zaalgewelf de bloesem van haar wangen
+Wel eer uw zielsvermaak, ontluistert door de doodt,
+Verdween, toen zy voor  t lest haar stervende oogen sloot.
+
+                LATINUS.
+
+(1935) Moet ik Amates lyk in dezen staat beweenen!
+Hoe schielyk is myn vreugdt door dat verlies verdweenen!
+Verwacht Lavinia, maar zonder bruitsieraadt,
+Voor  t huwlyksouter, prins, in  t zwarte treurgewaadt.
+Ik zal geen prachtig kleedt door onzen tempel spreien,
+(1940) Maar over  t routapyt de bruidt naar  t offer leien.
+Gedoog dat ik u mag verlaaten, om myn hart
+Door zuchten en geween t ontlasten van zyn smart.
+                                                                  (hy gaat
+wech.)
+
+                 ENEAS.
+
+Thyrenus volg uw heer: uw zorg moet ons bevryden
+Voor grooter ramp. ga, troost den koning in zyn lyden.
+
+                LAVINIA.
+
+(1945) Rampzalige prinses! o nootlot al te straf!
+Nu blaakt myn bruiloftstoorts, maar op mijn moeders graf:
+lk zal haar blusschen, en besproejen met myn traanen.
+Treur, treur, Auzonië, met alle uw onderdaanen.
+Latynsche juffers, weent, bestrooit uw kruin met stof,
+(1950) Verscheurt uw vlecht en borst in vorst Latinus hof
+En gy, myn bruidegom, verban uit uw gedachten
+De bruiIoftsvreugdt, en meng uw traanen met myn klagten.
+Ik kan niet meer.
+                      (Zy valt in de armen van Julia en Sabine.)
+
+                 ENEAS.
+
+                                Haar hart, ontroert door moeders doodt,
+Bezwykt: laat ons met vlyt haar redden uit den noodt.
+
+                 EINDE.
+
+                     Continue
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                                    OP HET
+                                   TREURSPEL
+                                      van
+                               ENEAS en TURNUS,
+                                DOOR DEN HEERE
+                                LUKAS ROTGANS.
+
+O brave Dichter! gy verheerlykt met uw toonen
+    Den schouburg aan het Y, naar Maroos heldendicht,
+     t Zy daar prins Turnus voor Eneas wapens zwigt,
+Of daarge Anchizes zoon vlecht laure- en mirtekroonen.
+
+(5) Amate mag dien vorst met hare vloeken hoonen,
+    Als hy Lavinia tot kuische min verplicht.
+    De vaale nacht verstuift voor  t blakend zonnelicht,
+En  t Nootlot komt zyn liefde en zuivre deugt beloon
+
+    O ROTGANS! Febus zoon, den Zangberg toegewydt,
+    Dank hebbe uw hooge geest in  t woekren van zyn tydt,
+Om dit aaloude stuk ten schouburg op te voeren.
+
+    Uw heldre klank vergoodt den grooten Mantuaan.
+    Gy volgt hem aan  t gestarnt, met d Agrippynsche zwaan:
+Dies d Amstelnimfen u een kroon van paarlen snoeren.
+
+                                                                            F.
+HALMA.
+
+                                   Continue
+
+
+Bijlage 1. Lofdicht van François Halma op Rotgans Eneas en Turnus (1705). KBH
+Pflt 15427.
+
+                               OP HET TREURSPEL
+                                      VAN
+                               ENEAS EN TURNUS,
+                                DOOR DEN HEERE
+                                 LUKAS ROTGANS
+                               IN DICHT GEBRAGT
+                          EN TEN SCHOUBURGE GEVOERT;
+               Ondermengt met eenige Aanmerkingen over de Neder-
+                         duitsche Taal- en Dichtkunde;
+                                     DOOR
+                                   F. HALMA.
+                        [Vignet: In hoc signo vinces].
+                                 T AMSTERDAM,
+                              __________________
+                       By FRANÇOIS HALMA, BOEKVERKOPER,
+                       in Konstantyn den Grooten. 1705.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+            OP HET TREURSPEL
+
+                   VAN
+
+            ENEAS EN TURNUS.
+
+DOorluchte Dichter, die, tot heldentoon gebooren,
+Uw heldenzangen liet in Neêrlandts kreitzen hooren,
+Als gy Britanjes vorst verheerlykte in uw dicht,
+En zyne krygstrofeen hebt door uw pen gesticht,
+(5) Waardoor zyn groot bedryf zal in  t geheugen leeven:
+Die zoo veel helden hebt aan  t starrenhof verheven,
+Na hunne doot, als gy hun daden hebt gemeldt,
+In Pallas hooge koor, of Mavors bloedig veldt
+Verricht, die hunnen naam en lykbus eeuwig sieren:
+(10) O Febuszoon, bekranst met blinkende laurieren,
+Wy eeren uw vernuft, en gaven van de kunst
+Der eedle poëzy.  t blykt dat der Zustren gunst
+U dag op dag bestraalt, en nimmer laat verlegen,
+Vooral zienwe in dit stuk gelyk een milden regen.
+(15) Die mensch en vee verquikt, van zuivre Hippokreen,*
+Uit Pindus heuvelbron, nu stroomen naar beneên
+In  t kristalyn der Vecht, om uwen dorst te laaven.
+Gy, die de lekkerny van deze hemelgaven
+Voorlange had gesmaakt, en kende Febus schat,
+(20) Werdt dronken in den vloet van  t geestbezielend nat;
+En, teffens door het vier des Zanggods aangedreven,
+Als uit u zelf verrukt, quam in uw geest herleeven
+De sterke dryving van den grooten Mantuaan.
+Flux zagmen uwe handt zyn goude snaaren slaan,
+(25) Om prins Eneas in Latinus hof te kroonen,
+En zyne dapperheit met uwe zegetoonen
+Te voeren aan  t gestarnt. tot hy door  t hoog besluit
+Prinses Lavinia, Latinus kroost, tot bruidt
+Verwerft, en wint door  t zwaart, daar Turnus door moet sneeven.
+(30) Hoe zietmen hier uw geest op snelle wieken zweeven,
+Gelyk den adelaar, tot in de bovenlucht,
+En streeven tot den top des zangbergs in uw vlucht!
+O Vechtzwaan! wie word niet vervoert door uwe zangen!
+Wiens ziel zou uw gedicht niet door zyn toonen vangen!
+(35) Amfions kracht en geest herleeft in uw verstandt,
+En Orfeus, als hy  t wout betovert met zyn handt
+Daar hy zyn snaaren weet zoo kunstig meê te roeren.
+ k Zie d Amstelnimf alreê met zyde en goude snoeren
+U kranssen strengelen van waterlis, en wier,
+(40) En biezen, opdat zy uw kruin daar meê versier,
+Als uwe Eneas, door uw luisterryke vaarzen,
+Den schouburg zal betreên met hooggeschoeide laarzen,
+En elk u groeten met gejuich en handgebaar
+Wanneer zelf  t schoutoneel, verheerlykt door de schaar
+(45) Die Helikon bewoont, van hemelglans zal blaaken.
+      O VONDEL! mogtge eens uit den yzren slaap ontwaaken,
+En u dan wiert gegunt dit Treurspel aan te zien:
+Straks zoudge uw stramme handt den braven dichter biên,
+En, met ANTONIDES, hem voor uw kroost erkennen.
+(50) Hy volgt u achterna op onvermoeide pennen,
+En spiegelt zich in  t licht dat uit uw dichtkunst straalt:
+Die heldre flonkerstar, die nooit ter kimme daalt.
+O Agrippyner! wie zou uw vernuft niet eeren!
+Uw geest zal eeuwig haat en nyt betriomfeeren,
+(55) Hoe zeer dat ondier grynst en knaagt zyn ingewandt.
+Heer ROTGANS heeft voor u de zegevaan geplant,
+Met zoo veel helden: spyt het woên der vaale spooken,
+Die, uit den afgront van onwetenheit gebroken,
+Uw glans niet kunnen zien noch dulden in  t gezicht.
+(60) Wy pryzen u, ô heldt, die zulk een middaglicht
+Hebt over Nêerlands taal verspreidt en uitgegoten.
+Dit schoon toneelstuk is als uit uw pen gevloten,
+Naar styl en zuivre taal, diege altoos hebt bewaart
+In uwe spelen, schoon de schikking naar den aart
+(65) Van onze tyden is veroudert en verandert.
+Dit zyn omstandigheên. gy volgde d oudheitsstandert,
+Gestyft door wyzen raadt, in d orde van het spel.
+Tydt baart verwisseling. gelyk een slang haar vel
+Uitschudt, maar niet haar list, voorzigtigheit en treeken.
+(70) Hier hoortmen kracht van taal, in zuiverheit van spreeken,
+Naar vaste gronden, die de ziel bekoort en  t oor.
+Men volgt geen woestheit, maar  t gebaande redenspoor
+Voorheene en in dees tydt. men hoort de zelve klanken
+Der onvervalschte tong; door geen uitheemsch aan  t wanken
+(75) Te brengen, hoe vernist en jofferlyk getooit.
+Hier zietmen  t onkruidt met zyn wortel uitgerooit
+Van echtelooze taal; de schandige erfgebreken,
+Van diepe Onkunde, door den dichter  t hart afsteeken:
+Gerechtigheit, voorzien met zwaart en evenaar,
+(80) Wyst hem den lauwer toe, met d Outsten van de schaar,
+Die taal en poëzy naar rechten eisch waardeeren.
+Geen eere, ô deernis! klinkt hier op het meervout heeren
+Noch hoort men immer tyt gerymt op heerlykheit,
+Men spreekt hier niet met den, naar  t driestig onbescheit,
+(85) Wanneer de Noemer zich laat hooren in een reden.
+Men toets dit treurspel vry in zyne volle leden,
+En gluure op  t naauste of hier ook taalgebreken zyn
+Die  t stuk ontluisteren. doch geen spin zuige ook venyn,
+Naar haren vuilen aart, uit leliën en roozen.
+(90) Dit  s ondiers eige werk. geen bloem ooit uitgekozen
+Van  t noestig bytje tot zyn honigs zoetigheit,
+Bleef onbezwalkt van  t gif dat d angelsteek verspreidt.
+      Zoo eere men de kunst daar haare straalen lichten.
+Moet koper niet voor gout, glas voor den luister zwigten
+(95) Des zuivren diamants? en of geen blinde ziet
+ t Oneindig onderscheit: blyft glas en koper niet
+Altoos de zelve slof, wier bleeke en flaauwe glanssen
+Verschieten voor  t gesteente? als, aan des hemels transsen,
+De nachttoorts voor het licht der morgenzon verdwynt,
+(100) En niet meer word gezien als  t op den middag schynt?
+Men pryze dan de deugt daar ze immer word gevonden,
+En banne uit zyn gemoedt wat steeken kan en wonden
+Een anders gave en kunst. men volge  t redens licht.
+Zo zienwe in Amstels kreits den zangberg haast hersticht
+(105) In vollen luister. laat dan blinde mollen wroeten,
+En graaven in den grondt, om eenig aas t ontmoeten
+Van naakte wormen, tot verzading van haar lust:
+Men gunne haar die prooi, en houde zich gerust,
+Dewyl zy nooit den top van Helikon genaaken,
+(110) Noch  t nat der hengstebron van Pindus toppen smaaken.
+Geen arendt keert zich aan het vliegen van een mus.
+Geen rustig man hoort meer naar  t kinderlyk gesus
+Van zyne voedsteren om hem in slaap te wiegen.
+Wie doolen wil, hy doole, en laate zich bedriegen
+(115) Door zinnelooze reên, en kieze zwart voor wit.
+Eete ekels, lust ze hem, voor broodt. vertreede  t pit,
+En houde zich aan schaal en schorsse in taalgeleertheit.
+      Doorluchte Griek, *LONGYN, hoe geesselt gy verkeertheit,
+In uw verheven boek van styls verhevenheit!
+(120) O Spitsbroêrs, zoekt gy oit te worden opgeleidt
+Tot hooger kennis en de kunst van wel te spreeken:
+Leest, leest dien Redenaar, om eenmaal van gebreken
+Gevaagt te zyn in styl, geloutert als het gout.
+Zoo word Parnas in  t end met luister opgebout,
+(125) En hoeft de schouburg nooit voor  t Fransch toneel te zwygen:
+Maar zal, door u bezielt, meer glans en glory krygen,
+Dan daar een laffe taal en vaatse rymery
+Heerst in den heldentoon. als of een zoet gevry,
+En teêre joffrentaal paste in den mondt der braven.
+(130) Geen trom gelykt de veêl. het paardt moet rustig draaven,
+En slaan zyn hoeve in  t stof, en brieschen door de lucht,
+Wanneer het in het heir hoort krygs-en moortgerucht,
+Wanneer aan allen kant trompet en trommels raazen.
+Een liedjestoon past wel by  t klinken van de glazen,
+(135) Maar niet by wapentuig en klatrend krygsmusyk.
+Men loone vry die kunst met oude stoffe in  t ryk,
+Verheerlykt met het gout van lelien in  t wapen.
+Hoe groot *DESPREAUX ook zy, men moet zich niet vergaapen
+Aan zyn fluweel gevlei, wanneer hy Vrankryks magt
+(140) Verheft tot aan de lucht, en schimpende veracht
+Den kloeken Batavier en zyne Bontgenooten.
+Elk stuk heeft paal en perk. men hoort geen donderklooten
+Ooit rollen door de lucht, dat alles beeft en kraakt,
+En loeit, wanneer & zon met goude straalen blaakt.
+(145) Men zoek dan houding in het tafereel te brengen,
+En geenen baiert van wanstaltigheên te mengen,
+Gelyk den ruwen klomp door Nazo uitgebeeldt.
+Hoe schoon is  t daar de kracht van licht en schaduw speelt,
+Op voor- en achtergrondt, naar eisch van kunst en reden!
+      (150) Maar, kunstgenooten,  k schyn dus zelf hier t overtreeden
+Den regel dien ik stelle en tot den hemel prys,
+In dit myn lofgedicht dat niet naar Flakkus wys
+En voorschrift schynt geschikt in wezen en sieraadjen.
+Want, zeker, hier lykt visch geschildert in bosschaadjen,
+(155) En aardtsch gedierte zich t onthouden in de zee.
+Men hoeft, op dat men net een lichaam siere en kleê,
+Geen stukken lakens, maar.een kleen getal van ellen.
+Hoe, zegtmen, koomt gy hier ons d eigenschappen spellen
+Der dichtkunde in  t gemeen, daarge u bepaalen most
+(160) Aan  t puiktoneelstuk, daar Eneas is gedost
+In  t Frygiaansch gewaat; en Turnus, naar gebruiken
+Der Rutelen gekleedt, moet door den werpschicht duiken,
+Die hem zyn mingenoot dryft door de wapens heen;
+Tot daar de Trooische vorst in zegepraal koomt treên,
+(165) Met burgerhandtgeklap ter poorten ingelaaten,
+Bestuuwt met lyfstaffiers en duizenden soldaaten,
+In  t koninklyke hof, daar hy Lavinia,
+Zyn lieve zielvoogdes, tot bruidt verkrygt. waarna
+De zwarte rougordyn wordt voor het oog geschoven,
+(170) Wanneer Amate zich van  tleven koomt berooven.
+       k Zie dit, voor andren, zelf, doch ben niet buiten staat
+Van myn verweering. want wat geeftmen dikwyls raadt
+Aan vrienden, dien men zelf verwaarloost in t betrachten!
+Men ziet wel dat ik speel met vinding en gedachten,
+(175) En met geen rechten ernst het wigtig stuk volding.
+ t Was nimmer wraakbaar dat men veel verandering
+Vondt in een schildery, naar kunst en verfschakeering.
+Geen inslag is altoos het zelve met de scheering.
+De zee bespoelt het landt daar groene boomen staan.
+(180) Dit in een kunsttafreel te toonen, kan nooit schaân
+Noch hindren aan het ooge in braave meesterstukken.
+Men moer geen vrye kunst in harde banden drukken,
+Die haar benaauwen en van haaren lossen zwier
+Berooven. nergens dooft Horatius het vier
+(185) Der vlugge geesten, daar  t in heldre vlam aan  t branden,
+Op Febus outer blaakt, als geurige offerhanden
+Van lndus specery, en vliegt door d ope lucht.
+      Wilt gy, o Dichters, dan ooit zien de rype vrucht
+Van uwen arbeidt, volgt het spoor van  t pronk der vaderen,
+(190) In wien de dichtkunst zweefde als door het bloedt en d aderen.
+Zoo ryst de Poëzy, in  t zuiver Neêrlands kleedt,
+Zoo ver de zonnetoorts de hemelstreeken meet,
+In haren snellen loop, en raakt nooit aan het quynens
+Zoo lang Eneas zal op  t schoutoneel verschynen.
+
+                  UIT.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Bijlage 2. Lofdicht van Halma op Eneas en Turnus in Rotgans Poezy (1715).
+
+
+            OP HET TREURSPEL
+                   van
+            ENEAS en TURNUS,
+             DOOR DEN HEERE
+             LUKAS ROTGANS.
+
+Nu zietmen  t Schoutoneel met niewen luister blaake
+      Daar Prins ENEAS zwaait het blanke krygsgeweer,
+      En met het schittrend zwaardt heldt TURNUS gaat tekeer
+Die in het vechtperk moet, doorgrieft, de ziel uitbraaken
+(5) Dit toont den wisselval der aardtsche onzeekre zaaken
+      Dit spiegelbeeldt verstrekt tot afschrik; en elks leer,
+      Hoe zeer de minnenydt kan slypen dolk en speer;
+Daar d een of d ander door moet in het voetzant raaken
+      Hoe krachtig zietmen hier de driften afgemaalt!
+      (10) Hoe flikkert hier het vuur dat uit de woede straalt,
+Als blixemschichten door den donder voortgedreven!
+      Des Dichters hooge geest munt in het Treurspel uit.
+      Op  t heerlykst schetst zyn pen ENEAS schoone bruidt:
+Dies zal zyn naam altoos op Amstels schouburg leeven!
+
+      Leewarden den 22                                            F. HALMA.
+      van Herfstmaandt, 1714.
+
+
+  • Rotgans Scilla
+  • Ceneton
+  • Voorkeurenpagina Opleiding Nederlands
+

@@ -1,0 +1,3673 @@
+[Dutch]
+
+                                   FIELEBOUT
+
+                                  [FielFront]
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                       
+
+                                  FIELEBOUT,
+
+                                      ÓF
+
+                            DE DÓKTER TÉGENS DANK,
+
+                               KLUCHTIG BLYSPÉL.
+
+                       [Vignet: Nil Voléntibus Arduum.]
+
+                                 Te AMSTERDAM,
+
+                         By PIETER ROTTERDAM, Boekver-
+                   kooper op de Vygendam, op de hoek van de
+                               Beurspoort. 1716.
+                                Mét Privilégie.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+Ceneton B5722
+Gepubliceerd op 29 april 1997 door E. Hofland.
+Redactie dr. A.J.E. Harmsen.
+Vakgroep Nederlandse taal- en letterkunde, Universiteit Leiden.
+Dit blijspel in drie bedrijven is een bewerking van Le médecin malgré lui van
+Jean Baptiste Poquelin de Molière; enkele scènes uit het tweede bedrijf zijn
+ontleend aan diens L amour médecin.
+Voor deze editie is gebruik gemaakt van een exemplaar in privé-bezit.
+Het bovenstaande ingekleurde frontispice is afkomstig uit het exemplaar van de
+editie Amsterdam 1711 (Ceneton B5720) in de Koninklijke Bibliotheek te Den Haag
+(signatuur van het convoluut: 845 E 4). Overgenomen met welwillende toestemming
+(waarvoor onze dank) van de Koninklijke Bibliotheek.
+In deze uitgave zijn evidente zetfouten gecorrigeerd en gemarkeerd met een
+asterisk.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                                  [FielTitel]
+
+
+
+
+
+                      FIELEBOUT, ÓF DE DÓKTER TÉGENS DANK
+
+
+                                       
+
+                                 [VignetjeNVA]
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+                              Aan den E. E. HEERE
+
+WILLEM HOOFD,
+
+Sékrétaris der Stad
+AMSTERDAM,
+En
+
+De E. E. MEJUFVROUW
+
+MARIA DE WIT,
+
+Tégenwoordige Bruidegom en Bruid.
+
+
+
+MYN HEER,
+MEJUFVROUW,
+
+Wy kunnen plichts, nóch genegenheitshalven nalaaten mede ons deel te hebben in
+de vreugd van Uwer E. Ed. bloedvrinden, én genegene bekénden over Uwer E. Ed.
+zo gelukkiglyk getroffen Huuwelyk, waar uit zulke Mannen verwacht worden, als
+daar Uwe E. Ed. uitgesprooten zyn. En overleggende, hoe wy ons deel in die
+vreugt best uiten, én aan de Waereld zouden bekénd maaken, dacht ons dat een
+Bruiloftsdicht al te gemeen voor zulk een ongemeen Paar zoude zyn, behalven dat
+zelfs de allerfraayste gedichten, ééns geleezen, en herleezen zynde, hunne
+werking gedaan hebben, én der vergeetenheid opgeófferd worden: waarom wy, op
+iets ongewooners, én duurzamers oogende, ons verstouten in déze toestand aan
+Uwe E. Ed. gezaamendlyk op te dragen dit kluchtig Blyspel, de Dókter tegens
+Dank, om dat het buiten twyfel in veeler handen zal geraken, én na alle schyn
+wel eenige stand op ons Tooneel houden, op dat ieder één, die Uwer E. Ed. naam
+ziet, mede deel aan onze blydschap hébben, én met ééne onze geneegenheid en
+eerbiedenis te Uwaarts moogen kénnen.
+    Veelen zal misschien vreemd schynen, dat déze opdragt aan Uwe E. Ed. zo
+laat, en voor een werkje komt, dat al lang op ons Schouwtoneel vertoond is,
+aangezien de gewoonte wil dat men de spélen doe drukken, én de Opdragt daar van
+maake, eer die gespeeld werden. Maar alle gewoontens zyn niet goed, het gebeurt
+dikmaals, dat iemand vervoerd door eigene liefde (daar wy mede niet vry van
+zyn) zyn werk door eene doorluchtige naam denkt te vereeren, dewelke in
+tegendeel die naam door de sléchte uytval zyns werks onteert. Men gaat veel
+zekerer mét een Spel, dat zyn lót uitgestaan heeft: en hier in volgen wy de
+deftige Fransche Tooneel-dichters, die tót een grond van hunne opdragten aan de
+grootste Prinsen, én Prinsessen stellen het geluk, dat hunne werken gehad
+hebben van aan de beste wel te gevallen: én dewyl wy ons van het lót dezes
+Blyspels gansch niet te beklaagen hebben, durven wy hoopen, dat onze vryigheid
+van het zelve aan Uwe E. Ed. op te offeren, indien niet beaangenaamd, ten
+minsten verschoond zal worden. Het voornaamste, dat hier op te zeggen mogt
+vallen, is, dat de stof ontleend, en daar by laag zynde, de eer van Uwer E. Ed.
+aanneming niet verdient; maar die de moeite neemt van beide de Fransche
+Stukjens, daar dit uit gehaald is, eens na te zien, zal lichtelyk aan de kunst
+van veranderinge zo in schikking, als plaats en tyd, de kleine eer niet
+weigeren, die in het gemeen met eigene vindingen behaald wordt; en wanneer eene
+stof maar wel behandelt is, de laagheid zal die niet geheel onsmaakelyk maaken.
+Séneca en Teréntius hebben beide een zeer grote, doch ieder hunne byzondere lóf
+ingelegd.
+    Wy hoopen dan, dat ons inzigt van Uwer E. Ed. onze gedienstige eerbiedenis
+te doen blyken dat gebrek vervullen zal, en dat, indien wy alhier Uwer E. Ed.
+bysondere deugden, nóch de hooge luister van Uwer E. Ed. beider geslagten niet
+ophaalen, de vrees, die wy hebben, van mét al ons magteloos poogen niet te
+kunnen bereiken de deftigheid, en waerde, waar mede men het zelve behoorde te
+verhandelen, ons niet alleen verontschuldigen zal, maar dat Uwe E. Ed.
+gunstiglyk zullen opneemen, dat wy Uwe E. Ed. in het aanstaande Huuwelyk alle
+bedénkelyk genoegen, dat is, lange gezondheid, en geduurige aanwas van beider
+onderlinge geneegenheeden wenschen, en dat ons de eer gebeure van geacht te
+worden,
+
+MYNHEER,
+MEJUFVROUW.
+
+Voor Uwer E. Ed. Ootmoedige Dienaars,
+Onder de naam
+NIL VOLENTIBUS ARDUUM.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+COPYE
+Van de
+PRIVILEGIE.
+
+DE Staten van Holland ende West-vriesland, doen te weten: Alsoo Ons vertoont is
+by eenige Liefhebbers van de Nederduytsche Taal en Poëzy, hoe dat sy al voor
+eenige Jaren, na het voorbeeld van de Italiaansche ende Fransche Academie, t 
+Amsterdam opgeregt hadden, een Konstgenootschap onder de Prent en Sinspreuke
+van NIL VOLENTIBUS ARDUUM, waar in dagelyks gearbeyt was, en noch wiert, tot
+voortsettinge van onse Taal en Dichtkunst, gelyk ook al eenige Werkjens, nu en
+dan daar van in  t ligt gekomen, en door den druk gemeen gemaakt waren; en
+dewyl van tyt tot tyt uytgegeven souden worden grootere werken, die by dat
+Konstgenootschap, sommige reets gemaakt sommige noch onderhanden waren, waar
+toe het selve, boven haar tyd en arbeyd, noch groote kosten tot den Druk, en
+wat daar meer toebehoort, soude moeten doen, en vermits ook niet sonder groote
+reden gevreest wierd, dat al het gene van eenigh belang zynde, by het selve
+Konstgenootschap uytgegeven soude worden, aanstonts door andere soude mogen
+werden naargedrukt, en sonder eenige opmerkingh, veel min naauwkeurigheyd der
+Spelling ofte nettigheyd der Tale, aan al de Werelt gemeen gemaakt, waar door
+het goede Insigt tot opbouwing der Nederduytsche Tale, ende voortsettinge van
+de welsprekentheydt in deselve verhindert, ende lust om daar in voort te gaan
+aan het voorseyde Konstgenootschap soude benomen worden; soo hadden sig het
+selve Konstgenootschap genootsaakt gevonden, om sich te keeren tot Ons,
+ootmoedelyk versoekende, dat het Ons gelieven mogte haar te begunstigen alle de
+Werken, die uyt het selve Konstgenootschap in  t licht gebragt souden worden,
+met ons Octroy voor 20 jaren langh, en onder sodanige straffe tegen de geene,
+die deselve souden nadrukken, verkoopen, of elders naargedrukt, in dese Onse
+Provintie voeren om te verkopen, als het Ons soude gelieven goet te vinden. SOO
+IS  t dat Wy, de sake en  t Verzoek voorsz. overgemerkt hebbende, ende genegen
+wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine
+macht ende authoriteyt deselve Supplianten geconsenteert, geaccordeert, en
+geoctroyeert hebben, consenteeren, accorderen ende Octroyeren mits desen, dat
+zy gedurende den tyt van vyftien eerstkomende Jaren, de werken by het
+voornoemde Konstgenootschap onder den Tytul van NIL VOLENTIBUS ARDUUM gemaakt
+werdende oft alrede zynde, binnen den voornoemden Onsen Lande alleen zullen
+mogen drukken, uytgeven ende verkoopen, verbiedende daarom allen ende eenen
+iegelyken, deselve Werken na te drukken, ofte elders naargedrukt binnen Onsen
+Lande te brengen, uyt te geven ofte te verkopen, op de Verbeurte van alle de
+naargedrukte, ingebragte ofte verkogte Exemplaren, ende een boete van drie
+hondert guldens daarenboven te verbeuren, te appliceren een derde part voor den
+Officier die de calange doen sal, een derde part voor den Armen der plaatsen
+daar het Casus voorvallen sal, ende het resteerende derdepart voor de
+Supplianten. Alles in dien verstande, dat Wy de Supplianten met deesen Onse
+Octroye alleen willende gratificeren tot verhoedinge van haare schade door het
+nadrukken vande voorsz. Werken, daar door in geenigen deele verstaan, den
+Inhoude van dien te authoriseren ofte te advouëren, ende veel min dezelve onder
+onze protexie ende bescherminge, eenig meerder Credit, aansien, ofte reputatie
+te geeven; Nemaar de Supplianten in cas daar in iets onbehoorlijks, souden
+mogen influeeren, alle het zelve tot haaren laste sullen gehouden weesen, te
+verantwoorden; tot dien eynde wel expresselijk begeerende dat by aldien zy
+deesen Onzen Octroije voor dezelve werken zullen willen stellen, daar van geene
+geabbrevieerde ofte gecontraheerde mentie zullen mogen maaken, nemaar gehouden
+zullen weezen  t zelve Octroy in  t geheel en zonder eenige omissie daar voor
+te drukken, op pene van het effect van dien te verliezen. Ende ten eynde de
+Supplianten deeze onze consente en Octroye mogen genieten, als naar behooren.
+Lasten wy alle en iegelijken dat zy de Supplianten van den inhoude van deeze
+laten, ende gedoogen, rustelyk, vreedelyk en volkomentlyk genieten ende
+gebruyken, Cesserende alle beleg ende wederleggen ter contrarie. Gedaan in den
+Hage onder onzen grooten zeegele hier aan doen hangen, den XV. Maart, in  t
+Jaar onzes Heeren, en Saligmakers duysent ses hondert, zeven-en-zeventigh.
+                                                                          A.
+Br. d ASPEREN,
+                                                                       
+            1677.
+
+                                                             Ter Ordonnantie
+van de Staten
+
+                                                              HERBERT van
+BEAUMONT.
+
+Het KONSTGENOOTSCHAP heeft het Récht van de bovenstaande PRIVILEGIE, aangaande
+de DÓKTER tegens DANK, vergund aan ALBERT MAGNUS, Boekverkooper tót Amsterdam.
+
+                             In Amsterdam, den 18 van Bloey-Maand 1680.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+VERTOONERS.
+
+
+Fielebout, een Tuinier.
+Wobbetje, Vrouw van Fielebout.
+Rykert, een Oud Man.
+Lusyntje, Dochter van Rykert.
+Volkert, Vryer van Lusyntje.
+Dr. Smuller.
+Dr. Nypewyn.
+Dr. Teemer.
+Dr. Rabbelaar.
+Huibert, knegt van Rykert.
+Melis, Boer van Rykert.
+Pieternel, Meid van Lusyntje.
+Pleuntje en Tryntje, Boer Meiden van Rykert.
+Piet, Krelis, Klaas, Hein en Symen, Boeren in de buurt van Rykert.
+
+Het Blyspél speelt in de Diemermeer, omtrent en op de Hofstéê van Rykert, en in
+de zelfde tyd, daar het in vertoond word.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+EERSTE BEDRYF.
+EERSTE TOONEEL.
+FIELEBOUT, WOBBETJE.
+
+
+FIELEBOUT.
+HOu smoel, of anders meugje vreezen;
+Wie pikken óf hier voogd zél weezen?
+Voort, geeft me géld, en daer meê wel.
+
+WOBBETJE.
+Ik wéd, dat ik  t wél laeten zél:
+(5) Jy zélt nou naer myn pypen danssen,
+En wérken gaen.
+
+FIELEBOUT.
+                        Gansch duizend Franschen!
+Wat is  t een lastig tydverdryf,
+Gekwéld te weezen mét een wyf!
+Een wyf is, óf ik laet me villen,
+(10) Veul slimmer, als drie krókodillen,
+Ja slimmer, als een droes vyf, zes,
+Zo zeidt ons Aristotelés.
+
+WOBBETJE.
+Kyk deuze wyshoofd, mit zyn Bouwen
+Van Aris Stoffels.
+
+FIELEBOUT.
+              Wijshoofd? trouwen!
+(15) Waar heeft men ooit een Hóvenier
+Gevonden, die met zulk een zwier
+Van alle ding kan disputeeren,
+Als ik? Wat droes het lijkt wél scheeren,
+Ik, die by  t leeven van men Vaâr
+(20) De Rudementa op een haar
+Van buiten kon; ík, die vijf jaaren
+By een gelétterd, én érvaaren
+Dóktoor gewoond héb, zoud ik nou
+My laeten kwéllen van een Vrouw,
+(25) Die staag niet praat, als van te wérken,
+En nimmermeer van  t hart te stérken?
+
+WOBBETJE.
+De koekkoek schén de gék!
+
+FIELEBOUT.
+                                   De Droes
+Schén  t varken! Maak me  t hoofd niet kroes.
+
+WOBBETJE.
+Dat uur vervloek ik van mijn leeven,
+(30) Toen ik jou  t jawoord héb gegeeven.
+
+FIELEBOUT.
+En ik vervloek met meerder récht
+Notaris Slik-op, en zyn knécht,
+Die my dit huw lyk deeden teek nen,
+Dat ik veur myn verderf mag reek nen.
+
+WOBBETJE.
+(35) Kyk dit juweeltje van ien man!
+Schavuit, waar jy wél waerdig an
+Ien Vrouw, als myn persoon, te trouwen?
+Jy meugt me wél in waerden houwen.
+
+FIELEBOUT.
+ t Is waar, het eerste nachtje, dat
+(40) Ik by jou kwam te slaepen, had
+Ik réden, om verblyd te weezen:
+Het heugt me nóch, schoon lief gepreezen;
+Maar, ô gantsch kranken! dwing me niet
+Daar van te spreeken, wyf: want ziet,
+(45) Ik zou....
+
+WOBBETJE.
+               Wél waar wou hy van spreeken?
+Wat wodje zéggen?
+
+FIELEBOUT.
+                  Bof! maar steeken
+Wy daar een spéltje by. Ik weet
+Wél, wat ik weet.
+
+WOBBETJE.
+                       Dat  s niet ien beet.
+
+FIELEBOUT.
+Ik weet wél, zonder my te roemen,
+(50) Dat jy jou meugt gelukkig noemen,
+Dat ik jou nam.
+
+WOBBETJE.
+                      Wat noemje dan
+Geluk? te trouwen mit ien Man,
+Die staâg komt met ien volle bast t huis,
+En zéndt ons veur de wind nae  t Gasthuis!
+(55) Ien fun, die deur zyn kleêren druipt,
+En al myn mooye goed verzuipt!
+
+FIELEBOUT.
+Dat liegje: want de hélft vervreet, en
+Versmook ik ruimpjes, wél te weeten.
+
+WOBBETJE.
+Die my myn béd, daar ik op lég
+(60) Te slaepen, onder  t lichchaam wég
+Durft neemen, én verkoopt.
+
+FIELEBOUT.
+                                   Te vroeger
+Kunje opstaen.
+
+WOBBETJE.
+              In het kort, ien kroeger,
+Die niet ien stukje huisraed in
+Ons huis laet; maar myn koper, tin,
+(65) Sérvétten, tafellaken, sloopen,
+Ja stoel, én banken gaet verkoopen.
+
+FIELEBOUT.
+Dat  s, om dat jy, mét meer gemak
+Verhuizen kunt.
+
+WOBBETJE.
+                         Die in toebak,
+Wyn, brandewyn, én bier, én kóffy
+(70) Zyn géld verkwist; en speult, als óf hy
+Een kar met roozenobels had
+Gebonden aan zyn kaale gat.
+
+FIELEBOUT.
+Melankoly is kwaad, en  t speelen
+Doet ons de tyd te min verveelen.
+
+WOBBETJE.
+(75) Wat zél ik ondertusschen mét
+Myn kinders doen, zég, dronken slét?
+
+FIELEBOUT.
+Al wat je wilt. Gaet saamen slaepen.
+
+WOBBETJE.
+Ik zit daer mit vier kleine schaepen,
+Vier arme wormen op den hals.
+
+FIELEBOUT.
+(80) Wél zét ze neêr.
+
+WOBBETJE.
+              Die schreyende, als
+Verhongerd, myn om eeten kwéllen;
+Hoe zél ik die te vréden stéllen?
+
+FIELEBOUT.
+Geeft heur de gard: want ik verstae,
+Dat wyf, nóch kinders nimmer nae
+(85) Meer drank, óf eeten zullen taalen,
+Als ik verzaad bén.
+
+WOBBETJE.
+              Zie dien kaalen
+Verzoopen Deugniet. Mien je, dat
+Ik lyen zél, dat jy jou gat
+Staag vol zuipt; daer ik om te leeven
+(90) Gien brood in huis héb.
+
+FIELEBOUT.
+                              Liefste, geeven
+Wy tóch mekaár gien réden tót
+Misnoegen.
+
+WOBBETJE.
+         Liefste? kyk dien zót!
+
+FIELEBOUT.
+Het lykt schier,  t is jou al vergeeten;
+Want anders pleeg je  t wél te weeten;
+(95) Dat ik vry kort van kóp ben: maar
+Weêr lang van armen, én vry zwaar
+Van vuisten.
+
+WOBBETJE.
+               k Lach iens mit jouw dreigen.
+
+FIELEBOUT.
+Myn allerliefste schat, myn eigen,
+De huid die jeukt jou weêr.
+
+WOBBETJE.
+                           Jy zélt
+(100) Myn niet verschrikken mit gewéld
+Te maaken, nóch mit al jou kyven.
+
+FIELEBOUT.
+Ik zél je de ooren komen vryven,
+Myn liefste schaepje!
+
+WOBBETJE.
+                         Dronken beest!
+
+FIELEBOUT.
+Ik zél jou smyten: maak men geest
+(105) Niet moeylyk.
+
+WOBBETJE.
+                 Wynbalg.
+
+FIELEBOUT.
+                                k Zél je klouwen.
+
+WOBBETJE.
+Eerloze schélm.
+
+FIELEBOUT.
+                   Ik zél je touwen.
+
+WOBBETJE.
+Jy touwen? jy Jan Tryntjes, Guit,
+Bedrieger, Lichtmis, Schelm, Schavuit,
+Opsnapper, Deurslag, bloode Schyter,
+(110) Jy, Galgebrók? jy, Wyvesmyter?
+
+FIELEBOUT, haar mét een stók slaande.
+Ho, ho! ik zie wél, waar  t je lét;
+Je moet wat hébben. Dat  s an bét.
+
+WOBBETJE.
+Houw op! óch hélp! ô myn!
+
+FIELEBOUT.
+                        Geen wisser
+Remédie in de waereld is  er
+(115) Om jou te vreên te stellen, wyf,
+Als zo een stókslag vier, óf vyf.
+
+WOBBETJE.
+O myn! myn arm, myn hooft, myn beenen,
+Myn rug, myn heup, myn knien, myn scheenen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWÉDE TOONEEL.
+VÓLKERT, WOBBETJE, FIELEBOUT.
+
+
+VÓLKERT.
+HOuw Fielebout, foey, schaam je wat,
+(120) Uw Vrouw te smyten, wat lykt dat?
+
+WOBBETJE.
+Sinjeur, dit beurt miest alle dagen,
+In plaats van eeten, kryg ik slagen;
+En was het daer nóch meê genoeg,
+Dat hy zyn keelgat in de kroeg
+(125) Lardeeren gaet, én myn komt smyten,
+Ik zou het hém niet iens verwyten;
+Maar, óch Sinjeur! ik wordt schier dol,
+Om dat...
+
+FIELEBOUT.
+                   Jy liegt, ik bén niet vol,
+ k Héb maar drie borlesoesjes binnen.
+
+WOBBETJE.
+(130) Kyk, zo verzuipt hy al zen zinnen:
+Maar  t allerslimst van allen wél,
+En dat hy noch beklaagen zél,
+Dat is, dat hy zyn wérk laat steeken.
+
+FIELEBOUT.
+Durf jy me nóch van wérken spreeken?
+(135) Je weet wél dat ik nimmer plag
+Te wérken op een Heil ge dag.
+
+WOBBETJE.
+Jy reutelt staâg van heil ge dagen,
+En geeft me vast de huid vol slagen.
+
+VOLKERT.
+Is  t Heil ge dag?
+
+FIELEBOUT.
+              Wél ja  t, myn Heer,
+(140)  t Is katertémper, én die Meer
+Die zou me nóch mit al  er kyven
+Wél zoeken aan het wérk te dryven;
+Maar  t zél  er missen, ja  t gansch bloed!
+Of zy zo ruim is van gemoed,
+(145)  k Wil  t myne daerom niet bezwaeren.
+
+WOBBETJE.
+Wy weeten  t wél. jy vierdaagt gaaren:
+Maar vind j er jou niet in bezwaerd,
+Dat je op ien Feestdag kyft én baert,
+Jou vol zuipt, en myn slaet?
+
+FIELEBOUT.
+                                 Och lasy!
+(150) Wél, neen ik, dat  s tót recréasy
+Van myn inpertinente geest.
+
+WOBBETJE.
+Zo speult hy all daag de beest.
+
+FIELEBOUT.
+Hou smoel, of  k zel  t je noch iens leeren.
+
+WOBBETJE.
+Begin maar,  k zel me wél verweeren.
+
+VÓLKERT.
+(155) Hoor Fielebout, dit gaat niet aan;
+Te kyven, én zyn Vrouw te slaan
+Zyn dingen, die geen Man betaamen:
+Gy hoort u in uw bloed te schaamen.
+Ik heb u eerst dit huis gehuurd,
+(160) En zult ge alreeds dus in de buurt
+De pypen stéllen, en uw werken
+Verzuimen, daar ik kan bemérken,
+Dat gy al taam lyk krygt te doen,
+ t Lykt nérgens na,  t is geen fatsoen.
+(165) En zo gy dat tracht voort te vaaren,
+Zal ik myn goeddoen aan u spaaren.
+
+FIELEBOUT.
+Ja, Heerschop, maar...
+
+VÓLKERT.
+                    k Weet van geen maar.
+Want gy hebt schuld, het blykt te klaar;
+Dies zég ik, en ik zégt mét meenen;
+(170) Gy zult met uw vrouw veréénen,
+En leeven als een eerlyk man,
+Of andersints...
+
+FIELEBOUT.
+                   Maar, Heerschop, kan
+Men altyd, als ien hondsklink leeven?
+Zy heeft eerst tégens my gekeeven.
+
+WOBBETJE.
+(175) Hy dreigde my het eerst te slaen,
+En, kyk, dat wil ik niet verstaen.
+
+VÓLKERT.
+Hy zel hem bet ren.
+
+WOBBETJE.
+                     Ja hy trouwen!
+Hy zél ook, kon hy  t sléchts onthouwen.
+
+VÓLKERT.
+Wel Fielebout, wat zég je  er van?
+
+FIELEBOUT.
+(180)  k Beloof haar, als een eerlyk man,
+Nooit met myn vuisten meer te mérken;
+Maar dan moest ik van daag niet wérken.
+
+VÓLKERT.
+De geheele week niet, zo je wilt.
+
+FIELEBOUT.
+Nóch nimmermeer weêr zyn bedild.
+
+VÓLKERT.
+(185) Neen, neen, ik hoef je niet te bórgen:
+Ik zal jou vrouw, én huis verzórgen
+Van kóst én drank, én alles wat
+U noodig zyn zal uit de stad;
+Maar dan moest gy vooral niet kyven;
+(190)  k Moet hier in  t heim lyk wat verblyven,
+ k Wierd anders voor uw reddement
+Van de een of ander licht bekénd.
+Dies moet gy my voor al niet mélden
+Ik zal  t u rykelyk vergelden.
+
+FIELEBOUT.
+(195) Ik ben te vreên. Zie daer, myn Heer,
+ k Wil dit én dat zyn, zo ik wéêr
+Myn wyf slae. Ben je nou te vreeden?
+
+WOBBETJE.
+ t Is ierst niet, dat je dit met eeden
+Beloofd hébt,  t is maar veinzery.
+
+FIELEBOUT.
+(200) Ik mien  t; zoen óf, jou malle pry.
+
+VÓLKERT.
+Nou Wobbetje, laat je gezeggen.
+
+WOBBETJE.
+Zoen óf dan, wyl men  t by moet leggen.
+
+FIELEBOUT.
+Wat zo ziet, allerliefste myn,
+Daar zou ien mutsje brandewyn
+(205) Op smaaken! wou men Heer iens klinken.
+
+VÓLKERT, hém géld geevende.
+Daar, wacht jou maar voor dronken drinken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DÉRDE TOONEEL.
+WOBBETJE, VÓLKERT.
+
+
+WOBBETJE.
+JA, gae vry heen. Ik zél het zo
+Nóch niet vergeeten, neen bylo;
+ k Beloof  t jou veugel!
+
+VÓLKERT.
+                   Wilt ge u wreeken,
+(210) Zo doe het zonder veel te spreeken,
+Of dreigen, als ik hier niet meer
+In huis bén: want het wérk is teêr,
+Dat ik in  t zin heb.
+
+WOBBETJE.
+              Mag men  t weeten?
+
+VÓLKERT.
+Hoor toe. U is noch niet vergeeten,
+(215) Dat ik Lusyntje,  t eenig kind
+Van Rykert, langen tyd bemind,
+En opgepast héb, én haar zinnen
+Bewoogen, om my weêr te minnen?
+
+WOBBETJE.
+Wél zou ik niet,  t is nou ien jaar,
+(220) Toen schorten  t niet, as an heur vaar.
+
+VÓLKERT.
+Zo doet het nóch.
+
+WOBBETJE.
+              Dat ik as jy was,
+ k Zou weeten willen, óf ik vry was,
+Of vast, én  t wérk zo lang, én loom
+Niet laeten sleuren:  k zou myn Oom
+(225) De Meid ten houwelyk doen vraagen.
+
+VÓLKERT.
+Dat is voorlang al afgeslaagen;
+En daarenboven heeft hy my
+Verboôn aan deeze vryery
+Niet meer te dénken, nóch te tillen,
+(230) Nóch haar te spreeken.
+
+WOBBETJE.
+                        Watte grillen!
+Wél waerom dat tóch?
+
+VÓLKERT.
+                           Rykert wou,
+Dat zich myn Oom verpligten zou.
+En boven dat verzék ring geeven,
+Dat ik alleenig na zyn leeven
+(235) Zyn Erfgenaam zou weezen, dat
+Myn Oom zeer vreemd heeft opgevat:
+Wy hébben évenwél geduurig
+In  t heimelyk malkander vuurig
+Bemind, tót Rykert in het énd 
+(240) De zaak ontdékt heeft, nu omtrént
+Twé maanden, óf wat meer geleeden:
+Nu wil hy haar mét kracht besteeden
+Aan eenen Lubbert, ryk van goed;
+Maar gierig, én een ouden bloeed.
+(245) Waarom hy op zyn plaats hier buiten
+Zyn Dochter fluks heeft op doen sluiten:
+En meid, én knécht, én boer, én al
+Verbooden, dat my niemand zal
+Te woord staan, nóch van mynent wégen
+(250) Een brief ontfangen. Hoe verleegen
+Wy beide zyn, kunt gy hier uit
+Wel gissen: want zo zy de Bruid
+Met Lubbert word, bén ik verlooren,
+En zy was liever nooit gebooren.
+(255) Daarom heb ik een vond bedacht,
+En hier deez pruik, én rók gebragt.
+
+WOBBETJE.
+Wat zél die pruik, én rók; laet kyken?
+
+VÓLKERT.
+Dus zal ik dien Dóktoor gelyken,
+Die nu te Mey hier uit dit huis
+(260) Getrokken is. Ik moet kwansuis
+Den Dókter maaken.
+
+WOBBETJE.
+               t Is te byster!
+Waerom Sinjeur?
+
+VÓLKERT.
+              Om dat myn vryster
+Zich zélve veinzen zal vol pyn,
+En hévig krank, ja stom te zyn,
+(265) En  t is zo door de meid besteeken,
+Dat ik haar, als Dóktoor zal spreeken,
+Om ons te hélpen uit de ly.
+
+WOBBETJE.
+Zo is de meid dan op jou zy?
+
+VÓLKERT.
+Voorzéker.
+
+WOBBETJE.
+         Ginder deur de boomen,
+(270) Daar, dunkt me, lykt zy aan te komen.
+
+VÓLKERT.
+Och ja, zy is het zélf; myn bloed
+Verandert. Ik kryg nieuwe moed.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TOONEEL.
+VÓLKERT, PIETERNÉL, WOBBETJE.
+
+
+VÓLKERT.
+OCh Pieternél! wat nieuws? Hoe gaat  et
+Tót uwent tóch?
+ 
+PIETERNÉL.
+              Tót onzent staat  et
+(275) Heel vreemd geschapen. Lubbert zou
+Lusyntje gist ren tót zyn vrouw
+Bedongen hébben.  t Huuw lyk sluiten
+Was van Sinjeur bestémd hier buiten,
+Ten waar zy zich op uwe raad
+(280) Geveinsd had in een droeve staat
+Van heevig krank, én stom te weezen;
+Waarom haar Vader straks om dézen
+En geenen Dókter zondt na Stad;
+Zélf Lubbert, Lubberts Vriend, en wat
+(285) Zyn voeten sléchts kon réppen, Mélis
+En Symen, Huibert, Klaas, én Knélis:
+Sinjeur, Lusyntje, én ik alleen
+Bewaarden  t huis. Ik dócht met één,
+Deez schoone kans dient waargenomen,
+(290) En sprak, op dat gy daar mogt komen,
+Van die Dóktoor, die hier wél eer
+Gewoond had, én ik prees hem zeer.
+Ik wierd straks hier na toe gezonden,
+En  k wou, dat ik u had gevonden.
+
+VÓLKERT.
+(295) Och Pieternél, ik was belét,
+En héden was eerst dag gezét,
+Gelyk gy weet, om op te passen.
+ 
+PIETERNÉL.
+ t Is zo, myn Heer: maar door  t verrassen
+Van  t huuw lyk sluiten, was  er tyd
+(300) Nóch uitstel.
+
+VÓLKERT.
+                  Wél, ik bén verblyd,
+Dat ik haar échter nu zal spreeken.
+ 
+PIETERNÉL.
+Denk daar jou hoofd niet meê te breeken,
+De knécht, én boer van onz Sinjeur
+Zult gy hier daat lyk aan de deur
+(305) Wél hébben: maar  k zou u niet raaden
+Mét hén te gaan, hét kon u schaaden:
+Want ziet, myn Heer, daar zyn uit Stad
+Zo veel dóktoors ontbooden, dat
+Gy lichtelyk bekénd zoud weezen;
+(310) Dóch twyffel niet, daar zal na deezen
+Noch wél een goê geleegenheid
+Voorvallen. Om u dit bescheid
+Te bréngen, én dat gy zoudt hoopen,
+Bén ik heel heim lyk uitgeloopen:
+(315) Vólg blind ling Jufvrouws raad. Vaar wel,
+En hou goê moed.
+
+VÓLKERT.
+                        Maar Pieternél,
+Kost gy een oogenblik hier blyven,
+Ik zou Lusyntje een briefje schryven.
+ 
+PIETERNÉL.
+Ik héb geen tyd. De Boer, én Knecht
+(320) Die moeten hier straks zyn.  t Kon slecht
+Uitvallen, én heel kwaalyk slaagen,
+Indien ze my hier by jou zagen.
+
+WOBBETJE.
+Zo zou het, kind; gae heen sléchts, loop;
+Jou Jufvrouw zél deur my, zo  k hoop,
+(325) Van Vólkert wél ien briefje krygen.
+
+VÓLKERT.
+Ay wil me dat tóch niet verzwygen.
+Op wat manier?
+
+WOBBETJE.
+              Ik zél  t je wel
+Beduyen, straks? maar Pieternél,
+Hoor hier iens,  k héb wat veur genomen.
+(330) Kyk, daarom zo je ien man ziet komen
+Tót jouwent mit ien zwarte Py,
+Of ouwerwétsche rók, zég jy
+Dat hy die Dokter hier te land is,
+Dat hy ien man van groot verstand is,
+(335) En dat je  ém ként.
+ 
+PIETERNÉL.
+              Waarom?
+
+WOBBETJE.
+                        Om reên.
+Doe zo ik zég, én gae maar heen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TOONEEL.
+WOBBETJE , VÓLKERT.
+
+
+WOBBETJE.
+HOor wat ik veur heb uit te wérken.
+
+VÓLKERT.
+Wat dóch? Maar, naar ik kan bemérken,
+Zo komt de Knécht van Rykert mét
+(340) De Boer daar ginder aan.
+
+WOBBETJE.
+                   Dat  s nét
+Van pas. Loop in, gae jou versteeken:
+Maar wacht om  t hoekje, én hoor ons spreeken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZÉSDE TOONEEL.
+HUIBERT. WOBBETJE, MÉLIS.
+
+
+HUIBERT.
+GOê dagen Zusje, met verlóf,
+Neem my myn vraag niet kwaalyk óf.
+(345) Woont hier een Dókter?
+
+WOBBETJE.
+                   Wod j em spreeken?
+Of had je graag jouw pis bekeeken?
+Je ziet hiel bliek?
+ 
+MÉLIS.
+              De Dóchter van
+Ons Heerschip ryd er louter an;
+Dés zond hy om hum te haalen:
+(350) Hy zél hum rykelyk betaalen.
+
+WOBBETJE.
+Ja wél de Dókter is juist uit.
+ 
+MÉLIS.
+O séldrement, dat is verbruid!
+
+WOBBETJE.
+Hy zou jou anders hiel wél slaagen.
+Gien gaauwer zag je van je dagen.
+(355) Daar is geen kwelling in de ménsch,
+Of hy geneest ze straks na wénsch.
+
+HUIBERT.
+Ay wys ons, waar we  em zullen vinden,
+Wy hébben haast.
+
+WOBBETJE.
+              Hiel gaeren, vrinden:
+Hy drinkt ien zoopje brandewyn
+(360) In guntse kroeg.
+ 
+MÉLIS.
+              Dat het gien schyn;
+Hy is  er licht uit vyzenteeren.
+
+WOBBETJE.
+O neen,  t is om zen keel te smeeren,
+Hy mag de brandewyn, as brood:
+Ook zou hy wél ien iedioot,
+(365) Ien botmuil nae zen plunje lyken,
+Men zou hum kwaelyk iens bekyken
+Hy gaet hiel slecht, én boersch geklied,
+De mieste ménschen denken  t niet,
+Zo houdt men Heer zen kunst verbórgen;
+(370) Het is te wongder: Ik zou zórgen,
+Dat hy misschien niet zou verstaen
+Van daag mit jou daer heen te gaen.
+
+HUIBERT.
+ t Is vreemd, dat die geleerde lieden
+Het brein meest altyd raakt aan  t zieden,
+(375) En dat hunn wysheid deurgaans mét
+Een weinig zótheid is besmét.
+
+WOBBETJE.
+Zen kuuren zyn niet óf te meeten;
+Hy veinst somwylen niets te weeten,
+En gaet daer by zo zéldzaam an,
+(380) Dat niet ien kranke bystand van
+Hum krygen kan, óf  t is mit slagen.
+En, kyk, nou is hy van die vlaagen
+Bezéten, daerom moet je  ém slaen,
+Begeerje, dat hy meê zél gaen,
+(385) Nóchtans doet hy hiel vreemde kuuren.
+
+HUIBERT.
+Maar hélpt hy hier wél van jouw Buuren?
+
+WOBBETJE.
+O,  t is ien gaauw bevaaren man,
+Elk ien die spreekt  er wonder van:
+Men kén hum niet genoeg vólroemen.
+ 
+MÉLIS.
+(390) Hoe hiet hy tóch,
+
+WOBBETJE.
+                    Hy laet hum noemen
+Heer Fielebout.
+
+HUIBERT.
+              Ik lach me slap,
+Heer Fielebout! Wat malle klap?
+ t Lykt nérgens naar.
+
+WOBBETJE.
+              Neen, zonder scheeren,
+Hy steekt maar in gemiene kleêren,
+(395) Lyk all de huislui hier op  t land.
+
+HUIBERT, lagchende.
+Gelyk een boer?
+
+WOBBETJE.
+              Maar mit verstand.
+ 
+MÉLIS.
+Maar is hy nérgens an te kennen,
+Of wy  em ontmoetten? Kyk wy bennen
+Verleegen om de vént, gansch bloed!
+
+WOBBETJE.
+(400) Hy draagt ien hooge spitse hoed,
+En heit twie breede knévels.
+ 
+MÉLIS.
+                    k Vat  et:
+Maar veul lui zouwen zéggen, dat  et
+Onmeug lyk was. Is  t ook al wis,
+Dat deuze vént zo kunstig is?
+
+WOBBETJE.
+(405) Of  t wis is?  t Is ien Sankt op aerde!
+O Vaâr, men houdt hum zo in waerde:
+Want onlangs hét hy nóch ien wyf
+Gehulpen, dat al koud, én styf
+Drie dagen had op stro gelégen;
+(410) Straks wierd ze frisch, én weêr ter dégen.
+Hy goot ze maar ien dróp vyf, zes
+Van zékere olie uit ien flés,
+Op  t slaep van  t hoofd, én streek heur navel
+En kólk van  t hart mét smout, of zwavel;
+(415) En strak stond ze op, én liep daer heen.
+ 
+MÉLIS.
+Is  t meugelyk?
+
+WOBBETJE.
+              Niét lang verleên
+Viel zék re jongen, hals en beenen,
+En kóp, en lenden op de steenen,
+An stukken te Uittert van den Dom.
+(420)  t Vólk, dat  t zag, zey straks: kom, kom,
+Nae Fielebout mit deuze jongen.
+Zy brógten hum  er by, en dwongen
+De vént mit slaan: want ziet, hy was
+Op die tyd kwintig; maar zo ras
+(425) Had hy de jongen niet bestreeken,
+Of straks begon het kind te spreeken,
+En liep weêr speulen over straet.
+ 
+MÉLIS.
+Wél, wat je zegt!
+
+WOBBETJE.
+              Hy weet ook raed
+Voor Blinden, Dooven, én veur Stommen,
+(430) Dat zy weêr by hunn zinnen kommen,
+En zien, én spreeken.
+
+HUIBERT.
+                   Dit  s de man,
+Die onze Jufvrouw hélpen kan.
+ 
+MÉLIS.
+Ja by den ellemént, hy is het,
+Indien hy maar zyn kunst zo wis het,
+(435) En zo het waar is, dat je zégt!
+
+WOBBETJE.
+Ja tóch.
+
+HUIBERT.
+         Ik dankje veur  t berécht.
+
+WOBBETJE.
+Myn raed veural dient niet vergeeten:
+Onthoudt ze wél.
+ 
+MÉLIS.
+              Hiel wél te weeten.
+Het schort maar aan ien eindtje hout.
+
+WOBBETJE in, én uit.
+(440) Wacht, wacht.
+ 
+MÉLIS.
+         Wy zéllen  t Fielebout
+Wél leeren, by den élleménten,
+Is  t hum mit slagen in te prénten.
+
+WOBBETJE.
+Daer is* veur élk ien knuppel.
+ 
+MÉLIS.
+                          Puik!
+Wanneer ik die iens récht gebruik,
+(445) Zo zél ik* die Doktoor wél dwingen,
+Dat hy....
+
+WOBBETJE.
+         De droes! Ik hoor hum zingen!
+Daer komt hy: hy moet my niet zien!
+ 
+MÉLIS.
+Gae jy maar heen, laet ons betiên.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZÉVENDE TOONEEL.
+FIELEBOUT, MELIS, HUIBERT, élk aan eene zyde.
+
+
+FIELEBOUT zingt.
+    IK geef de min de zak,
+    (450) Het wyntjen is myn leeven;
+    Ik drink op myn gemak
+    Een flésje zés, of zéven.
+    Het heeft de Drommel in,
+    De meid te karresseeren;
+    (455) Daar moet men van de min
+    Geduurig diskoereeren;
+    Daar wy by  t glaasje leeren
+    Te leeven naar onz zin.
+
+HUIBERT.
+Myn Heer, indien wy  t moogen weeten
+(460) Zyt gy Heer Fielebout geheeten?
+
+FIELEBOUT.
+Hae! watte!
+
+HUIBERT.
+             Ons vraagen is alleen,
+Of dat uw naam is?
+
+FIELEBOUT.
+                  Ja, óf neen;
+Na dat jy luy wat mogt begeeren.
+ 
+MÉLIS.
+Wy komen hém ootmoedig eeren.
+
+FIELEBOUT.
+(465) In dat geval bén ik de Man,
+Heer Fielebout.
+ 
+MÉLIS.
+                  Nu spreek hum an.
+
+HUIBERT.
+Myn Heer, gy zyt ons aangepreezen
+Van iemand, die ons heeft geweezen
+Naer u, op dat ge ons by zoudt staan
+(470) In zaaken, daar ons noodig aan
+Gelégen is.
+
+FIELEBOUT.
+         Wél, zo die zaaken
+Myn handwerk,  t hovenieren, raaken,
+Wil ik jou dienen waer ik mag;
+Exempto, vrienden, deuzen dag.
+
+HUIBERT.
+(475) Ay, zyt gedékt, Heer.
+ 
+MÉLIS.
+              Séldreweeken,
+Smak op, Dóktoor.
+
+FIELEBOUT.
+              Neen, neen.
+
+HUIBERT.
+                        Het steeken
+Der zon, in déze zonneschyn,
+Myn Heer, kon u licht schaad lyk zyn.
+
+FIELEBOUT.
+Wat steekt dit vólk vol sarmenyen!
+
+HUIBERT.
+(480) Myn Heer,  t is, om dat we ons verblyen
+Van u te zien, én dat we om raad
+Hier by u komen, dat bestaat
+In réden: want de gaauwe lieden
+Die ziet men over al ontbieden;
+(485) En ons is wonder veel gezégd
+Van uw geleerdheid.
+
+FIELEBOUT.
+              Jy hébt récht.
+Ik tart de gaauwste man in  t wérken
+Van énten, zuigen, bloemenpérken
+Te léggen, palmen scheeren...
+ 
+MÉLIS.
+                               Maar,
+(490) Myn Heer...
+
+FIELEBOUT.
+          t Is, als ik zég, ik spaar
+Geen arbeid: want op veel manieren
+Maak ik Figuuren, Syffers, Dieren...
+ 
+MÉLIS.
+Daar kommen wy niet om, wél hoe!
+
+FIELEBOUT.
+Ik neem  er ook myn tyd weêr toe;
+(495) Dóch niemand zél die zo goed maaken.
+ 
+MÉLIS.
+Maar kyk, wy weeten van de zaaken...
+
+FIELEBOUT.
+Wél, zo je van de zaaken weet,
+Zo weet ook wél, hoe nét ik meet
+Ovaalen, Ronden...
+ 
+MÉLIS.
+              Watte grillen!
+(500) Je fópt ons wat mit ons te willen
+Wys maken...
+
+FIELEBOUT.
+          k Zég  t je zonder spót,
+Ik heb  er nimmer één verbród.
+Ik tart de Tuinluy uit Itaalje,
+En Vrankrijk. O, dat  s maar kanaalje
+(505) By my.
+
+HUIBERT.
+    Ay, spót tóch mét ons niet,
+Wy hebben haast.
+
+FIELEBOUT.
+              Myn vrienden, ziet,
+Jy zoud ook kunnen laeten wérken
+By and re luy: maar tusschen pérken
+En pérken is groot onderscheid.
+
+HUIBERT.
+(510) Myn Heer, waar toe deez malligheid?
+
+FIELEBOUT.
+Al wou je  t honderd Tuinluy vraagen,
+Ik wil je wédden, zo zy  t zagen...
+ 
+MÉLIS.
+O, foey!
+
+FIELEBOUT.
+         Zy zouden zeggen, dat
+Geen Hóvenier om deuze Stad,
+(515) Ja in heel Neêrland was te vinden,
+Die zo, als ik... Maar hoor ééns, vrinden,
+Ik roem niet veel,  k ben niet gewénd
+Myn wérk te pryzen.
+ 
+MÉLIS.
+              Séldremént,
+Men Heer, waar bénnen jouw gedachten,
+(520) Dat jy jou zélfs zo kleen gaet achten,
+En van die beuzelingen spreekt,
+Daer zo ien kaerel in jou steekt,
+Een man der mannen.
+
+HUIBERT.
+              Die vermaarde,
+Wél wyze hooggeleerde, eerwaarde
+(525) Heer Dókter Fieleboutius:
+Foey, foey,  t is schande, dat je dus
+Jouw weetenschappen gaat verbérgen,
+Wanneer  er jou de luy om vérgen.
+Neen, Heer Dóktoor...
+
+FIELEBOUT.
+                   De vént is gék.
+ 
+MÉLIS.
+(530) O ja, het is ien groot gebrék,
+Heer Dokter...
+
+FIELEBOUT.
+              Déze mist zyn zinnen.
+
+HUIBERT.
+Ay houd u tóch niet langer binnen,
+En hélpt ons voort.
+
+FIELEBOUT.
+              Wél, dit is vreemd!
+Veur wie óf my dit volk hier neemt?
+ 
+MÉLIS.
+(535) Veur wie? Daer moet de droes in vaaren;
+Veur  t geen je bent. Veur ien érvaaren
+Dóktoor.
+
+FIELEBOUT.*
+         Dóktoort jou zélf, jou beest.
+Ik ben  t myn leeven niet geweest.
+ 
+MÉLIS.
+Kedaer, daer héb je van zen kwinten!
+
+HUIBERT.
+(540) Myn Heer, ay maakt ons tóch geen finten,
+En dwing ons niet te doen  t geen ons,
+En jou zou rouwen.
+
+FIELEBOUT.
+              Hébje een gons?
+Waar toe zou ik je luy tóch dwingen?
+ 
+MÉLIS.
+Tut zeer verdrietelyke dingen,
+(545) Zo jy jouw Dókterschop ontként.
+
+FIELEBOUT.
+Doe alles, wat je doen wilt, vént:
+ k Bén geen Dóktoor, nóch wil  t niet weezen.
+
+HUIBERT.
+Ay lieve, laat u tóch beleezen,
+Bekén het willig.
+
+FIELEBOUT.
+               k Raas van spyt!
+
+HUIBERT.
+(550) Waarom t ontkénnen  t geen gy zyt?
+ 
+MÉLIS.
+Waer toe all deuze viezevaazen?
+
+FIELEBOUT.
+Ik loof, je luy begint te raazen!
+Eén woord zo goed, als tien; ik bén*
+Geen Dókter.
+ 
+MÉLIS.
+         Wél de pikken schén
+(555) De vént. Wy raên je, als vrienden, jókt  er
+Niet langer om: Bin jy gien Dókter?
+
+HUIBERT.
+Zyt gy geen Dókter?
+
+FIELEBOUT.
+              Neen, neen, neen.
+Nóch ééns neen, bén je nou te vreên?
+ 
+MÉLIS.
+Ik kan me langer niet betoomen.
+
+HUIBERT.
+(560) Sa, sa, men moet  er dan toe komen. Zy slaan hém.
+
+FIELEBOUT.
+Help, help, hou op. O myn, men gat!
+Men arm, myn lénden!  k bén al wat
+Jou luy belieft.
+ 
+MÉLIS.
+         Je moet dit klouwen
+Ons deuze reis ten bésten houwen:
+(565) Jy dwingt  er ons toe, lyk je weet.
+
+HUIBERT.
+Myn Heer,  t is ons van harten leed,
+Dat je ons de moeite hébt gegeven
+Van u te slaan.
+
+FIELEBOUT.
+         Wie heeft zyn leeven!
+Wat plaag is dat, héb jy luy lust
+(570) Te lachchen, zo laet my in rust.
+Een ménsch mét knuppels te overstemmen,
+Dat hy Dóktoor is, kan niet klémmen:
+Of bén je mit de kóp gekwéld,
+Zo blyf het: maer doen geen gewéld.
+
+HUIBERT.
+(575) Hoe, geefje  t nóch niet op? ontkénje
+Op nieuw Dóktoor te weezen?
+ 
+MÉLIS.
+                        Bén je
+Gien Dókter?
+
+FIELEBOUT.
+         Neen. De Drommel voer
+Me wég, men vrinden,  k ben een boer.
+
+HUIBERT.
+En geen Dóktoor?
+
+FIELEBOUT.
+              Och, neen ik, zéker.
+ 
+MÉLIS.
+(580) Kom, weêr an.              Zy slaan hém.
+
+FIELEBOUT.
+              Och! ik bén Aptéker,
+Dóktoor, Kwakzalver, Chírurgyn,
+En alles, wat een ménsch kan zyn:
+Veel liever, als die knuppelslagen
+Te lyden.
+
+HUIBERT.
+         Ik neem groot behaagen,
+(585) Dat gy weêr tót u zélven zyt
+Gekomen.
+ 
+MÉLIS.
+         Ik bén ook verblyd.
+
+HUIBERT.
+Indie u déze slagen smarten,
+Myn Heer, ik bid van ganscher harten
+Verschoon my.
+
+FIELEBOUT.
+                   Zéker schoon bescheid!*
+ 
+MÉLIS.
+(590) Men Heer, houd myn vrypóstigheid
+Ten bésten.
+
+FIELEBOUT.
+         Zouden zy  t al liegen?
+Zou ik my zélven wél bedriegen?
+Dóktoor zyn, zonder dat ik  t wist?
+Ay vrienden, bén je niet vergist,
+(595) Ben ik Dóktoor?
+ 
+MÉLIS.
+              Ja, by men zoolen!
+
+FIELEBOUT.
+In  t openbaar, óf in  t verholen?
+
+HUIBERT.
+In  t openbaar.
+
+FIELEBOUT.
+              Maar in der daad?
+ 
+MÉLIS.
+Wis ben je ien Dókter, wat ien praat?
+
+FIELEBOUT.
+Zie daer, de Drommel moet me haalen,
+(600) Zo ik het wist!
+
+HUIBERT.
+              Daar zyn geen kwaalen
+Ter waereld, die gy niet geneest.
+
+FIELEBOUT.
+Maar ben ik lang Dóktoor geweest?
+
+HUIBERT.
+Wis, én de béste, die in  t land is.
+
+FIELEBOUT.
+Tóch, tóch!
+
+HUIBERT.
+         Ja tóch, én wiens verstand is
+(605) Zo groot, als dat van Hippokraat
+Of van Galénus.
+
+FIELEBOUT.
+              Wat je praat!
+
+HUIBERT.
+Die alle ziektens kunt geneezen.
+
+FIELEBOUT.
+Wel ja, het kon wél meug lijk weezen!
+ 
+MÉLIS.
+Nou onlangs héb je ien Vróuwménsch, zo
+(610)  k Gehoord heb, die al lang op stro
+Veur dood lag, maar wat ingegeeven,
+En straks begon ze wéêr te leeven.
+
+FIELEBOUT.
+Ja, ja!
+ 
+MÉLIS.
+        Nou korts genas je ien man,
+Die te Uittert schielyk boven van
+(615) Den Dom op straat viel neêr an flarden.
+
+FIELEBOUT.
+Heu, heu!
+ 
+MÉLIS.
+         Daerom kén ik niet harden,
+Dat jy zo weig rig bént, je zélt
+By d éllementen zo veul géld
+Verdienen, als je zelfs zélt willen;
+(620) Wanneer je die verbrangste grillen
+Wilt laeten, én nae  t Heerschop toe
+Mit ons luy beyen heen gaen.
+
+FIELEBOUT.
+                        Hoe!
+Kén ik  er zo veul géld by winnen?
+Sus, sus,  k begin me te verzinnen,
+(625) Het was me ontschooten: zonder fout
+Ben ik Heer Dókter Fielebout.
+Allons, waar heeft men my ontbooden?
+Waer is myn Dókterschap van nooden?
+
+HUIBERT.
+Wy zullen u geleiden by
+(630) Een jonge Dóchter, op dat gy
+Die helpen zoudt.
+
+FIELEBOUT.
+              Waar van? laat hooren.
+
+HUIBERT.
+Myn Heer, zy heeft de spraak verlooren.
+
+FIELEBOUT.
+Ik héb die niet gevonden.
+
+HUIBERT.
+                   Ey,
+Ey boert niet, kom, dat ik u ley.
+
+FIELEBOUT.
+(635) Waer?
+ 
+MÉLIS.
+    Dichte by, deur  t guntsche laentje,
+De darde hófstéê, daar dat vaentje
+Op de iene schoorstien staet. Kom an.
+
+FIELEBOUT.
+Wél gae vooruit, ik vólgje dan.
+Ik zal my met  er haast verkleeden,
+(640) Om wat te lyken.
+
+HUIBERT.
+               t Heeft zyn réden:
+Maar laat ons tóch niet wachten.
+
+FIELEBOUT.
+                        Neen.
+Ik bén straks by je, gae maar heen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ACHTSTE TOONEEL.
+FIELEBOUT, VÓLKERT.
+
+
+FIELEBOUT.
+,, DE Drommel haal zulk promoveeren,
+,,Kwam ik daer ééns te vizenteeren,
+(645) ,,Kreeg ik nóch meer. O séldremast,
+Heer Vólkert,  k bén daer zo te gast
+Geweest op knapkoek, daer de honden
+Van stérven, dénk, ik bén gantsch wonden
+Gedóktert tégens wil, én dank.
+
+VÓLKERT.
+(650) Door wie?
+
+FIELEBOUT.
+         Gansch bloed! ik gae nóch mank!
+Van heurlui, die daer van me scheyen.
+Zy peuluwden my mit  er beyen,
+En dwongen my perfors, ik zou
+Straks meê gaen, om een kranke vrouw,
+(655) Of stomme Dóchter te geneezen.
+
+VÓLKERT.
+Hoort toe. Zo gy myn vriend wilt weezen,
+Moet gy  er gaan, én déze brief
+In eigen handen van myn lief
+Lusyntje geeven.  t Was besteeken,
+(660) Dat ik haar, als Dóktoor, zou spreeken
+Van deezen dag, terwyl zy haar
+Heel krank, én stom zou veinzen: maar
+Dit toeval, én nóch and re zaaken
+Doen my een ander voorneem maaken.
+(665) Jouw vrouw is flus voor my naar stad
+Gegaan: doe my de vriendschap, dat
+Gy me in dit voorval ook mét eenen
+Uw hulp, én bystand wilt verleenen.
+En mét dit vólk gaat. Kom, ik zal
+(670) Je kleeden, dat je heel, en al
+Een Dókter lykt, én voorder zéggen,
+Hoe dat je  t alles aan zult léggen.
+
+FIELEBOUT.
+Ik durf wéréntig niet. Ik vrees
+Veur slagen.
+
+VÓLKERT.
+         Niet mét allen: wees
+(675) Gy maar gerust. Daar  s niets te schroomen.
+Hoe  t gaat, én wat  er van mag komen,
+Ik blyf uw borg: Wees wél te moê.
+
+FIELEBOUT.
+Allons, dat gaet  er dan nae toe.
+
+                 Eynde van het Eerste Bedryf.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+TWEDE BEDRYF.
+EERSTE TOONEEL.
+PIETERNÉL, RYKERT.
+
+
+PIETERNÉL.
+MAar Heer, dit lyken vreemde zaaken!
+(680) Wat zullen all die Dókters maaken?
+Is de ééne, die jy hebt ontboôn,
+Niet mans genoeg jouw kind te doôn?
+
+RYKERT.
+Zwyg stil, de ruimte kan niet schaaden,
+ t Geen de één niet weet, zal de ander raaden.
+ 
+PIETERNÉL.
+(685) Of vrees je, dat jouw Dóchter al
+Te lang naar jouw zin leeven zal;
+Zo ze al dit vólk haar hulp moet dérven?
+
+RYKERT.
+Wat, wat! doen zy de ménschen stérven?
+ 
+PIETERNÉL.
+Veurzéker, Heer. Veel honden zyn
+(690) Der haazen dood: én waar het myn,
+Zo wél als uw zaak,  k zou deez dooren
+Niet éénsjes willen spreeken hooren;
+Maar wachten naar den and ren, die
+Veel meer verstand heeft in zen knie,
+(695) Als all deez Dókters mét hun allen.
+
+RYKERT.
+Wel, wat mag déze flaers al kallen!
+ 
+PIETERNÉL.
+Hoor hier, men Heer, ik héb veurdeez 
+Een man gekénd, die klaar bewees,
+En mét goê reden kon beléggen,
+(700) Hoe  t is een misverstand te zéggen,
+Dat iemand stérft van ziekte; maar
+In tégendeel bewees hy klaar,
+Dat de oorzaak van de dood der kranken
+Des Dókters onkunde is te danken.
+
+RYKERT.
+(705) Zwyg stil, zég ik, gy schéndt hunne eer.
+ 
+PIETERNÉL.
+ t Is onderdaagsch gebeurd, men Heer,
+Dat onze kat door schrik, of mallen,
+ t Dakvenster uit op straat kwam vallen;
+Een ider riep, de kat is dood:
+(710) Want zy verroerde hoofd, nóch poot,
+En lag drie dagen zonder eeten,
+Of drinken in een hoek vergeeten;
+Tót dat ik daags daar na vernam,
+Da zy weêr frisch te voorschyn kwam:
+(715) Zo dat veurwaer  t geslacht der katten
+Veur heel gelukkig is te schatten,
+Dat zy geen Dókters hoeven: want
+Zy zouden haar straks meê van kant
+Geholpen hebben met purgeeren,
+(720) En aderlaaten, én klisteeren.
+
+RYKERT.
+Voor  t lést, zég ik jou, hou de bék,
+Eer dat ik jou de tong uit trék.
+Daar komen ze uyt myns Dóchters kamer.
+Hier moet de de deur van de kamer geopend,
+én de Dókters van verre praatende gezien werden.
+ 
+PIETERNÉL.
+Een Vrijer was veur haar bekwaamer,
+(725) Als all de Dókters van het land:
+Haar ziekte is énk le minnebrand,
+Die nooit geen Dókter zal geneezen,
+Of  t moest een Liefde-Dókter weezen.
+
+RYKERT.
+ k Zeg, dat je zwygt. Hoe zal  t hier gaan?
+(730) Geef stoelen, én loop hier van daan.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWÉDE TOONEEL.
+RYKERT, Dr. SMULLER, PIETERNÉL.
+Dr. NYPEWYN, Dr. RABBELAAR,
+Dr. TEEMER.
+
+
+RYKERT.
+OCh! hoe vindt gy myn kind, myn Heeren?
+ 
+Dr. SMULLER.
+Wy komen haar te visiteeren,
+En vinden, wyl  t u dient gezeid,
+Haar lichchaam vol onreinigheid.
+
+RYKERT.
+(735) Och, óch! wat kom ik niet te hooren!
+Heeft zy haar maagdom dan verlooren?
+ 
+Dr. SMULLER.
+Dat zég ik niet; maar dat haar bloed,
+Ontsteeken, déze krankheid voed.
+
+RYKERT.
+ k Versta  t
+ 
+Dr. SMULLER.
+        Wy zullen raad gaan leeven.
+
+RYKERT.
+(740) Sa knapjes, doe hier stoelen geeven,
+
+PIETERNÉL, tégens Dr. Smuller.
+Gendag, men Heer, bén jy hier meê?
+
+RYKERT.
+Van waar ként gy myn Heer al reê?
+ 
+PIETERNÉL.
+Van dat hy lést mét and re Heeren
+Kwam tót men Meutjes vyzenteeren.
+ 
+Dr. SMULLER.
+(745) Hoe vaart haar Zoon?
+ 
+PIETERNÉL.
+            Die  s buiten nood,
+Hy vaart heel wél: want hy is dood.
+ 
+Dr. SMULLER.
+Hoe dood?
+
+PIETERNÉL, mét een bedroefd gelaad.
+             Ja dood.
+ 
+Dr. SMULLER.
+                 Dat kan niet weezen.
+ 
+PIETERNÉL.
+Hy hoeft geen Dókters meer te vreezen:
+Want hy  s zo dood, gelyk een róg.
+ 
+Dr. SMULLER.
+(750) Hy kan niet dood zyn, zég ik nóch.
+ 
+PIETERNÉL.
+Hy leid in  t graf.
+ 
+Dr. SMULLER.
+            Gy zyt bedroogen.
+ 
+PIETERNÉL.
+ k Heb hém zien stérven veur myne oogen,
+En hoedjens hélpen maaken, toen
+Men  t lichchaam in de kist zou doen.
+(755) Ja  k héb hém zélf na  t graf zien draagen
+Geloofje  t niet, je meugt het vraagen.
+ 
+Dr. SMULLER.
+Het is onmooglyk,  t heeft geen schyn
+Van waarheid, dat hy dood kan zyn.
+Hippocratés zeid immers klaarlyk,
+     Zich na de andre Dokters keerende.
+(760) Dat déze ziekte, ook hoe gevaarlyk,
+Nooit eindigt voor  t verloop van twé,
+Of zomtyds wél drie weeken meê,
+Dóch nimmer vroeger, en  t is heden
+Maar négen dagen nóch geleeden,
+(765) Dat hy eerst ziek wierd.
+ 
+PIETERNÉL.
+                Dat  s geen nood,
+De knécht is lykewél vast dood.
+
+RYKERT.
+Zwyg snapster, voort van hier. Myn Heeren,
+Ay wilt met ernst tóch consulteeren:
+En schoon het geen gebruik is, dat
+(770) Men straks betaale, eer ik  t vergat
+Hier na te doen, zie daar.
+Hy geeft aan ieder van de Dokters een stuk géld, dat
+    zy élk op eene byzondere, én belachchelyke ma-
+    niere aanneemen.
+ 
+PIETERNÉL.
+                Wat géste?
+Ha! ha! De léste is nóch de béste,
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DÉRDE TOONEEL.
+Dr. SMULLER, Dr. NYPEWYN,
+Dr. RABBELAAR, Dr. TEEMER.
+
+Nadat ze eenige beleefdheeden gepleegd hébben
+gaan ze zitten, én blyven een weinig tyd zon-
+der spreeken, de eerste zyne tanden stookende, de
+twéde zyne knévels opstrykende, de darde snuif-
+tabak neemende, én sniezende; en de vier-
+de hoestende.
+
+
+Dr. SMULLER.
+WAt  s Amsterdam sint korten tyd
+In schat, én grootheid, door de vlyt
+(775) Van goê regeering toegenomen?
+Ja, waar sléchts de Oorlóg niet gekomen,
+De uitlégging zou men nu misschien
+Ten naasten by voltimmerd zien,
+En dan mogt onze Stad met eeren
+(780) Wél voor de grootste Stad passeeren.
+ 
+Dr. NYPEWYN.
+Van Neêrland wél: maar anders is
+Parys veel grooter, dat gewis
+In vólkrykheid, Paleis, én Hóven
+Ons Amsterdam vér gaat te boven.
+ 
+Dr. SMULLER.
+(785) In grootsheid van Paleizen goed.
+Maar, Heer, wat de omtrék aangaat, moet
+Gy weeten, dat het afgetékend
+(De Voorsteên daar niet by gerékend)
+Mét zyne muuren sléchts omgord,
+(790) Zélf niet zo groot bevonden wordt.
+ 
+Dr. NYPEWYN.
+ t Kan zyn.  t Is réchtevoort mooy weêrtje.
+ 
+Dr. SMULLER.
+Wat dunkt u van dit Diemermeertje?
+ 
+Dr. NYPEWYN.
+Het mag wél voor een meer bestaan.
+ 
+Dr. SMULLER.
+Wat dunkt u van de Malibaan?
+ 
+Dr. NYPEWYN.
+(795) Die staat my maar zo pas lyk aan:
+Want ze is te nauw van wandelwégen,
+En al te vér van Stad gelégen.
+ 
+Dr. SMULLER.
+Wél waar, én hoe hadt gy die graag?
+ 
+Dr. NYPEWYN.
+Als die van  t Sticht, én in den Haag.
+(800) Maar waarom zyt gy, als voorheenen?
+Op ons Kóllézie niet verscheenen?
+ 
+Dr. SMULLER.
+Waar? in de Paauw? Om dat je er niet,
+Als speelt, én smookt, én drinkt: want ziet
+Ik hou veel van wats goeds te smullen.
+(805) Het drinken kan de buik niet vullen.
+ 
+Dr. NYPEWYN.
+Ik dronk er gist ren rinsche wyn:
+Geen Néktar kan zo smaaklyk zyn.
+Dan trouwens,  k meen dat wy hem neepen.
+ 
+Dr. SMULLER.
+ k At Dingsdag, neen,  k heb my vergreepen,
+(810)  t Was Maandag, van een jonge haas;
+Zy was zo murw, als groene kaas.
+Zie,  t meeste vóllik hier te lande
+Vérbraaden  t vleesch schier heel te schande;
+Maar op zyn Fransch doorspékt, pas gaar,
+(815) Gansch niet gedroopt mét boter; maar
+Sléchts mét een saus van eek, én peper:
+Ha!  t is een Konings eeten, zéper.
+ 
+Dr. NYPEWYN.
+Ik wil  t gelooven: maar  t is mis,
+Wanneer de Wyn niet goed en is:
+(825) De spys is nooit voor my bedurven
+Zo  k maar wat lekkers héb te slurven:
+Een goê dronk wyn, daar houd ik  t meê.
+ 
+Dr. SMULLER.
+Braân bout, én één kapoen, óf twé
+Gefrikasseerd, óf mooy gebraaden,
+(830) Is zéker meê niet te versmaaden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VIERDE TOONEEL.
+RYKERT, Dr. SMULLER, Dr. NYPEWYN,
+Dr. TEEMER, Dr. RABBELAAR.
+
+
+RYKERT.
+OCh vrienden, de benaauwdheid van
+Myn kind neemd nóch gestadig an,
+Ja zo, dat zy niet meer kan spreeken,
+En licht daar in zal blijven steeken;
+(835) Ten zy men daar straks raad in schaff ;
+Dies bid ik, scheid er tóch wat af;
+En zég me, wat ik zal doen haalen
+Tot licht nis van myns Dóchters kwaalen:
+Want ik héb deernis mét haar pyn.
+ 
+Dr. SMULLER.
+(840) Nu dan, Confrater Nypewyn.
+ 
+Dr. NYPEWYN.
+Confrater Smuller, ay, u lieden
+Zal  t woord wél doen.
+ 
+Dr. SMULLER.
+             t Zal niet geschieden,
+Confrater Nypewyn.
+ 
+Dr. NYPEWYN.
+                Nóch ik,
+ k Zal niet eerst spreeken, waarelik.
+ 
+Dr. SMULLER.
+(845) Confrater Rabb laar....
+ 
+Dr. NYPEWYN.
+            Frater Teemer....
+
+RYKERT.
+Me dunkt, dit gaat hoe langs hoe vreemer.
+Och, Heeren Dókters, helpt haar maar,
+En laat die sérmonijen daar
+
+Dr. SMULLER mét alle de andere te gelyk.
+Uw Dóchters ziekt naar dat wy raamen...
+ 
+Dr. NYPEWYN.
+(850) De béste raad van ons all t samen...
+
+Dr. TEEMER.
+Om van haar kwaal mét onderscheid...
+
+Dr. RABBELAAR.
+Na dat wy alles overleid....
+
+RYKERT, in hunne réden vallende.
+ Houdt, Heeren, zachtjes mét malkander,
+Zo  t u belieft, én de een na de ander.
+ 
+Dr. SMULLER.
+(855) Myn Heer, wy hébben wyd, én breed
+Gesprooken van uws Dóchters leed,
+Of ziekte; én myne raad zou weezen
+(Dewyl die voortkomt, én gereezen
+Is uit verhitting van het bloed)
+(860) Dat gy haar daadlyk laaten doet.
+ 
+Dr. NYPEWYN.
+Dat zou ik gansch niet approbeeren:
+Het laaten zou haar kwaal vermeeren,
+Vermits haar ziekte geensints uit
+Verhitting, maar verrótting spruit.
+(865) Dies zoud ik raaden tót purgeeren,
+En geeven har tien, twaalf klisteeren.
+ 
+Dr. SMULLER.
+Zo gy haar nu purgeeren doet,
+Zyt gy haar kwyt.
+ 
+Dr. NYPEWYN.
+            Och armen bloed
+Zy is om hals, doet gy haar laaten.
+ 
+Dr. SMULLER.
+(870) Wél wat mag déze man al praten.
+ 
+Dr. NYPEWYN.
+Zo praat ik. En  k zal niet ontzien
+Om, als  t u lust, u  t hoofd te bien
+In alle slag van weetenschappen
+ 
+Dr. SMULLER.
+Gedénkt u wél mét al uw snappen
+(875) Aan die persoon, die ge onlangs deedt
+Ad patres vaaren.
+ 
+Dr. NYPEWYN.
+            Gy vergeet
+De Juffrouw, die ge in korte stonden
+Na de and re Waereld hébt gezonden.
+ 
+Dr. SMULLER.
+ k Héb u myn raad geopenbaard.
+ 
+Dr. NYPEWYN.
+(880)  k Héb myn gevoelen u verklaard.
+ 
+Dr. SMULLER.
+Indien ge uw Dóchter niet op héden
+Doet laaten, (lét wél op myn réden)
+Zo weet, dat zy straks stérven moet.
+ 
+Dr. NYPEWYN.
+Zo gy uw Dóchter laaten doet,
+(885) Zal zy geen kwartier uur meer leeven.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+VYFDE TOONEEL.
+RYKERT, Dr. TEEMER, Dr. RABBELAAR.
+
+
+RYKERT.
+WIen dien ik hier geloof te geeven?
+En wélk is  t heilzaamste besluit,
+Dat my staat te verkiézen uit
+Twé raaden, zo zeer tégenstrydig.
+(890) Gy Heeren,  k bid u, weest onzydig,
+En rédt me uit deez verwarring: zég
+My ééns naar dit stil overlég,
+Wat u het raadzaamst dunkt te weezen,
+Om myn Lusyntje te geneezen.
+
+Dr. TEEMER, zeer langzaam spreekende.
+(895) Myn. Heer, in. voor-val-len. van. aard,
+Als. de-ze., moet. men. mét. be-daard.
+Ver-stand, én. voor-be-dach-te. zin-nen,
+Een. zo. ge-wig-tig. wérk. be-gin-nen,
+De-wyl. een . fout. in. dit. ge-val.
+(900) Veel . ram-pen. mét. zich. slee-pen zal.
+
+Dr. RABBELAAR, rad spreekende.
+Da s waar. Men moet voorzigtig weezen,
+Want zwaare krankheên te geneezen,
+Dat is bylo geen kinderwérk:
+En, ééns gemist het réchte pérk,
+(905) Is  t zwaar om zulks te récht te bréngen,
+En  s lyders leeven te verléngen:
+Dies moet men, eer men iets besta,
+De zaak wél overweegen, na
+Behooren daar af rédeneeren,
+(910) Natuur, én aard der kranken leeren,
+De ziekte nét afleiden uit
+Haare oorspronk; om zo tót besluit
+Der hullepmiddelen te komen.
+Dus werde op alles acht genomen.
+
+RYKERT.
+(915) De één loopt te póst, én de aâr te voet,*
+Kruipt loomer, als een Schildpad doet.
+
+Dr. TEEMER.
+Zo. dat. ik., om. ter. zaak. te bly-ven.,
+Uws. Dóch-ters. ziek-te. zou. be-schrij-ven.
+Te. zyn. een. A-la-li a., daar
+(920) Men. Chro-ni-cus. by. wordt. ge-waar,
+Ge-teelt. uit. zé-ke-re. ver-slym-de
+Be-dor-ve-ne. én. te. saam. ge-lym-de.
+Hu-meu-ren., die. al-léngs-kens. naar.
+ t Ab-do-men. schie-ten. by. él-kaâr.
+
+Dr. RABBELAAR.
+(925) En na dat déze kwaâ humeuren
+Aldaar vergaard zyn, zal  t gebeuren,
+Dat bywylen door het vuur
+Der aangestookene natuur
+Gaat zieden, waar uit déze dampen
+(930) Dan opwaarts steigeren, én klampen
+Het brein mét groot gewéld aan boord.
+
+Dr. TEEMER.
+Dies. moet-men. deez . hu-meu-ren. voort.
+Lós. maa-ken. eer. dat. zy. ver-sty-ven,
+En. uit. ge-darmte. én maag-krop. dry-ven.
+(935) En. daar. toe. zyn. Ju-lep-pen. goed,
+Die. ge. in. Garst-wa-ter. men-gen. moet.
+
+Dr. RABBELAAR.
+Daar na zo zal men het klisteeren,
+Het aderlaaten, én  t purgeeren
+Ter hand slaan, dat zo meenig reis
+(940) Hervat zal worden, als naar eisch
+Der ziekte noodig wordt bevonden.
+
+Dr. TEEMER.
+On-aan-ge-zien. dit. al-les. kon-den.
+Haar . kwaa-len. haar. doen. stérven.; maar.
+ t* Zal. u. ver-troos-ten.* dat. gy. haar.
+(945) Het. lee-ven. naar. de. kunst. deed. dér-ven.
+
+Dr. RABBELAAR.
+ t Is beter na de kunst te stérven,
+Dan tégens régelen, én maat
+Te leeven in gezonde staat,
+Gelyk gy zélver wél kunt peinzen.
+
+Dr. TEEMER.
+(950) Dies. héb-ben. wy. u. zon-der. vein-zen.
+Ons. oor-deel., zo. dat. waar-lyk. leit.
+Gansch. o-pen-har-tig-lyk. ge-zeid.
+
+Dr. RABBELAAR.
+En u geraân, als onzen Broeder,
+Of als een kind doet aan zyn Moeder.
+
+RYKERT, tégens Dr. Teemer, heel langzaam.
+(955) Ik. dank. u. zeer. voor.  t. on-der-richt.
+    Tégens Dr. Rabbelaar, heel haastig.
+En blyf op  t hoogst aan u verpligt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZÉSDE TOONEEL.
+RYKERT, PIETERNÉL.
+
+
+RYKERT.
+BRust heen, loopt saamen veur Sint Félten,
+Ja wél, het hoofd rydt my op stélten
+Van all die Dókters. Ik word zót,
+(960) En sta te kyken als Piet Snót.
+ k Bén nou zo wys, als van te vooren.
+Maar wat gekérm komt my ter ooren.
+
+PIETERNEL.
+Och, óch! myn Heer, je Dógter! óch!
+
+RYKERT.
+Och, Pieternél! wat lét  er, óch?
+(965) Och, óch, wat lét  er? óch laat hooren!
+
+PIETERNEL.
+Och had ze slechts de spraak verlooren!
+Maar zy krygt élk ien oogenblik
+Zulke overvallen, dat ik schrik
+Om  t jou te zéggen.  t Staat te vreezen
+(970) Of  t licht het moérspul wél mogt weezen!
+Ze woelt, ze heeft gien rust in  t béd;
+Maar vliegt  er uit, én wil te mét
+Haar zélf verhangen, of deursteeken.
+
+RYKERT.
+Och, óch! het hart schynt my te breeken.
+(975) Dat ik het hoor verhaalen sléchts.
+De koekkoek schén de luye knéchts.
+ t Is ruim drie uuren,dat zy t saamen
+Aleer deeze and re Dókters kwaamen,
+Gegaan zyn om een vreemd Dóktoor
+(980) Hier in de buurt, die, naar ik hoor,
+Heel wond re kuuren kan bedryven:
+Maar  k weet niet, waar die guits nou blyven.
+
+PIETERNEL.
+Geloof my, Heer! het is maar wind
+Mét al die Dókters: want jou kind
+(985) Schort heel wat aârs, als and re kranken.
+Roobarber, Séneka, óf dranken
+Zyn haar ondienstig: maar een frisch
+Jong kaerel, die zy gunstig is,
+Zou de allerbéste pleister weezen,
+(990) Om zulke ziektens te geneezen.
+
+RYKERT.
+Wél, snapster, is zy nu in staat
+Om haar te trouwen, dat  s een praat!
+Ook wou zy niet, toen  k een byzonder
+Ryk Weênaar wist.
+
+PIETERNEL.
+            Dat is gien wonder.
+(995) Ien vent, daer zy gien zin in hét.
+Trouw haar mét Sinjeur Vólkert,  k wéd
+Dat zy er wél méê is te vréden.
+
+RYKERT.
+Mét zulk een lóskóp, zonder réden,
+En zonder géld! hy dient haar niet.
+
+PIETERNEL.
+(1000) Maar die ryke Oom, die hy heeft, ziet,
+Die is doodkrank, én leit op stérven;
+En daar zél hy al  t goed van érven.
+
+RYKERT.
+Dat  s hagchelyk: want zulks hangt al
+Aan de uitslag, hoe die  t maaken zal.
+(1005) Dies acht ik de erf nis, dus te komen,
+Zo veel, als wind, én yd le droomen.
+Maar  t geen men heeft dat heeft men wis,
+Daar  t krygen heel onzéker is
+ 
+PIETERNÉL.
+Men Heer, wilt dit van my onthouwen,
+(1010) Dat altyd in het stuk van trouwen
+ t Genoegen, zo men  t wél bezéft,
+ t Bezit van rykdom overtréft.
+Altoos veur my,  k zou, én met reden,
+My liever in den écht besteeden
+(1015) Mit ien, die  k lief had, zonder schat,
+Als mit ien, die  k niet lief en had,
+Al had hy hondert duizend gulden.
+
+RYKERT.
+Dat  s goed, dat kan ik heel wel dulden
+Veur jou. Doe jy, zo jy  t verstaat.
+(1020) Maar maak van Vólkert geen meer praat,
+Nóch kom myn voorneem niet belétten,
+Of  k zal jou doen in  t Spinhuis zetten.
+ 
+PIETERNÉL.
+In  t Spinhuis zéker! Dat was mooy.
+Wél hoe? ik ben geen lichte kooy.
+
+RYKERT.
+(1025) Fluks voort, pas op myn kind, loop heenen,
+Och, och, me dunkt ik hoor haar steenen!
+Och Huibert! kom je nóch eens weêr?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ZÉVENDE TOONEEL.
+MÉLIS, RYKERT, HUIBERT.
+
+
+MÉLIS.
+O Séllemént, wees bly, men Heer:
+Want ziet wy bréngen jou de beste
+(1030) Dóktoor ter waereld meê ten léste:
+Die wonderlyk op staande voet
+De doode lui weêr leeven doet.
+
+RYKERT.
+Ja! maar waarom komt hy niet binnen?
+
+HUIBERT.
+Men Heer, hy is wat vreemd van zinnen.
+(1035) Daar stonden and re Dókters aan
+De poort, dies hy niet in wou gaan;
+Om dat hy niet bekénd wil weezen.
+
+RYKERT.
+Wat hoeft hy voor dit vólk te vreezen?
+Zy gaan te rug. Hoe noemt men hem?
+
+HUIBERT.
+(1040) Heer Fielebout.
+
+RYKERT, tegens Mélis.
+            Ik hoor zyn stém;
+Ga. laat hém in.
+
+HUIBERT.
+            Maar gy moet weeten,
+Hy is somtyds gelyk bezéten;
+Zo als je uit zy manier van doen,
+En kleeding strakjes zult bevroên:
+(1045) Maar zyn verstand is niet te gronden:
+Zyn weêrgâ wierd er nooit gevonden,
+Hy s kwintig; maar een doorleerd man.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ACHTSTE TOONEEL.
+MÉLIS, RYKERT, FIELEBOUT, als een
+Oudwétsche Dokter, mét een lange zwarte rok
+aan, met een hooge spitse hoed op. HUIBERT.
+
+
+MÉLIS.
+MEn Heer, hier komt de Dókter an.
+
+RYKERT.
+Sta ruim, dat ik hém ga ontmoeten.
+(1050) Myn Heer, ik kom u feest lyk groeten,
+En  k bén op  t allerhoogst verblyd,
+Dat gy alhier gekomen zyt:
+Want ziet myn Dóchter wil verscheiden.
+
+FIELEBOUT, mét een staatig weezen.
+Hippocratés zeit, dat wy beiden
+(1055) Onz luizen zullen dékken.
+
+RYKERT.
+                Wat?
+Hippocratés! Waar zeid hy dat?
+
+FIELEBOUT, mét verstoordheid.
+Waar dat hy  t zeid?
+
+RYKERT.
+            In wat kapittel?
+
+HUIBERT.
+Men Heer, je zult door dit gekittel
+Tót vraagen maaken, dat hy all 
+(1060) Zyn weetenschap verlooch nen zal.
+
+FIELEBOUT.
+In wat kapi..
+
+RYKERT.
+        Houd, my ten goeden...
+
+FIELEBOUT.
+Neen, in  t kapittel van de hoeden;
+Of daar hy van de hoeden leert.
+
+RYKERT.
+Dewyl  t Hippocrates begeert,
+(1065) Zo doe ik  t: maar wie komt ons stooren?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+NEGENDE TOONEEL.
+PIETERNÉL, FIELEBOUT, RYKERT,
+HUIBERT, MÉLIS.
+
+
+PIETERNÉL.
+MEn Heer, daar zyn noch zes Dóktooren
+Uit Stad. Beliefje, dat ik ze in
+Zal laaten?
+
+FIELEBOUT.
+        Héb je dat in  t zin,
+Zo gaa ik daadlyk heenen stappen:
+(1070) Want, zie, ik wil myn weetenschappen,
+Die ik veur my hou, als wat goeds,
+Niet openbaren aan die bloeds.
+Zou ik my méngen mét die gékken!
+
+RYKERT.
+Loop, Mélis, zég, dat zy vertrékken.
+(1075) Maar hoe veel Dókters héb je in Stad
+Dan aangesprooken?
+
+HUIBERT.
+                Wie zou dat
+Op acht, óf tien naar konnen weeten,
+Men Heer: want je had ons geheeten,
+Dat wy de ruimte brógten, dies
+(1080) Zyn wy straks zonder tydverlies
+Gegaan by die wy vinden konden,
+Of wélkers naamen dat wy vonden
+Geschreeven aan de deur.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TIENDE TOONEEL.
+PLEUNTJE, FIELEBOUT, TRYNTJE,
+MÉLIS, RYKERT, PIETERNÉL,
+HUIBERT.
+
+
+PEUNTJE.
+                 MEn Heer!
+Men Heer, daer zyn  er nóch al meer!
+
+FIELEBOUT.
+(1085) Wat? Dokters?
+
+PEUNTJE.
+        Ja.
+
+FIELEBOUT.
+            Ik bén verlooren!
+
+TRYNTJE.
+De wég die grimmelt van Doktooren.
+ 
+MÉLIS.
+En, die veur deur staen, willen niet
+Vertrékken, eer je schyven schiet.
+
+RYKERT.
+Ja wél, ja wél, het lyken droomen,
+(1090) Van waar nou al die Dókters komen.
+Loopt beye gaâr, loopt heen gezwind,
+En geeft  er dit. Zég, dat myn kind
+Wat sluimert, dat ik om veel zaaken
+Haar niet zou willen wakker maaken;
+(1095) Terwylen zult gy, Pieternél,
+Eéns zien, óf haare zwakheid wél
+Toelaaten wil haar hier te stuuren.
+ 
+PIETERNÉL.
+Genoeg, ze kan in  t béd niet duuren;
+Maar loopt het huis staag op, én neêr.
+
+RYKERT.
+(1100) Loop, ley haar hier.
+ 
+PIETERNÉL.
+            Ik zal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ÉLFDE TOONEEL.
+RYKERT, FIELEBOUT.
+
+
+RYKERT.
+                 MEn Heer,
+Ik héb een Dóchter...
+
+FIELEBOUT.
+            Dat  s geen wonder.
+
+RYKERT.
+Maar, Heer, ze is onlangs heel bezonder,
+En op een ongeleegen tyd
+Heel ziek geworden.
+
+FIELEBOUT.
+             k Bén verblyd,
+(1105) Dat zy tot licht nis van  er smarten
+Myn hulp begeert; ja  k wénsch van harten
+Dat gy, én al uw huisgezin
+Myn hulp van nooden hadden in
+De grootste krankheid, om ter deegen
+(1110) Te konnen toonen, hoe geneegen
+Ik te uwen dienst bén mét myn kunst.
+
+RYKERT.
+Ik bén u dankbaar voor die gunst.
+
+FIELEBOUT.
+Hoe is uws Dóchters naam?
+
+RYKERT.
+                Lucina.
+
+FIELEBOUT.
+Lucina? nominus Latina!
+(1115) Een schoone naam, om zonder pyn
+Gemedikamenteerd te zyn.
+
+RYKERT.
+ k Zal eens gaan zien, waar zy mag toeven;
+Ik kom straks weêr.
+
+FIELEBOUT.
+             t Zal niet behoeven:
+ k Verwacht haar, én mét groot pleizier
+(1120) Mét al myn médesynen hier.
+
+RYKERT.
+Dat  s goed; maar ik kan niet verzinnen
+Waar dat die zyn.
+
+FIELEBOUT, mét de vinger op  t voorhoofd wyzende.
+            Die zyn daar binnen.
+Lucina! En uw naam?
+
+RYKERT.
+                Myn naam
+Is Rykert te uwen dienst.
+
+FIELEBOUT.
+                Bekwaam?
+
+RYKERT.
+(1125) Gereed...
+
+FIELEBOUT.
+          De Dókter zonder kranken,
+Heer Fielebout doet u bedanken.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+TWAALFDE TOONEEL.
+FIELEBOUT, RYKERT, PIETERNÉL,
+LUSYNTJE.
+
+
+FIELEBOUT.
+IS dit de zieke?
+
+RYKERT.
+        Ja  t, myn Heer,
+Ik héb geen and re kinders meer,
+Als haar; dies zo  k haar kwam te dérven.
+(1130) Zou ik van énkel hartzeer stérven.
+
+FIELEBOUT.
+Zy moet haar wachten, zo zy kan
+Te stérven zonder de ordre van
+Den Dókter.
+
+RYKERT.
+        Stoelen.
+ 
+PIETERNÉL.
+            Heer, hier bénnen
+Al stoelen.
+
+FIELEBOUT.
+        Zéker,  k moet bekénnen
+(1135) Dat déze Patiént  er niet
+Onsmaakelyken uit en ziet.
+Men zou  t mét zulk een meisje klaaren,
+En wél een zieke Bruid bespaaren.
+
+RYKERT.
+Gy doet haar lachchen, Heer.
+
+FIELEBOUT.
+                Dat  s goed,
+(1140) Wanneer een Dókter dat maar doet,
+Dat hy de zieke door zyn spreeken
+Doet lachchen, dat  s een heel goed téken.
+Wél nu, wat is  t? Waar ben je ontstéld?
+Wat voor een ziekte is  t, dien u kwélt?
+
+LUSYNTJE antwoort door geluid en tékens, wysende mét
+haar hand op de mond, op het hoofd, én onder de kin.
+(1145) Han, hi, hon, han.
+
+FIELEBOUT.
+            Wat zégje, watte?
+
+LUSYNTJE.
+Han, hi, hon, han.
+
+FIELEBOUT.
+            Wat taal is datte?
+
+LUSYNTJE.
+Han, hi, hon, han.
+
+FIELEBOUT.
+            Wat gaat jou aan?
+Han, hi, hon, han, kan niet verstaan.
+Dit is een witten met een zwarten,
+(1150) Wél hey, dit zyn verbruide parten!
+
+RYKERT.
+Heer, dit  s haar ziekte, dat je  t vat,
+Ze is stom geworden zonder dat
+Men de oorzaak daar van weet; dit kwéllen
+Heeft haar trouwdag uit doen stellen.
+
+FIELEBOUT.
+(1155) Wél waarom dat tóch?
+
+RYKERT.
+                Om dat hy,
+Die haar zal trouwen, wil, dat zy
+Haar spraak eerst weêr heeft, als voor dézen.
+
+FIELEBOUT.
+Gansch bloed! dat moet een gékskap weezen,
+Die kwaad vindt, dat zyn vrouwtje stom,
+(1160) En zonder spraak is; óch waarom
+Bén ik zo lukkig niet, dat Wobbe
+Die ziekte heeft, die rechte slobbe;
+ k Verzéker u dat ik myn vrouw
+Daar nimmer van geneezen zou.
+
+RYKERT.
+(1165)  k Geloof het; maar indien  t kan weezen,
+Myn Heer, zo wilt myn kind geneezen.
+
+FIELEBOUT.
+Zyt onevreesd: maar zég haar kwaal
+Benaauwt haar die ook?
+
+RYKERT.
+                Te eenemaal.
+
+FIELEBOUT.
+Dat is zeer goed. Voelt zy by vlaagen
+(1170) Geen pyn?
+
+RYKERT.
+        Meer, als zy kan verdraagen.
+
+FIELEBOUT.
+Dat is zoo veel te béter; maar
+Gaat zy somtyds, je weet wél waar?
+
+RYKERT.
+Ja.
+
+FIELEBOUT.
+    Overvloedig?
+
+RYKERT.
+             Ja.
+
+FIELEBOUT.
+                Dat  s wyslyk
+Gedaan; maar de afgang is die pryslyk?
+
+RYKERT.
+(1175) Dat weet ik niet, myn Heer; want ziet
+ k Versta my op die zaaken niet.
+
+FIELEBOUT, tégens Lusyntje.
+Geef my uw hand. Ik zal  t haast weeten.
+ t Is aan de pols wél af te meeten,
+Dat uwe Dóchter stom is Heer:
+(1180) Zy is zo stom, gelyk een Beer.
+ 
+PIETERNÉL.
+Is  t meug lyk? wat geleerder kaerel!
+Het is ien man, gelyk ien paerel,
+[...] et straks.
+
+RYKERT.
+            Laat hém betien.
+
+FIELEBOUT, heen én weêr wandelende.
+Heum, heum! Wy gaauwe Dokters zien,
+(1185) En kénnen daat lyk alle kwaalen.
+Een lafbék zou staan hébben maalen,
+En zéggen heel verbaasd;  t is dit,
+ t Is dat; maar ik schiet recht in  t wit,
+En zég u, dat uw Dóchter stom is.
+
+RYKERT.
+(1190) Maar zég my ééns, wat de waarom is,
+En hoe dat komt.
+
+FIELEBOUT.
+            Een kleene zaak:
+ t Komt daar van dan, dat zy de spraak
+Verlooren heeft.
+
+RYKERT.
+            Dat  s wél, verlooren;
+Maar  k wou graag de oorzaak daar van hooren.
+
+FIELEBOUT.
+(1195) Al de oudste Dókters zéggen, dat
+Het voortkomt door ik weet niet wat
+Belem ring van de tong, geheeten...
+
+RYKERT.
+Maar  k wou jou oordeel daar van weeten.
+
+FIELEBOUT.
+Ha! Aristoot lés zeid daar van
+(1200) Heel fraaye dingen; maar men kan...
+
+RYKERT.
+ k Geloof het.
+
+FIELEBOUT.
+         t Was een man der mannen!
+Een groot man, die vyf zés paar spannen,
+Ja hoofd, en schouders grooter was,
+Als ik.
+
+RYKERT.
+    Hoe komt dat hier te pas?
+
+FIELEBOUT.
+(1205) Ik zal  t u zéggen: hoor: de Tonge:
+Die wordt belémmerd door de Longe,
+Wanneer de Long, door zek re vocht,
+En déze vocht weêr door de locht
+Bedurven..., zékere humeuren
+(1210) Peccantes straks de longpyp scheuren,
+En barsten doen, waar door  t geluid...
+Peccantes, Heer... Dit woord beduit...
+Om u de meening uit te léggen...
+Humores, Heer, dat is te zéggen...
+(1215) Peccant humores, éven als
+De dampen, die in iemands hals
+Verstópt, of liever, als bevroozen,
+Niet door de Pores zyn te loozen,
+Als by manier van spreeken zyn...
+(1220) Maar a propos, spreek jy Latyn?
+
+RYKERT.
+Neen niet mét al.
+
+FIELEBOUT.
+            Verstaan, nóch spreeken?
+
+RYKERT.
+Neen, niet een woord.
+
+FIELEBOUT.
+                Een zeer goed téken
+Hoor toe: ik zal  t u zéggen dan:
+Cabricias est Soliman,
+(1225) Catalamus, cor, ego Pater.
+Humores, Adolescens, Mater;
+Amares, arci, thuram, nos,
+Amarent, avus, gener, vos:
+Est, vivo, vixi, victum, volvo.
+(1230) Haec Musa, pollex, femur, solvo,
+Sedicem est puella, flos,
+Nominativo, ego, Ros.
+Dat is gezeid, dat déze dampen,
+Als oorzaak van jouw dóchters rampen,
+(1235) Wanneer die, zég ik, op een ry,
+Passeeren deur de linker zy,
+Alwaar de léver is gelegen,
+En eind lyk mét veel omme wégen
+De réchter zyde, daar het hart,
+(1240) Gelyk gy weet, gevonden werdt,
+De maag benaauwd maakt, én doet zweeten,
+De maag wordt in  t Latyn geheeten
+Cubitus, die deur  t zweeten beeft:
+Vermits dat zy gemeenschap heeft
+(1245) Mét Nasmus, dat  s in  t Grieksch te zéggen,
+De harssenen, die onder léggen.
+Die de Ader Cavus, in  t Hébreeuwsch
+Cubiculum, goed rond, goed zeeuwsch,
+In haar wég ontmoed, én laaten
+(1250) De long vervuld mét Omoplaten;
+Waar door... Ik bid u, luister toe.
+Waar door die damp...  t Verhémelt moê
+Van spreeken... Lét op déze réden.
+Door zékere kwaadaardigheeden,
+(1255) De tong belét, als door een rook.
+Neemt acht hier op.
+
+RYKERT.
+            Zo doe ik ook.
+
+FIELEBOUT.
+Door zékere kwaadaardigheeden,
+Veroorzaakt door... Lét op myn réden.
+
+RYKERT.
+Zo doe ik ook.
+
+FIELEBOUT.
+        Veroorzaakt door
+(1260) De Activeteit der Tong,  t Gehoor
+Belét, eerst in de holligheeden
+Der harssenen, recht naar benéden
+Schiet naar de Nares, én van daar
+Weêr opwaarts stygen by malkaâr,
+(1265) Mét ossabandus, fel est fixum,
+Potarinum est quipsa frixum.
+Dit  s, naar myn oordeel, de oorzaak van
+Jouw Dóchters stomheid.
+
+RYKERT.
+                Ja, dat kan
+Wél weezen: maar daar  s onder allen
+(1270) Een ding, dat my niet heeft gevallen.
+Dat  s, daar gy van de léver, én
+Van  t hart spraakt: zie myn Heer, al bén
+Ik juist geen Dókter, dunkt me, op  t kwaadste
+Génomen, dat jy die niet plaatste,
+(1275) Zo als die in der daad zyn: want
+Het hart pleeg aan de linkerhand,
+De léver, zoo  k heb hooren zéggen,
+Staâg aan de réchter zy te léggen.
+
+FIELEBOUT.
+Dat was veur dézen zo wél: maar
+(1280) Wy hébben dat sints altegaâr.
+Veranderd, én het onderst boven
+Gekeerd, zoudt gy dat wél gelooven?
+
+RYKERT.
+Zo leid het hart nou, naar ik hoor,
+Hier in de rechter zy, Dóktoor?
+
+FIELEBOUT.
+(1285) Hoe anders?
+
+RYKERT.
+        O!  k had van myn leven
+Dat niet gehoord. Wilt my vergeeven
+De onweetenheid...
+
+FIELEBOUT.
+             Ay, niet een bruy:
+Het is niet noodig, dat jy luy
+Juist zo geleerd bént, als Dóktooren.
+
+RYKERT.
+(1290) Zo is  t: maar om geen tyd verlooren
+Te laaten gaan, myn Heer, wat vindt
+Gy voor de ziekte van myn kind
+Geraân te doen?
+
+FIELEBOUT.
+        Heeft zy voordézen
+ t Geschreeven schrift wel konnen leezen?
+
+RYKERT.
+(1295) Dat heeft zy op haar duim, het Fransch
+en Duitsch al éven goed bykans.
+
+FIELEBOUT, haar de brief van Volkert geevende.
+Laat my begaan. Daar zoete meisje,
+Lees, zo je kunt, dit schrift ien reisje.
+    Tégens Rykert, hem ter zyden trekkende.
+ t Is een remédie, die in  t kort
+(1300) Haar helpen zal aan  t geen  er schort,
+Zo zy ze vólgt. Wél nu hoe gaat  et,
+Hébt gy de zin gevat? Hoe staat  et
+U aan? spreek op.
+
+RYKERT.
+             Maar Heer, ze is stom.
+
+FIELEBOUT.
+ t Is waar: maar  k docht  er niet meer om.
+(1305) Zoudt gy van die Aptékers pillen,
+En drogés wél inneemen willen?
+Zy knikt heel blydelyk van ja.
+Dies is myn raad dat gy  er dra
+Na  t béd toe zénd, én zonder toeven
+(1310) Een pintje Spaansche Sék doet proeven;
+En vindt ze er smaak in, geef  er dan
+Nóch onbeschroomd twé minglen van,
+Mét anderhalf pond nieuwe vygen,
+Of Makarons, kunt gy ze krygen,
+(1315) Om in de wyn te weeken, óf
+Nieuwbakken wittebrood, heel grof
+Gebuild, en hart geroost van buiten,
+Om meê te soppen.
+
+RYKERT.
+            Wat viertuiten
+Heeft dat, myn Heer? Waar toe zal  t zyn?
+
+FIELEBOUT.
+(1320) Weet gy niet, dat  er in de wyn,
+En in  t brood een simpatie,
+Of een verborgen kracht steekt, die je
+Doet spreeken, eer je dénkt. Men ziet
+Het ommers, als een Perrekiet,
+(1325) Of Papegaayen daar van eeten,
+Dat zy dan straks te klappen weeten,
+En spreeken leeren.
+
+RYKERT.
+            Dat is waar.
+Kom, Pieternél, kom, maak het klaar;
+Tap wyn, haal brood, én doe het braaden,
+(1330) Gelyk de Dókter heeft geraaden.
+
+FIELEBOUT.
+Ik kom hier te avond, óf licht eer,
+Zo  k kan, mét myn Aptéker weêr,
+Om dan te zien, hoe zy zal vaaren,
+En hoe wy  t vorder zullen klaaren.
+
+RYKERT, hém een stuk géld geevende.
+(1335) Myn Heer...
+
+FIELEBOUT, het géld eerst weigerende: maar
+daar na als op een sprong mét een staatig aan-
+gezigt aanneemende én behouwende.
+        Ik loof niet, dat je  t mient.
+Heb dank? maar  t was nóch onverdiend.
+
+Einde van het twéde Bedryf.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+DÉRDE BEDRYF.
+EERSTE TOONEEL.
+
+
+VÓLKERT, als een Aptéker, én
+FIELEBOUT,
+        gelyk in het                 voorgaande Bedryf, als
+een Dr. gekleed.
+
+VÓLKERT.
+Me dunkt, dat ik in déze kleêren
+Wel voor Aptéker kan passeeren:
+Want nademaal haar Vader my
+(1335) Heel weinig heeft gezien, zal hy
+Me, aldus hérvórmd van top tot teenen,
+Zo licht niet kennen, zou ik meenen.
+
+FIELEBOUT.
+Dat  s buyten twyffel, én gevaar.
+
+VÓLKERT.
+Ik wénschte alleenlyk, dat ik maar
+(1340) Een woord vyf, zés Latyn kon spreeken;
+Op dat myn reed nen wat geleeken
+Naar die van een gelétterd man.
+
+FIELEBOUT.
+Ay lieve, steur jou daar niet an.
+Jou zwarte pruik, én deuze kleêren
+(1345) Doen jou genoegzaam transfórmeeren,
+Om van haar vader niet bekénd
+Te worden: want deuze ouwe vént
+Is vry stikziende, én meid, én Juffer
+Zyn op jouw zy, zo dat die Suffer
+(1350) Niet op jouw dénkt, dat is gewis.
+Spreek maar zo min, als  t mooglyk is;
+En óf hy schoon mét jou wou spreeken,
+Zal ik zyn voorneem daat lyk breeken.
+Wég, wég mét dat Latyn. Ik kén
+(1355) Maar weinig woorden, én ik bén
+Doktoor geworden zonder vraagen,
+Ja tégen wil, én dank, door slagen.
+Waarom zou jy, die willig bént,
+Al schoon jy geen Latyn en ként,
+(1360) Als and ren, niet voor een Aptéker
+Passeeren? O!  t gaat vast, én zéker,
+Heer Vólkert, die maar kaek len kan,
+Is by  t Kanaalje een tréflyk man;
+En daarom héb ik voorgenomen,
+(1365) Nu ik de tytel héb bekomen
+Van Dókter, hoe het ook beslaat,
+My zélf te houden in die staat,
+Ten kósten van die my doen haalen,
+Wanneer ze my maar wél betaalen.
+(1370) Ja  k hou my by dat ambacht: want
+Geen béter is  er in het land.
+Doe wél, doe kwaalyk, altyd spétie
+In manibus, én mét discrétie.
+ t Bedurven wérk komt nimmermeer
+(1375) Tót onzen laste: vat je  t, Heer?
+Een Schoenmink kan geen leer versnyen,
+Of hy moet zélf de schade lyen;
+Maar snyen wy breê riemen uit
+Een aârmans leer,  t kóst ons geen duit.
+(1380) Al bréngen wy de menschen zuiver
+Om  t leven,  t kóst ons niet één stuiver.
+De fouten, die wy luy begaan,
+Daar zyn de zieken schuldig aan;
+Zy deeden niet als wy gebooden;
+(1385) En  t bést van all is dat de dooden
+Zeer eerelyke lieden zyn.
+Nooit zeggen ze: Ik sturf door fenyn,
+Of misverstand van zulken Dókter,
+Nóch klaagen over hem.
+
+VÓLKERT.
+                     Jy jokt  er
+(1390) De hélft niet aan. Maar, Fielebout,
+Daar komt Lusyntjes Vader.
+
+FIELEBOUT.
+                          Houd
+U staadig, én wees niet verleegen;
+Maar zétje schrap. Ik ga hém tégen.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+TWÉDE TOONEEL.
+RYKERT, FIELEBOUT, VÓLKERT.
+
+
+RYKERT.
+(1395) Hebt gy hier lang gestaan, myn Heer?
+
+FIELEBOUT.
+Een weinigje.
+
+RYKERT.
+          Dat moeit my zeer.
+
+FIELEBOUT.
+Blyf maar gedékt, als ik.
+
+RYKERT.
+                      t Zal nimmer
+Geschiên.
+
+FIELEBOUT.
+Hoe vaart de zieke?
+
+RYKERT.
+                Och! slimmer,
+(1400) Sints dat zy  t ingenomen heeft.
+
+FIELEBOUT.
+Zo veel te béter: want dat geeft
+Te kénnen, dat het wérkt: een téken
+Dat...
+
+RYKERT.
+     Maar zy blyft  er schier in steeken.
+
+FIELEBOUT.
+Wees niet bevreest,  k bréng hier een man,
+(1405) Die dat heel wél belétten kan
+Mét een remédie, die doet groeyen,
+En  t vólk doet in gezontheyd bloeyen.
+
+RYKERT.
+Wie is het?
+
+FIELEBOUT, wyzende, dat het een Aptéker is.
+           t Is hy, die...
+
+RYKERT.
+                      k Versta  t.
+
+FIELEBOUT.
+Uw dóchter zal zich door zyn praat,
+(1410) En raad, én daad heel wel bevoelen:
+Maar om haar lichchaam te verkoelen
+Van all de brand, die binnen heerscht,
+Zal  t noodig zyn, dat zy voor eerst
+Zich door den Hóf wat ga vertreeden.
+
+RYKERT.
+(1415) Een ziek ménsch in de lucht?
+
+FIELEBOUT.
+                          Met réden!
+Het is eene and re krankheid, als
+Gemeine ziekte. Ze is om hals
+Verzuimt men  t.  k Wil geen tégenspreeken,
+Of ik laat al myn kuuren steeken.
+(1420) Is zy te béd?
+
+RYKERT.
+          Neen, ze is gekleed,
+Als flus, zoo ik niet béter weet.
+
+FIELEBOUT.
+Zeer goed, dat zal het wérk doen spoeden.
+
+RYKERT.
+Die réden kan ik niet bevroeden.
+
+FIELEBOUT.
+Dat  s ook niet noodig, doe haar hier
+(1425) Maar komen, gy zult zyn manier
+Van jonge Dochters te kureeren
+Zo daat lyk experiménteeren;
+Maar haast u, eer  t verslimmert.
+
+RYKERT.
+                          Wél,
+ k Zal haar doen komen. Pieternél,
+(1430) Kom mét Lusyntje straks hier buiten,
+En sammel niet. Maar hoe kan  t sluiten,
+Dat de open lucht haar béter is,
+Dan  t béd?
+
+FIELEBOUT.
+          Dat  s een geheimenis,
+Die ik jou niet heel wél kan zéggen,
+(1435) En nóchtans zeer klaar uit zal leggen.
+Uw Dóchter is van die natuur,
+Dat zy somwylen brandt, als vuur,
+Door all haar léden, daar te vooren
+Dient opgelét door ons Dóktooren,
+(1440) Voornaam lyk by een maagd, óf vrouw,
+ t* Wélk zo benaauwt, als óf men wouw
+Van  t leeven scheijen, en beslooten
+Te weezen is dien angst vergrooten
+Meer, als de hélft, waar door wy vaak
+(1445)  t Gebruik verliezen van de spraak:
+Dus is de lucht haar veel bekwaamer,
+Myn Heer, als een beslooten kamer;
+Maar als men zich wat aâmtógt geeft,
+En maar een uur gewandeld heeft
+(1450) Mét iemand, die door in te prénten
+De lust van zyn Médikaménten
+Heeft in den Patient verwékt,
+Dan straks na béd, én toegedekt,
+Heel warm, tót dat men raakt aan  t zweeten;
+(1455) En van het zweeten fluks aan  t eeten
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+DÉRDE TOONEEL.
+RYKERT, FIELEBOUT, LUSYNTJE,
+      VÓLKERT, PIETERNEL.
+
+
+RYKERT.
+Daar komt het schaap.
+
+FIELEBOUT.
+                Onnozel kind!
+Ga voel eens hoe zy zich bevindt,
+Heer Apotéker, aan het klóppen
+Van hare pols, of haar het kóppen
+(1460) Of stóppen, of lakseeren zal
+Geneezen van haar ongeval.
+     Tegens Rykert, hem ter zyden trékkende.
+Laat hem begaan, hy zal  t wél maaken.
+Een van de wonderlykste zaaken
+Van al de kwestie, die ooit rees,
+(1465) Is onder ons Dóktooren deez :
+(Hoewel het ééne nóch niet klaarder,
+Als  t ander blykt) of vrouwen zwaarder
+Dan mannen te geneezen zyn?
+Ik bid u luister ééns naar myn,
+(1470) Het is subtiel. De één affirmeert het,
+En de ander weederom negeert het.
+Dat  s in uw taal te zéggen: de één
+Zeid ja, én de ander zeid weêr neen;
+Maar ik zég ja, én neen te saamen,
+(1475) En die  t wel vat, die zal  er amen
+Opzéggen: want de kwaliteit
+Van zékere hoedanigheid
+Der vrouwen doet zeer veel faveuren,
+En veel bedorven kwâa humeuren
+(1480) Ontsteeken in féminibus,
+Aan de ééne zo, aan de and re dus:
+Want alle dampen door opake
+Verdurvenheeden een kloake,
+Rioel, óf vullisvat in  t lyf
+(1485) Verwékken. Ik spreek van een wyf,
+Niet van een man, door dien de wyven
+Geneegen zyn wat meer te kyven,
+Als wyluy mannen, wyl élk ding
+Meest dépendeert van de ommekring,
+(1490) En loop van Zon, én Maan, én Starren.
+Hoor toe; je moet me niet verwarren:
+Ik zég, de konstéllasie doet
+Door de influénsie kwaad, óf goed,
+Naar de schuinheid van de straalen
+(1495) Of krom, óf plat, óf lynrécht daalen:
+En  t Perpéndiculaar, dat van
+De Obliequieteit..  k spreek van de man;
+Dat gy het wél verstaat. De vrouwen
+Daar moet gy dit wél van onthouwen,
+(1500) Dat ze achter veur, als korter zyn,
+Te weeten, als zy zyn vol pyn,
+Doodziek, óf op het uiterst zwanger;
+Daar mannen achter veur, als langer
+Bevonden worden: dus geschiedt...
+
+LUSYNTJE.
+(1505)  k Wil van myn opzét ganschlyk niet
+Veranderen, neen, neen.
+
+RYKERT.
+                     O wonder!
+Ja wonder aller wond ren onder
+De Dókter! óch myn Dóchter heeft
+De spraak weêr! Op de waereld leeft
+(1510) Geen Dókter, die  t by u mag haalen:
+Hoe zal ik u dien dienst betaalen?
+
+FIELEBOUT, zyn aangezigt afvryvende.
+Ja wél, die heeft my al vry.
+Wat zweet gekóst!
+
+RYKERT.
+                Wél, weeten wy
+Dat niet?
+
+FIELEBOUT.
+     Men éstimeert dat zélden.
+
+RYKERT.
+(1515) Neen,  k zal  t u rykelyk vergélden.
+
+LUSYNTJE.
+Ja Vader,  k was noch daat lyk stom,
+En nu héb ik de spraak weêrom;
+Maar  t is alleen, om u te zéggen,
+Dat gy my niemand toe moet léggen
+(1520) Tot man, als Vólkert: én dat ik
+Min voor den Droes, als Lubbert, schrik,
+En dat ik nooit met hem zal trouwen.
+
+RYKERT.
+Maar...
+
+LUSYNTJE.
+     Niemand zal my tégenhouwen.
+
+RYKERT.
+Zo...
+
+LUSYNTJE.
+     Al maar wind, praatje anders.
+
+RYKERT.
+                                Hoe!...
+
+LUSYNTJE.
+(1525) Noch beê, noch dreigen doet  er toe.
+
+RYKERT.
+Ik...
+
+LUSYNTJE.
+     Zie, jy zult me niet bepraaten.
+
+RYKERT.
+Maar...
+
+LUSYNTJE.
+     Vader,  t zal tóch al niet baaten.
+Nóch vaderlyk ontzag, nóch magt.
+
+RYKERT.
+Ik héb...
+
+LUSYNTJE.
+          Vergeefs, al wat je tracht.
+
+RYKERT.
+(1530) Dat...
+
+LUSYNTJE.
+      k Zal die dwinglandy niet lyen.
+
+RYKERT.
+Is...
+
+LUSYNTJE.
+      k Zal eer in een klooster tyen,
+Als trouwen één , die  k niet bemin.
+
+RYKERT.
+ k Zég...
+
+LUSYNTJE.
+           k Stél het tóch niet uit myn zin.
+
+RYKERT.
+(1535) Maar...
+
+LUSYNTJE.
+          Al vergeefs. Ik wil myn ooren
+Daar niet aan leenen:  t is verlooren,
+Al, wat je zégt, al wat je doet,
+Is wind:  t stryd tegens myn gemoed
+Mét zulk een Baviaan te leeven:
+(1540) Ik wil me aan niemand anders geeven,
+Als Vólkert. Dat is daar meê uit.
+
+RYKERT.
+Wat al getier! wat al geluid?
+ t Is, of ze dól is, én bezéten.
+Myn Heer, zoudt gy geen middel weeten,
+(1545) Om haar weêr stom te maaken?
+
+FIELEBOUT.
+                          Neen,
+Dat s my onmooglyk: maar al  t geen
+Ik tót uw dienst in déze zaaken
+Kan doen, zou zyn u doof te maaken.
+
+RYKERT.
+Ik dank u. Meent gy dan...
+
+LUSYNTJE.
+                     Gy zult
+(1550) Mét al uw reed nen myn geduld
+Maar térgen, én my nooit bepraaten.
+
+RYKERT.
+ k Zég, dat je Vólkert zult verlaaten,
+En Lubbert trouwen.
+
+LUSYNTJE.
+                 k Zou de Dood
+Eer trouwen, dan dien Haanepoot.
+
+FIELEBOUT.
+(1555) Myn Heer, laat ik, naar myn begeeren,
+Dit wérk ééns médikaménteeren.
+Het is een nieuwe kwaal, die haar
+Schort in de harssenen, én daar
+Ik raad toe weet.
+
+RYKERT.
+          Zou  t mooglyk weezen
+(1560) Die harssenziekte te geneezen?
+
+FIELEBOUT.
+O ja, laat my begaan:  k weet raad
+Voor alles.  k Zal het aan myn maat
+De Apteeker grondelyk beduyen,
+ t Moet zyn door hulp van zyne kruyen.
+(1565) Een woord. Gy ziet, de groote trék,
+Die  t meisje toont tót zéker gék.
+Die Vólkert heet, is vry wat tégen
+Des Vaders zin, dies dient men wégen
+Van nood, en kortheid in te slaan.
+(1570) Kom, laat geen tyd verlooren gaan:
+Want door  t verbitt ren der humeuren,
+Versta my wél, kon  t licht gebeuren,
+Dat uitstél haar verarg ren mogt:
+Dies vind ik, naar myn wél bedocht
+(1575) Te hébben, geen remédie béter
+Als  t Aqua Vlugtica, jy weet  er
+De wond re werking van: Kort om.
+Twé onsen Matrimonium
+Met één loop Wip, twé dragmen Rippa,
+(1580) Na de ordonnantie van Agrippa.
+Maar  t zal hoognoodig zyn, dat zy
+Mét u wat wandelt, op dat gy
+Haar onder  t praaten, en geleijen;
+T*ît in te neemen moogt bereijen; (1585) Terwyl dat ik de Vader hier
+Wat onderhou. Avec un zwier
+Allons, sa, sa, koerazie, vaardig,
+Fluks tót de midd len, kunstig, aardig.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+VIERDE TOONEEL.
+RYKERT, FIELEBOUT.
+
+
+RYKERT.
+Maar, wat zyn dat voor Drogen, Heer,
+(1590) Die gy daar noemt?  k héb nimmermeer
+Van diergelyke hooren spreeken.
+
+FIELEBOUT.
+ t Zyn kruijen, die men in gebréken,
+Van dringende noodzaaklykheid
+Alleen gebruikt, én toebereid.
+
+RYKERT.
+Ha, Ha ! Maar héb je van je dagen
+(1595) Wél meer gehoord van zulke vlaagen,
+En ongerégeldheden?
+
+FIELEBOUT.
+                     Daar
+Of daar omtrént, zomtyds wél.
+
+RYKERT.
+                          Maar
+ t is ongelooflyk, hoe haar zinnen
+Om dézen Vólkert te beminnen,
+(1600) Geduurig speelen.
+
+FIELEBOUT.
+                 t Is zo.  t Bloed
+Van zulke jonge kleuters doet
+Een wond re kracht op haar kompléksie,
+Ik bid u, neem hier op refléksie,
+Wanneer  t op min lyke oogen wérkt.
+
+RYKERT.
+(1605)  k Had naauwlyks in myn Kind gemérkt
+Die zotte liefde, óf onverdrooten
+Héb ik haar daat lyk opgeslooten
+Gehouden.
+
+FIELEBOUT.
+          Dat  s heel wél gedaan.
+
+RYKERT.
+En hém belét na haar te staan.
+
+FIELEBOUT.
+(1610) Heel goed.
+
+RYKERT.
+          Zo  t niet door my gesteurd was,
+Wie weet, wat dat  er licht gebeurd was.
+
+FIELEBOUT.
+Dat  s waar.
+
+RYKERT.
+          Zy had licht mét hem deur
+Getrokken: maar ik was  er veur.
+
+FIELEBOUT.
+Gy spreekt zeer wys lyk.
+
+RYKERT.
+                      k Ben  er achter
+(1615) Gekomen, dat hy ménig wachter
+Rondom ons huis gehouden heeft,
+Om haar te spreeken.
+
+FIELEBOUT.
+                     Onbeleefd
+Van hem gedaan.
+
+RYKERT.
+                Ik brógt haar buiten
+Slechts om die oorzaak.
+
+FIELEBOUT.
+                     Wélke guiten!
+
+RYKERT.
+(1620) Hy doet vergeefsche moeiten.
+
+FIELEBOUT.
+                          Wis!
+
+RYKERT.
+Zo Rykert anders Rykert is,
+Zo meen ik, zal ik wél belétten,
+Dat hy geen voet in huis zal zétten,
+Of haar eens zien.
+
+FIELEBOUT.
+                Jy bént bylo
+(1625) Geen sléchthoofd, om jou van hém zo
+Te laten foppen...
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+VYFDE TOONEEL.
+MÉLIS, RYKERT, FIELEBOUT.
+
+
+MÉLIS.
+                Seldreweeken,
+Men Heer, je bént zo uitgestreeken!
+
+RYKERT.
+Wat is  er gaans?
+
+MÉLIS.
+                Jouw Dóchter is
+(1630) Mét Vólkert deur. En déze Pis-
+Bekyker heeft die schoone kuuren
+In  t wérk gestéld.
+
+RYKERT.
+                Hy zal  t bezuuren:
+Maar hoe komt Vólkert by myn kind?
+
+MÉLIS.
+Het is de zélfde kwant, die in  t
+(1635) Aptékers kleed jouw Dochters kwaalen
+Zou hélpen.
+
+RYKERT.
+          Heintje moet hém haalen!
+Gansch kracht, zo listig, én zo valsch
+Een mensch te brengen om den hals!
+
+MÉLIS.
+Ik zou hém wel tér deeg doen straffen.
+
+RYKERT.
+(1640) Ja, Mélis,  k zal daar raad in schaffen.
+Bewaar jy Dókter Fielebout,
+Terwyl ik iemand om de Schout
+Ga zenden, om haar na te loopen.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+ZÉSDE TOONEEL.
+MÉLIS, FIELEBOUT.
+
+
+MÉLIS.
+Ik wéd hy zél jou op doen knoopen,
+(1645) Doktoor.
+
+FIELEBOUT.
+          Och, och! dat vrees ik meê;
+Maar dat je my de vrindschap deê,
+En mê uit liet,  k zou je wat vereeren.
+
+MÉLIS.
+Wél wat?
+
+FIELEBOUT.
+          Een zalfje om meê te smeeren,
+Doe of men jou eens hangen wou,
+(1650) Jy deur de strop henn vallen zou,
+Als  t nood deê.
+
+MÉLIS.
+                Wees dan niet verleegen;
+Maar smeer jou met jou zalf ter deegen.
+
+FIELEBOUT.
+Had ik die hier: maar  t is verbruid,
+Ze is t huis. Ay, laat me maar iens uit,
+(1655) Ik zal ze heen, en weêr gaan haalen.
+
+MÉLIS.
+Om myn  t gelag te doen betaalen
+Veur jou, als je achter bleeft. Zo gék
+Is Mélis niet.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+ZÉVENDE TOONEEL.
+MÉLIS, FIELEBOUT RYKERT, FIELEBOUT., MÉLIS, HUI-
+BERT, PIET, KRELIS, KLAAS,
+HEIN, SYMEN.
+
+
+RYKERT.
+          Doe op het hék,
+Doe op, doe op; meent hy  t te ontslippen?
+(1660) Geen nood; wy zullen hém wél knippen,
+Neem jy het veugelroer gezwind;
+Jy élk een spar, maar myd myn kind;
+Past op, als mannen; wakker, Mélis,
+Kom hier; jy Huibert daar, waar  s Krélis,
+(1665) En Symen; waar blyft onze Klaas,
+Mét Hein, én Piet?
+
+PIET.
+                Hier zyn we al, Baas.
+
+RYKERT.
+Hier Krélis.
+
+KRELIS.
+           k Zél hém wél bezétten.
+
+KLAAS.
+En ik hém  t vluchten wél belétten.
+
+HEIN.
+Ik ook, zo  k anders Hein bin.
+
+RYKERT.
+                          Piet,
+(1670) Kom jy hier mit jou roer; maar schiet
+Niet toe, eer  t jouw belast wordt. Symen.
+
+SYMEN.
+Al reê man.
+
+RYKERT.
+          Kom, én sta hier by men
+Hein, mét jouw vórk, ga ginder staan.
+Daar komt hy.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+ACHTSTE TOONEEL.
+Alle de voorige, VÓLKERT, LUSYNTJE
+PIETERNÉL.
+
+
+VÓLKERT.
+          Heer, wat vangt gy aan?
+
+RYKERT.
+(1675) Schélm, kom je mét een bloote dégen,
+In myn gezigt?
+
+VÓLKERT.
+          Wees niet verleegen,
+Myn meening is geensints gewéld
+Te pleegen;  k bid, wees niet ontsteld:
+Dat gy dit Houwertje uit de schéde
+Getrokken ziet, was om daar méde
+(1680) Deez Boeren te belétten, dat
+Ik niet van hén wierd aangevat.
+Nu steek ik  t op, én zal u zeggen,
+Op wélk een grond de zaaken léggen.
+Myn Heer, zo als ik was gezind
+(1685) Te vlieden mét uw eenig kind,
+Zo komen my juist onderwégen
+Nótaris Slikops Klérken tégen;
+Van wélke my word aangezeid;
+Hoe Everd Oom  t heeft afgeleid,
+(1690) En dat, gelyk gy zélf kunt leezen,
+Ik de eenige érfgenaam zal weezen,
+Ik bid u neem de moeite, indien
+ t U lust, om de inhoud na te zien.
+
+RYKERT.
+Laat zien.  t Is waar, wy hebben héden
+(1695) Den tienden. Dat  s geen maand géleeden.
+Dat gy een eerlyk Jongman bént,
+Heer Vólkert, tuigt dit Téstament.
+Ik kén de hand van de Notaris,
+Zo dat het meer als al te waar is.
+
+VÓLKERT.
+(1700) Mag ik dan hoopen op uw kind?
+
+RYKERT.
+Ja tóch, dewyl zy u bemint.
+Uw deugden, én pérsoon vereeren
+My, én myn Dochter: uw begeeren
+Sta ik mét alle blydschap toe.
+
+LUSYNTJE.
+(1705) Ik dank u zeer Papaatje.
+
+FIELEBOUT.
+                     Hoe!
+Is  t klaar?
+
+VÓLKERT.
+          Ja tóch.
+
+FIELEBOUT.
+                Wat vreemder dingen!
+En kom ik zo die dans te ontspringen?
+Zél ik niet hangen?
+
+VÓLKERT.
+                Neen, ó neen.
+Gy hebt geen nood.
+
+FIELEBOUT.
+                 t Mag dan wél heen.
+(1710) Dóktoor? Géld toe, gansch seelleweeken.
+En niet een hand aan  t wérk te steeken!
+Dat Wobbe nu mét meer ontzag
+Haar man béjeegne, als ze plag.
+Ik bén nu tot een staat verheeven,
+(1715) Daar ik voortaan in meen te leeven;
+En die een Dókter toornig maakt.
+Weet weinig wat gevaar hém naakt.
+
+     Einde van het Derde én laatste Bedryf.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+Ceneton
+Voorkeurenpagina Opleiding Nederlands

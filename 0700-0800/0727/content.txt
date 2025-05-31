@@ -1,0 +1,2121 @@
+[Dutch]
+
+
+Cornelius Schonaeus: Nehemias. Antwerpen, 1570.
+Uitgegeven door drs. G.C. van Uitert
+Red. dr. A.J.E. Harmsen, Universiteit Leiden.
+Ceneton083150  Ursicula
+In deze uitgave zijn evidente zetfouten gecorrigeerd en
+gemarkeerd met een asterisk. De lopende tekst, die in
+het origineel cursief is, is door ons in romein
+weergegeven.
+
+                     Continue
+
+[p. 1]
+
+
+                       NEHEMIAS.
+
+                   DE INSTAURATIONE
+
+                     HIEROSOLYMAE
+
+                       COMOEDIA
+
+                        SACRA.
+
+               Auctore Cornelio Sconaeo
+                       Goudano.
+
+
+            [Vignet: Constantia et labore]
+
+                      ANTVERPIAE,
+          Ex Officina Christophori Plantini.
+                      M. D. LXX.
+
+
+
+[p. 2]
+
+               SUMMA PRIVILEGII.
+
+    CAUTUM est Regio privilegio, ne quis alius praeter
+Christophorum Plantinum Nehemiam, de Instauratione
+Hierosolymae Comoediam Sacram, Auctore Cornelio Sconaeo
+Goudano intra sexennium imprimat, aut alibi impressam
+in suas ditiones importet, venalemve habeat. qui secus
+faxit, poena fisco Regio exolvenda mulctabitur: ut
+latiùs in Regio diplomate expressum est, Dato
+Bruxellae, An. Domini M. D. LXIX. 29 Novemb.
+
+
+                        Signat.
+
+                                  I. de Langhe.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 3]
+
+REVERENDO
+        COLENDOQUE VIRO
+        D.     IOANNI     VOCCINIO
+        Ultrajectino Zilensium virginum apud
+        Harlemenses Praesidi Cornelius Sco-
+        naeus Goudanus S.
+
+POSTQUAM semel totum me instituendae, erudiendaeque
+iuventuti addixi vir honorande, omnibus modis huc mihi
+incumbendum esse arbitror, ut Spartam quam sum nactus
+pro ingenioli nostri viribus exornem. demque operam, ut
+adolescentuli fidei nostrae commisi, si non eruditum,
+saltem non indiligentem suae aetatis formatorem sortiti
+esse videantur. Itaque cùm Tobaeum Comoediam nuper à
+nobis in gratiam iuventutis promulgatam tanti à
+magistratu fieri conspicerem, ut [p. 4] eam non solùm
+in foro publicè exhiberi, sed etiam in gymnasio nostro
+pueris enarrari voluerit: persuasi mihi (ut ingenuè
+quod res est fatear) meas nugas esse aliquid, &
+gloriola quadam excitatus, ad aliud simile quippiam
+periclitandum animum appuli. Ita se res habet, honos
+alit artes: omnesque, ut inquit Cicero, ad studia
+incenduntur gloria: iacentque ea quae apud quosque
+improbantur. Quanquam unum in huius editione extitit
+incommodum, nimirum quòd tot passim in eam irrepserint
+mendae: quarum tamen pleraeque sunt huiusmodi, ut
+candidum lectorem illas non tam nostrae inscitiae, quàm
+Typographi oscitantiae imputandas esse facilè
+animadversurum confidam. Verùm nonnullae eius generis
+sunt, ut aequus etiam lector eas potius nostrae vel
+inertiae, vel ruditati, quam cuiusvis alterius incuriae
+asscripturus sit. Atque [p. 5] haec res an me ab hoc
+meo studio magis avocet, an currenti calcar addat
+potius, vix etiamnum scio. Avocat autem, cùm me per
+aliorum indiligentiam inscitiae notam incurrisse
+perpendo. Ediverso hinc mihi additur animus, ut hoc
+quicquid est dispendij alijs lucubrationibus sarciam.
+Cùmque ita quasi in bivio constitutus, utrò viam
+deflectam dubito: commodè tu mihi orationem, quam paulò
+post in synodo vestra de more esses habiturus, legendam
+offers: in cuius exordio praeclara, ac salutaris
+Nehemiae, ad eversae Hierosolymae instaurationem suos
+iam languescentes, ac periculo deterritos exhortantis,
+haec erat increpatio: Vos nostis afflictionem in qua
+sumus, Hierosolyma deserta est, & portae eius
+consumptae sunt igni. Venite & aedificemus muros
+collapsae, ne simus ultrà opprobrio. Quae quidem
+sententia mihi adeo arride- [p. 6] bat, ut continuò ad
+bibliorum codicem conversus, totam illam historiam
+avidissimè perlegerem. Mox cùm tristissimo huic nostro
+tempori mihi per omnia videretur accommodatissima:
+putavi me operaeprecium facturum, si & hanc quemadmodum
+Tobaeum nuper iuvandae nostrae iuventutis gratia in
+comicos actus digererem. Idque eò feci libentius, quòd
+amici quidam literati eodem me identidem incitarent.
+Itaque huius libelli confectio adeo mihi fuit iucunda,
+ut citra ullum laboris taedium paucorum dierum spacio
+illum totum absolverim. Atque ob id non est dubium quin
+hîc qui nobis malè volunt facilè reperturi sint, quod
+vel ut ineligans improbent, vel ut ineruditum
+irrideant. Quibus nihil habeo quod respondeam, nisi me
+si parum feliciter, sedulò tamen egisse, ut nostra
+opella primae pubi, cui formandae pro [p. 7] virili
+incumbimus, aliquid adiumenti attulisse videremur. Id
+si me assequutum negent: non poterunt tamen hunc
+nostrum animum non laudare: posteaquam in rebus
+honestis vel solus conatus sua laude non soleat
+frustrari. Ipsi si quid doctius, politiusque in medium
+attulerint, gratulabor communi studiosorum emolumento:
+nec ijs invidebo, quos mihi palmam praeripuisse con
+spicio. Verùm quandoquidem ad hanc comicam actionem
+describendam tua me impulit oratio, aequum esse
+arbitror ut tui nominis auspicio in lucem prodeat: ut
+si quis hinc fortè aliquid sive voluptatis, sive
+fructus perceperit, maximam eius partem tibi deberi
+intelligat. Quanquam multò maiore tus erga nos
+promeretur beneficentia. sed nihil usquam in me
+reperio, quo parem tibi gratiam referre possem. Te
+tamen, qua es hu- [p. 8] manitate, hoc nostrum
+qualecunque munusculum boni consulturum: imò non secus
+ac magni pretij donum hilari fronte excepturum spero.
+Vale Praeses reverende, nosque qua soles benevolentia
+complecti pergito.
+
+        Harlemi postridie Nonas Iunij.
+                  Anno 1569.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+             ACTORUM NOMINA.
+
+Nehemias pocillator regius.
+Satibarzanes aulicus.
+Hananus
+Sadocus      }     Iudaei.
+Azarias      }    
+Eliasibus
+Birria servus.
+Lesbia ancilla.
+Gosemus
+Sanaballatus }     Iudaeorum hostes.
+Tobias
+Simalio      }     milites.
+Sanga
+
+                     Continue
+
+[p. 9]
+
+
+         PROLOGUS.
+
+     Senarij Iambici.
+
+ADeste spectatores humanissimi,
+Politiores quos delectant literae,
+Quique ingenuis operam navantes artibus,
+Studijs vos addixistis liberalibus.
+(5) Adeste, inquam, proprius, absit cunctatio: ut
+Intelligatis quid sit quod nunc vos velim.
+Novam grex noster vobis actiunculam
+Ornatu hic denuo exhibebit comico,
+Sacram è sacris rursum desumptam literis.
+(10) Quapropter aequum esse arbitror, uti benevolas
+Nobis aures, itidem ut nuper, dignemini
+Accommodare. non quas saepe ludicris,
+Futilibusque poëtarum veterum naenijs,
+Studiosè olim arrexistis: sed quas mysticis
+(15) Divini praebetis verbi praeconibus.
+Quod hi in sacris aedibus è suggestu docent,
+Hoc nos spectandum proferemus plenius.
+Magis, ni fallor, mens vobis movebitur,
+Cùm rem, uti gesta est, cernetis exhiberier.
+(20) Nihil hic aut deforme, aut profanum, aut frivolum,
+Nihil bonis quod offecturum est moribus
+Usquam reperietur. Quin omnis exulat
+Hinc turpitudo, verborumque obscoenitas.
+Scazon.
+Nusquam hic aut lenoni, aut meretriculis, nusquam
+(25) Salacibus adolescentulis datur locus.
+Res casta castam orationem postulat.
+Quare quam vobis noster grex comoediam
+Hic actione repraesentabit ludicra,
+Attentis oro ut auscultetis auribus,
+[p. 10]
+(30) Et scenico omnes faveatis choragio.
+Historiam his nostris temporibus aptissimam
+Coràm mox exhibebimus Nehemiam,
+Eversae instauratorem illum Hierosolymae,
+Divinae quem nobis depingunt literae.
+(35) Idcirco simul omnes huc animum advortite,
+Faventem, aequum, benevolum, ac candidum.
+Omnem clamorem, omnem prohibete strepitum.
+Inertium compescite insolentiam.
+Ne sinite amabò, ut nos qui tantùm commodis
+(40) Vestris pro viribus studere nitimur,
+Iniquis circumventi videamur modis.
+Ut & aliàs posthac libeat didascalo
+Nostro scribere novas. si videat quas facit
+Scazon.
+Vobis non displicere fabulas: & nos
+(45) Deinceps amictu decoratos histrico,
+Prodire saepius in proscenium iuvet.
+Agedum puer, exi ocyus, ut spectatoribus
+Periocham nostrae recites actiunculae.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+   Comoediae argumentum.
+
+PErsarum regi dum servit Nehemias,
+Procul à natali quondam distractus solo,
+Eversae cladem cognoscit Hierosolymae.
+Quo nuntio perculsus, tristem patriae
+(5) Lachrymis prosequitur casum. mox à rege eò
+Se ut dimittat petit: impetrat, proficiscitur,
+Urbem instaurat, minantur adversarij.
+Qui dum conscripto exercitu novum parant
+Interturbare opus, subita formidine
+(10) Exanimati, clam omnes aufugiunt turpiter.
+Iudaei gestientes gaudio, ac Deum
+Laudantes, inchoatum perficiunt opus.
+
+                     Continue
+
+[p. 11]
+
+
+            ACTUS I. SCENA I.
+
+                NEHEMIAS.
+
+                Senarij.
+
+NUnquam profectò aequè ac modò servitus mihi
+(50) Onus visum est & miserum, & grave: cúm ad plurima
+Quae hic perpetior incommoda tantum patriae
+Accedit desiderium: à qua quò diutius
+Absum, hoc revisendae eius cupiditate mens
+Accenditur impotentius. Hei misero mihi,
+(55) Tantúmne terrae natalis mortalium
+Ferè cuique innasci affectum, agritudines
+Licet calamitosas hic ut malit pati
+Quàm in externo loco vitam traducere
+Felicem, facilem, & commodam? Atqui haud arbitror
+(60) Hanc communem cupidi animi impatientiam
+In ullo quàm in me maiorem reperirier.
+Quoquò me verto, eius semper mihi ob oculos
+Errat imago, eius desiderio maceror,
+Eius amore extabesco, eam spero miser,
+(65) Eam cogito, eam somnio, illa me dies,
+Noctesque solicitum habet: eius curam mihi
+Nisi mors adimet nemo. Quod si me huc meae
+Fortunae redigunt, usque ab illa ut distrahar,
+Nullaque eò redeundi mihi spes affulgeat,
+(70) Actum est, perij: iam quidvis malim perpeti,
+Quàm ab ea perpetuo semotus vivere.
+Et quotumquenque precor liceat reperirier,
+Cui non huiusmodi vitae facillimè
+Obrepat saturitas, in qua nihil nisi
+(75) Multorum insit malorum propagatio?
+Atque adeo solus sum, habeo hic neminem, neque
+Amicum, neque cognatum, neque consanguineum:
+[p. 12]
+Nec qui me respiciat hic quisquam est uspiam:
+Qui quod aegrè est animo afflicto salubriter,
+(80) Blandeque monendo conetur revellere:
+Quem convenire, quem consulere, & alloqui
+Liceat: qui partem aliquam aegritudinis ferat:
+Qui amici incommodis no naliter ac suis
+Indoleat: rebus ex animi sententia
+(85) Cedentibus, voluptatem conduplicet.
+Quibus omnibus sublatis, quidnam est quod mihi
+Aut gaudío, aut solatio posthac queat
+Esse? aut cur non quàm ocyssimè abolerier
+Malim, quàm vitam tantis calamitatibus
+(90) Undique refertam exigere? Mors felicibus
+Sit extimescenda, sino: at infelicibus,
+Infortunatisque exoptandam censeo.
+O Hierosolyma Hierosolyma, urbs prae caeteris
+Mihi longe charissima civitatibus!
+(95) Ah, perij, siccine me miserum abs te distrahi?
+Tuique cura perpetuò excruciarier?
+Verum si non sit accedendi, sit modò
+Sept.
+Quopacto tecum agatur audiendi copia.
+Iampridem est annus, aut eò amplius, nihil
+(100) A te quod huc allatum sit. imò qui mihi
+Tuarum rerum conditionem literis
+Scazon.
+Suis quondam solebant impertirier,
+Nunc nescio quo casu conticent. Credo
+Ut sit, quò se fortuna, eodem quoque favor
+(105) Mortalium inclinare consuevit. Quia
+Miseri sumus, nemo est cui Nehemiae
+In mentem veniat. Verùm si feliciter
+Sept.
+Nostrae se haberent res, paratissima proculdubiò
+Amicorum, cognatorumque copia
+(110) Suppeteret, nunc eheu deserti vivimus.
+[p. 13]
+Sed quid quaeso sibi vult, quod animus mihi
+Ad eius commovetur occursum, procul
+Quem conspicio huc adventare? peregrinus est,
+Nisi me forma, & habitudo fallit corporis.
+(115) Illum operiri hic certum est, uti rogem quò eat,
+Unde veniat, quem quaerat, qua pergat via,
+Nihilne adferat rerum novarum: sic agam.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           ACTUS I. SCENA II.
+
+                HANANUS.
+
+   Partim Senarij, partim septenarij.
+
+UT nihil in rebus reperitur mortalium
+Tam aut munitum, aut firmum, quod non facillimè,
+(120) Si superis ita sit visum, & evertatur, &
+Deleatur funditus. Hoc adeo ex hac re venit
+In mentem mihi: Hierosolyma nostra inter alias,
+Quas ego quidem vidi urbes, longè florentissima:
+Aggeribus insuper, muris, fossis, ac turribus
+(125) Supra quàm cuiquam credibile sit, undique
+Quondam circunvallata septaque: nunc ab hostibus
+Israëlitica genti infestissimis
+Ita direpta, exusta, penitusque diruta est,
+Ut quoquò te vertas, nihil nisi rudera,
+(130) Postesque igni consumptos detur obtuerier:
+Adeo in cinerem, fumumque sunt commutata omnia.
+Deum immortalem, totus horreo, tremoque,
+Postquam immanissima praedonum istorum mihi
+Crudelitas succurrit: adeo nihil usquam integrum,
+(135) Nihil illaesum, nihilque intemeratum miserrimis
+Superesse voluere: omnem familiarem, boves,
+Oves, equos, reliquaque labore parta maximo,
+Secum simul auferentes, abducentes liberos.
+Quin coniuges natusque parentibus, ac viris
+[p. 14]
+(140) Praesentibus: ah, pudor me effari prohibet, quae dolor
+Ferè imprudenter effutiverat. In summa, nihil
+Hic non calamitosum, foedum, tetrumque vidimus:
+Et vix pauci incolumnes latronum evasimus manus:
+Qui nunc in externis locis vagamur exules.
+(145) Ego cum quibusdam consanguineis, quos in proximo
+Isthoc pago reliqui, huc ad Persas confugimus,
+Ubivis tutiores nos fore rati, quàm domi.
+Et commode herculè in itinere succurrit, Nehemiam
+Meum cognatum, atque aequalem hic in aula regia
+(150) Haud parvi esse pretij servum: ob id, ut arbitror,
+Quòd servit liberaliter. Sed quem virum?
+Quem ego quidem vidi in vita optimum. Quare nihil
+Malim, quàm aliquem alicunde emergere, qui illum ubi
+Sit commonstret mihi: vel pretio, si gratis nolit. aut
+(155) Si istud nequeat, saltem viam doceat, ita
+Nunc hàc, an illàc progrediar, sum incertus. At eccum commodè
+Procedit huc nescio quis, illum adoriar
+Audacter, licet ignotum: nec prius hominem
+Abire permittam, quàm quem volo monstrarit mihi.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           ACTUS I. SCENA III.
+
+           NEHEMIAS, HANANUS.
+
+         Eiusdem generis versus.
+
+(160) UT omnis mora cupidè quicquam optanti semper solet
+Esse ingrata. Hinc abire longius non audeo,
+Ne si quis fortè me quaerat, procul his ab aedibus
+Discessisse arbitretur. & hic quem opperior promovet
+Nihil: adeo testudineo incedit gradu.
+(165) Atat, nisi me oculi fallunt, hic ex nostratibus
+Est quispiam, ita vultus, habitusque per omnia congruunt.
+O raram in hisce regionibus avem. Sed cesso ei
+Procurrere obviam, adventumque gratularier?
+[p. 15]
+HAN. Hem bene habet, ultro ad me huc accedit: comiter,
+(170) Blandeque hominem appellabo. NEH. O insperatum gaudium.
+Hananum cognatum meum conspicio: nullus est
+Quem ego nunc videre malim. Oh, nunc mihi facilè
+Omnes ex animo cedunt agritudines,
+Postquam eius amplectendi concedetur copia
+HAN. (175) Obsecro quem video? estne hic Nehemias frater meus,
+Quem per totum usque quaesivi oppidum. Bone
+Deus, is est ipsus. NEH. Tristis est, vereor ne quid mali
+Apportet. O festus dies hominis, Hanane mi,
+Mi frater, salve, salvum te advenisse gaudeo.
+(180) Ut te amplector lubens. HAN. Ego quoque nunc demum mihi
+Incolumis videor, postquam te cognate mi
+Superstitem, ac salvum praesens praesentem conspicor.
+Octo.
+NEH. Bene meherculè factum quod venisti: advenís modo?
+HAN. Admodum.
+NEH. Cedo, quid agitur Hierosolymis? & quonam in loco
+(185) Sunt res, ac fortunae nostratium? ah taces?
+HAN. Quin tu quopacto hic? num satis ex sententia?
+NEH. Nósne? ut quimus, quod aiunt, quando ut volumus non licet.
+Octo.
+Sed prior amabò commemorato quid agatur Hierosolymis,
+Quid agant consanguinei, quid amici caeteri:
+(190) A quibus ego admodum adolescens distractus sum miser.
+HAN. Credo aedepol te Nehemia nonnihil mirarier,
+Quid sit, quapropter in his me conspicis regionibus.
+NEH. Mitte id sodes, & quod rogo, hoc primum mihi expedí.
+HAN. Perij. NEH. Hem, quid est? ah, quid suspiras obsecro?
+(195) Númnam perimus? Nescio quod magnum malum
+Profectò me celas frater, quid tristis es?
+Non temere est, metuo quid siet. hei mihi quid taces?
+Rem paucis eloquere amabò. HAN. Ah, animus mihi
+Horrescit dum ea, referri quae vis, reminiscor miser.
+[p. 16]
+(200) Atque utinam ex alio, uti gesta est, rem posses cognoscere.
+NEH. O miseriam, quanta me cura, & solicitudine
+Huius me nunc afficiet adventus, mihi
+Quem tanto gaudio modò fore pollicebar. Hem,
+Videte quo fretus siem miser. Tamen
+(205) Agedum, narrato quicquid est incommodi: ut
+Potero feram: quando me natum huic video rei,
+Tolerandis, perpetiendisque calamitatibus.
+HAN. Quod sors fert mi frater, ferendum est fortiter:
+Cum quod factum est, neque lachrymis, neque querimonijs
+(210) Queat redit infectum. NEH. Ah, pergísne ambages quaerere?
+Ad rem redi. HAN. Disperij, ut etiam nunc timeo miser,
+Postquam tam triste mihi in mentem venit spectaculum.
+Verùm non esse iam ad narrandum tempus arbitror:
+Nam Sadocum nostin ? NEH. Quid ni? HAN. Hunc in vico hoc proximo,
+(215) Dum te irem quaesitum, reliqui in diversorio.
+NEH. Solúmne? HAN. Non, adsunt alij quidam Iudaicis
+Itidem nati parentibus, hos mea sat scio
+Solicitât mora. Quapropter eò redeamus obsecro.
+In itinere rem omnem tibi commemorabo ordine.
+NEH. (220) Quanquam est quod agam intus, tamen id cùm te intelligo
+Tantopere velle, age parebo, lubensque veteres
+Invisam amicos. O me felicem, nisi me tua
+Metu exanimasset oratio. HAN. Praecede, consequar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          ACTUS I. SCENA IIII.
+
+              SATIBARZANES.
+
+            Eiusdem rationis.
+
+CUm nobis quotquot principum colimus domos,
+(225) Nihil unquam quicquam reperiatur calamitosius,
+[p. 17]
+Nihil miserius, nihilque abiectius: tamen hominum
+Vulgus nos non secus ac deos veneratur, & colit.
+Atque ob eam rem mihi multi fuere risui,
+Cum eos de nobis errare nimium animadverterem.
+(230) Neque hoc cuivis facile persuaserim. nisi periculum
+Octo.
+Quis fecerit, neque verum, neque verisimile
+Me dicere suspicabitur, neque ex animo loqui.
+Tam magnificum censent mensis astare regiis,
+Semper uti mures alienum arrodere cibum,
+(235) Chore as ductitare, diem insumere convivijs,
+Regem sequi, accinctum machaera incedere,
+Equo vehi, pulchrè vestiri, scorta adducere.
+Atque hac quidem veluti inexpertis dulcia
+Videntur, ita nobis hoc iampridem saxum voluentibus,
+Octo.
+(240) Deprehenduntur amarissima. Sed serò Phryges
+Sapimus, hinc cùm eluctari nonsit integrum,
+Hamo iam penitus in stomachum illapso. Sed quid sibi
+Vult quòd pocillatorem regium Nehemiam
+Commotum video? non pol temere est quod nunc quam solet
+(245) Est tristior: nam quamvis hic ab ineunte adolescentia, ad
+Octo.
+Hanc usque aetatem servitutem pertulit
+Procul à patria gravissimam, semper tamen
+Ne cuiquam vultu tristi unquam aegritudinem
+Pareret, pepercit sedulò. Sic homo est, sua
+(250) Facilè ferre, alienis angi infortunijs.
+Quapropter aut leve sit oportet, hunc
+Quod tantopere solicitum habet. Accedam ad hominem,
+Ut quid animo sit agrè, ex ipso intelligam.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+            ACTUS I. SCENA V.
+
+         NEHIMIAS, SATIBARZANES.
+
+            Ejusdem generis.
+
+O Facinus indignum, o inauditam contumeliam,
+(255) O pectora quavis immaniora tygride.
+[p. 18]
+Hei mihi, nescio quid nunc primum exequar miser,
+Tot me impediunt curae, quae meum animum diversa trahunt.
+SAT. Ehem Nehemia, quid tecum stomacharis insolens?
+Octo.
+Satin salvae res? quid taces? aut quid te tristem conspicor?
+NEH. (260) Tun hic eras Satibarzanes? omnibus modis miser
+Sum, nec quid agam nunc, nec quò me vertam scio.
+SAT. Interij, quid, malum, istud infortunij? cedo.
+NEH. Me miserum, ut animus in spe, atque in formidine
+Usque antehac attentus fuit, ita postquam adempta spes,
+(265) Lassus, curaque confectus stupet. SAT. Quin dic, quid est?
+NEH. Hominem infeliciorem me nullum arbitror, neque
+Adversa cui plura accidant. SAT. Ah, enecas.
+Rem paucis eloquere obsecro. NEH. In eum nunc mihi
+Res devenit locum, ut nulla mihi vita sit
+(270) Posthac unquam expetenda Satibarzanes.
+SAT. Ne lachryma obsecro Nehemia, atque isthuc quicquid est
+Impertí liberè, ne retice, crede hoc inquam mihi,
+Aut consolando, aut consilio, aut re iuvero.
+NEH. Dicam hercule, cum tantopere te istud velle intelligo:
+Octo.
+(275) Sed hac qua dixti causa. Accepi de patria hodie nuntium.
+SAT. Tristem arbitror. NEH. Tristissimum. Hierosolymam funditus
+Octo.
+Eversam modò mihi narrarunt huc quidam ex urbe profugi.
+SAT. Eheu, quid audio? NEH. Maximam ad haec civium
+Partem crudeliter interemptam. SAT. O miseriam.
+NEH. (280) Abreptos liberos, stupratas virgines,
+Incesto matronas pollutas. denique
+Igni absumpta, exusta, atque perdita omnia.
+SAT. Indignum sanè facinus Nehemia, quod & mihi,
+Ad quem nihil istaec attinent, lachrymas quoque
+(285) Excutiat. Caeterum id licet durum, tamen
+Ferendum aequo animo, non culpandum censeo.
+[p. 19]
+NEH. Tantámne ego cladem non egrè feram miser?
+Alienum cùm te istud tantopere commoveat Satibarzanes,
+Quid me facere par est? Hei mihi, iam vita me taedet meae.
+SAT. (290) Scio tibi esse hoc gravius multò, ac durius
+Cui sit: verùm ego haud minus agrè patior id,
+Qui nescio, nec rationem capio, nisi tibi
+Quod ex animo semper voluerim optimè.
+Tamen, si me audias, mittes querimonias,
+(295) Lachrymasque inutiles. NEH. Ah quid? egon tantam misiriam
+Non defleam? SAT. Si quid lachrymando proficere queas,
+Ut levius fiat quod doles, age, sino ut lugeas.
+Verùm si ad hunc modum tibi aegritudines
+Conduplicas, cur non te queri frustra vetem?
+(300) Aut cur te vanis patiar macerari questubus,
+Quos elevare tua te praecipit prudentia?
+Cur non itidem te, uti tu me quondam soles,
+Et verbis, & re, operaque studeam consolarier?
+NEH. Gravius est vulnus, quam ut medicam serat manum.
+(305) Mors mihi quovis solatio futura est gratior.
+SAT. Ab, tene istud loqui? teque alijs consilium dare,
+Foris saepere, tibi non posse auxiliarier?
+Fac tute nunc apud te cogites, quae sapius
+Olim instillabas mihi. Homines nos esse, ea
+(310) Lege in hanc vitam productos, ut omnibus
+Obiecta vita nostra sit fortunae iniurijs.
+Neve graviter, iniquóve animo ea feramus mala,
+Quae neque consilio, neque prudentia declinari queant.
+Octo.
+Adhaec sapientis esse turpitudine,
+(315) Non casu: non aliorum iniuria, at suo
+Unius delicto, culpaque commoverier.
+Nullum esse dolorem, quem non leniet dies
+Paulatim, mox quoque penitus auferat. Atque ob id
+[p. 20]
+Rationem oportere impetrare à nobis, postea
+(320) Facilè quod est aetas effectura. Haec Nehemia
+Verè si nunc tecum ipse cogites, magnam tibi,
+Mihi crede, ex animo dempseris molestiam.
+NEH. Est ita quidem ut dicis Satibarzanes, peccare me
+Confiteor: verum cum tanta de improviso opprimor
+(325) Miseria, vix animus resistit agritudini.
+Praesertim cùm omnia ita interciderint, ut nihil
+Spei, qua res dubias consolari solet,
+Nobis sit reliquum. SAT. Oh, absit desperatio:
+Quin potius ita te compares, ut quod dispendij
+(330) Est factum sarcias: quodque eversum est, vide
+Num instaurari queat. NEH. Instaurari? per quos obsecro?
+SAT. Per te, atque alios tui generis superstites. NEH. Probé,
+Si quis me ex servo efficiat liberum. SAT. Bono
+Animo esto. Tun id à rege impetrare nequeas,
+(335) Paucos hinc saltem ut absis menses? Quam rem tu ioco
+Ab eo voluisti tandem, quin perfeceris?
+NEH. Quid ergo agam, quid das consilij Satibarzanes?
+SAT. Quanquam invitus carebo te Nehemia,
+Meum animum inducam tamen, ut illud, quoi tibi,
+(340) Tuisque ex usu sit futurum, consulam.
+NEH. Habeo pol gratiam: sed quid faciam, cedo?
+SAT. Quid facias: regem tibi adeundum censeo.
+Octo.
+NEH. Agedum sodes, credis successurum si tentem? SAT. Hem, me vide,
+Ad me recipio. NEH. Quid si tu hic partes agas
+(345) Meas? nam nemo est qui eius sensum melius calleat.
+SAT. Tace obsecro, nullus est ad hanc rem magis accommodus,
+Quàm tute ipse. tibi enim regem certò scio,
+Dimet.
+Quò vir melior multò es quam ego,
+Obtemperaturum magis. NEH. Oh, tace sodes.
+[p. 21]
+SAT. (350) Est ut dico. ita se res habet. NEH. At vereor ne ubi
+Ad rem sit ventum, cogitata proloqui
+Nequeam, ita me timidum obstupefaciet pudor,
+SAT. Bono animo esto, audendum est, gaudebis facto sat scio:
+Mihique, qui consilium dedi, ages gratias.
+(355) Nam scito te ex ea re & famam, & gloriam,
+Et nobilitatem consequuturum, referentque gratiam
+Octo.
+Sine dubio, tuo quos iuveris beneficio.
+NEH. Age age, experiar. SAT. Sed cesso ire intro, ut si quis fortè me
+Quaerat, praesto siem? Sed heus, in tempore
+(360) Ad eum accedes, quod omnium rerum est primum. NEH. Mones
+Probè, atque ob id tibi lubens obtemperavero.
+
+                     Continue
+
+           ACTUS II. SCENA I.
+
+                GOSEMUS.
+
+     Trochaici senarij, septenarij,
+         & octonarij catalecti,
+
+OMnem rem nunc in vado esse conspicor,
+Cùm superstitiosum illud recutitorum genus
+Extirpatum sit funditus: Hierosolymaeque moenia
+(365) Ita diruta, ut instaurare qui ea tentet, actum agat.
+Qua in pugna ego quidem me strennuum ducem,
+Imperatoremque praestiti. dum hos lancea,
+Alios ense, plurimos iaculis transverbero.
+Vah, eant nunc, ac Deo suo fretos iactitent.
+(370) Nae ego multos huic Deo confisos vidi illudier.
+At videte obsecro quid pertinax valeat persuasio?
+Non desunt inter eos, nescio quo freti numine,
+Qui rem lapsam posse reparari putent,
+Et de restaurando nescio quid mussitent.
+(375) Atque haec iampridem subolent mihi. tamen
+Iamb.
+Stulti quod incoeptant, quia longius absumus,
+[p. 22]
+Sperant fore clam. astuti, etiam nunc credunt se ignorarier?
+Nosque suis dolis circunvenire cogitant?
+An non vel sex totis mensibus prius
+(380) Olfecero, quàm ignavum illud hominum genus
+Quicquam coeperit? An ignorant regibus
+Uti longas manus, ita & esse aures longissimas?
+Quos ego, ita me Mavors, ac Bellona iuvet, nisi
+Desinant, adeo depexos, atque exornatos dabo,
+(385) Ut dum vivant meminerint semper mei.
+Qui sibi nos pro ridiculo, ac delectamento putant.
+Nunc adeo edico omnibus, ut quencunque Israëlitici
+Gregis hominem alicubi fortè offenderitis in via,
+Hunc spolietis, prosternatis, praecipitetis protinus,
+(390) Ut cerebro dispergat viam. Nihil
+Sit quod dicat, alium quaerebam, hac iter
+Habui, obsum nulli: peristis, si non morte eum
+Extemplò multetis crudelissima.
+Neminis misereri certum est, sed qua via
+(395) Nos illi captant, eadem ipsos aequum est deludier.
+Nulla fides habeatur persidis: neque
+Usque dum regnum obtinebit Iuppiter,
+Nolim nobis cum illis aut pacem, aut inducias.
+Hoc meum edictum si quis violare sit
+(400) Ausus, ultrices mox faxo ut sentiat manus.
+Nunc ad Sanaballatum hinc rectà me conferam,
+Ut dudum quae mihi narravit Tobias meus,
+Illi sine mora ordine commemorem omnia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           ACTUS II. SCENA II.
+
+                NEHEMIAS.
+
+    Senarij Iambici, admistis paucis
+              septenarijs.
+
+MUltos iam flendo, gemendoque contrivi dies,
+(405) Adeo ut oculi lachrymis caecutiant mihi.
+[p. 23]
+Adhac noctes insomnes duxi plurimas:
+Longaque elanguit corpus inedia, cibum
+Dum aeger fastidit stomachus. quin genua labant,
+Pedesque vix suo funguntur munere.
+(410) Tanta me solicitudine hic affecit nuntius.
+Ah, quodnam ego huic nunc subito exitio remedium
+Inveniam infelix? nihil usquam reperio, quod
+Mihi solatio esse queat. Quapropter ad
+Te mi Deus nunc sacram veluti ad anchoram
+(415) Me recipio supplex, Israëliticae
+Gentis, meaque ipsius crimina confitens,
+In nos toties quibus te provocavimus,
+Immensa tua identidem abusi patientia.
+Itaque meritò has pro peccato poenas damus.
+(420) Imò longè graviores nos commeruisse fateor:
+Tuamque & hic agnoscimus clementiam.
+Scazon.
+Quòd si supplicium nostris sceleribus dignum
+Troch.
+Nobis irrogasses, perieramus funditus.
+Oro te porrò mi Deus, ut quantò tua
+Octo.
+2.
+(425) Potentia sit maior, eò ad ignoscendum sit proclivior.
+Ut fragilitati nostrae tua sit praesidio benignitas.
+Quae nos mala designavimus, precor ignoscas Pater:
+Et magis in hoc incumbe, uti honorem inglorijs,
+Salutem perditis, vitamque mortuis
+(430) Restituas, affectumque paternum erga nos induas:
+Cui pro máximo peccato paululum
+Supplicij solet esse satis. ut te non iustum modò,
+Verùm multò magis facilem experiamur, & pium.
+Memento quae quondam Mosi promiseris,
+(435) Cùm nos quidem commissuros in te praediceres,
+Scazon.
+Et ob id per regiones peregrinas dissipatum iri:
+Verùm ad te conversos, vitaeque anteactae crimina
+Exosos (etiamsi procul vel ad ultimos
+[p. 24]
+Terrarum essemus distracti sinus) rursum in viam
+(440) Reducturum te, & in locum, qui nomini tuo
+Colendo accommodus videretur, simul
+Omnes revocaturum. Horum oro ut nunc sis memor
+Iova clementissime: mihique aures praebeas
+Et attentas, & benevolas, adhac regis mei
+(445) Pectus ut emollias, mihique gratiam,
+Favoremque apud hunc concilies. Age age, feliciter
+Successurum arbitror, ita animus gestit mihi.
+Si impetro, quid aliud malim quàm hodie ad iter
+Accingi, atque illuc recta hinc proficisci via.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          ACTUS II. SCENA III.
+
+         SANABALLATUS, GOSEMUS.
+
+      Senarij & octonarij Iambici.
+
+(450) ITáne tandem Iudaei de restauranda urbe cogitant?
+GOS. Sic passim praedicant. SAN. Nec nostrum imperium, age
+Mitto imperium, non iram saltem nostram extimescere?
+Nihil vereri? o facinus audacissimum.
+GOS. Nae illi nos feminas imbelles, haud mares
+(455) Arbitrantur Sanaballate. SAN. Etiam nunc nos, subducere
+Sept.
+Suis se posse fraudibus, ac technis existimant?
+Ridiculum, annosa vulpes laqueo haud fallitur.
+GOS. Parum nostrae videntur experti manus.
+SAN. Mirum ni fungos nos putent, qui istud sibi
+(460) Impunè licere confidant. vah, quae haec est confidentia?
+GOS. Benè me herculè habet, quod longè antè isthaec eos
+Sept.
+Praesensimus molirier. SAN. Admodum diluculò
+Surgat oportet, qui nos suis dolis meditatur fallere.
+GOS. Ego pol istos, si tale quicquam coeperint,
+(465) Ita exercebo, atque ulciscar mastigias,
+Ne impunè in nos illuserint. Quapropter ut
+[p. 25]
+Fortes decet, dum tempus est, iniuriam
+A nobis propulsemus, ulciscamur adversarios:
+Demusque operam, ut omnia quae nunc sunt certa eis
+(470) Consilia, incerta sient: nec isthoc contenti, radicatus
+Sept.
+Extirpemus universum Israëlitarum genus
+Omnique tandem nos exolvamus metu.
+SAN. Id iampridem in animum induxi meum. GOS. Quin iam graviter meis
+Sum interminatus, ne cum quopiam istorum commercium
+(475) Habeant, néve cuiquam faxint benè: verum splient, verberent,
+Mutilent, lacerent, interimant quencunque fuerint
+Nacti. SAN. Isthuc rectè: idem ego edicam meis. GOS. Eò,
+(Ita me di ament) redigam totum illum Apellarum gregem,
+Sept.
+2.
+Ut quò se vortant, aut recipiant planè nesciant.
+SAN. (480) Agedum, ratum esto. GOS. Ita facere certum est. SAN. Perplacet.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          ACTUS II. SCENA IIII.
+
+           NEHEMIAS, HANANUS.
+
+            Eiusdem rationis.
+
+MUltò omnium nunc me fortunatissimum
+Hanane puto, postquam haec mihi evenerunt ex sententia.
+HAN. At hoc demiror, qui tam facilè potueris
+Rem tantam à rege tuo impetrare Nehemia,
+(485) Quem metuebam ne si tibi difficilem, & inexorabilem
+Praeberet. NEH. Item & ego subverebar nonnihil:
+Verùm praeter spem evenit. HAN. Quopacto, cedo?
+NEH. Non potuit fieri commodius. Deum mihi
+Propitium arbitror. HAN. Credo, sed narrae obsecro.
+NEH. (490) Imò ut auscultes oro, nam ego multò hoc tibi
+Narrare malim, quàm tu qui percontaris scire. Modo cùm
+Ei prandenti inservio, obtuerier
+Me fortè coepit: & quia eram solitò tristior, rogat
+[p. 26]
+Quid sit, quid me solicitum habeat. Quid hic, putas
+(495) Me vel verbum saltem potuisse proloqui?
+Planè obmutui primum. dein lachrymis mihi
+Ex oculis erumpentibus, in perpetuum rex vive inquio,
+Possúmne non tristis tibi videri, ea
+Scaz.
+2.
+Urbe penitus eversa, quae maiorum meorum ossa,
+(500) Et cineres continet? portisque eius, ac moenibus flamma,
+Ignique consumptis? Hic ille per quam familiariter:
+Humani istud ingenij esse argumentum puto Nehemia,
+Cum patriae interitum lugeas. Verùm quid est
+Quod hac in re me facere velis? quid obtticuisti, aut quid times?
+Sept.
+2.
+(505) Animo virili, praesentique facito uti sies.
+Crede hoc mihi, quodcunque optaris, optatum feres.
+Namque hoc tuo erga me servitio liberali debeo,
+Ut istiusmodi nihil tibi negandum censeam.
+HAN. Hui, regem elegantem narras. quid tu obsecro híc?
+NEH. (510) Si tibi quid feci, inquam, aut facio rex invictissime quod placet,
+Abundè pensatum puto, cùm mihi tam clemens hactenus,
+Ac iusta semper apud te fuerit servitus.
+Verum postquam in eum nunc mihi res redijt locum,
+Ut patriae sine summo dedecore deesse non queam, velim
+(515) Me dimittas in Iudaeam, ut rem perditam
+Meorum restituam, urbemque instaurem. Quid verbis est opus?
+Hac oratione commotus rex, protinus annuit.
+Adhaec per liteeras Syriae praetoribus
+Praecepit, ut me subsidiario deducant milite.
+(520) Porrò Asapho qui silvae praeest regiae,
+Ut ligna ad portas, muros, aedesque instaurandas suggerat,
+Operaque iuvet. HAN. O regem clementissimum.
+NEH. Ehem Hanane, hiccine non amandus? hiccine
+Non gestandus in sinu? HAN. Oh, potius me non amem,
+[p. 27]
+(525) Quàm huic desit amor. NEH. Imò sic homo est ita
+Animum induxit suum, nihil clementia,
+Ac facilitate regi esse melius. longeque infirmius
+Regnum esse, vi quod sit, quàm benevolentia
+Quod adiungitur, & amari se quàm metui malle. quid
+Scazon.
+(530) Multis moror? diem nox prius adimat, quàm ego, cùm quae
+Erga me multa benignè fecerit, tùm caeteras
+Illius quibus ornatus est virtutes, tibi narravero.
+Verum hinc nos intro recipiamus, ut quod nacti sumus bonum
+Sadoco, alijsque Israëlitis protinus
+(535) Impertíamus, animumque illis expleamus gaudio.
+Deinde viae nos, quantum possumus, accingamus, ne in mora
+Dimet.
+Ipsi nobis simus. HAN. Placet.
+
+                     Continue
+
+           ACTUS III. SCENA I.
+
+             BIRRIA, LESBIA.
+
+     Senarij & septenarij trochaici
+              catalectici.
+
+PRò di immortales, ut misera res est servitus
+Homini, herum qui nactus est incommodum,
+(540) Atque morosum. noctes diesque satís superque est,
+Quod dicto, aut facto semper sit opus: quod imperat
+Aequum, iniquum sit, nihil videt, nihil
+Pensi habet. Atque ob id adeo Nehemiae regij
+Pocillatoris discessum nunc doleo magis,
+(545) Quo sanè facili, atque commodo usus sum hactenus.
+Ah tum demum nostra intelligimus bona,
+Cùm in potestate habuimus antè, amisimus.
+Iamb.
+At at, compescenda est lingua, crepuit ostium,
+Quis siet metuo. Euge, bene habet, Lesbia est.
+(550) Huc, nisi hallucinor, ad me instituit gradum.
+Iam me opinor ablegabit quopiam:
+Quod si sit, pereo funditus, adeo pedes mihi
+Nunc obtorpuerunt lassitudine.
+[p. 28]
+Nusquam ibo, licet compellat maximè.
+LES. (555) Me miseram, discrucior animo, postquam huius mihi
+In mentem venit discessus. At eccum Birriam.
+Quem hic ante aedes praestolare Birria?
+Commodè aedepol te hic otiosum offendo: in forum
+Transcurso est opus. BIR. Cui homini? LES. Tibi. BIR. Non possum, ita
+Octo.
+2.
+(560) Nunc sursum, deorsum currendo, sum defessus miser.
+LES. Antiquum mecastor obtines. Sed quid Nehemias,
+Iámne hinc abijt? BIR. Iamdudum illum deduxi foras.
+LES. Ab, perij, nunquam tantum ex eius reditu mihi
+Obveniet voluptatis, quantum agritudinis,
+(565) Ac doloris ex inopinato illius modò
+Cepi discessu, quo nunquam quicqum animus meus
+Passus est aegrius BIR. Credo mea Lesbia. LES. Oh,
+Nae istiusmodi hominum iam ingens est penuria.
+BIR. Vel in praecipiendo quanta illi comitas?
+(570) Quanta humanitas, quantusque erat lepos?
+Quodque nos adolescentes per rerum inscitiam,
+Imperitiamque minus videbamus, magis
+Impensè cupiebamus, quod consulebamus parum,
+Haec ille reprehendere, & corrigere comiter,
+Iamb.
+(575) Et obsecundare in loco. docebat, monebat, benè
+Praecipiebat semper quae potuit omnia.
+4.
+Ut quisque maximè auxilio indigebat, ita
+Ei potissimum opitulari: cùm vulgus hominum secus
+Factitet, à quibus enim sperant plurimum,
+Octo.
+(580) Etiamsi illi his non indigeant, tamen eis potissimum
+Obsequuntur, atque inserviunt. Quin alteri
+Octo.
+Melius esse malle, quàm sibi: nulli adversarier.
+LES. Arridere omnibus. BIR. Adeo ut ex consuetudine
+Acat.
+Benefacere ei iam in naturam verteretur.
+(585) Porrò in administrandis negotijs regijs
+[p. 29]
+Quanta sedulitas, denique quanta in verbis fides?
+Insuper, ut ingenium liberale decet, pudens,
+Continens, modestus, incommoda, & iniurias
+Aequo animo ferre, atque tegere contumelias.
+(590) Esse, quàm videre malebat probus.
+Atque ita quò minus ambiebat gratiam,
+Hoc eam assequebatur magis. LES. Est ut dicis. rex eum
+Octo.
+Semper in oculis. BIR. Verùm consilia credere omnia.
+LES. Haud equidem mirum arbitror, si talem semper fecerit
+4.
+(595) Maximi: nam quale ingenium haberet, ex servitio
+Longiori perspectum illi erat satis.
+Sed verba hic facio, quasi nihil mihi
+Intus quod agam siet. BIR. Istud vobis ferè
+Lesbia vitium est maximum, ut simel loqui
+(600) Exorsa, finem facere nequeatis. LES. Hem,
+Quid ais verbero? ego te pol, si vivo, pro
+Istis dictis ulciscar probè. Nunc ad forum,
+Quò me ituram dixi, properè concedo: reversa
+Acat.
+Te ut meruisti exercebo scelus. BIR. Commovi. Hui,
+(605) Feminae quàm pro levibus noxis iras gerunt?
+Uno aliquo verbo facilè ad stomachandum eas
+Conciveris. At satis hic cessatum est, fores
+Concrepuere, tempus est ut hinc me amoliar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          ACTUS III. SCENA II.
+
+       HANANUS, NEHEMIAS, SADOCUS.
+
+     Septenarij & octonarij Iambici.
+
+HEm, quid ais Nehemia? siccine quos ego semper, metui miser,
+(610) Tu veluti imbelles, ac inermes aspernandos putas?
+NEH. Quid ni, cùm adversus divinam potentiam nihil
+Valeant humanae vires. SAD. O virum fortem, atque strennuum.
+HAN. Antiquam sanè Nehemia tuam pietatem obtines.
+[p. 30]
+SAD. Verùm hoc frequenter vereor mi frater, ne isthac tua
+(615) Animosa fortitudo in nervum erumpat denique.
+NEH. Oh, bono animo estote, omnia mea mihi meditata sunt.
+Et spero adiuturum Deum. HAN. Si quidem hercule posses, nihil
+Prius, neque fortius: verùm si inceperis, neque
+Scazon.
+Perfeceris, graviter, atque ubi eorum impetum ferre
+(620) Non poteris, infecta re turpiter diffugeris,
+Sena.
+2.
+Actum est, illudent ubi nos victos senserint.
+NEH. Oh, potin ut desinas? nihil periculi est.
+Consultò tamen, ac clam rem aggrediemur, ne fortè quod
+Nos pigeat pòst, faciamus Sadoce. Et si maximè
+(625) Parum feliciter (quod avertat Deus) res cesserit,
+Erit tamen hoc factum mihi semper memorabile,
+Catal.
+Me patria incolumitatem meae saluti
+Praeposuisse, meumque caput me periculis pro ea
+Obiecisse: ac proinde mihi sic stat sententia,
+Troch.
+2.
+(630) Potius animam me relicturum meam,
+Quàm quod à sceleratis illis dirutum est
+Desistam instaurare: neque defetiscar experier
+Unquam, donec quod in animum induxi effecero: non si sciam
+Inimicos mihi capiundos omnes homines, neque mihi
+(635) Ulli obsistent amnes, neque montes, neque adeo mare.
+Tum nec frigus, nec aestum metuam, nec ventum, nec grandinem,
+Nec imbrem. porrò famem, sitim perpetiar fortiter.
+Postremò dulce erit pro patria mori. SAD. Hem, isiud est viri
+Officium. NEH. Qui pro patria perit, haud pol interit.
+(640) Sed appetit vespera, longumque nos fessos iter
+Senar.
+Reddidit. ad hospitium hoc nunc si videbitur
+Divortamur. die crastino simul ac diluxerit,
+Coeptum, Deo opitulante, aggrediemur iter. HAN. Optimè mones.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 31]
+
+
+          ACTUS III. SCENA III.
+
+         GOSEMUS. SANABALLATUS,
+                 TOBIAS.
+
+    Partim senarij, partim septenarij
+                Iambici.
+
+ENimverò Sanaballate nihil loci est
+(645) Segnitiae, neque socordiae, quantum modò
+Iudaeorum clandestinos intellexi dolos:
+Qui si non astu providentur, maximum
+Profectò nobis conciliabunt infortunium.
+SAN. Num me fefellt bosce id struere? GOS. Video quam
+(650) Rem agant, ut delusis nobis soli regnent, ad id
+Proculdubio affectant viam. Errant nos animi sui
+Si ignaros rentur. Quare ne nobis suis
+Fallacijs imponant, summa adhibenda est cautio.
+Nam si semel superiores evaserint,
+(655) Haud facilè nos in pristinum restituemus statum.
+Octo.
+Quare ubivis facilius passus sim, quàm hic me deludier.
+SAN. Ita me Mavors amet, si vivo haud auferent
+Inultum, ut & ipsi nequid tale posthac audeant,
+Et caeteri ad nobis faciendam iniuriam
+(660) Sint tardiores. GOS. Istud rectè. At eccum Tobiam.
+Quid nobis adfers Tobia? TOB. Egon ? nihil equidem
+Nisi caput hesterna gravatum crapula:
+Ac proinde vos demiror hic tam manè, qui
+Heri tantum biberatis. SAN. Neque pol iam quiescendi,
+Scazon.
+(665) Neque dormiendi copia est: ita nobis à gregis
+Israëlitici sceleratis machinis
+Cavere nos tempus suadet. TOB. Probè mones:
+Nam nescio quid iam inter se mussitent, brevi
+Adfuturos, qui eversae urbis moenia,
+Troch.
+(670) Vel nobis invitis, resarturi sint denuo. GOS.
+Quid audio? externúmne alicunde exercitum
+[p. 32]
+Venturum, sibique suppetias laturum praedicant?
+TOB. Ita clam eos nunc susurrare asserunt, quibus
+Credo satis. SAN. Fabula, mihi quidem herculè
+(675) Istud non sit verisimile. TOB. Nec mihi: tamen
+Ipsis commentum placet. SAN. Haud arbitror fore
+Ut quis nos tam fortes, ac strennuos, & ad
+Pugnandum exercitatos, ob vile hoc hominum genus,
+Sibi inímicos faciat. Tamen, si id quod volunt
+Troch.
+(680) Maximè fiat, facilè formidolosos in fugam
+Verterimus. nam simulac adventare intellexero,
+Viam illis intercludam, atque undique copiis
+Scazon.
+Conscriptis, collectisque viribus, inopinatò
+Metu perculsos invadam, atque eò redigam
+(685) Omnes illas cohortes subsidiarias,
+Ut qua fugiant, quove recipiant se nesciant.
+Nunc commessatum intro concedamus, & uti
+Nos decet, hunc totum potando traducamus diem.
+TOB. I prae, sequor. GOS. Nec Nec in me quicquam erit mora.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+         ACTUS III. SCENA IIII.
+
+           AZARIAS, ELIASIBUS.
+
+        Eiusdem rationis versus.
+
+(690) NIhil adhuc est quod vereare Eliasibe,
+Haud quaquam etiam cessant, & illum propediem
+Hic adfuturum tibi polliceor. proinde tu metum,
+Falsamque sollicitudinem istam qua te excruciat, ex
+Animo fac eijicias tuo. ELI. Facile equidem id queam
+(695) Azaria, sed nescio quopacto me hostium
+Semper deterreat violenta immanitas:
+Quos ego scio si resciverint, exercitum
+Extemplò conscripturos copiosissimum,
+Viasque obsessuros omnes, ut ne cui
+(700) Huc usque ad nos evadendi sit copia.
+[p. 33]
+Atque id adeo magis nobis ut incommodent,
+Quam ut rebus consulant suis. AZA. Eheu, tantámne eis
+Vecordiam, ac malitiam innatam esse, ut malis
+Alienis gaudeant, atque ex incommodis
+(705) Aliorum, sua ut nitantur comparare commoda?
+Troch.
+Verùm non arbitror cuiquam illorum id subolere, cùm
+Nostri ipsi cives etiámnum istud nesciant.
+ELI. Arbitror ego quoque, verùm ne palam fiat,
+Scazon.
+Idem uxorem facito ut celes: nam femina
+(710) Quod ignorat tacet, atque continet optimè.
+Azaria mi, quisnam ile obsecro huc quem procul
+Ad nos viam affectare video? AZA. Nescio
+Eliasibe: nam intervallum adhuc est longius,
+Quàm ut oculorum acies assequatur. ELI. Hic hominem
+Troch.
+(715) Opperiamur, ut si quid fortè adferat novae
+Rei, ex ipse cognoscamus, & unde veniat,
+Et quo illi iter sit expiscemur. AZA. Igitur hic
+Tantisper dum accedit, subsistamus Eliasibe.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           ACTUS III. SCENA V.
+
+            SADOCUS, AZARIAS,
+               ELIASIBUS.
+
+            Ejusdem generis.
+
+ANimo iam nunc nostros otioso esse impero,
+(720) Unius huius praesidio, atque adventu. Ego hominem
+Feliciorem non vidi unquam, cuique ita lepidè
+Omnia procédant ex animi sententia.
+Quocumque venit, excipitur humanissimè.
+Concurrunt illi gratulantes obviam
+(725) Praetores, praesides, aediles, consules:
+Salutant, ad coenam vocant, operam suam
+Illi dicant, pro se unusquisque sedulò
+Agens, quò benevolentiam illius sibi
+[p. 34]
+Scazon.
+Conciliet. minimeque (ita me Deus amet) miror,
+(730) Si illum quisque expetit, quem semper maximi
+Rex ipse fecerit. Mihi quidem cuiusmodi
+Ingenio sit, eius fuit indicio oratio,
+Quae cuiusque ut vita est declarat maximè.
+Non possit magis idoneus ad hanc rem repperirier.
+(735) Per hunc, nisi me fallit animus, Deus hostium
+Nostrorum lascivam retundet insolentiam,
+Delicta puniet. qui malitia freti sua,
+Toties nostrae insidias fecerunt innocentiae.
+AZA. Papè, hic Sadocus est noster, nisi prospitio parum.
+ELI. (740) Is est ipsus, superi nos servatos volunt
+Azaria. AZA. Quid stamus? quin procedimus ei obviam?
+SAD. Sed quem mihi nunc potissimum exoptem dari, in
+Cuius sinum hoc effundam gaudium? ELI. Audin Azaria
+Quid dicat? AZA. Ego vero audio, nunc demum & video,
+Troch.
+(745) Et vale Eliasibe. SAD. Sed ecce quos volebam maximè.
+Hos primùm delibutos reddam gaudio.
+ELI. Ehem Sadoce mi. AZA. O mi frater. ELI. Gaudeo
+Te tandem nobis incolumem esse redditum,
+Cuius reditum miserè expectavimus hactenus.
+Scazon.
+AZA. (750) Quid te obsecro remoratum est tam diu? SAD. Dicam.
+Sed accepistis quas pridem ad vos misi literas?
+ELI. Accepimus frater. SAD. Ehe, dic mihi, satin 
+Tibi placuerunt Eliasibe? ELI. Oh rogas?
+SAD. Hem, quid tibi Azaria? AZA. Nihil in vita mihi
+(755) Unquam renuntiatum est gratius. Verùm vide
+Sodes, ne nos in falsum gaudium conieceris.
+SAD. Vah, missa isthaec facite, iam vos beavero.
+ELI. Age frater. SAD. Nescitis quantum apportent boni.
+AZA. O hominem festivissimum. SAD. Iam faxo omni metu
+Troch.
+(760) Reiecto, in utramvis aurem otiosè dormiatis.
+ELI. Age dic amabò, si quid habes bonae rei.
+[p. 35]
+AZA. Mitte ambages omnes. SAD. Agedum, mitto, rem paucis eloquar.
+Octo.
+Brevi restauratam conspicietis Hierosolymam.
+ELI. Faxit ita Deus. AZA. Utinam augur sis verus. sed haec
+(765) Unde tibi tanta affulsit spes? SAD. Ex unius
+Huius Nehemiae adventu. ELI. Ubi is est obsecro?
+SAD. Ubi sit rogas? faxo mox videas. Non procul
+Hinc illum relliqui. at non est tutus satis
+Hic ad commemorandum locus: quare intrò si placet
+(770) Concedamus, ubi rem omnem narrabo ordine.
+ELI. Istud rectè, celato opus est. AZA. Deus vertat bene.
+
+                     Continue
+
+          ACTUS IIII. SCENA I.
+
+                NEHEMIAS.
+
+    Partim senarij, partim octonarij,
+      admistis paucis septenarijs.
+
+DEum immortalem, quis mente est tam adamantina,
+Quem non in luctum, ac fletum tanta calamitas
+Deiecerit? Me miserum, huiuscine causa ego
+(775) Tantopere eram cupidus redeundi in patriam?
+Cui quanto fuerat praestabilius ubivis gentium
+Vitam agere, quàm tam misirandum intuerier spectaculum.
+O Hierosolyma Hierosolyma, hanc cladem tibi
+Tua pepererunt crimina: dum Deo tuo
+Troch.
+(780) Adversans, divina post tergum praecepta reijcis,
+Quibus si paruisses, facilè isthoc declinasses malum.
+Ah, ubi nunc tua sunt celsa moenia? ubi turres? ubi aggeres?
+Ubi portae, arcesque undiquaque munitissimae?
+Ubi nunc aedes magnificae, templaque augustissima?
+(785) Ubi monumenta? ubi maiorum sepulchra splendidissíma?
+Ubi opes, quibus regum quondam antecedebas opulentiam?
+Vah, quàm subito in cinerem sunt conversa omnia.
+Eheu repentinam rerum omnium vicissitudinem.
+[p. 36]
+Eamus nunc homunculi, rebusque momentaneis,
+(790) Et quavis bulla, umbráve fugatioribus
+Fidamus, hisque nostram metiamur beatitudinem.
+Cùm nihil in rebus humanis tam sit stabile, quod temporis
+Momento non frequenter corruat: nihil
+Tam firmum, quod non una, eademque hora & substructum, &
+dirutum
+(795) Conspicias. Haec quoties in animo mecum cogito,
+Minus hoc nostrum me affligit infortunium.
+Et communem hominum sortem contemplans, quod mutari nequit,
+Patienter perfero. At nunc tempus est ut cuius gratia
+De nocte in publicum modò prodij, omnia
+(800) Perlustrem, totamque urbem clàm perambulem,
+Mecumque mediter, quopacto singula queant
+Restaurarier. Haec adeo noctu clanculum
+Agere visum fuit, ne quà veniat palam,
+Hostésve resciscant, quod magis expedit celarier.
+(805) Quos ego scio manibus, pedibusque acturos omnia,
+Quò coeptum interturbent opus. Sed nihil agent.
+Frustra contendit, cum Deo qui pugnam suscipit, cui
+Nos, nostraque esse curae mihi persuadeo.
+Huic qui confidit, nequit frustrarier:
+(810) Qui adversatur, dignum scelere exitium luet.
+Quapropter nihil horum me terrebunt minae,
+Nihil ferratae acies, nihil validissmae
+Armatorum cohortes, nihil enses, nihil
+Hastae, aut tela, nihil reliquae belli machinae.
+(815) Adversus haec me abundè muniet Deus,
+In cuius me clientelam, fidemque mancipo.
+Sed satius est ut hinc me extemplò subtraham,
+Reliquumque, priusquam dilucescat, oppidum
+Perambulem. reversus rem nostratibus
+(820) Aperiam, & ad instaurandum hortabor sedulò.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 37]
+
+
+          ACTUS IIII. SCENA II.
+
+           AZARIAS, ELIASIBUS.
+
+            Eiusdem rationis.
+
+LUcescit, hoc iam cesso pultare Eliasibi ostium?
+Atque eccum, ipsus per tempus egreditur foras.
+ELI. Somnum hac nocte oculis non vidi meis, ita
+Timore simul ac spe animus obstupuit mihi.
+(825) Nunc proviso quid noster agat Azarias,
+Uti de ijs, quae heri à coena nobis Sadocus clanculum
+Narrabat, per otium inter nos commentemur prolixius.
+Sed commodè ipse mihi procedit obviam.
+AZA. Accedam, & alloquar. Hem salve Eliasibe.
+ELI. (830) Azaria, salve, ad te ibam. AZA. Et ego ad te, Quid, quae heri
+De Nehemia commemorabat Sadocus, ecquid tibi placent
+Eliasibe? ELI. Placeant rogas? Sed vim hostium
+Ut fortiter ferat metuo, qui hic iam aderunt
+Armati sat scio, ubi nos tale quid moliri senserint.
+(835) Nam ut tu scias quàm nunc illi pulchrè ad nostram sient
+Perniciem instructi, principiò quid hic agatur sedulò
+Magis observant nunc, quàm solent. AZA. Quid audio?
+ELI. De adventu Nehemiae nescio quid mussitent,
+Male minantur nobis. AZA. Deus istum perdat invidum,
+(840) Qui primus haec illis denuntiavit. Attamen mali
+Dum ne decipianiur cavent, etiam cum maximè sibi
+Cavisse existimant, falluntur maximè.
+ELI. Est ut dicis frater; Sed quisnam hic, quem procul
+E porta prodire intueor? AZA. Nehemias
+(845) Est Eliasibe. ELI. Est is ipsus. Vah, quàm gaudeo
+Ubi etiam nunc huius generis reliquias restare video.
+AZA. Virtus illi relucet in oculis. ELI. Deum
+Immortalem, homo homini quid praestat? AZA. Tum quae formae gratia?
+[p. 38]
+ELI. Tristis severitas est in vultu. AZA. Porrò mores huic
+(850) Tam excellenti formae per omnia congruunt.
+ELI. Sermonis mira comitas. AZA. Vita integra.
+ELI. Postremò, nihil in ipso est, quod non laude sit dignissimum.
+AZA. Accedamos hominem, ac salutemus: vah, quid stamus?
+Sed hem, quod ex Sadeco scis, fac nescias, tenes? ELI. Probè.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+         ACTUS IIII. SCENA III.
+
+      NEHEMIAS, ELIASIBUS, AZARIAS.
+
+    Trochaici partim senarij, partim
+               octonarij,
+      admistis aliquot septenarijs.
+
+(855) NOn me clam est, quam duram nunc provinciam susceperim,
+Verùm sic animum induxi meum, prius
+Perditurum me meam vitam, quàm non perfecero
+Quod semel recepi. Nil malevolorum minas moror,
+Nil mortis cruciatum, quem intentant mihi.
+(860) Si moriendum sit, pro incolumitate patria mori,
+Mihi quavis vita futurum est dulcius.
+Dum ne ob malefacta pereo, parvi aestimo.
+Sed nunc tempus est, ut omnem rem nostratibus
+Indicem, & ut magno animo sint persuadeam. At
+(865) Eccos quos volebam: ad me affectant mam,
+Occurram. ELI. Salvere Nehemiam iubemus plurimum.
+NEH. Hem fratres salvete. oh, ut vos aspicio lubens.
+AZA. Utinam sit qui re, haud verbis salutem nobis adferat.
+NEH. Id quidem soli Deo in manu est, cui
+(870) Modò fidamus, & omnia nobis sat cedent feliciter.
+ELI. Ita res est mi frater, quod peccavimus
+Id obest nobis. NEH. At porrò resipiscite,
+Divinamque opem implorate supplices.
+Nullum est delictum, cui non facilè ignoscat Deus,
+[p. 39]
+(875) Si nos verè, atque ex animo admissi conspexerit
+Paenitere. AZA. Heu nos infelices. NEH. Estote animo bono,
+Infelix non est, nisi qui desperat gratiam.
+ELI. Hei mihi. NEH. Eia, respirate. Quin dicam libenter
+Acat. Iamb.
+Quoi audiatis: in foribus vobis adest salus.
+AZA. (880) Utinam. NEH. Faxo iam experiamini, modò
+Ne vos ipsi vestrum nunc remoremini
+Commodum. ELI. Nehemia, annitemur pro viribus. NEH. Deus
+Vestros conatus sua secundarit clementia.
+Exprompta ad hanc rem quam paro opus est ingenij industria,
+(885) Infractaque animi constantia magnum est quod molior:
+Acat.
+Quodque magis occultari, quàm promulgari debeat.
+Idque adeo metuens, vos hactenus celavi,
+Quod dicam nunc. Urbem ego instaurandam censeo.
+Huius unius rei gratia huc ad vos me contuli,
+(890) Haec me spes nunc reducem in patriam facit.
+ELI. Consilium laudo, sed vereor ut queas Nehemia.
+NEH. Quidum, cedo? ELI. Quia hostes hi finitimi,
+Quo non aliud hominum genus invidentius,
+Iamb.
+Hic aderunt infensi, simul ac nos id agere senserint.
+NEH. (895) Oh, nihil periculi est Eliasibe,
+Mittite timorem obsecro, divinoque numine
+Freti, nihili pendite imbelles furiosorum minas.
+Cui Deus est propitius, huic frustra insidias struit
+Quantumvis astuta malevolorum invidentia.
+(900) Quapropter, uti fortes, atque strennuos viros decet,
+Annitimini mecum, ego vobis neque opera, neque
+Re, neque consilo deero. AZA. Haud verear Nehemia,
+Si in te solum sit situm: sed vim ut queas
+Ferre? NEH. Ah, nunquam hodie concedetis mihi?
+(905) Nihil, inquam, periculi est. & si quid sit, tamen
+Acat.
+Vel vitae dispendio nos patriae saluti
+Consulere, atque subvenire convenit.
+[p. 40]
+Contemplamini quot probris, quot Iudibrijs,
+Iamb.
+3.
+Quot denique sannis vita nostra fuerit subiecta hactenus.
+(910) Quis non honestè malit mortem occumbere,
+Quàm tantam posthac ferre contumeliam?
+Respicite quám miserè iaceant prostrata omnia,
+Moenia solo aquata, turres demolit funditus,
+Arces eversae portae igni absumptae, muri diruti.
+(915) Postremò direpta, vastata, ac populata singula.
+Haeccine nobis conspicienda erunt diutius?
+Haeccine perpetienda ignominia? ah, mori
+Praestat. expergiscimini, & nolite advetsari mihi.
+ELI. Pol res ipsa, virtusque tua nos cogit Nehemia,
+(920) Ut tuis iussis libenter pareamus: imò neque
+Frugi, neque honesti, neque grati, videamur satis,
+Si non tibi per omnia morem gesserimus. AZA. Mihi quoque
+Iamb.
+Ita tua afflavit animum oratio, ut mori
+Satius ducam, quàm in tantis miserijs vivere.
+NEH. (925) Euge, sic fortes decet. tamen nihil
+ò quod metuatis. vos modò virili, ac strennuo
+Curate ut animo sitis, qui & inferioribus
+Non rarò peperit victoriam. Verùm nunc tempus est
+Intrò ut concedamus: ibi quopacto rem aggredi
+(930) Vos velim, quid fieri, quid caveri debeat,
+Convocatis urbis primatibus, edisseram ordine. ELI. Ut
+Iamb.
+Lubet, hem, iacienda est alea. AZA. Deus vortat feliciter.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+         ACTUS IIII. SCENA IIII.
+
+          SANABALLATUS, TOBIAS.
+
+   Senarij & septenarij partim recti,
+            partim σκάζοντες.
+
+HAnccine ego tam insignem in nos contumeliam
+Impunitam relinquam Tobia? ah, mori
+(935) Me satius est. Faxo iam norint quid viri siet,
+[p. 41]
+Quem illi uti mulierem ludificatum venerint.
+TOB. Eia, sic decet. SAN. Nunquam me per Iovem quisquam
+Exorabit, quin illos ut merentur ulciscar
+Mastigias. TOB. Rectè. SAN. Tum autem Nehemiam
+(940) Impulsorem istium vah, quibus excarnisicabo modis?
+Sublimem medium arripiam. TOB. Fortiter. SAN. Posthaec
+Inversum capite saxis illidam. TOB. Probè.
+SAN. Ut totam sanguine inquinet viam. dein 
+Caput illi praecidam, postremò praecipitem dabo.
+TOB. (945) Pulchrè. SAN. Reliquum recutitorum popellum qua nece
+Potissimum interimam nescio. Sed circunspice satin 
+Me hic thorax, galeaqu deceant. TOB. Pol formae gratia
+Evenit, ut quicquid indueris te deceat maximè.
+SAN. Nihil est in me, quin omnes istud laudent plurimum.
+TOB. (950) Non immeritò. SAN. Tum quis me alter homo esi confidentior,
+Aut audacior, aut ad rem militarem promptior?
+Qui in pugnis, bellis, diripiendis urbibus,
+Spòliandis hostibus aetatem contrivi meam.
+Insidiari adversarijs, acies munirier,
+(955) Praesidia disponere, nihil extimescere,
+Hyemem atque aestatem iuxta perpeti. Qùod si
+Nunc mea quae gessi, pergam commemorare facinora,
+Dies nos deserat prius, quàm ego vel decimam tibi
+Eorum partem narrare potero. TOB. Credo.
+SAN. (960) Sed non sum is qui meas ipsius pugnas praedicem:
+Manibus, non lingua belligerandum censeo.
+Sed eccum Gosemum: vide ut perturbatus siet.
+Vel vultus huius ignavissimos istos
+Facilè in fugam converterit. TOB. Prò Iuppiter
+(965) Supreme, quantas militum huc adducit copias.
+[p. 42]
+Vae illis, qui hos sibi inimicos fecerint. SAN. Hic, dum
+Accedunt, subsistamus paulisper. TOB. Placet.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          ACTUS IIII. SCENA V.
+
+ GOSEMUS, SIMALIO, SANABALLATUS, SANGA.
+
+            Ejusdem rationis.
+
+AN unquam cuiquam contumeliosius
+Simalio audistin factam iniuriam, quam haec est
+(970) Nobis? o caelum, o terra, o facinus indignissimum.
+SIM. Ni protinus à coepto desistant, haud sic auferent.
+GOS. Licet destituerint maximè, haud tamen tantum scelus
+Unquam me vivo impunitum relinquetur.
+Quin pol istos pro tanta isthac audacia
+(975) Exercebo, ut digni sunt, furciferos, qui nos sibi,
+Si dijs placet, illudendos propinaverint.
+Novitius ille advena nobis hanc excitat
+Tragoediam, ille frigidam suffundit, illius
+Suasu, atque impulsu transiguntur omnia.
+(980) Quem hodie scelus si detur apprehendere,
+Eò redigam miseriarum, ut perpetuò sit miser.
+Curabo ut omnibus exemplum siet. Vah, quàm
+Vellem illum nunc mihi dari obviam, ut caput
+Ei diminuam mastigiae, satis mihi
+(985) Id habeam supplicij, dum ulciscar modò. SAN. Alloquar.
+Goseme, deflecte huc ad nos. GOS. Non audio.
+SAN. Sodes paulisper. GOS. Ah, ne me obturbaris pessime,
+Nisi mavis cerebrum tibi hic dispergier.
+SAN. Eia, ut furit. GOS. Hem, tun hic eras Sanaballate? ne
+(990) Vitio vortas quaeso, haud praevideram te, ita
+[p. 43]
+Oculi iracundia nunc obcaecati sunt mihi.
+SAN. Non miror per Iovem. Expeditas sanè adducis copias,
+Octo.
+Pol hi vel ex Orco praedam auferant. GOS. Qualis
+Exercitus dux, tales consueverunt esse milites.
+Octo.
+SAN. (995) Nae illi hand sciunt quos sibi crabrones irritaverint.
+SIM. Fugam dabunt, ubi nos adventare senserint.
+GOS. Quin faxo ne sic elabantur: undique
+Illos praesidiis passim dispositis sic circuncludam, ut aut
+Octo.
+Fugiendi, aut evadendi nullus cuiquam sit locus.
+(1000) Atque ita tandem universum extirpabimus
+Apellarum genus. SAN. Militibus omnia
+Vastanda, ac diripienda propinabimus.
+Postremò caede, cruore, cadaveribus, incendio,
+Luctu atque singultu quicquid usquam est complebimus.
+(1005) Atque haec illis meritò accident, cum evenerint.
+Credo tam supplicantes aderunt, sed nihil
+Agent: errant si nos lachrymis placari posse cogitant.
+Octo.
+Qui dum quod sibi volunt orant, boni sunt: sed
+Ubi quod ambiebant exoraverint,
+(1010) Continuò ex supplicibus contumaces, ex bonis
+Troch.
+Redduntur pessimi. GOS. Ita res est Sanaballate. sed
+Quid hic stamus? quin rectà illuc agmen deducimus?
+Procedito tu huc cum vecti Simalio,
+In dextrum cornu temet ingere. Tu Strato in
+(1015) Sinistrum. tu in medium Sanga. Hem, quid homo ignavissime.
+Lapidibúsne paras pugnare? SANG. Quid? ego quasi
+Canes saxis homines insectabor timidíssimos.
+Quid hoc, satin vobis placet? SAN. Ha ha he, pulchrum spectaculum.
+[p. 44]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          ACTUS IIII. SCENA VI.
+
+                NEHEMIAS.
+
+ Senarij, & septenarij trochaici, partim
+      catalecti, partim acatalecti.
+
+Iamb. octo.
+NUnc tranquillo demum animo egredior foras,
+(1020) Postquam quae sum aggressus pulchrè etiàmnum succedere conspicor:
+Adeo quisque operi intentus, nunc sedulò
+Officium exequitur suum. Idem est omnibus
+Animus, aequè studium similis consiantia,
+Hostibus aut resistere fortiter, aut honestè
+(1025) Pro patria, pro libertate, pro aris, & focis
+Mortem oppetere. Quos equidem credo iam iam adfuturos
+Esse, ut nos hinc depellant, opusque coeptum
+Octo.
+2.
+Vi interturbent: qui si venerint, efficiam ut cum viris
+Rem sibi intelligant. usque adeò ego illorum pati
+(1030) Possum ineptias, & magnifica verba: à quibus
+Si ad pugnam veniatur, vapulabunt largiter.
+Iamb.
+O invidiam, tantúmne illis ab re sua
+Esse otij, aliena ut curent, eaque ad se quae nihil
+Octo.
+Attinent? adeo in hoc simul omnes incumbunt, ut sua
+(1035) Etiam ipsorum pernicie nobis incommodent?
+Ah, itáne fieri oportet? Sed quid cum illis agas,
+Qui neque ius, neque bonum, neque quid aequum sit, sciunt.
+Melius, peius, prosint, obsint, nil vident, nisi
+Quod lubet.Sed dignum talibus factis Deus
+(1040) Exitium invenerit: in hunc omnem salutis
+Spem, fiduciamque confero, illius
+Ope fretus, facilè vel violentissimum
+Adversariorum exercitum contempsero.
+Verùm ad moenia rursum hinc praestiterit concedere,
+(1045) Quò, si fortè sit opus, animum addam nostratibus,
+Octo.
+Porroque admoneam quid devitandum sit periculi.
+
+                     Continue
+
+[p. 45
+
+
+            ACTUS V. SCENA I.
+
+           ELIASIBUS, HANANUS,
+                NEHEMIAS.
+
+  Partim septenarij, partim octonarij,
+       adiunctis paucis senarijs.
+
+ITa me Deus amet, quantum ego hostium instructos dolos,
+Conatusque audio, non mediocriter timeo miser,
+Ne quam mox nobis turbam faciant, aut vim extructoribus,
+(1050) Adeo gladiatorio animo ad nos affectant viam. Ah,
+Nulllóne pacto vim istorum evitare poterimus?
+Heu, quot modis nos illorum divexavit crudelitas?
+Quoties insani ex insidijs oppressere? quoties
+Oppugnavere innoxios? quoties damnum dedere? vah,
+(1055) Itáne obstinatè operam dant, nos ut mille excrucient modis?
+Totumque Iudaeorum genus extirpent funditus? Verùm
+Hananum video, tristis est, eadem haec quae me malè habent virum.
+Ibo obviam, ut prius quàm se hinc subducat alloquar. HAN. Nisi
+Me fallit animus, haud multum à nobis aberit infortunium,
+(1060) Ita hostium castris obsessae, in angustum oppidò
+Nostrae coguntur copiae, hei misero mihi.
+At eccum Eliasibum. ELI. Salve Hanane. HAN. Eliasibe,
+Salve. ELI. Scin quo in malo versemur miseri? HAN. Ah, utinam nesciam.
+ELI. Cedo, quid agimus nunc? quid das consilij Hanane? HAN. Egon , nihil
+(1065) Nisi quod sors fert ut aequo animo feramus. ELI. Nescio
+Quid mens mihi praesagit infortunij. Sed commodè
+Ecce egreditur Nehemias. NEH. Nihil est Azaria
+Quod verearis, rem omnem mihi committito,
+Tu modò quae praecepi fac exequare graviter.
+[p. 46]
+ELI. (1070) Nehemia. NEH. Hem Eliasibe? non praevideram te. Tu quoque hic
+Aderas Hanane mi? benefactùm, gaudeo.
+Non potuit fieri oportuniùs, utrunque vos volo. ELI. Hem
+Nehemia, audistin quam illi agant rem? NEH. Odoratus sum omnia,
+HAN. De inopinato statuerunt nos invadere.
+NEH. (1075) Scio, sed dolum dolo illuserimus, meditata mihi sunt
+In pectore consilia omnia. ELI. Tibi ita videtur, at ego
+Non posse arbitror, neque vim illorum sustinere, neque
+Resistere, neque perpeti. HAN. Idem & ego vereor miser.
+NEH. Ah, ne diffidite: hoc mea fidei credatis obsecro,
+Catal.
+(1080) Qui nunc vobis viri videntur, nebulones
+Sunt ignavissimi, lascivia, luxuque diffluunt,
+Insulsi, fatui, tardi, stertunt noctes & dies.
+Adhaec Deum, quem maximè aequum est revereri, nihilum aestimant,
+Idolis servientes turpiter. Hoscine
+(1085) Quaeso nobis timendos esse creditis?
+Horum impotentes extimescemus minas?
+ELI. Facilè metum omnem abiecero frater, nisi saepius
+Quantum armati valeant essem expertus miser.
+NEH. Istam cladem vobis vestra peperere crimina,
+Scazon.
+(1090) Non hostium vires: quibus quàm facile restitissetis,
+Ni divina vos defecisset gratia.
+Huncdelictorumpamtet: & ob id Deum
+Iam nobis proprium esse, atque benevolum scio.
+HAN. Sed audistin quantum adducant exercitum?
+(1095) Quot pedites, equites? reges si simus, nunquam tamen
+Tantum sufferre queamus impetum. NEH. Non viribus,
+Sed consilio, prudentia, divina ope
+Res praeclarae geruntur. Denique nunquam fit sine
+Periculo facinus magnum, ac memorabile.
+[p. 47]
+(1100) Audendum est, nemo ignavia victoriam
+Est consequutus unquam. Prima coitio acerrima est,
+Hanc si sustinuerimus, pòst illas ut lubet
+Ludemus. Itaque hoc quicquid est periculi,
+Magnarum, mihi credite, erit remedium aegritudinum.
+(1105) Nam posthac incolumes sat scio fore nos, si vel semel
+Eis infracto, ac forti animo restiterimus.
+Contrà si nos languere, ac tímidos esse senserint,
+Feroces hic aderunt continuò. Semper maximum
+In praelio periculum est ijs, qui maxtmè timent,
+(1110) Confidentia pro muro habetur. Ne vos verbis territent.
+Iam mortem effugit, quisquis eam contempserit.
+Si illis machaera, & nobis urbina est domi.
+Egomet consultor idem, atque socius periculi
+Vobiscum ero. ELI. Nehemia mi, in te spes omnis nobis sita est:
+(1115) Te solum habemus, tu es patronus, si tu deserís
+Actum est, perimus. NEH. Ah, egon istud conari queam?
+Adeon me ignavum, aut ingratum, aut inhumanum putas,
+Adeon porrò infidum, aut adamantinum, aut ferum,
+Ut me neque amor patriae, neque misericordiae, neque pudor
+(1120) Commoveat, neque commoveat ut servem fidem?
+Cave istiusmodi quicquam tibi unquam in mentem venerit.
+Neque faciam, neque me satis piè posse arbitror.
+Quin faxo re experiamini patriam mihi
+Multò esse chariorem, quàm egomet sum mihi.
+(1125) Nullum fugiam laborem, imò capitis periculum
+Lubenter adiero, dum prosm illi. Sed nunc qua gratia
+Vos convenire statueram, auscultate. eo
+Pacto & meum consilium, & hostium dolos
+Cognoscetis, quidque facere in hac re vos velim.
+(1130) Principiò hostes, uti dicebatis modò, nos clam aggredi, &
+Ex insidijs nec opinantes statuerunt adoririer.
+[p. 48]
+Ita quidam ex vicinis mihi renuntiaverunt modò.
+Quod ne fiat, nobis dum est tempus, praecavendum est sedulò.
+Quapropter post muros in inferioribus locis,
+Troch.
+(1135) Gladijs, arcubusque armatos collocandos censeo.
+Dimidiam tantum nostrorum partem aedificare, caeteris
+Pro opere hastas clipeos, galeas, aliaque, id genus
+Arma volo suppeditarier. Qui verò lateribus,
+Calce, ant lignis portandis occupantur, altera
+(1140) Manu id agant, alteram ferro communiant.
+Praeterea aedificatores non nisi gladijs
+Accinsti aedificent: ut si fortè* usus veniat,
+In promptu sit, quo malevolorum coerceatur impetus.
+Tubae signum erit apud me. & quandoquidem propter operis
+(1145) Latè patentem magnitudinem longè sumus
+Alij ab alijs semoti, meminerint, ut quo loco
+Buccina sonuerit, eò se continuò omnes conferant.
+De nocte verò cùm suo quisque fámulo
+Excubias agat, & in media pernoctet Hierosolyma.
+(1150) Postremò ut magno animo sint, admonete singulos,
+Nihilque formident. Deum nobis adiutorem fore:
+Atque ob id omnia successura ex animi sententia.
+ELI. Dabimus operam Nehemia. HAN. Nunquid aliud est
+Quod nos velis frater? NEH. Nihil nisi ut citra moram
+(1155) Quae iam praecepi sedulò exequamini. ELI. Curabitur.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           ACTUS V. SCENA II.
+
+                NEHEMIAS.
+
+   Partim senarij, partim septenarij.
+
+ADvenit tandem quem saepe optavi diem,
+Quò aut pristinam libertatem restituam patriae,
+Aut mortem pro eius incolumitate oppetam.
+Scazon.
+Adeo hoc rerum statu nullam mihi vitam
+(1160) Exoptandam arbitror. Quin vel vicies mori
+[p. 49]
+Malim, quàm qua hactenus toleravimus probra,
+Perpetiamur diutius. Quamvis non admodum
+Inconsulta istorum me terreat procacitas.
+Qua tum demum in nos debacchantur maximè,
+(1165) Cùm tuti post principia, verbis belligerantur ebrij.
+Octo.
+Tum eorum audire est operaepretium audaciam.
+Si vel vulpes, aiunt, in murum quem extruunt
+Ascenderit, facilè, fugatis operis, lapideum
+Everterit opus. Exaudí quaeso Deus
+(1170) Quàm contumaciter nos aspernentur pessimi,
+Quibus maledictis proscindant, quibus incessant convitijs.
+Octo.
+Ne patere me Deus, ut impunè in nos illuserint.
+Sed haec qua nos afficiunt contumelia, in suum
+Ipsorum redundet caput. ut procul è patria
+(1175) Sua abducti in regionem hinc longè dissitam,
+Contemptui sint omnibus. Atque ita tandem sentiant
+Quid sit Deum negligere, innoxios lacessere,
+Alienis gaudere calamitatibus, invidere commodis.
+Octo.
+2.
+Sed nunc, ut tempus est diei, ad muros hinc me conferam,
+(1180) Ut si qua in re mea opera indigeant, in promptu siet.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           ACTUS V. SCENA III.
+
+ AZARIAS, SANABALLATUS, GOSEMUS. TOBIAS.
+
+ Septenarij & octonarij, admistis paucis
+                senarijs.
+
+NEhemias me relictis rebus iussit adversarios
+Hodie observare, ut quid agerent, aut quid captarent consilij
+Scirem, id propterea nunc speculatum egressus sum foras. At at,
+Nescio quem huc conspicio adventare, propius haud
+(1185) Ausim accedere, ne deprehensus malè peream miser.
+[p. 50]
+In hanc palustrem igitur me abdam vallem, ut quò eant,
+At quà pergant, quidúe incoeptent, observem sedulò, hoc agam.
+SAN. O populares, viri, adolescentesque humanissimi, date
+Viam quà fugere liceat, totae facite plateae
+(1190) Pateant, removete quicquid nos posset remorarier.
+Sed neque quò fugiam, neque ubi lateam, neque dedecus hoc quomodo
+Celem scio infelix, ita nunc paveo, ita nunc me pudet mei.
+Nullus sum, totus occidi miser, genua mihi
+Tremore succidunt, vox deficit, lingua haeret faucibus.
+(1195) Vah, ne salus nobis saluti iam esse si capiat potest.
+GOS. O Iuppiter, hunccine de improviso mihi obijci metum
+Catal.
+Tantum? ut neque quomodo evadam, aut ubi delitescam
+Certum siet. membra timore debilia sunt, mens mihi
+Formidine planè obstupuit misero, pectore
+(1200) Consistere nihil consilij quit. nae nos aedepol
+Huc venimus auspicio malo. Hem Sanaballate, quò
+Fugis? vah, siccine hic me solum deserís? SAN. Ego nescio
+Herculè neque quò fugiam, neque quopacto elabar: ita nunc
+Penitus oblitus sum mei. Sed eccum Tobiam.
+(1205) Eaedem hunc quae nos intemperiae agunt. totus tremit,
+Palletque. TOB. At at, quidnam hoc monstri est? unde hic subitus oboritur
+Mihi timor, nondum conspectis hostibus?
+Cum non alius in bello me solet esse confidentior?
+Hem quid sibi vult hic tremor? quid isthuc est mali?
+(1210) Nequeo satis mirari, neque conijcere, nisi nos
+Suis quis excantarit praestigijs. Ah, nescio unde nunc
+Vel auxilij, vel perfugij mihi parem copiam. Hem,
+Tun hic eras Goseme? Bene habet, salvum te esse gaudeo. GOS. Haud
+Diu erimus per Iovem, nisi nos hinc quàm ocyssimè
+(1215) Subducamus: nam quod sperabamus fore
+[p. 51]
+Clam, resciverunt adversarij. TOB. Fugiamus hinc
+Dum possumus, dumque incolumes sumus Sanaballate: nam
+Nescio quid mihi animus praesagit infortunij.
+Iam iam dolis circumveniemur, & opprimemur inscij.
+SAN. (1220) Recte mones, nam vir qui fugerit, pugnabit denuo. &
+Ob id fugiendo vitae consulere, quàm fortiter
+Pugnando interimi, semper habitum est fortius.
+TOB. Non temere pol est omnes quòd sic obstupuerint copiae.
+GOS. Quid igitur, iamne reduco exercitum. SAN. Tu quod tibi
+(1225) Ex usu esse videtur facito, ego me in pedes quantum queo.
+TOB. Ehem, quid hoc? aufugis homo, nosque hic reliquit: quid stamus?
+Cur non & nobis prospicimus in tempore?
+GOS. Age age, nil moror exercitum, quisque sibi consulat.
+Namque hocce tempus praecavere mihi me, non alijs sinit.
+(1230) Vos omnes obtestor qui haec incolitis loca, hàc si fortè quis
+Nos consectetur, ne commonstretis, qua aufugerimus via.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+          ACTUS V. SCENA IIII.
+
+            Eiusdem generis.
+
+                 SANGA.
+
+PErij quid hoc? siccine nos hic relinqui solos? Hem ducum
+Praeclaram confidentiam? vah, qui caelum minis
+Modò territabant, ante tubam inani formidine
+(1235) Exanimati, clam omnes simul aufugerunt turpiter.
+Eia pugnatum est fortiter. quid restat, nisi ut exercitum
+Dimittam? Egregiam per Iovem laudem, & spolia domuni
+Referemus amplissima. Quid, omnes copias
+Reducimus integras. Eho, nonne hoc magnificum satis
+(1240) Videbitur facinus? agite, hàc vos me consequimini.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 52]
+
+
+            ACTUS V. SCENA V.
+
+                AZARIAS.
+
+    Septenarij & octonarij trochaici.
+
+NUnquis hic est? nunquis hinc me sequitur? nemo homo est.
+Pro Deum immortalem iámne erumpere hoc mihi
+Gaudium, iámne exclamare licet ? Oh, quod novum
+Ego hisce oculis contemplatus sum spectaculum?
+(1245) Quae audivi? papè, ecquis nobis fortunatior?
+In quibus Deus hodie potestatem ostendit suam.
+Ita pol sese res habet, insperata saepius
+Sena.
+Videas accidere, quàm quae speraveris.
+Nam cedo, quis credidisset hoc unquam fore,
+(1250) Quod nunc evenisse gaudeo? Ideoque aliquis me putet
+Sena.
+Forsan non putare hoc verum, sed mihi
+Nunc sic esse isthoc verum lubet. Deo pol gratiam
+Habeo, postquam haec nobis acciderunt ex sententia.
+Verùm quid morae est, quin humerum hunc onerem pallio,
+(1255) Et in urbem hinc quantum queo recurram protinus.
+Bone Deus quantum adventu meo nostratibus
+Gaudij, quantum voluptatis, quantum adferam
+Laetitiae? quot commodas res? quot adimam aegritudines?
+Sed festinato est opus, ut hoc nec opinantibus
+(1260) Primus obijciam, animumque illis exonerem metu.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+           ACTUS V. SCENA VI.
+
+      ELIASIBUS, NEHEMIAS, AZARIAS.
+
+   Partim senarij, partim septenarij,
+      admistis aliquot octonarijs.
+
+DEmiror quid remoretur Azariam, hei mihi,
+Quàm timeo ne in hostium mentis illapsus, perierit
+Miser. Sed Nehemiam video, ex hoc quaeram redierit
+Nec ne. NEH. Pulchrè etiamnum divina beneficentiae
+[p. 53]
+(1265) Coeptum procedit opus. & nisi me fallit animus, omnia
+Succedent bene. ELI. Nehemia. NEH. Quis me? Hem Eliasibe
+Tun hic eras? quémnam praestolare hic ante ostium?
+ELI. Proviso quàm mox noster huc redeat Azarias.
+NEH.* Iam tam hic aderit scio. ELI. Ah, quàm illi timeo miser,
+(1270) Ne occultis alicubi hostium irretitus cassibus,
+Trucidatus sit infelix. NEH. istum tuum metum,
+Qui tibi animum excruciat, omitte Eliasibe.
+ELI. Oh, omittam Nehemia? eius mihi cura est salus.
+NEH. Et mihi quidem. ELI. Si salvus esset iam hic adesset sit scio.
+NEH. (1275) Pergin male ominarier? vide sodes tua
+Ne tibi malum aliquod paria diffidentia.
+Brevi, inquam, illum nobis incolumem restituet Dei
+Benignitas, tu modò fac sis animo bono.
+ELI. Nehemia mi, quis ille est quaaso, quem procul
+(1280) Huc ad nos accurrere conspicio? NEH. Eliasibe,
+Azarias est. ELI. Est is, an non est? certe ipsus est.
+Perij, quid sibi vult hic praeceps hominis cursus? tubam
+Nehemia iube inflari, hostium prope est exercitus.
+NEH. Ah, sanúsne es meticulose? bonum apportat nuntium,
+(1285) Nam laetus est, nisi propicio parum. ELI. Ita faxit Deus.
+NEH. Occurramus. AZA. Deum immortalem, quid porto? sed quem mihi
+Potissimum exoptem nunc, cui haec narrem, dari?
+NEH. Audin tu hic quid dicat. ELI. Isthoc verbo Nehemia
+Animus mihi redijt, & cura ex corde excessit. NEH. Alloquar.
+(1290) Hem Azaria mi. AZA. Nehemiam video, nemo est quem mallem omnium.
+[p. 54]
+Hunc primùm delibutum reddam gaudio.
+ELI. Quid laetus es, aut quid ita gestis frater? AZA. Ehe Eliasibe,
+Quid gestiam rogas? prae gaudio, ita me Deus amet,
+Neque quid ago, neque quid loquor, scio. Cedo manum
+(1295) Nehemia mi. NEH. Manum? AZA. Manum inquam. gaude. NEH. Quid ego gaudeam?
+AZA. Et tu Eliasibe. ELI. Quamobrem, elequere amabo? AZA. Quia ego
+Impero, gaude inquam. ELI. Gaudeo quando iubes,
+Scazon.
+Etsi nihil video cur gaudeam. AZA. In tuto
+Est omnis res: omnem tristitiam, atque metum omittite.
+(1300) Quod nunquam opinati sumus, neque quisquam nostrum unquam sibi
+Quod eventurum credidit, id nunc accidit.
+NEH. Agedum frater, paucis narrato quid siet.
+AZA. Euge, à Deo sine controversia diligimur Nehemia.
+NEH. Utinam. at cedo sodes quid adfers bonae rei?
+AZA. (1305) Imò ut auscultetis obsecro: quandoquidem ego
+Isthaec narrandi, quàm vos audiendi sum cupidus magis.
+ELI. Quid cessas igitur. AZA. Ex me iam faxo pulchrrimum
+Multò omnium audiatis facinus. NEH. Ah, Enecas,
+Quin tu hinc pollicitationes aufer, &
+(1310) Quod fers uno verbo eloquere. AZA. Accipite, hem. Hostes metu
+Repentino perculsi omnes fugere turpiter.
+NEH. Hem Azaria, hem mi frater, quod ego prodigium audio?
+Num tu ludis nunc nos. AZA. Nequaquam Nehemia,
+Verissima sunt quae nuntio. ELI. O factum bene,
+(1315) Beasti. NEH. Istud mihi responde primùm quod te rogo,
+Azaria, vidistin , an audita praedicas?
+[p. 55
+AZA. Hisce oculis Nehemia. NEH. Voluptatem magnam nuntias.
+ELI. Vide sodes ne in falsum nos conijcias gaudium.
+AZA. Ab, stáne mihi apud te deesse fidem? quid consequar
+(1320) Lucri, si mentiar? aut quem aequè ac meipsum fefellero?
+ELI. Da veniam frater, non pol quod verbis tuis
+Diffidam, eò dico: sed quò magis isthoc verum esse cupio,
+Hoc timeo magis. AZA. Absit timor, omnibus modis
+Rem nobis esse salvam promitto. ELI. O lepidum hominem. NEH. Si haec sunt
+Scazon.
+(1325) Azaria vera, ita ut credo, quis nobis fortunatior?
+ELI. Hem, quàm saepe temere accidunt, mi Nehemia.
+Quae nunquam sperare audeas? NEH. Quid ais Eliasibe?
+An hoc tibi videtur evenisse temere? vah,
+Absit ut unquam tibi isthaec posthac in mentem incidat
+(1330) Suspicio. Deo hoc acceptum ferri convenit bonum,
+Quid cessamus reliquis tam insperatum impertiri gaudium?
+Hem Eliasibe, tu rem, utio gesta est, commemorato omnibus,
+Illisque animum exple gaudio. Dein huc deducito
+Hananum, Sadocum, Baruchum, Ananiam, et Melchiam,
+(1335) Ceterosque Israëliticae prosapiae
+Troch.
+2.
+Principes, ut tam raram in nos supremi patris
+Hic laudibus simul omnes evehamus beneficentiam.
+ELI. Nehemia, nihil est quod malim omnium. AZA. Age propera.
+NEH. Vides Azaria quàm non mea me spes fefellerit.
+(1340) Quod saepius, divina fretus misericordia,
+Eventurum praedixi, nunc ecce accidit:
+Ut hostibus fugatis pristinum nobis
+Scazon.
+Recuperemus stratum. AZA. Video mi frater, video neutiquam
+Frustrarier, qui spem, fiduciamque omnem in Deo
+[p. 56]
+(1345) Collocat: & frustra niti adversus hunc qui pugnam suscipit.
+NEH. Istud piè. fac eo semper sis animo, & omnia
+Quaecunque fueris aggressus, tibi cedent ex sententia.
+Sed eccum Eliasibum. AZA. Hui tam citò? NEH. Deus bone,
+Quantam hominum adducit turbam? vah, locus hic vix ceperit.
+AZA. (1350) Vide amabò ut gestiant, ut alacres, ac laeti sient.
+NEH. Ehem mi Hanane, ehem fratres charissimi,
+Audistis quae nobis obtigerint gaudia?
+ELI. Omnem rem illis narravi Nehemia. NEH. bene habet, agedùm cui
+Aequè audistis quicquam evenisse unquam felicius?
+(1355) Quapropter nobis enitendum est sedulò,
+Ne nos divina indignos praebeamus munificentia.
+AZA. Piè, ac sapienter admones Nehemia. NEH. In genua igitur
+Procumbamus, tantique in nos memores beneficij, Deum
+Mecum omnes gratia collaudate cantiuncula.
+(1360) QUo tibi laudes recinemus ore
+Magne convexi moderator axis?
+Quo tuis dignas meritis agemus
+                        Carmine grates?
+Tu sacrae cladem miseratus urbis,
+(1365) Supplices crimen grave dum fatemur,
+Perditam nostris vitijs salutem
+                        Restituisti.
+Tu repentino rabidas pavore
+Copias terrens, procul his ab oris
+(1370) Deditae noxis inimica gentis
+                        Castra fugasti.
+Qui minis caelum modò territabant,
+[p. 57]
+Impijs stultè tumidi trophaeis,
+In fugam versi celerem, paventes
+                        (1375) Terga dedere.
+Nunc metu dempto reliquos licebit
+Aggredi muros, reparare turres:
+Quaque divulsis foribus patebant
+                        Stringere portas.
+(1380) Menstruum donec vaga lunae gressum,
+Solque decursum renovabit orbem,
+Nos tibi grato pater alme laudes
+                        Ore canemus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+               PERORATIO.
+
+ Senarij, admistis aliquot septenarijs.
+
+INgentes vobis spectatores gratias
+(1385) His ludís quotquot adfuistis scenicis
+Noster agit grex, auctorque fabulae: suam
+Quòd per silentium vestrum sibi licuit
+Novam hanc agere actiunculam. in qua si quid fortè nos
+Per negligentiam, aut inscitiam deliquimus,
+(1390) Oro in meliorum partem interpretemini,
+Rudique nostrae ignoscatis pueritiae.
+Cuius cùm ingenium infirmius sit, saepius
+Eam labi, errare, atque hallucinarier
+Necesse est. Nunc vanam ne vobis fabulam
+(1395) Exhibuisse videamur, animum advortite.
+Quaecunque è sacris depromuntur literis,
+Multum (licet id non omnibus aequè appareat)
+Sub involucro continent mysterij.
+Quanquam perpaucos inter vos esse arbitror
+(1400) Naris tam obesae, qui nondum etiam intelligant
+Satis, sibi quid nostra Nehemias velit.
+[p. 58]
+Nam per collapsae restauratorem Hierosolymae,
+Quem nisi Christum caelestis regis filium,
+Generisque humani assertorem nobis sacer
+(1405) Bibliorum depingit codex? qui regiam
+Patris relinquens arcem, mortales tyrannide
+Cacodaemonum oppressos, ex Orci faucibus
+Eripuit infelices: prostigatisque hostibus,
+Octo.
+In pristinam libertatem asseruit. Dumque huc enititur,
+(1410) Nihil sibi extimescendum, nullum periculum
+Subterfugiendum unquam arbitratus est. adeo
+Ut ne immanissimis quidem horrendae necis
+Cruciatibus avocari se hinc sit passus. Caeterùm
+Per Judaeos instauratoris Nehemiae
+(1415) Comites, quis non videt adumbrari Apostolos,
+Reliquosque propagatae religionis principes?
+Qui pro virili Iesum sectantes ducem,
+Dum Christianae dilatant ditionis terminos,
+Quid non sunt perpessi? paupertatem, inediam,
+(1420) Famem, sitim, aestum, frigus, aguntur in crucem,
+Torrentur, saxis obruuntur, ut impij
+Caeduntur passim, ac profligantur undique.
+Horum patienti mentis invictae constantia
+Caelestis illa, ac mystica Hierosolyma Ecclesia
+(1425) In immensum olim crevit felicissimè. At
+O nos infelices, qui hanc quam Christus sua
+Ipsius morte servandam esse censuit,
+Cuius saluti tot viri sanctissimi
+Vitam libenter impenderunt denuo
+Octo.
+(1430) In execrandas errorum tenebras illapsam cernimus.
+Horrescit animus quoties in mentem mihi
+Veniunt, quae non ita pridem ipsi conspeximus.
+Quod facimus posthac non audebit impia
+Insanorum mortalium vesania,
+[p. 59]
+(1435) Postquam ne ea quidem violare, ac polluere turpiter
+Erubuerint, quibus maxima reverentia,
+Summusque debetur honos? ea profanare, à quibus
+Troch.
+Universa populi Christiani dependet salus?
+Quorum effrenatum nisi Deus violentiam
+(1440) Coercuisset, iampridem omnis religio,
+Omnis pietas, omnisque sacrosancti numinis
+Scazon.
+Intercidisset cultus. Quid igitur restat,
+Nisi ut impiae vitae confessi crimina,
+Eundem supplices simul omnes oremus Deum,
+(1445) Ut nos sua dignatus misericordia,
+Scazon.
+Quod coepit exequatur gnaviter. Nunc, si
+Quod egimus non displicuit, applaudite.
+
+                 FINIS.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[p. 60]
+
+                In hac Comoedia sacra, cui Nehemias no-
+                    men est, omnia catholica & orthodoxa,
+                    nec quicquam quod aut fidei, aut morum
+                    integritati adversatur.
+
+                        Hieronymus Vairlenius R. Harlemen, in spi-
+                            ritualibus Vicarius.
+
+            Nihil habet S. Romanae Ecclesiae fidei contra-
+                rium aut Reipublicae offensivum quod at-
+                testor
+                        Sebastianus Baer Delphius insignis Colleg.
+                            Ecclesiae S. Mariae Hantverpien. Ple-
+                            banus & Canonicus.
+
+[p. 61-64: blanco]
+
+                     Continue
+
+       Tekstkritiek:
+
+vs. 1142 si fortè er staat: fi fortè
+vs. 1269 NEH. er staat: NFH.
+
+
+  • Ceneton
+  • Voorkeurenpagina Opleiding Nederlands
+
