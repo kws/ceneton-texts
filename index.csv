@@ -1,8 +1,8 @@
 text_id,url,source_slug,skip,original_slug,last_status,last_checked,comments
-1,https://www.let.leidenuniv.nl/Dutch/Ceneton/../Huygens/HUYG15.html,ceneton:../Huygens/HUYG15.html,,,200,2025-06-01 15:35:23.330869+00:00,
-2,https://www.let.leidenuniv.nl/Dutch/Ceneton/../Latijn/Grotius.html,ceneton:../Latijn/Grotius,,,200,2025-06-01 15:35:23.405303+00:00,
-3,https://www.let.leidenuniv.nl/Dutch/Ceneton/../Renaissance/ALFAPS.html,ceneton:../Renaissance/ALFAPS,,,200,2025-06-01 15:35:23.495965+00:00,
-4,https://www.let.leidenuniv.nl/Dutch/Ceneton/../Renaissance/PluimerGedichten1692.html,ceneton:../Renaissance/PluimerGedichten1692,,,200,2025-06-01 15:35:23.596284+00:00,
+1,https://www.let.leidenuniv.nl/Dutch/Huygens/HUYG15.html,ceneton:../Huygens/HUYG15.html,,,200,2025-06-01 15:35:23.330869+00:00,
+2,https://www.let.leidenuniv.nl/Dutch/Latijn/Grotius.html,ceneton:../Latijn/Grotius,,,200,2025-06-01 15:35:23.405303+00:00,
+3,https://www.let.leidenuniv.nl/Dutch/Renaissance/ALFAPS.html,ceneton:../Renaissance/ALFAPS,,,200,2025-06-01 15:35:23.495965+00:00,
+4,https://www.let.leidenuniv.nl/Dutch/Renaissance/PluimerGedichten1692.html,ceneton:../Renaissance/PluimerGedichten1692,,,200,2025-06-01 15:35:23.596284+00:00,
 5,https://www.let.leidenuniv.nl/Dutch/Ceneton/AMarcaSodoma1615.html,ceneton:AMarcaSodoma1615,,,200,2025-06-01 15:35:23.675293+00:00,
 6,https://www.let.leidenuniv.nl/Dutch/Ceneton/AVHAsotus1650.html,ceneton:AVHAsotus1650,,,200,2025-06-01 15:35:23.805809+00:00,
 7,https://www.let.leidenuniv.nl/Dutch/Ceneton/A_Tr_Welstandt1660.html,ceneton:A_Tr_Welstandt1660,,,200,2025-06-01 15:35:23.882248+00:00,
@@ -926,7 +926,7 @@ text_id,url,source_slug,skip,original_slug,last_status,last_checked,comments
 925,https://www.let.leidenuniv.nl/Dutch/Ceneton/WillemsBakkersknaapje1652.html,corrected:WillemsBakkersknaapje1652,,ceneton:WillemsBakkersKnaapje1652,200,2025-06-01 15:36:48.482079+00:00,Mapped from corrected@cb63aca2
 926,https://www.let.leidenuniv.nl/Dutch/Ceneton/ZoetDroogeGoosen1636.html,corrected:ZoetDroogeGoosen1636,,ceneton:ZoetDroogheGoosen1636,200,2025-06-01 15:36:48.600091+00:00,Mapped from corrected@cb63aca2
 927,https://www.let.leidenuniv.nl/Dutch/Ceneton/ZovitiusOvisPerdita1539.html,corrected:ZovitiusOvisPerdita1539,,ceneton:ZovitiusOvis1539,200,2025-06-01 15:36:48.688717+00:00,Mapped from corrected@cb63aca2
-928,https://www.let.leidenuniv.nl/Dutch/Ceneton/../Latijn/Grotius1670.html,redirects:../Latijn/Grotius1670.html,,ceneton:../Latijn/Grotius,200,2025-06-01 15:36:48.853095+00:00,Mapped from redirects@736736bb
+928,https://www.let.leidenuniv.nl/Dutch/Latijn/Grotius1670.html,redirects:../Latijn/Grotius1670.html,,ceneton:../Latijn/Grotius,200,2025-06-01 15:36:48.853095+00:00,Mapped from redirects@736736bb
 929,https://www.let.leidenuniv.nl/Dutch/Ceneton/CatsAspasia165502.html,redirects:CatsAspasia165502,,ceneton:CatsAspasia1655,200,2025-06-01 15:36:48.958276+00:00,Mapped from redirects@2b12640f
 930,https://www.let.leidenuniv.nl/Dutch/Ceneton/HoogeveenCalas1767a.html,redirects:HoogeveenCalas1767a,,ceneton:HeyligertCalas1767a,200,2025-06-01 15:36:49.051438+00:00,Mapped from redirects@2b12640f
 931,https://www.let.leidenuniv.nl/Dutch/Ceneton/LijnWedergevondeneDochter1761.html,redirects:LijnWedergevondeneDochter1761,,ceneton:LijnWedergevondenDochter1761,200,2025-06-01 15:36:49.156283+00:00,Mapped from redirects@2b12640f
