@@ -926,3 +926,7 @@ text_id,url,source_slug,skip,original_slug,last_status,last_checked,comments
 925,https://www.let.leidenuniv.nl/Dutch/Ceneton/WillemsBakkersknaapje1652.html,corrected:WillemsBakkersknaapje1652,,ceneton:WillemsBakkersKnaapje1652,,,Mapped from corrected@cb63aca2
 926,https://www.let.leidenuniv.nl/Dutch/Ceneton/ZoetDroogeGoosen1636.html,corrected:ZoetDroogeGoosen1636,,ceneton:ZoetDroogheGoosen1636,,,Mapped from corrected@cb63aca2
 927,https://www.let.leidenuniv.nl/Dutch/Ceneton/ZovitiusOvisPerdita1539.html,corrected:ZovitiusOvisPerdita1539,,ceneton:ZovitiusOvis1539,,,Mapped from corrected@cb63aca2
+928,https://www.let.leidenuniv.nl/Dutch/Ceneton/../Latijn/Grotius1670.html,redirects:../Latijn/Grotius1670.html,,ceneton:../Latijn/Grotius,,,Mapped from redirects@736736bb
+929,https://www.let.leidenuniv.nl/Dutch/Ceneton/CatsAspasia165502.html,redirects:CatsAspasia165502,,ceneton:CatsAspasia1655,,,Mapped from redirects@2b12640f
+930,https://www.let.leidenuniv.nl/Dutch/Ceneton/HoogeveenCalas1767a.html,redirects:HoogeveenCalas1767a,,ceneton:HeyligertCalas1767a,,,Mapped from redirects@2b12640f
+931,https://www.let.leidenuniv.nl/Dutch/Ceneton/LijnWedergevondeneDochter1761.html,redirects:LijnWedergevondeneDochter1761,,ceneton:LijnWedergevondenDochter1761,,,Mapped from redirects@2b12640f
